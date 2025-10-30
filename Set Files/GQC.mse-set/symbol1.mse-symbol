@@ -1,0 +1,177 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.2673195349,0.6294378836)
+		lock: free
+		line after: line
+	point:
+		position: (0.7339862015,0.6294378836)
+		lock: free
+		line after: line
+	point:
+		position: (0.7339862015,0.7024070713)
+		lock: free
+		line after: line
+	point:
+		position: (0.2673195349,0.7024070713)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Polygon
+	combine: overlap
+	point:
+		position: (0.4006528682,0.5132834513)
+		lock: free
+		line after: line
+	point:
+		position: (0.5006528682,0.3234154746)
+		lock: free
+		line after: line
+	point:
+		position: (0.6006528682,0.5132834513)
+		lock: free
+		line after: line
+	point:
+		position: (0.7171794788,0.4162125935)
+		lock: free
+		line after: line
+	point:
+		position: (0.6339862015,0.7564686959)
+		lock: free
+		line after: line
+	point:
+		position: (0.3673195349,0.7564686959)
+		lock: free
+		line after: line
+	point:
+		position: (0.2862270979,0.4162125935)
+		lock: free
+		line after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5006528682,0.5150121133)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Triangle
+		combine: subtract
+		point:
+			position: (0.6846794718,0.8671972263)
+			lock: free
+			line after: line
+		point:
+			position: (0.9104694155,0.9186949852)
+			lock: free
+			line after: line
+		point:
+			position: (0.9042046740,0.8015178299)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Triangle
+		combine: subtract
+		point:
+			position: (0.7732095746,0.7516697443)
+			lock: free
+			line after: line
+		point:
+			position: (0.9573265936,0.7978028592)
+			lock: free
+			line after: line
+		point:
+			position: (0.9546840035,0.6811064796)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Triangle
+		combine: subtract
+		point:
+			position: (0.8294980256,0.6118012787)
+			lock: free
+			line after: line
+		point:
+			position: (0.9739609308,0.6539109106)
+			lock: free
+			line after: line
+		point:
+			position: (0.9739948120,0.5375751127)
+			lock: free
+			line after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5006528682,0.5150121133)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Polygon
+		combine: overlap
+		point:
+			position: (0.7602184797,0.9375350140)
+			lock: free
+			line after: curve
+			handle after: (0.0840361567,-0.0901390594)
+		point:
+			position: (0.9123611958,0.7027509980)
+			lock: free
+			line after: curve
+			handle before: (-0.0265953024,0.1078587329)
+			handle after: (0.0332167416,-0.1143018406)
+		point:
+			position: (0.8315518449,0.3239099284)
+			lock: free
+			line after: curve
+			handle before: (0.0883490776,0.1282612725)
+			handle after: (-0.0400402050,-0.0683795920)
+		point:
+			position: (0.7419191371,0.1410029984)
+			lock: free
+			line after: curve
+			handle before: (-0.0304001427,0.0591131038)
+			handle after: (0.0720943074,-0.0392044708)
+		point:
+			position: (0.9119154221,0.2743067107)
+			lock: free
+			line after: curve
+			handle before: (-0.0485691444,-0.0895589652)
+			handle after: (0.0173195878,-0.0600813275)
+		point:
+			position: (0.8716113137,0.0969576450)
+			lock: free
+			line after: curve
+			handle before: (0.0498071353,0.0420155472)
+			handle after: (-0.0499189881,-0.0558941283)
+		point:
+			position: (0.6391315135,0.0889335032)
+			lock: free
+			line after: curve
+			handle before: (0.0450511615,-0.0543801670)
+			handle after: (-0.0566343257,0.0588644947)
+		point:
+			position: (0.7989436473,0.4619340190)
+			lock: free
+			line after: curve
+			handle before: (-0.0425113917,-0.1676365386)
+			handle after: (0.0333783775,0.0911083384)
+		point:
+			position: (0.7581980844,0.7167260579)
+			lock: free
+			line after: curve
+			handle before: (0.0412272099,-0.0833265653)
+			handle after: (-0.0306654347,0.0875353878)
+		point:
+			position: (0.5425458752,0.9014795941)
+			lock: free
+			line after: line
+			handle before: (0.1268710875,-0.0301610205)

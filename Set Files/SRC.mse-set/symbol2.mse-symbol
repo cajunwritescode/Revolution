@@ -1,0 +1,249 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: sssss
+	combine: overlap
+	point:
+		position: (0.2178272065,0.1364253208)
+		lock: free
+		line after: curve
+		handle before: (0.2330220625,0.1360288999)
+		handle after: (0.0028855002,-0.0234962160)
+	point:
+		position: (0.2802581442,0.0556576218)
+		lock: direction
+		line after: curve
+		handle before: (-0.0243384605,0.0063063967)
+		handle after: (0.1106075503,-0.0286597868)
+	point:
+		position: (0.6430552340,0.0796431617)
+		lock: direction
+		line after: curve
+		handle before: (-0.0620121705,-0.0620121705)
+		handle after: (0.0490468636,0.0490468636)
+	point:
+		position: (0.6611220265,0.2699567223)
+		lock: free
+		line after: curve
+		handle before: (0.0002417006,-0.0306959823)
+		handle after: (0.1486716392,0.1726823306)
+part:
+	type: shape
+	name: sssss
+	combine: overlap
+	point:
+		position: (0.2178272065,0.1364253208)
+		lock: free
+		line after: curve
+		handle before: (-0.0635701210,-0.0107493178)
+		handle after: (0.0028855002,-0.0234962160)
+	point:
+		position: (0.2802581442,0.0556576218)
+		lock: direction
+		line after: curve
+		handle before: (-0.0243384605,0.0063063967)
+		handle after: (0.1106075503,-0.0286597868)
+	point:
+		position: (0.6430552340,0.0796431617)
+		lock: direction
+		line after: curve
+		handle before: (-0.0620121705,-0.0620121705)
+		handle after: (0.0490468636,0.0490468636)
+	point:
+		position: (0.6611220265,0.2699567223)
+		lock: free
+		line after: curve
+		handle before: (0.0002417006,-0.0306959823)
+		handle after: (0.0004598570,0.0052187471)
+	point:
+		position: (0.6928062327,0.4496736008)
+		lock: free
+		line after: curve
+		handle before: (0.1855508384,-0.0223845987)
+		handle after: (-0.2231572497,-0.0072561313)
+	point:
+		position: (0.0972550617,0.1702556479)
+		lock: direction
+		line after: curve
+		handle before: (0.0099864899,0.0462150565)
+		handle after: (-0.0095346928,-0.0441242489)
+part:
+	type: shape
+	name: sssss
+	combine: overlap
+	point:
+		position: (0.3611311101,0.7373394271)
+		lock: free
+		line after: curve
+		handle before: (-0.1354808710,-0.0139480705)
+		handle after: (-0.2067334222,0.0826933688)
+	point:
+		position: (0.1079017846,0.4318014366)
+		lock: free
+		line after: curve
+		handle before: (-0.0601943558,0.3119820359)
+		handle after: (0.0662390937,0.1312625789)
+part:
+	type: shape
+	name: sssss
+	combine: overlap
+	point:
+		position: (0.1959714381,0.1379211411)
+		lock: free
+		line after: line
+	point:
+		position: (0.6921912356,0.3190138930)
+		lock: free
+		line after: line
+	point:
+		position: (0.5882425777,0.4313837079)
+		lock: free
+		line after: curve
+		handle after: (0.0000000000,0.0103391254)
+	point:
+		position: (0.6121764417,0.4506378862)
+		lock: free
+		line after: line
+		handle before: (-0.0045345853,-0.0092851032)
+	point:
+		position: (0.5919571608,0.5965380346)
+		lock: free
+		line after: curve
+		handle after: (-0.0130699568,0.0063830021)
+	point:
+		position: (0.5412983028,0.5869027051)
+		lock: free
+		line after: line
+		handle before: (0.0145661778,0.0000000000)
+	point:
+		position: (0.4934670347,0.7049321424)
+		lock: free
+		line after: curve
+		handle after: (-0.0079190943,0.0162152885)
+	point:
+		position: (0.3961556943,0.6722797445)
+		lock: direction
+		line after: curve
+		handle before: (0.0177332214,-0.0034803519)
+		handle after: (-0.0783975941,0.0153864437)
+	point:
+		position: (0.3611311101,0.7373394271)
+		lock: free
+		line after: curve
+		handle before: (0.0169291197,-0.0100819801)
+		handle after: (-0.1448454459,0.0579381783)
+	point:
+		position: (0.1477489937,0.5523560574)
+		lock: direction
+		line after: curve
+		handle before: (0.0101177390,0.2145838479)
+		handle after: (-0.0017875501,-0.0379115698)
+	point:
+		position: (0.1239622351,0.4750491590)
+		lock: direction
+		line after: curve
+		handle before: (-0.0067645697,0.0098031553)
+		handle after: (0.0819085144,-0.1187011034)
+	point:
+		position: (0.1577559119,0.2261397571)
+		lock: free
+		line after: line
+		handle before: (0.0759956964,0.0318548842)
+part:
+	type: shape
+	name: Ellipse
+	combine: border
+	point:
+		position: (0.6979429187,0.5918256870)
+		lock: size
+		line after: curve
+		handle before: (-0.1050802829,0.0791763822)
+		handle after: (0.1050802829,-0.0791763822)
+	point:
+		position: (0.9102252119,0.5230677614)
+		lock: size
+		line after: curve
+		handle before: (-0.0121599961,-0.0412024266)
+		handle after: (0.0121599961,0.0412024266)
+	point:
+		position: (0.7419781579,0.7410328653)
+		lock: size
+		line after: curve
+		handle before: (0.1050802829,-0.0791763822)
+		handle after: (-0.1050802829,0.0791763822)
+	point:
+		position: (0.5296958646,0.8097907908)
+		lock: size
+		line after: curve
+		handle before: (0.0121599961,0.0412024266)
+		handle after: (-0.0121599961,-0.0412024266)
+part:
+	type: shape
+	name: Ellipse
+	combine: subtract
+	point:
+		position: (0.6803217733,0.5742045416)
+		lock: size
+		line after: curve
+		handle before: (-0.1050802829,0.0791763822)
+		handle after: (0.1050802829,-0.0791763822)
+	point:
+		position: (0.8926040665,0.5054466161)
+		lock: size
+		line after: curve
+		handle before: (-0.0121599961,-0.0412024266)
+		handle after: (0.0121599961,0.0412024266)
+	point:
+		position: (0.7243570125,0.7234117199)
+		lock: size
+		line after: curve
+		handle before: (0.1050802829,-0.0791763822)
+		handle after: (-0.1050802829,0.0791763822)
+	point:
+		position: (0.5120747193,0.7921696454)
+		lock: size
+		line after: curve
+		handle before: (0.0121599961,0.0412024266)
+		handle after: (-0.0121599961,-0.0412024266)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.7096903489,0.6065099748)
+		lock: size
+		line after: curve
+		handle before: (-0.1050802829,0.0791763822)
+		handle after: (0.1050802829,-0.0791763822)
+	point:
+		position: (0.9219726422,0.5377520493)
+		lock: direction
+		line after: curve
+		handle before: (-0.0121599961,-0.0412024266)
+		handle after: (0.0339049712,0.1148821982)
+	point:
+		position: (0.5414432949,0.8244750786)
+		lock: direction
+		line after: curve
+		handle before: (0.0339049712,0.1148821982)
+		handle after: (-0.0121599961,-0.0412024266)
+part:
+	type: shape
+	name: Rectangle
+	combine: overlap
+	point:
+		position: (0.7145847113,0.6669094446)
+		lock: free
+		line after: line
+	point:
+		position: (0.7378381989,0.7026819192)
+		lock: free
+		line after: line
+	point:
+		position: (0.4670561341,0.9604803021)
+		lock: free
+		line after: line
+	point:
+		position: (0.4438026465,0.9247078275)
+		lock: free
+		line after: line

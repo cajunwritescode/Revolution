@@ -1,0 +1,113 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Triangle
+	combine: overlap
+	point:
+		position: (0.3964504212,0.0880714024)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6941250410,0.5345958325)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5461541592,0.5358130653)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4185710366,0.3574784557)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3049099907,0.5379605090)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3312292584,0.5394386128)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2440592121,0.6871434135)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0406624373,0.6871434135)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Triangle
+	combine: overlap
+	point:
+		position: (0.5060309389,0.5611302813)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4185159078,0.7313436869)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6377856218,0.7306602082)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6327181388,0.7102542504)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7761419402,0.7101661271)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8609412782,0.8846681288)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1652635513,0.8846681288)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3447632767,0.5569484918)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4177453765,0.4265113828)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Triangle
+	combine: overlap
+	point:
+		position: (0.6204338793,0.0769376488)
+		lock: free
+		line_after: line
+	point:
+		position: (0.9865785809,0.6934481906)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4636066779,0.6959400657)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5300688554,0.5781059127)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7451885530,0.5788219405)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6255785529,0.3794719403)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6066894360,0.3927219691)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5036374381,0.2586470001)
+		lock: free
+		line_after: line
