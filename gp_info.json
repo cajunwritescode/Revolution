@@ -33,16 +33,14 @@
 	  "month": 9,
 	  "name": "Khembul",
 	  "set": "KUT",
-	  "count": 1,
-	  "noimage": true
+	  "count": 1
   },
   "21_10": {
 	  "year": 2021,
 	  "month": 10,
 	  "name": "Greenglade",
 	  "set": "GQC",
-	  "count": 1,
-	  "noimage": true
+	  "count": 1
   },
   "21_11": {
     "year": 2021,
@@ -77,8 +75,7 @@
 	  "month": 4,
 	  "name": "Towashi",
 	  "set": "none",
-	  "count": 3,
-	  "noimage": true
+	  "count": 3
   },
   "22_05": {
     "year": 2022,
@@ -99,8 +96,7 @@
 	  "month": 77,
 	  "name": "Tartok",
 	  "set": "KUT",
-	  "count": 2,
-	  "noimage": true
+	  "count": 2
   },
   "22_08": {
     "year": 2022,
@@ -129,8 +125,7 @@
 	  "month": 11,
 	  "name": "Ghariv",
 	  "set": "GQC",
-	  "count": 2,
-	  "noimage": true
+	  "count": 2
   },
   "22_12": {
     "year": 2022,
@@ -251,10 +246,9 @@
   "24_04": {
 	  "year": 2024,
 	  "month": 4,
-	  "name": "Grand Eternities",
+	  "name": "Blind Eternities",
 	  "set": "none",
-	  "count": 4,
-	  "noimage": true
+	  "count": 4
   },
   "24_05": {
     "year": 2024,
