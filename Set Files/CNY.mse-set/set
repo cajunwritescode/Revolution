@@ -22,6 +22,8 @@ set_info:
 	custom_watermark_4: CNY Watermarks\Penrath-Watermark.png,File found,500x500px
 	custom_watermark_5: CNY Watermarks\Sillaman-Watermark.png,File found,500x500px
 	blend_with_colors: yes
+	custom_symbol_1: PolicyDFCSymbols/FrontFace.png,File found,512,+
+	custom_symbol_2: PolicyDFCSymbols/BackFace.png,File found,512,+
 styling:
 	magic-genevensis-70-token:
 		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
@@ -1331,7 +1333,7 @@ card:
 		!update adjusted: Was 4/3. Now exiles on death and returns cards with higher mv to hand. Approval now counts like party
 		!!exportname Senators' Chauffeur
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2025-10-29 23:46:23
+	time_modified: 2025-10-30 00:54:41
 	card_color: black
 	name: Senators’ Chauffeur
 	casting_cost: 5B
@@ -1355,7 +1357,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 4
-	toughness: 4
+	toughness: 3
 	illustrator: M Wayne Miller
 	card_code_text: 
 	card_code_text_2: 
@@ -6728,8 +6730,8 @@ card:
 		stripe_coordinate: 335,
 		snap_chapter_to_box: 2,2,,
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -6737,13 +6739,16 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
-	time_modified: 2024-10-24 14:04:26
+	time_modified: 2025-10-30 00:53:14
 	card_color_2: white, blue, multicolor, horizontal
 	name: Security Initiative
 	name_2: Surveillance State
 	casting_cost: WU
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image1307
 	image_2: image1308
 	mainframe_image: 
@@ -6781,7 +6786,7 @@ card:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Security Initiative</nospellcheck></atom-cardname> enters, you may tap or untap target nonland permanent. Then draw a card.
-		An opponent controls three or more tapped nonland permanents.
+		{ql}, {ql} — An opponent controls three or more tapped nonland permanents.
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6795,8 +6800,8 @@ card:
 		move_loyalty_costs: 
 		snap_chapter_to_box: 2,2,2,
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -6804,13 +6809,16 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
-	time_modified: 2024-02-28 23:06:44
+	time_modified: 2025-10-30 00:53:20
 	card_color_2: blue, black, multicolor, horizontal
 	name: Silence the Opposition
 	name_2: Authoritarianism
 	casting_cost: 1UB
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image1309
 	image_2: image_29
 	mainframe_image: 
@@ -6845,7 +6853,7 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Silence the Opposition</nospellcheck></atom-cardname> enters, draw two cards, then discard a card.
-		A creature card or creature token was put into your graveyard from anywhere this turn. 
+		{ql}, {ql}, {ql} — A creature card or creature token was put into your graveyard from anywhere this turn. 
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6857,10 +6865,10 @@ card:
 		defaults: saga chapters use the "move loyalty costs" options
 		stripe_coordinate: 350,
 		move_loyalty_costs: 
-		snap_chapter_to_box: 2,2,3,
+		snap_chapter_to_box: 2,2,0,
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		level_1_chop: 
@@ -6870,13 +6878,16 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
-	time_modified: 2024-02-28 21:53:35
+	time_modified: 2025-10-30 00:51:57
 	card_color_2: black, red, multicolor, horizontal
 	name: Meeting of the Elites
 	name_2: Aristocracy
 	casting_cost: BR
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image57
 	image_2: image_22
 	mainframe_image: 
@@ -6909,7 +6920,7 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		When <atom-cardname><nospellcheck>Meeting of the Elites</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		{ql}, {ql} — When <atom-cardname><nospellcheck>Meeting of the Elites</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 		You’ve sacrificed a nonland permanent this turn.
 
 card:
@@ -6923,8 +6934,8 @@ card:
 		stripe_coordinate: 260,345,
 		snap_chapter_to_box: 2,3,4,
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -6932,13 +6943,16 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
-	time_modified: 2024-02-28 23:04:32
+	time_modified: 2025-10-30 00:51:43
 	card_color_2: red, green, multicolor, horizontal
 	name: Free Market
 	name_2: Industrialism
 	casting_cost: 1RG
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image58
 	image_2: image_28
 	mainframe_image: 
@@ -6971,8 +6985,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Free Market</nospellcheck></atom-cardname> enters, target creature gets +2/+2 until end of turn.
-		You control a creature with power 4 or greater.
-		You control a creature with toughness 4 or greater.
+		{ql} — You control a creature with power 4 or greater.
+		{ql}, {ql} — You control a creature with toughness 4 or greater.
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6986,8 +7000,8 @@ card:
 		snap_chapter_to_box: 2,3,4,
 		front_font_cap: 12
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		level_5_chop: 
@@ -6996,13 +7010,16 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
-	time_modified: 2024-08-23 03:29:20
+	time_modified: 2025-10-30 00:53:39
 	card_color_2: white, green, multicolor, horizontal
 	name: Together in Arms
 	name_2: Communitarianism
 	casting_cost: 1GW
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image29
 	image_2: image1316
 	mainframe_image: 
@@ -7035,8 +7052,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Together in Arms</nospellcheck></atom-cardname> enters, create two 1/1 colorless Soldier creature tokens.
-		You controlled a spell that targeted a creature you controlled this turn.
-		You controlled an ability that targeted a creature you controlled this turn.
+		{ql} — You controlled a spell that targeted a creature you controlled this turn.
+		{ql} — You controlled an ability that targeted a creature you controlled this turn.
 
 card:
 	stylesheet: m15-altered
@@ -7913,8 +7930,8 @@ card:
 		stripe_coordinate: 295,365,
 		snap_chapter_to_box: 2,3,4,
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -7925,12 +7942,14 @@ card:
 		!update adjusted: Was {2}{W}. Policy effects changed from three creatures. Equality changed from "At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control."
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-30 00:32:49
+	time_modified: 2025-10-30 00:51:37
 	card_color: white
 	card_color_2: white
 	name: Distributive Justice
 	name_2: Equality
 	casting_cost: 1W
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image72
 	image_2: image_23
 	mainframe_image: 
@@ -7963,8 +7982,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute two +1/+1 counters among one or two target creatures you control.
-		You control two or more creatures with the same power.
-		You control two or more creatures with the same toughness.
+		{ql} — You control two or more creatures with the same power.
+		{ql} — You control two or more creatures with the same toughness.
 
 card:
 	stylesheet: m15-altered
@@ -8206,8 +8225,8 @@ card:
 		snap_chapter_to_box: 2,3,4,
 		front_font_cap: 12
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -8215,14 +8234,17 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-03-01 14:53:41
+	time_modified: 2025-10-30 00:53:05
 	card_color: blue
 	card_color_2: blue
 	name: Research Grant
 	name_2: Progress
 	casting_cost: 1U
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image4
 	image_2: image14
 	mainframe_image: 
@@ -8255,8 +8277,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-		You’ve cast two or more spells this turn.
-		You’ve drawn two or more cards this turn.
+		{ql} — You’ve cast two or more spells this turn.
+		{ql} — You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-altered
@@ -8489,8 +8511,8 @@ card:
 		move_loyalty_costs: 
 		snap_chapter_to_box: 2,3,4,
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -8499,14 +8521,17 @@ card:
 	notes:
 		Flag: High LeQ
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-05-05 15:59:18
+	time_modified: 2025-10-30 00:47:25
 	card_color: black
 	card_color_2: black
 	name: Ascend to Power
 	name_2: Omnipotence
 	casting_cost: 2B
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image214
 	image_2: image215
 	mainframe_image: 
@@ -8542,9 +8567,9 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Ascend to Power</nospellcheck></atom-cardname> enters, you may sacrifice a creature, discard a card, or pay 3 life. If you do, draw two cards.
-		You’ve sacrificed a nonland permanent this turn.
+		{ql} — You’ve sacrificed a nonland permanent this turn.
 		You’ve discarded a card this turn.
-		You’ve lost life this turn.
+		{ql} — You’ve lost life this turn.
 
 card:
 	stylesheet: m15-altered
@@ -8788,8 +8813,8 @@ card:
 		snap_chapter_to_box: 2,3,4,
 		front_font_cap: 
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		level_1_chop: 
@@ -8798,14 +8823,17 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-06-17 17:21:00
+	time_modified: 2025-10-30 00:53:27
 	card_color: red
 	card_color_2: red
 	name: Sparks of a Revolution
 	name_2: Freedom
 	casting_cost: R
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image302
 	image_2: image_25
 	mainframe_image: 
@@ -8838,8 +8866,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		Three or more sources you controlled dealt damage this turn.
-		A source you controlled dealt 3 or more damage this turn.
+		{ql} — Three or more sources you controlled dealt damage this turn.
+		{ql} — A source you controlled dealt 3 or more damage this turn.
 
 card:
 	stylesheet: m15-altered
@@ -9080,8 +9108,8 @@ card:
 		snap_chapter_to_back_box: 
 		back_font_cap: 
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
 		level_1_chop: 
@@ -9098,12 +9126,14 @@ card:
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 		!update adjusted: Was {1}{G} with etb "you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle."
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-29 23:51:31
+	time_modified: 2025-10-30 00:51:50
 	card_color: green
 	card_color_2: green
 	name: Golden Age
 	name_2: Harmony
 	casting_cost: G
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image49
 	image_2: image_21
 	mainframe_image: 
@@ -9135,7 +9165,7 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-		You’ve cast a multicolored spell this turn.
+		{ql}, {ql}, {ql} — You’ve cast a multicolored spell this turn.
 
 card:
 	stylesheet: m15-altered
@@ -9152,7 +9182,7 @@ card:
 		Art Validated
 		!update adjusted: Was X/X with trample for {1}{G}. Approval now counts like party.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-30 00:31:46
+	time_modified: 2025-10-30 00:42:41
 	card_color: green
 	name: Chromagoyf
 	casting_cost: G
@@ -9174,7 +9204,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: *
-	toughness: *+1
+	toughness: 1+*
 	illustrator: Fan Zhang
 	card_code_text: 
 	card_code_text_2: 
@@ -9863,7 +9893,7 @@ card:
 		Art Validated
 		!update reworked: Was 3/3 for {B}{R}{G} that made a Treasure on attack and has "X, Sacrifice an artifact: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn."
 	time_created: 2023-02-27 20:38:10
-	time_modified: 2025-10-30 00:06:17
+	time_modified: 2025-10-30 01:02:31
 	card_color: black, red, green, multicolor, horizontal
 	name: Freightyard Scrappers
 	casting_cost: 4BRG
@@ -9880,7 +9910,7 @@ card:
 	rarity: rare
 	rule_text:
 		As an additional cost to cast this spell, you may sacrifice a nonland permanent. If you do, it costs <sym-auto>X</sym-auto> less to cast, where X is that permanent’s mana value.
-		Ward–-Sacrifice a nonland permanent.
+		<kw-0><nospellcheck><key>Ward—<param-cost>Sacrifice a nonland permanent</param-cost>.</key></nospellcheck></kw-0>
 		Whenever <atom-cardname><nospellcheck>Freightyard Scrappers</nospellcheck></atom-cardname> attacks, each opponent sacrifices a nonland permanent.
 	rule_text_2: 
 	rule_text_3: 
@@ -9911,7 +9941,7 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!reworked: Was a 3/2 for {R}{G}{W} with "Whenever Penrath Dispatcher attacks, you may put a creature card with mana value less than or equal to Penrath Dispatcher’s power from your hand onto the battlefield tapped and attacking.", "{2}: Penrath Dispatcher gets +1/+1 until end of turn."
+		!update reworked: Was a 3/2 for {R}{G}{W} with "Whenever Penrath Dispatcher attacks, you may put a creature card with mana value less than or equal to Penrath Dispatcher’s power from your hand onto the battlefield tapped and attacking.", "{2}: Penrath Dispatcher gets +1/+1 until end of turn."
 	time_created: 2023-02-27 20:38:10
 	time_modified: 2025-10-30 00:11:41
 	card_color: white, red, green, multicolor, horizontal
@@ -11263,7 +11293,7 @@ card:
 		Art Validated
 		!update reworked: Was 2/2 for {3} with "Spend only mana of different colors to cast this spell.", "For each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay."
 	time_created: 2023-02-27 20:49:25
-	time_modified: 2025-10-30 00:35:47
+	time_modified: 2025-10-30 00:59:34
 	card_color: multicolor
 	name: Tomer, Figurehead President
 	casting_cost: 4
@@ -11274,9 +11304,11 @@ card:
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
 		<atom-cardname><nospellcheck>Tomer, Figurehead President</nospellcheck></atom-cardname> is all colors and all creature types.
@@ -12110,8 +12142,8 @@ card:
 		snap_chapter_to_box: 2,3,4,
 		front_font_cap: 
 		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
-		custom_symbol_two: PolicyDFCSymbols/BackFace.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		alt_rarity_color: 214,196,94:95,84,40:
 		custom_chapter_location: 
 		replacement_chapter_location: PolicySymbols/
@@ -12121,17 +12153,20 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update
 		!!exportname Sparks of a Revolution Promo
 		
 		!promo!design Stasis
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-09-30 09:06:35
+	time_modified: 2025-10-30 00:53:32
 	card_color: red
 	card_color_2: red
 	name: Sparks of a Revolution
 	name_2: Freedom
 	casting_cost: R
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	image: image120
 	image_2: image122
 	mainframe_image: 
@@ -12164,8 +12199,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		Three or more sources you controlled dealt damage this turn.
-		A source you controlled dealt 3 or more damage this turn.
+		{ql} — Three or more sources you controlled dealt damage this turn.
+		{ql} — A source you controlled dealt 3 or more damage this turn.
 
 card:
 	stylesheet: m15-altered
@@ -13085,8 +13120,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-		You’ve cast two or more spells this turn.
-		You’ve drawn two or more cards this turn.
+		{ql} — You’ve cast two or more spells this turn.
+		{ql} — You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-art-lair
