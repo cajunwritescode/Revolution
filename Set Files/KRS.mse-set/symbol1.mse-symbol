@@ -1,0 +1,219 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.8000000000,0.2666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.8000000000,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.6666666667,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.6666666667,0.2666666667)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.6580078393,0.7860331211)
+		lock: free
+		line after: curve
+		handle after: (0.0105472442,-0.0125359296)
+	point:
+		position: (0.6975794251,0.7666666667)
+		lock: free
+		line after: line
+		handle before: (-0.0149894598,0.0001402813)
+	point:
+		position: (0.8000000000,0.7666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.7410790726,0.7962350926)
+		lock: free
+		line after: line
+	point:
+		position: (0.6293475363,0.8626343649)
+		lock: free
+		line after: curve
+		handle after: (-0.0197532709,0.0118769819)
+	point:
+		position: (0.5672259661,0.8883986658)
+		lock: free
+		line after: line
+		handle before: (0.0221989561,-0.0020075220)
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.7292468439,0.2109677372)
+		lock: free
+		line after: line
+	point:
+		position: (0.7795610891,0.2333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.6921012654,0.2333333333)
+		lock: free
+		line after: curve
+		handle after: (-0.0127999233,-0.0001061089)
+	point:
+		position: (0.6583099699,0.2186845218)
+		lock: free
+		line after: line
+		handle before: (0.0090065898,0.0094821936)
+	point:
+		position: (0.5569360833,0.1161428409)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.6504616132,0.7697497019)
+		lock: free
+		line after: line
+	point:
+		position: (0.5260201387,0.8865360363)
+		lock: free
+		line after: line
+	point:
+		position: (0.5076599211,0.9083097595)
+		lock: free
+		line after: line
+	point:
+		position: (0.4892997035,0.8865360363)
+		lock: free
+		line after: line
+	point:
+		position: (0.3648582290,0.7697497019)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.4875865346,0.1163780512)
+		lock: free
+		line after: line
+	point:
+		position: (0.5054271709,0.0945728291)
+		lock: free
+		line after: line
+	point:
+		position: (0.5232678071,0.1163780512)
+		lock: free
+		line after: line
+	point:
+		position: (0.6441876751,0.2333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.3666666667,0.2333333333)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.6333333333,0.2666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.6333333333,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.3666666667,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.3666666667,0.2666666667)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.2967947179,0.7666666667)
+		lock: free
+		line after: curve
+		handle after: (0.0141661041,0.0001115441)
+	point:
+		position: (0.3341926771,0.7820658263)
+		lock: free
+		line after: line
+		handle before: (-0.0099678949,-0.0099678949)
+	point:
+		position: (0.4463865546,0.8898599440)
+		lock: free
+		line after: line
+	point:
+		position: (0.2556844613,0.7901778837)
+		lock: free
+		line after: line
+	point:
+		position: (0.2000000000,0.7666666667)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.3754720951,0.1582492060)
+		lock: free
+		line after: line
+	point:
+		position: (0.4425070028,0.1206442577)
+		lock: free
+		line after: line
+	point:
+		position: (0.3398794518,0.2192471989)
+		lock: free
+		line after: curve
+		handle after: (-0.0091179720,0.0091179720)
+	point:
+		position: (0.3056702682,0.2333333333)
+		lock: free
+		line after: line
+		handle before: (0.0129582166,-0.0001020332)
+	point:
+		position: (0.2171288516,0.2333333333)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.3333333333,0.2666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.3333333333,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.2000000000,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.2000000000,0.2666666667)
+		lock: free
+		line after: line
