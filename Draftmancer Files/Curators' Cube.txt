@@ -1,0 +1,3794 @@
+[CustomCards]
+[
+	{
+		"name": "Jack, Monster Mentor",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}{G}",
+		"type": "Legendary Planeswalker — Jack",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/212.jpg"
+	},
+	{
+		"name": "Evelyn Snakewood, Dark Druid_VRD",
+		"rarity": "rare",
+		"mana_cost": "{B}{G}",
+		"type": "Legendary Creature — Elf Druid ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/203.jpg"
+	},
+	{
+		"name": "Gift of Deadwoods_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{B}{G}",
+		"type": "Enchantment — Aura ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/223.jpg"
+	},
+	{
+		"name": "Tenacious Snapvines_DOV",
+		"rarity": "rare",
+		"mana_cost": "{X}{B}{G}",
+		"type": "Creature — Plant Hydra ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/253.jpg"
+	},
+	{
+		"name": "Vibrant Vengeance_BLR",
+		"rarity": "rare",
+		"mana_cost": "{3}{B}{G}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/242.jpg"
+	},
+	{
+		"name": "Garren, Returned Prophet",
+		"rarity": "mythic",
+		"mana_cost": "{1}{B}{R}",
+		"type": "Legendary Planeswalker — Garren ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/185.jpg"
+	},
+	{
+		"name": "Lucille, Ruthless Warlord_BLR",
+		"rarity": "mythic",
+		"mana_cost": "{3}{B}{R}",
+		"type": "Legendary Creature — Zombie Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/231.jpg"
+	},
+	{
+		"name": "Speaker of Ash_DOV",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}{R}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/251.jpg"
+	},
+	{
+		"name": "Alehana the Persuader_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{B}{R}",
+		"type": "Legendary Creature — Human Inquisitor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/226.jpg"
+	},
+	{
+		"name": "Raise_KSV",
+		"rarity": "rare",
+		"mana_cost": "{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/238.jpg"
+	},
+	{
+		"name": "Chief Executive Dhante",
+		"rarity": "mythic",
+		"mana_cost": "{2}{B}{R}{G}",
+		"type": "Legendary Creature — Dragon Noble ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/167.jpg"
+	},
+	{
+		"name": "Whipchain Warlord",
+		"rarity": "rare",
+		"mana_cost": "{R}{W}{B}",
+		"type": "Creature — Human Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/227.jpg"
+	},
+	{
+		"name": "Auroric Span",
+		"rarity": "rare",
+		"mana_cost": "{2}{G}{U}",
+		"type": "Sorcery",
+		"back": {
+			"name": "Worldspan Totem",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/182b.jpg",
+			"type": "Totemic Enchantment — Aura "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/182a.jpg"
+	},
+	{
+		"name": "Safe and Sound_BLR",
+		"rarity": "rare",
+		"mana_cost": "{3}{G}{U}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/237.jpg"
+	},
+	{
+		"name": "Manifest the Lightveins",
+		"rarity": "rare",
+		"mana_cost": "{G}{U}",
+		"type": "Enchantment — Aura ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/220.jpg"
+	},
+	{
+		"name": "Essence Remade_KSV",
+		"rarity": "rare",
+		"mana_cost": "{G}{U}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/219.jpg"
+	},
+	{
+		"name": "Lhosei the Determined",
+		"rarity": "mythic",
+		"mana_cost": "{3}{G}{U}",
+		"type": "Legendary Planeswalker — Lhosei ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/207.jpg"
+	},
+	{
+		"name": "Henry, River Cities Mayor_SRC",
+		"rarity": "mythic",
+		"mana_cost": "{1}{G}{W}",
+		"type": "Legendary Creature — Human Advisor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/212.jpg"
+	},
+	{
+		"name": "Crystal Lion_KRS",
+		"rarity": "rare",
+		"mana_cost": "{G}{W}",
+		"type": "Creature — Cat ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/211.jpg"
+	},
+	{
+		"name": "Kynaios, Blade-Bound",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}{W}",
+		"type": "Legendary Creature — Human Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/224.jpg"
+	},
+	{
+		"name": "Survivors of the New World",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{W}",
+		"type": "Creature — Mutant Survivor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/220.jpg"
+	},
+	{
+		"name": "Michal, the Anointed_GQC",
+		"rarity": "mythic",
+		"mana_cost": "{3}{G}{W}",
+		"type": "Legendary Creature — Centaur Angel ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/229.jpg"
+	},
+	{
+		"name": "Heartbreak",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}{B}{G}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/205.jpg"
+	},
+	{
+		"name": "As'Ahai, the Warsong_KSV",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{W}{U}",
+		"type": "Legendary Planeswalker — As'Ahai ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/207.jpg"
+	},
+	{
+		"name": "Abominable Avalanche",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}{G}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/221.jpg"
+	},
+	{
+		"name": "Rogue's Palace Cardshark_VRD",
+		"rarity": "rare",
+		"mana_cost": "{2}{R}{G}",
+		"type": "Creature — Dog Noble ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/216.jpg"
+	},
+	{
+		"name": "Spikemane Lion",
+		"rarity": "rare",
+		"mana_cost": "{R}{G}",
+		"type": "Creature — Cat ",
+		"back": {
+			"name": "Spikemane Cloak",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/221b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/221a.jpg"
+	},
+	{
+		"name": "Ulfarl, Seeking Stenseidr_KSV",
+		"rarity": "mythic",
+		"mana_cost": "{1}{R}{G}",
+		"type": "Legendary Planeswalker — Ulfarl ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/235.jpg"
+	},
+	{
+		"name": "Tyrant of Tributes_MON",
+		"rarity": "rare",
+		"mana_cost": "{6}{R}{G}",
+		"type": "Creature — Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/222.jpg"
+	},
+	{
+		"name": "Totemic Kigatilik",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{U}{R}",
+		"type": "Creature — Elk Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/224.jpg"
+	},
+	{
+		"name": "Wilderkin Behemoth",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}{G}{W}",
+		"type": "Creature — Beast ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/228.jpg"
+	},
+	{
+		"name": "Elektes, First King of Akros",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}{W}",
+		"type": "Legendary Enchantment Creature — Demigod ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/241.jpg"
+	},
+	{
+		"name": "Ameret, Hope of Night_SRC",
+		"rarity": "mythic",
+		"mana_cost": "{2}{R}{W}",
+		"type": "Legendary Planeswalker — Ameret ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/204.jpg"
+	},
+	{
+		"name": "Assemble the Mob_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{R}{W}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/212.jpg"
+	},
+	{
+		"name": "Breakbot",
+		"rarity": "uncommon",
+		"mana_cost": "{R}{W}",
+		"type": "Artifact Creature — Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/206.jpg"
+	},
+	{
+		"name": "Sonam the Hunted",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}{W}",
+		"type": "Legendary Creature — Human Monk ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/222.jpg"
+	},
+	{
+		"name": "Blind Keelah",
+		"rarity": "rare",
+		"mana_cost": "{U}{B}",
+		"type": "Creature — Fish ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/224.jpg"
+	},
+	{
+		"name": "Scrapyard Mecha",
+		"rarity": "mythic",
+		"mana_cost": "{1}{U}{B}",
+		"type": "Artifact — Vehicle ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/209.jpg"
+	},
+	{
+		"name": "Titanic Fossil_MON",
+		"rarity": "rare",
+		"mana_cost": "{2}",
+		"type": "Artifact",
+		"back": {
+			"name": "Arisen Tyrant",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/MON/237b.jpg",
+			"type": "Creature — Nautilus "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/237a.jpg"
+	},
+	{
+		"name": "Glimpse Beyond_KSV",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/237.jpg"
+	},
+	{
+		"name": "Deceiver's Gift_KSV",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{U}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/216.jpg"
+	},
+	{
+		"name": "Ghostwarden's Claim",
+		"rarity": "rare",
+		"mana_cost": "{B}{G}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/194.jpg"
+	},
+	{
+		"name": "Coup D'Etat",
+		"rarity": "rare",
+		"mana_cost": "{X}{U}{B}{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/171.jpg"
+	},
+	{
+		"name": "Get Your Wish",
+		"rarity": "mythic",
+		"mana_cost": "{1}{U}{R}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/297.jpg"
+	},
+	{
+		"name": "Sprite Dragon_KRS",
+		"rarity": "uncommon",
+		"mana_cost": "{U}{R}",
+		"type": "Creature — Faerie Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/237.jpg"
+	},
+	{
+		"name": "Truthcleaver_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{U}{R}",
+		"type": "Creature — Human Inquisitor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/254.jpg"
+	},
+	{
+		"name": "Ella, Rose Court Queen_BLR",
+		"rarity": "mythic",
+		"mana_cost": "{3}{U}{R}",
+		"type": "Legendary Creature — Vampire Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/217.jpg"
+	},
+	{
+		"name": "Lightspeed Launcher",
+		"rarity": "rare",
+		"mana_cost": "{U}{R}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/217.jpg"
+	},
+	{
+		"name": "Archon of Condemnation",
+		"rarity": "rare",
+		"mana_cost": "{3}{W}{B}",
+		"type": "Creature — Archon ",
+		"back": {
+			"name": "Confine to Eternity",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/226b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/226a.jpg"
+	},
+	{
+		"name": "Disciple of Seqineq",
+		"rarity": "rare",
+		"mana_cost": "{W}{B}",
+		"type": "Creature — Human Cleric Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/191.jpg"
+	},
+	{
+		"name": "Half-Heart's Claim_KSV",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}{B}",
+		"type": "Enchantment — Campaign ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/222.jpg"
+	},
+	{
+		"name": "Alcadia, Cardinal Judge",
+		"rarity": "mythic",
+		"mana_cost": "{1}{W}{B}",
+		"type": "Legendary Creature — Human Cleric ",
+		"back": {
+			"name": "The Omnithority",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/211b.jpg",
+			"type": "Legendary Artifact"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/211a.jpg"
+	},
+	{
+		"name": "Wayward Drek",
+		"rarity": "uncommon",
+		"mana_cost": "{W}{B}",
+		"type": "Creature — Human Rogue ",
+		"back": {
+			"name": "Reborn Herald",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/226b.jpg",
+			"type": "Artifact Creature — Cyborg Rogue "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/226a.jpg"
+	},
+	{
+		"name": "Dreamfall_KRS",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}{W}{U}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/214.jpg"
+	},
+	{
+		"name": "Ephara's Judgment",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/209.jpg"
+	},
+	{
+		"name": "In Search of Peace_BLR",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}{U}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/228.jpg"
+	},
+	{
+		"name": "Serene Mediator",
+		"rarity": "rare",
+		"mana_cost": "{W}{U}",
+		"type": "Creature — Human Monk ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/221.jpg"
+	},
+	{
+		"name": "Social Engineering",
+		"rarity": "uncommon",
+		"mana_cost": "{W}{U}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/216.jpg"
+	},
+	{
+		"name": "Whirring Inspector",
+		"rarity": "rare",
+		"mana_cost": "{W}{U}{B}",
+		"type": "Artifact Creature — Insect Eye ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/231.jpg"
+	},
+	{
+		"name": "JJ Mack, Trendsetter_POP",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}{R}",
+		"type": "Legendary Creature — Sphinx Bard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/215.jpg"
+	},
+	{
+		"name": "Hundred-Handed Pillars",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/284.jpg"
+	},
+	{
+		"name": "Nimbus of Thought",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/287.jpg"
+	},
+	{
+		"name": "Gates to the Underworld",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/283.jpg"
+	},
+	{
+		"name": "Titan's Stairs",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/300.jpg"
+	},
+	{
+		"name": "Miasmic Cove",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/285.jpg"
+	},
+	{
+		"name": "Ephemeral Mire",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/281.jpg"
+	},
+	{
+		"name": "Shell Cove",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/288.jpg"
+	},
+	{
+		"name": "Buried Colossus",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/280.jpg"
+	},
+	{
+		"name": "Nessian Woods",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/286.jpg"
+	},
+	{
+		"name": "Barren Ashlands",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/279.jpg"
+	},
+	{
+		"name": "The Amethryn Waste_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Swamp Forest ",
+		"back": {
+			"name": "The Amethryn Jungle",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/252b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/252a.jpg"
+	},
+	{
+		"name": "Icepoint Pass_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Plains Island ",
+		"back": {
+			"name": "Icepoint Bridge",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/258b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/258a.jpg"
+	},
+	{
+		"name": "Ukshu, Crossroads of the West_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Mountain Plains ",
+		"back": {
+			"name": "Ukshu, Lawless Outpost",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/268b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/268a.jpg"
+	},
+	{
+		"name": "Emgara, the Brilliant City_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Plains Swamp ",
+		"back": {
+			"name": "Emgara, Caster of Shadows",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/256b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/256a.jpg"
+	},
+	{
+		"name": "Kythar, the Frozen Peak_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Island Mountain ",
+		"back": {
+			"name": "Kythar, the Unending Tumult",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/261b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/261a.jpg"
+	},
+	{
+		"name": "Karsinel, the Crystal Glade_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Forest Plains ",
+		"back": {
+			"name": "Karsinel, Suntouched",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/259b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/259a.jpg"
+	},
+	{
+		"name": "Karsi's Spine, Great Sierra_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Mountain Forest ",
+		"back": {
+			"name": "Karsi's Heights, Floating Wilds",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/260b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/260a.jpg"
+	},
+	{
+		"name": "The Aunglade, Haven of Ages_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Forest Island ",
+		"back": {
+			"name": "The Aunlake, Lost Waters",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/253b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/253a.jpg"
+	},
+	{
+		"name": "Caves of Ignea_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Swamp Mountain ",
+		"back": {
+			"name": "Mines of Ignea",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/255b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/255a.jpg"
+	},
+	{
+		"name": "The Umberdeep, Lost Layer_KRS",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Island Swamp ",
+		"back": {
+			"name": "The Umberdeep, Hidden Lair",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/269b.jpg",
+			"type": "Land"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/269a.jpg"
+	},
+	{
+		"name": "Dormant Crag_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/262.jpg"
+	},
+	{
+		"name": "Dormant Altar_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/257.jpg"
+	},
+	{
+		"name": "Dormant Clearing_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/260.jpg"
+	},
+	{
+		"name": "Dormant Stream_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/265.jpg"
+	},
+	{
+		"name": "Dormant Peak_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/264.jpg"
+	},
+	{
+		"name": "Dormant Cavern_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/259.jpg"
+	},
+	{
+		"name": "Dormant Temple_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/266.jpg"
+	},
+	{
+		"name": "Dormant Moorland_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/263.jpg"
+	},
+	{
+		"name": "Dormant Copse_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/261.jpg"
+	},
+	{
+		"name": "Dormant Bay_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/258.jpg"
+	},
+	{
+		"name": "Fungal Mire_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Swamp Forest ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/280.jpg"
+	},
+	{
+		"name": "Flourishing Crevasse_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Mountain Forest ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/276.jpg"
+	},
+	{
+		"name": "Flooded Morass_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Island Swamp ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/275.jpg"
+	},
+	{
+		"name": "Gloomcover Steppe_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Plains Swamp ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/281.jpg"
+	},
+	{
+		"name": "Lavatorn Fields_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Swamp Mountain ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/285.jpg"
+	},
+	{
+		"name": "Pool of Light_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Plains Island ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/291.jpg"
+	},
+	{
+		"name": "Frostfire Geysers_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Island Mountain ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/279.jpg"
+	},
+	{
+		"name": "Lush Oasis_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Forest Island ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/286.jpg"
+	},
+	{
+		"name": "Heart of the Glade_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Forest Plains ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/282.jpg"
+	},
+	{
+		"name": "Spiraling Canyon_DOV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Mountain Plains ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/293.jpg"
+	},
+	{
+		"name": "Dubious Path_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/246.jpg"
+	},
+	{
+		"name": "Thriving Tower_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/253.jpg"
+	},
+	{
+		"name": "Disturbing Locale_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/244.jpg"
+	},
+	{
+		"name": "Reliable Market_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/249.jpg"
+	},
+	{
+		"name": "Impressive Skyline_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/247.jpg"
+	},
+	{
+		"name": "Riverside View_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/250.jpg"
+	},
+	{
+		"name": "Beloved Chapel_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/242.jpg"
+	},
+	{
+		"name": "Downtown Theater_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/245.jpg"
+	},
+	{
+		"name": "Secluded Farmland_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/252.jpg"
+	},
+	{
+		"name": "Decadent Hall_SRC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/243.jpg"
+	},
+	{
+		"name": "Radaran Remnant_VST",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/245.jpg"
+	},
+	{
+		"name": "Sanctis Remnant_VST",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/247.jpg"
+	},
+	{
+		"name": "Goresand Remnant_VST",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/241.jpg"
+	},
+	{
+		"name": "Tradeway Remnant_VST",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/249.jpg"
+	},
+	{
+		"name": "Ruinstorm Remnant_VST",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/246.jpg"
+	},
+	{
+		"name": "Stark Expanse",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/265.jpg"
+	},
+	{
+		"name": "Clearwater Grotto",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/249.jpg"
+	},
+	{
+		"name": "Windbeaten Stones",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/272.jpg"
+	},
+	{
+		"name": "Profane Grove",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/261.jpg"
+	},
+	{
+		"name": "Misty Peak",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/256.jpg"
+	},
+	{
+		"name": "Contested Passage_KSV",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/252.jpg"
+	},
+	{
+		"name": "Gilded Court_BLR",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/268.jpg"
+	},
+	{
+		"name": "Ice Path_MON",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/244.jpg"
+	},
+	{
+		"name": "Luxurious Estate_VRD",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/263.jpg"
+	},
+	{
+		"name": "Nascent Lightvein",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/257.jpg"
+	},
+	{
+		"name": "New Divide_BLR",
+		"rarity": "common",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/270.jpg"
+	},
+	{
+		"name": "Primal Fissure",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/274.jpg"
+	},
+	{
+		"name": "Redeveloped Cityscape",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/261.jpg"
+	},
+	{
+		"name": "Shifting Lair_VRD",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/268.jpg"
+	},
+	{
+		"name": "Warpway Rings",
+		"rarity": "common",
+		"mana_cost": "",
+		"type": "Artifact Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/290.jpg"
+	},
+	{
+		"name": "Ascendant Peak_SVG",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/186.jpg"
+	},
+	{
+		"name": "Cobalt Basin_GQC",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land Creature — Eldrazi ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/246.jpg"
+	},
+	{
+		"name": "Extravagant Patisserie_DOV",
+		"rarity": "common",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/274.jpg"
+	},
+	{
+		"name": "Stone Circle_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/190.jpg"
+	},
+	{
+		"name": "Steadfast Gatekeepers",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Ruin ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/272.jpg"
+	},
+	{
+		"name": "Timeworn Crags",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/274.jpg"
+	},
+	{
+		"name": "Quarry Shaft_KRS",
+		"rarity": "uncommon",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/262.jpg"
+	},
+	{
+		"name": "Wasted Watchpost",
+		"rarity": "rare",
+		"mana_cost": "",
+		"type": "Land — Ruin ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/277.jpg"
+	},
+	{
+		"name": "Aethanis Conservator_VST",
+		"rarity": "rare",
+		"mana_cost": "{2}{C}",
+		"type": "Artifact Creature — Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/218.jpg"
+	},
+	{
+		"name": "Aether Conductor_VST",
+		"rarity": "rare",
+		"mana_cost": "{1}{C}",
+		"type": "Artifact Creature — Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/222.jpg"
+	},
+	{
+		"name": "All Is Dust_GQC",
+		"rarity": "rare",
+		"mana_cost": "{7}",
+		"type": "Kindred Sorcery — Eldrazi ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/1.jpg"
+	},
+	{
+		"name": "Archaic Obelisk",
+		"rarity": "uncommon",
+		"mana_cost": "{2}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/252.jpg"
+	},
+	{
+		"name": "Azumoth, the Fated Ruin_GQC",
+		"rarity": "mythic",
+		"mana_cost": "{14}",
+		"type": "Legendary Creature — Eldrazi ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/3.jpg"
+	},
+	{
+		"name": "Chromatic Shard_KRS",
+		"rarity": "common",
+		"mana_cost": "{2}",
+		"type": "Artifact — Treasure ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/241.jpg"
+	},
+	{
+		"name": "Dawnchime, Lhosei's Staff",
+		"rarity": "rare",
+		"mana_cost": "{2}",
+		"type": "Legendary Artifact — Equipment ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/238.jpg"
+	},
+	{
+		"name": "Embrace the Unnatural",
+		"rarity": "rare",
+		"mana_cost": "{2}{C}{C}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/6.jpg"
+	},
+	{
+		"name": "Eradicator Engine_VST",
+		"rarity": "rare",
+		"mana_cost": "{2}{C}{C}",
+		"type": "Artifact Creature — Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/225.jpg"
+	},
+	{
+		"name": "Forgotten Cultivator",
+		"rarity": "rare",
+		"mana_cost": "{3}",
+		"type": "Artifact — Ruin",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/251.jpg"
+	},
+	{
+		"name": "Gate of Realms_SVG",
+		"rarity": "rare",
+		"mana_cost": "{3}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/179.jpg"
+	},
+	{
+		"name": "Ghariv, the Quaking City_GQC",
+		"rarity": "mythic",
+		"mana_cost": "{6}",
+		"type": "Legendary Artifact Planeswalker — Ghariv ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/244.jpg"
+	},
+	{
+		"name": "Imposing Oddity",
+		"rarity": "rare",
+		"mana_cost": "{X}",
+		"type": "Artifact — Ruin ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/253.jpg"
+	},
+	{
+		"name": "Keening Belltower_BLR",
+		"rarity": "rare",
+		"mana_cost": "{4}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/252.jpg"
+	},
+	{
+		"name": "Leyshard",
+		"rarity": "uncommon",
+		"mana_cost": "{2}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/258.jpg"
+	},
+	{
+		"name": "Liminal Observer_VST",
+		"rarity": "rare",
+		"mana_cost": "{2}{C}{C}",
+		"type": "Artifact Creature — Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/227.jpg"
+	},
+	{
+		"name": "Matter Harvester",
+		"rarity": "rare",
+		"mana_cost": "{2}{C}{C}",
+		"type": "Artifact Creature — Wurm Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/260.jpg"
+	},
+	{
+		"name": "Mistwreath Stones_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{1}",
+		"type": "Artifact — Glyph ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/182.jpg"
+	},
+	{
+		"name": "Plasma Armory",
+		"rarity": "common",
+		"mana_cost": "{1}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/263.jpg"
+	},
+	{
+		"name": "Protoplasmera_GQC",
+		"rarity": "rare",
+		"mana_cost": "{X}{X}",
+		"type": "Creature — Eldrazi Drone ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/7.jpg"
+	},
+	{
+		"name": "Soul-Guide Lantern",
+		"rarity": "common",
+		"mana_cost": "{1}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/276.jpg"
+	},
+	{
+		"name": "Spatial Rift",
+		"rarity": "uncommon",
+		"mana_cost": "{C}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/18.jpg"
+	},
+	{
+		"name": "Stella's Journal",
+		"rarity": "mythic",
+		"mana_cost": "{X}{X}{X}",
+		"type": "Legendary Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/269.jpg"
+	},
+	{
+		"name": "Tactical Skis_VRD",
+		"rarity": "uncommon",
+		"mana_cost": "{2}",
+		"type": "Artifact — Equipment ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/249.jpg"
+	},
+	{
+		"name": "Sword of Rage and Tranquility_BLR",
+		"rarity": "mythic",
+		"mana_cost": "{3}",
+		"type": "Artifact — Equipment ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/256.jpg"
+	},
+	{
+		"name": "Taste for Malice",
+		"rarity": "rare",
+		"mana_cost": "{C}{C}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/20.jpg"
+	},
+	{
+		"name": "The Chasmal Rift_GQC",
+		"rarity": "rare",
+		"mana_cost": "{5}",
+		"type": "Legendary Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/242.jpg"
+	},
+	{
+		"name": "The Smoking Strand",
+		"rarity": "mythic",
+		"mana_cost": "{3}",
+		"type": "Legendary Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/275.jpg"
+	},
+	{
+		"name": "Unlicensed Pistol_SRC",
+		"rarity": "uncommon",
+		"mana_cost": "{1}",
+		"type": "Artifact — Equipment ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/241.jpg"
+	},
+	{
+		"name": "Viridian's Trusty Sidearm_VRD",
+		"rarity": "rare",
+		"mana_cost": "{2}",
+		"type": "Legendary Artifact — Equipment ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/253.jpg"
+	},
+	{
+		"name": "Xiv, Replisparked",
+		"rarity": "mythic",
+		"mana_cost": "{3}{C}{C}",
+		"type": "Legendary Planeswalker — Xiv ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/27.jpg"
+	},
+	{
+		"name": "The First Dream_VRD",
+		"rarity": "mythic",
+		"mana_cost": "{3}{W}{U}{B}{R}{G}",
+		"type": "Legendary Creature — Elder Nightmare ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/205.jpg"
+	},
+	{
+		"name": "Coalesced Mesa",
+		"rarity": "special",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/295.jpg"
+	},
+	{
+		"name": "Coalesced Glacier",
+		"rarity": "special",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/294.jpg"
+	},
+	{
+		"name": "Coalesced Core",
+		"rarity": "special",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/293.jpg"
+	},
+	{
+		"name": "Coalesced Peaks",
+		"rarity": "special",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/296.jpg"
+	},
+	{
+		"name": "Coalesced Cliff",
+		"rarity": "special",
+		"mana_cost": "",
+		"type": "Land",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/292.jpg"
+	},
+	{
+		"name": "Bravewing Hero_DOV",
+		"rarity": "common",
+		"mana_cost": "{W}",
+		"type": "Creature — Human Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/5.jpg"
+	},
+	{
+		"name": "Binding Whisper_BLR",
+		"rarity": "common",
+		"mana_cost": "{W}",
+		"type": "Creature — Spirit ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/6.jpg"
+	},
+	{
+		"name": "Claes, Shield of Karda",
+		"rarity": "mythic",
+		"mana_cost": "{W}",
+		"type": "Legendary Creature — Human Soldier ",
+		"back": {
+			"name": "Claes, Melded Spark",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/11b.jpg",
+			"type": "Legendary Planeswalker — Claes Haubay "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/11a.jpg"
+	},
+	{
+		"name": "Crafty Informant_VRD",
+		"rarity": "rare",
+		"mana_cost": "{W}",
+		"type": "Creature — Cat Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/12.jpg"
+	},
+	{
+		"name": "Dated Mechanoid",
+		"rarity": "common",
+		"mana_cost": "{W}",
+		"type": "Artifact Creature — Construct Knight ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/35.jpg"
+	},
+	{
+		"name": "Sparring Partner_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{W}",
+		"type": "Creature — Human Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/34.jpg"
+	},
+	{
+		"name": "Symbol of the Revolution_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{W}",
+		"type": "Creature — Angel Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/39.jpg"
+	},
+	{
+		"name": "Spinmaster",
+		"rarity": "rare",
+		"mana_cost": "{W}",
+		"type": "Creature — Human Knight ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/42.jpg"
+	},
+	{
+		"name": "Veiltouched Soulbinder",
+		"rarity": "rare",
+		"mana_cost": "{W}",
+		"type": "Creature — Elf Cleric ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/34.jpg"
+	},
+	{
+		"name": "Prince of the Pride",
+		"rarity": "rare",
+		"mana_cost": "{W}{W}",
+		"type": "Creature — Cat Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/30.jpg"
+	},
+	{
+		"name": "Corgan Bourgeois",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}",
+		"type": "Artifact Creature — Advisor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/18.jpg"
+	},
+	{
+		"name": "Cybres-Clan Arbiter_GQC",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}",
+		"type": "Creature — Centaur Cleric ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/20.jpg"
+	},
+	{
+		"name": "Lost Resistor",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}",
+		"type": "Creature — Elf Soldier ",
+		"back": {
+			"name": "Splintered Soul",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/47b.jpg",
+			"type": "Artifact Creature — Cyborg Soldier "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/47a.jpg"
+	},
+	{
+		"name": "Lichbane Forerunner_BLR",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}",
+		"type": "Creature — Human Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/26.jpg"
+	},
+	{
+		"name": "Overwhelmed Sentry_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}",
+		"type": "Creature — Human Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/18.jpg"
+	},
+	{
+		"name": "Ozzen Enquirer",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}",
+		"type": "Artifact Creature — Advisor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/31.jpg"
+	},
+	{
+		"name": "Queen Andarli, the Fierce_KSV",
+		"rarity": "mythic",
+		"mana_cost": "{1}{W}",
+		"type": "Legendary Creature — Human Noble Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/27.jpg"
+	},
+	{
+		"name": "Sir Hogginsworth, Quartermaster_VRD",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}",
+		"type": "Legendary Creature — Fox Artificer ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/31.jpg"
+	},
+	{
+		"name": "Angelic Aperture_KRS",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}{W}",
+		"type": "Enchantment — Rift ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/3.jpg"
+	},
+	{
+		"name": "Basilo, Lion of Valor",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}{W}",
+		"type": "Legendary Creature — Human Soldier ",
+		"back": {
+			"name": "The Lion's Charisma",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/7b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/7a.jpg"
+	},
+	{
+		"name": "Justiciar Overseer_VRD",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}",
+		"type": "Creature — Angel Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/21.jpg"
+	},
+	{
+		"name": "Renowned Roughrider",
+		"rarity": "mythic",
+		"mana_cost": "{1}{W}{W}",
+		"type": "Creature — Human Knight ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/29.jpg"
+	},
+	{
+		"name": "The Fall of Trax",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}",
+		"type": "Enchantment — Saga ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/19.jpg"
+	},
+	{
+		"name": "Unburnt Maiden_DOV",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}",
+		"type": "Creature — Human Peasant Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/41.jpg"
+	},
+	{
+		"name": "Yaeji, Resplendent Idol",
+		"rarity": "mythic",
+		"mana_cost": "{2}{W}",
+		"type": "Legendary Creature — Human Bard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/48.jpg"
+	},
+	{
+		"name": "Brallatt, Light-Maiden_SVG",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}{W}",
+		"type": "Legendary Creature — God ",
+		"back": {
+			"name": "Legend of Brallatt",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/3b.jpg",
+			"type": "Enchantment — Saga "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/3a.jpg"
+	},
+	{
+		"name": "Bringer of Heliod's Light",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{W}{W}",
+		"type": "Creature — Archon ",
+		"back": {
+			"name": "Blinded by Divinity",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/8b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/8a.jpg"
+	},
+	{
+		"name": "Chosen of Heliod",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}{W}",
+		"type": "Creature — Human Archer ",
+		"back": {
+			"name": "Heliod's Glory",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/10b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/10a.jpg"
+	},
+	{
+		"name": "Florina, Heretical Preacher_DOV",
+		"rarity": "special",
+		"mana_cost": "{2}{W}{W}",
+		"type": "Legendary Creature — Human Cleric ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/296.jpg"
+	},
+	{
+		"name": "Vengeful Icemage_SVG",
+		"rarity": "rare",
+		"mana_cost": "{3}{W}",
+		"type": "Creature — Human Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/27.jpg"
+	},
+	{
+		"name": "Agnomakhos, Justice",
+		"rarity": "rare",
+		"mana_cost": "{3}{W}{W}",
+		"type": "Legendary Creature — Archon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/1.jpg"
+	},
+	{
+		"name": "General Diadem, Usurper",
+		"rarity": "rare",
+		"mana_cost": "{3}{W}{W}",
+		"type": "Legendary Creature — Human Noble",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/39.jpg"
+	},
+	{
+		"name": "March on Atterdal_KSV",
+		"rarity": "rare",
+		"mana_cost": "{3}{W}{W}",
+		"type": "Enchantment — Campaign ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/18.jpg"
+	},
+	{
+		"name": "Banish to the Ice_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/1.jpg"
+	},
+	{
+		"name": "Drift Off_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}{W}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/11.jpg"
+	},
+	{
+		"name": "Event Horizon_MON",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/11.jpg"
+	},
+	{
+		"name": "Gentle Grasp",
+		"rarity": "rare",
+		"mana_cost": "{C/W}{C/W}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/40.jpg"
+	},
+	{
+		"name": "Let Them Eat Cake_DOV",
+		"rarity": "uncommon",
+		"mana_cost": "{W}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/25.jpg"
+	},
+	{
+		"name": "Planned Obsolescence",
+		"rarity": "uncommon",
+		"mana_cost": "{W}",
+		"type": "Enchantment — Aura",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/24.jpg"
+	},
+	{
+		"name": "Revolutionary Class_DOV",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}",
+		"type": "Enchantment — Class ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/36.jpg"
+	},
+	{
+		"name": "Seal Away",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/33.jpg"
+	},
+	{
+		"name": "Chronicle of Bequeathal",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}{W}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/9.jpg"
+	},
+	{
+		"name": "Gone Pickin'",
+		"rarity": "common",
+		"mana_cost": "{2}{W}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/18.jpg"
+	},
+	{
+		"name": "Bring the House Down",
+		"rarity": "rare",
+		"mana_cost": "{3}{W}{W}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/16.jpg"
+	},
+	{
+		"name": "Wipe the World Clean_BLR",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}{W}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/46.jpg"
+	},
+	{
+		"name": "Starlit Exeunt_GQC",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/47.jpg"
+	},
+	{
+		"name": "Redeploy_KSV",
+		"rarity": "common",
+		"mana_cost": "{1}{W}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/30.jpg"
+	},
+	{
+		"name": "Aegis Pocketwatch_VRD",
+		"rarity": "rare",
+		"mana_cost": "{2}{W}",
+		"type": "Artifact",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/1.jpg"
+	},
+	{
+		"name": "Baptize in His Brilliance_GQC",
+		"rarity": "mythic",
+		"mana_cost": "{W}",
+		"type": "Kindred Sorcery — Angel Revelation ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/16.jpg"
+	},
+	{
+		"name": "Glyph of Protection_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{W}",
+		"type": "Artifact — Glyph ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/14.jpg"
+	},
+	{
+		"name": "Heroes Never Die_DOV",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{W}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/19.jpg"
+	},
+	{
+		"name": "Piece Together_VRD",
+		"rarity": "rare",
+		"mana_cost": "{W}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/26.jpg"
+	},
+	{
+		"name": "The Love of a Lifetime_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{1}{W}{W}",
+		"type": "Legendary Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/26.jpg"
+	},
+	{
+		"name": "Unite the Clans_SVG",
+		"rarity": "rare",
+		"mana_cost": "{3}{W}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/25.jpg"
+	},
+	{
+		"name": "Rivha's Blessed Blade_GQC",
+		"rarity": "rare",
+		"mana_cost": "{1}{W}",
+		"type": "Legendary Artifact — Equipment ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/44.jpg"
+	},
+	{
+		"name": "Charming Siren",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Creature — Siren Wizard ",
+		"back": {
+			"name": "Left to the Sea",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/47b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/47a.jpg"
+	},
+	{
+		"name": "Lanternlight Assailant_DOV",
+		"rarity": "rare",
+		"mana_cost": "{U}",
+		"type": "Creature — Human Warrior Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/68.jpg"
+	},
+	{
+		"name": "Tireless Aspirants",
+		"rarity": "uncommon",
+		"mana_cost": "{U}",
+		"type": "Creature — Human Scout ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/83.jpg"
+	},
+	{
+		"name": "Agent of Deception",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{U}",
+		"type": "Creature — Merfolk Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/43.jpg"
+	},
+	{
+		"name": "Wall of Mysteries_VST",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{U}",
+		"type": "Creature — Wall ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/78.jpg"
+	},
+	{
+		"name": "Smuggling Kingpin_VRD",
+		"rarity": "mythic",
+		"mana_cost": "{1}{U}",
+		"type": "Creature — Human Noble ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/71.jpg"
+	},
+	{
+		"name": "Waterglass Duelist_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{1}{U}",
+		"type": "Creature — Human Wizard Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/90.jpg"
+	},
+	{
+		"name": "Skofa Ambusher_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{U}",
+		"type": "Creature — Elf Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/53.jpg"
+	},
+	{
+		"name": "Haubay's Familiar",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{U}",
+		"type": "Creature — Bird",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/54.jpg"
+	},
+	{
+		"name": "Callisto, the Teqiarch",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}",
+		"type": "Legendary Creature — Human Wizard",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/73.jpg"
+	},
+	{
+		"name": "Covetous Frostwyrm",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}",
+		"type": "Creature — Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/76.jpg"
+	},
+	{
+		"name": "Siflir, Elder Pawn",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}{U}",
+		"type": "Legendary Creature — Human Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/75.jpg"
+	},
+	{
+		"name": "Silverarm Spellblade_SVG",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}",
+		"type": "Creature — Human Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/52.jpg"
+	},
+	{
+		"name": "Tobias Maxwell, Justiciar Boss_VRD",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}{U}",
+		"type": "Legendary Creature — Human Advisor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/73.jpg"
+	},
+	{
+		"name": "Laboratory Maniac_VRD",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{U}",
+		"type": "Creature — Human Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/62.jpg"
+	},
+	{
+		"name": "Awoken Thunderer_VRD",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}{U}",
+		"type": "Creature — Nightmare Sphinx ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/43.jpg"
+	},
+	{
+		"name": "Endless Paper Trail_SRC",
+		"rarity": "mythic",
+		"mana_cost": "{2}{U}{U}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/54.jpg"
+	},
+	{
+		"name": "Wildkin Imposter_BLR",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}",
+		"type": "Creature — Elemental Shapeshifter ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/87.jpg"
+	},
+	{
+		"name": "Jetstream Cruiser",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}{U}",
+		"type": "Artifact Creature — Bird Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/84.jpg"
+	},
+	{
+		"name": "Oracle of Zakros",
+		"rarity": "uncommon",
+		"mana_cost": "{4}{U}",
+		"type": "Creature — Cyclops Shaman ",
+		"back": {
+			"name": "Ocular Insight",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/66b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/66a.jpg"
+	},
+	{
+		"name": "End of Monsters_MON",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}{U}{U}",
+		"type": "Legendary Creature — Beast Mutant ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/48.jpg"
+	},
+	{
+		"name": "Hoarding Culebre_DOV",
+		"rarity": "rare",
+		"mana_cost": "{4}{U}{U}",
+		"type": "Creature — Snake Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/65.jpg"
+	},
+	{
+		"name": "Primordial of Emila Glade_BLR",
+		"rarity": "rare",
+		"mana_cost": "{5}{U}{U}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/64.jpg"
+	},
+	{
+		"name": "Raboorah Goliath",
+		"rarity": "uncommon",
+		"mana_cost": "{6}{U}{U}",
+		"type": "Creature — Fish ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/69.jpg"
+	},
+	{
+		"name": "Wrecking Whale",
+		"rarity": "rare",
+		"mana_cost": "{6}{U}{U}",
+		"type": "Creature — Whale",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/76.jpg"
+	},
+	{
+		"name": "Persuasive Orator_GQC",
+		"rarity": "rare",
+		"mana_cost": "{X}{U}{U}",
+		"type": "Creature — Human Advisor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/74.jpg"
+	},
+	{
+		"name": "Eavesdrop_VRD",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/53.jpg"
+	},
+	{
+		"name": "Opt_GQC",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/73.jpg"
+	},
+	{
+		"name": "Industrialize",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/82.jpg"
+	},
+	{
+		"name": "Kaleidoscape_KRS",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Enchantment — Aura ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/68.jpg"
+	},
+	{
+		"name": "Ebb and Flow",
+		"rarity": "common",
+		"mana_cost": "{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/50.jpg"
+	},
+	{
+		"name": "Cursory Glance_GQC",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/59.jpg"
+	},
+	{
+		"name": "Omen of Deception",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/65.jpg"
+	},
+	{
+		"name": "Reconsider_KSV",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/62.jpg"
+	},
+	{
+		"name": "Overrule Orders_KSV",
+		"rarity": "rare",
+		"mana_cost": "{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/57.jpg"
+	},
+	{
+		"name": "Negate_SVG",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/43.jpg"
+	},
+	{
+		"name": "Grasp at Frail Dreams_GQC",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Kindred Sorcery — Eldrazi Revelation ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/66.jpg"
+	},
+	{
+		"name": "Learned Class_DOV",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}",
+		"type": "Enchantment — Class ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/69.jpg"
+	},
+	{
+		"name": "Moonlit Meditation_BLR",
+		"rarity": "common",
+		"mana_cost": "{1}{U}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/62.jpg"
+	},
+	{
+		"name": "Presence of the First Dream_VRD",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/65.jpg"
+	},
+	{
+		"name": "Research Grant",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}",
+		"type": "Enchantment — Policy ",
+		"back": {
+			"name": "Progress",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/55b.jpg",
+			"type": "Legendary Enchantment"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/55a.jpg"
+	},
+	{
+		"name": "Splashback",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}",
+		"type": "Instant",
+		"back": {
+			"name": "Deepdrift Totem",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/63b.jpg",
+			"type": "Totemic Enchantment — Aura "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/63a.jpg"
+	},
+	{
+		"name": "Teqien Pledge",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/100.jpg"
+	},
+	{
+		"name": "Ancestral Secrets_KSV",
+		"rarity": "rare",
+		"mana_cost": "{U}{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/42.jpg"
+	},
+	{
+		"name": "Divine Mishap",
+		"rarity": "common",
+		"mana_cost": "{1}{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/49.jpg"
+	},
+	{
+		"name": "Unshackle the Deceiver_KSV",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}{U}",
+		"type": "Enchantment — Campaign ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/76.jpg"
+	},
+	{
+		"name": "Sabotage_VRD",
+		"rarity": "common",
+		"mana_cost": "{1}{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/66.jpg"
+	},
+	{
+		"name": "Ice Shards_KRS",
+		"rarity": "rare",
+		"mana_cost": "{1}{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/66.jpg"
+	},
+	{
+		"name": "Kywon's Progeny_BLR",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}{U}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/57.jpg"
+	},
+	{
+		"name": "Mathmatimancy_DOV",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/74.jpg"
+	},
+	{
+		"name": "Sandwarp_VST",
+		"rarity": "rare",
+		"mana_cost": "{2}{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/67.jpg"
+	},
+	{
+		"name": "Studies in Cognitive Motion_DOV",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}{U}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/84.jpg"
+	},
+	{
+		"name": "Temporal Tunnel_KRS",
+		"rarity": "mythic",
+		"mana_cost": "{5}{U}{U}",
+		"type": "Enchantment — Rift ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/81.jpg"
+	},
+	{
+		"name": "The Arbiter",
+		"rarity": "mythic",
+		"mana_cost": "{4}{U}{U}{U}",
+		"type": "Legendary Planeswalker — Haubay ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/44.jpg"
+	},
+	{
+		"name": "The Sinking of Olantin",
+		"rarity": "rare",
+		"mana_cost": "{3}{U}{U}",
+		"type": "Enchantment — Saga ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/71.jpg"
+	},
+	{
+		"name": "Dark Rite Cleric_GQC",
+		"rarity": "rare",
+		"mana_cost": "{B}",
+		"type": "Creature — Human Cleric ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/101.jpg"
+	},
+	{
+		"name": "Diabolical Minion_VRD",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Creature — Human Minion ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/90.jpg"
+	},
+	{
+		"name": "Elder of Offerings",
+		"rarity": "uncommon",
+		"mana_cost": "{B}",
+		"type": "Creature — Elf Shaman ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/79.jpg"
+	},
+	{
+		"name": "Extraction Ritual",
+		"rarity": "rare",
+		"mana_cost": "{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/121.jpg"
+	},
+	{
+		"name": "Rooftop Slink",
+		"rarity": "uncommon",
+		"mana_cost": "{B}",
+		"type": "Creature — Human Rogue ",
+		"back": {
+			"name": "Synthetic Specter",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/138b.jpg",
+			"type": "Artifact Creature — Cyborg Specter "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/138a.jpg"
+	},
+	{
+		"name": "Tartok Wanderer",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Creature — Human Scout ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/97.jpg"
+	},
+	{
+		"name": "Undercroft Poisoner_DOV",
+		"rarity": "rare",
+		"mana_cost": "{B}",
+		"type": "Creature — Human Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/127.jpg"
+	},
+	{
+		"name": "Heartless Trainer_MON",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}",
+		"type": "Creature — Human Ranger  ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/88.jpg"
+	},
+	{
+		"name": "Aspect of the End",
+		"rarity": "rare",
+		"mana_cost": "{B}{B}",
+		"type": "Artifact — Ruin ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/96.jpg"
+	},
+	{
+		"name": "Liliana's Goon_SRC",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}",
+		"type": "Creature — Zombie ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/98.jpg"
+	},
+	{
+		"name": "Mob Hangman_DOV",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}",
+		"type": "Creature — Human Peasant Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/115.jpg"
+	},
+	{
+		"name": "Reinstated Reaper_BLR",
+		"rarity": "rare",
+		"mana_cost": "{B}{B}",
+		"type": "Creature — Demon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/118.jpg"
+	},
+	{
+		"name": "Replicrawler",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}",
+		"type": "Artifact Creature — Spider Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/137.jpg"
+	},
+	{
+		"name": "Smiling Sludge",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Creature — Ooze",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/107.jpg"
+	},
+	{
+		"name": "Smirk, Darkhand's Favored_VRD",
+		"rarity": "rare",
+		"mana_cost": "{B}{B}",
+		"type": "Legendary Creature — Cat ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/110.jpg"
+	},
+	{
+		"name": "Reapers Called to Harvest_BLR",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/117.jpg"
+	},
+	{
+		"name": "Voidmist Prodigy_KSV",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Creature — Human Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/120.jpg"
+	},
+	{
+		"name": "Chrolcatos, Pidae's Founder",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}",
+		"type": "Legendary Creature — Gorgon Zombie ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/86.jpg"
+	},
+	{
+		"name": "Half-Heart_KSV",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Legendary Creature — Zombie Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/99.jpg"
+	},
+	{
+		"name": "Umberdeep Shade_KRS",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}",
+		"type": "Creature — Shade ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/118.jpg"
+	},
+	{
+		"name": "Afterlife Augur_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{B}",
+		"type": "Creature — Human Minion ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/88.jpg"
+	},
+	{
+		"name": "Gelthis, Unspeakable Maw",
+		"rarity": "mythic",
+		"mana_cost": "{2}{B}",
+		"type": "Legendary Artifact — Ruin",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/109.jpg"
+	},
+	{
+		"name": "Programmed Pursuer",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{B}",
+		"type": "Artifact Creature — Construct Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/135.jpg"
+	},
+	{
+		"name": "Lumbering Mammoth_SVG",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}",
+		"type": "Creature — Zombie Elephant ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/77.jpg"
+	},
+	{
+		"name": "Data Weaver",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}",
+		"type": "Creature — Azra Warlock ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/114.jpg"
+	},
+	{
+		"name": "Judge, Jury, and Executioner",
+		"rarity": "rare",
+		"mana_cost": "{3}{B}",
+		"type": "Creature — Human Advisor Citizen Assassin ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/79.jpg"
+	},
+	{
+		"name": "Myrkalt, Shade-Bound_SVG",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Legendary Creature — God ",
+		"back": {
+			"name": "Legend of Myrkalt",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/79b.jpg",
+			"type": "Enchantment — Saga "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/79a.jpg"
+	},
+	{
+		"name": "Necrotic Savant_BLR",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Creature — Zombie Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/113.jpg"
+	},
+	{
+		"name": "Wicked Fossil_MON",
+		"rarity": "uncommon",
+		"mana_cost": "{2}",
+		"type": "Artifact",
+		"back": {
+			"name": "Arisen Hunter",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/MON/238b.jpg",
+			"type": "Creature — Trilobite "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/238a.jpg"
+	},
+	{
+		"name": "Threzak, the Heinous_GQC",
+		"rarity": "mythic",
+		"mana_cost": "{1}{B}{B}{B}",
+		"type": "Legendary Creature — Demon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/129.jpg"
+	},
+	{
+		"name": "Hugo Darkhand, the Mastermind_VRD",
+		"rarity": "mythic",
+		"mana_cost": "{4}{B}",
+		"type": "Legendary Planeswalker — Hugo ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/100.jpg"
+	},
+	{
+		"name": "Demon of Darker Paths_KRS",
+		"rarity": "rare",
+		"mana_cost": "{6}{B}{B}",
+		"type": "Creature — Demon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/90.jpg"
+	},
+	{
+		"name": "Malicious Skycleaver",
+		"rarity": "rare",
+		"mana_cost": "{4}{B}{B}",
+		"type": "Creature — Dragon ",
+		"back": {
+			"name": "Silverscale Despot",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/133b.jpg",
+			"type": "Artifact Creature — Cyborg Dragon "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/133a.jpg"
+	},
+	{
+		"name": "Bearer of Last Wishes_GQC",
+		"rarity": "rare",
+		"mana_cost": "{5}{B}{B}",
+		"type": "Creature — Demon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/95.jpg"
+	},
+	{
+		"name": "All That Remains",
+		"rarity": "common",
+		"mana_cost": "{2}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/90.jpg"
+	},
+	{
+		"name": "Crucify_GQC",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/98.jpg"
+	},
+	{
+		"name": "Deadly Dispute",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/74.jpg"
+	},
+	{
+		"name": "Dissect Intel",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/116.jpg"
+	},
+	{
+		"name": "Duress_SRC",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/91.jpg"
+	},
+	{
+		"name": "Fatal Flaw_KRS",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/95.jpg"
+	},
+	{
+		"name": "Feast of Whispered Knives_DOV",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}",
+		"type": "Legendary Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/103.jpg"
+	},
+	{
+		"name": "Field Test_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{X}{X}{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/104.jpg"
+	},
+	{
+		"name": "Glauna, Decadent Demon_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Legendary Planeswalker — Glauna ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/106.jpg"
+	},
+	{
+		"name": "Out with the Old",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/117.jpg"
+	},
+	{
+		"name": "Maim",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/99.jpg"
+	},
+	{
+		"name": "Organized Espionage_VRD",
+		"rarity": "rare",
+		"mana_cost": "{1}{B}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/104.jpg"
+	},
+	{
+		"name": "Shatter Identity_KSV",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/123.jpg"
+	},
+	{
+		"name": "Succumb to History_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/124.jpg"
+	},
+	{
+		"name": "Suffer Vile Retribution_GQC",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{B}",
+		"type": "Kindred Sorcery — Demon Revelation ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/126.jpg"
+	},
+	{
+		"name": "Twilight Ambush_BLR",
+		"rarity": "common",
+		"mana_cost": "{B}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/125.jpg"
+	},
+	{
+		"name": "Chronicle of Extinction",
+		"rarity": "special",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/293.jpg"
+	},
+	{
+		"name": "Coax Soul_SVG",
+		"rarity": "rare",
+		"mana_cost": "{4}{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/65.jpg"
+	},
+	{
+		"name": "Thin the Veil",
+		"rarity": "rare",
+		"mana_cost": "{2}{B}{B}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/98.jpg"
+	},
+	{
+		"name": "Tithe to the Machine",
+		"rarity": "rare",
+		"mana_cost": "{2}{C}{B}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/142.jpg"
+	},
+	{
+		"name": "Omen of Slaughter",
+		"rarity": "common",
+		"mana_cost": "{1}{B}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/103.jpg"
+	},
+	{
+		"name": "Blunt Instrument_VRD",
+		"rarity": "rare",
+		"mana_cost": "{R}",
+		"type": "Creature — Human Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/124.jpg"
+	},
+	{
+		"name": "Ragecloak Shifter",
+		"rarity": "rare",
+		"mana_cost": "{R}",
+		"type": "Creature — Shapeshifter Shaman ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/167.jpg"
+	},
+	{
+		"name": "Disposable Mook_VRD",
+		"rarity": "common",
+		"mana_cost": "{R}",
+		"type": "Creature — Human Minion ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/131.jpg"
+	},
+	{
+		"name": "Emblazoned Hooligan",
+		"rarity": "uncommon",
+		"mana_cost": "{R}",
+		"type": "Creature — Goblin Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/129.jpg"
+	},
+	{
+		"name": "Fencing Master_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{R}",
+		"type": "Creature — Cat Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/152.jpg"
+	},
+	{
+		"name": "Renegade Apprentice_BLR",
+		"rarity": "common",
+		"mana_cost": "{R}",
+		"type": "Creature — Human Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/156.jpg"
+	},
+	{
+		"name": "Sparks of a Revolution",
+		"rarity": "rare",
+		"mana_cost": "{R}",
+		"type": "Enchantment — Policy ",
+		"back": {
+			"name": "Freedom",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/122b.jpg",
+			"type": "Legendary Enchantment"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/122a.jpg"
+	},
+	{
+		"name": "Worried Vulpine_MON",
+		"rarity": "uncommon",
+		"mana_cost": "{R}",
+		"type": "Creature — Fox ",
+		"back": {
+			"name": "Worthy Vulpine",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/MON/159b.jpg",
+			"type": "Creature — Fox "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/159a.jpg"
+	},
+	{
+		"name": "Emgaran Duelist_KRS",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Human Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/136.jpg"
+	},
+	{
+		"name": "Lichbound Arsonist_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Human Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/147.jpg"
+	},
+	{
+		"name": "Nest Parasite_GQC",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Eldrazi Drone ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/160.jpg"
+	},
+	{
+		"name": "Pensive Caldera",
+		"rarity": "common",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/163.jpg"
+	},
+	{
+		"name": "Razelit Meditation_BLR",
+		"rarity": "common",
+		"mana_cost": "{1}{R}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/153.jpg"
+	},
+	{
+		"name": "Savvy Smith",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Goblin Artificer ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/170.jpg"
+	},
+	{
+		"name": "Orcish Bloodhunter_GQC",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Orc Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/162.jpg"
+	},
+	{
+		"name": "Satyr Arsonist",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Satyr Wizard ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/153.jpg"
+	},
+	{
+		"name": "Surge Protector_KRS",
+		"rarity": "common",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/159.jpg"
+	},
+	{
+		"name": "Talented Blacksmith_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}",
+		"type": "Creature — Human Artificer ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/119.jpg"
+	},
+	{
+		"name": "Spirited Protest_DOV",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/172.jpg"
+	},
+	{
+		"name": "Audacious Roughrider",
+		"rarity": "mythic",
+		"mana_cost": "{1}{R}{R}",
+		"type": "Creature — Human Knight ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/136.jpg"
+	},
+	{
+		"name": "Conjoined Irradiant_KRS",
+		"rarity": "rare",
+		"mana_cost": "{2}{R}",
+		"type": "Creature — Mutant ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/128.jpg"
+	},
+	{
+		"name": "Elemental of Surprise_MON",
+		"rarity": "rare",
+		"mana_cost": "{2}{R}",
+		"type": "Creature — Elemental Beast ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/124.jpg"
+	},
+	{
+		"name": "Lightning Warmonger",
+		"rarity": "rare",
+		"mana_cost": "{2}{R}",
+		"type": "Creature — Human Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CNY/111.jpg"
+	},
+	{
+		"name": "Wildfang Cavalier",
+		"rarity": "rare",
+		"mana_cost": "{2}{R}",
+		"type": "Creature — Human Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/176.jpg"
+	},
+	{
+		"name": "Cartel Muscle_SRC",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{R}",
+		"type": "Creature — Azra Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/127.jpg"
+	},
+	{
+		"name": "Strongarm Gambler_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{1}{R}{R}",
+		"type": "Creature — Minotaur Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/173.jpg"
+	},
+	{
+		"name": "Waker of Slumbering Titans_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{R}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/167.jpg"
+	},
+	{
+		"name": "Ardor, Forefront of Freedom",
+		"rarity": "rare",
+		"mana_cost": "{2}{R}{R}",
+		"type": "Legendary Creature — Human Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/145.jpg"
+	},
+	{
+		"name": "Chainbreaker's Familiar",
+		"rarity": "mythic",
+		"mana_cost": "{3}{R}",
+		"type": "Creature — Phoenix ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/140.jpg"
+	},
+	{
+		"name": "Cityscape Dragon_SRC",
+		"rarity": "mythic",
+		"mana_cost": "{2}{R}{R}",
+		"type": "Creature — Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/128.jpg"
+	},
+	{
+		"name": "Merciless Shieldbreaker_GQC",
+		"rarity": "mythic",
+		"mana_cost": "{2}{R}{R}",
+		"type": "Creature — Orc Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/158.jpg"
+	},
+	{
+		"name": "Scourge of the Spine_KRS",
+		"rarity": "mythic",
+		"mana_cost": "{2}{R}{R}",
+		"type": "Creature — Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/153.jpg"
+	},
+	{
+		"name": "Aldur Peak-Terror_SVG",
+		"rarity": "rare",
+		"mana_cost": "{3}{R}{R}",
+		"type": "Creature — Dragon ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/95.jpg"
+	},
+	{
+		"name": "Steam-Powered Steer_VRD",
+		"rarity": "rare",
+		"mana_cost": "{3}{R}{R}",
+		"type": "Artifact Creature — Minotaur Minion ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/156.jpg"
+	},
+	{
+		"name": "Siege at the Bastion d'Orlet_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{3}{R}{R}",
+		"type": "Legendary Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/170.jpg"
+	},
+	{
+		"name": "At the Walls_KSV",
+		"rarity": "rare",
+		"mana_cost": "{X}{R}{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/124.jpg"
+	},
+	{
+		"name": "Braise_DOV",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/142.jpg"
+	},
+	{
+		"name": "Burning Dawn",
+		"rarity": "mythic",
+		"mana_cost": "{2}{R}",
+		"type": "Sorcery",
+		"back": {
+			"name": "Sunscale Totem",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/109b.jpg",
+			"type": "Totemic Enchantment — Aura "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/109a.jpg"
+	},
+	{
+		"name": "Calamity Smith In: The Gilded Heist_VRD",
+		"rarity": "mythic",
+		"mana_cost": "{2}{R}",
+		"type": "Legendary Planeswalker — Calamity ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/127.jpg"
+	},
+	{
+		"name": "Vanguard Assault_KSV",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/161.jpg"
+	},
+	{
+		"name": "Violent Discharge_SRC",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{R}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/159.jpg"
+	},
+	{
+		"name": "Karda's Legacy",
+		"rarity": "rare",
+		"mana_cost": "{2}{R}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/141.jpg"
+	},
+	{
+		"name": "Eltensian Hospitality_BLR",
+		"rarity": "mythic",
+		"mana_cost": "{2}{R}{R}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/133.jpg"
+	},
+	{
+		"name": "Embrace Hopelessness_BLR",
+		"rarity": "common",
+		"mana_cost": "{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/135.jpg"
+	},
+	{
+		"name": "Engines of War_KSV",
+		"rarity": "uncommon",
+		"mana_cost": "{R}{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/136.jpg"
+	},
+	{
+		"name": "Ferocious Flame_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{R}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/103.jpg"
+	},
+	{
+		"name": "Firebolt",
+		"rarity": "uncommon",
+		"mana_cost": "{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/150.jpg"
+	},
+	{
+		"name": "Gleaming Laser",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{R}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/138.jpg"
+	},
+	{
+		"name": "Ignite",
+		"rarity": "uncommon",
+		"mana_cost": "{R}{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/139.jpg"
+	},
+	{
+		"name": "Incendiary Flow_BLR",
+		"rarity": "common",
+		"mana_cost": "{1}{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/142.jpg"
+	},
+	{
+		"name": "Koios, Spear of Karda",
+		"rarity": "mythic",
+		"mana_cost": "{R}{R}{R}{R}",
+		"type": "Legendary Enchantment Planeswalker — Koios ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/142.jpg"
+	},
+	{
+		"name": "Lightvein Arrow",
+		"rarity": "common",
+		"mana_cost": "{R}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/142.jpg"
+	},
+	{
+		"name": "Realize the Delicate Ideal_GQC",
+		"rarity": "uncommon",
+		"mana_cost": "{R}",
+		"type": "Kindred Sorcery — Eldrazi Revelation ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/168.jpg"
+	},
+	{
+		"name": "Rune-Mage's Wrath_SVG",
+		"rarity": "rare",
+		"mana_cost": "{1}{R}{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/115.jpg"
+	},
+	{
+		"name": "Set Ablaze",
+		"rarity": "common",
+		"mana_cost": "{1}{R}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/171.jpg"
+	},
+	{
+		"name": "Boundary Guardian",
+		"rarity": "rare",
+		"mana_cost": "{G}",
+		"type": "Creature — Elf Scout ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/145.jpg"
+	},
+	{
+		"name": "Dawnglade Cultivator_SVG",
+		"rarity": "common",
+		"mana_cost": "{G}",
+		"type": "Creature — Elf ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/130.jpg"
+	},
+	{
+		"name": "Ever-Gnawing Rat_MON",
+		"rarity": "rare",
+		"mana_cost": "{G}",
+		"type": "Creature — Rat ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/173.jpg"
+	},
+	{
+		"name": "Jericho's Assistant_SRC",
+		"rarity": "rare",
+		"mana_cost": "{G}",
+		"type": "Creature — Human Detective ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/175.jpg"
+	},
+	{
+		"name": "Seeker of New Horizons",
+		"rarity": "rare",
+		"mana_cost": "{G}",
+		"type": "Creature — Satyr Scout ",
+		"back": {
+			"name": "Ilysian Guardian",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/194b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/194a.jpg"
+	},
+	{
+		"name": "Putrescent Carrier_GQC",
+		"rarity": "rare",
+		"mana_cost": "{G}",
+		"type": "Creature — Eldrazi Drone ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/202.jpg"
+	},
+	{
+		"name": "Bankbuster Heavy_VRD",
+		"rarity": "rare",
+		"mana_cost": "{G}{G}",
+		"type": "Creature — Human Minion ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/165.jpg"
+	},
+	{
+		"name": "Dawnglade Wildbear_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{G}",
+		"type": "Creature — Bear Beast ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/131.jpg"
+	},
+	{
+		"name": "Elvish Witness_VRD",
+		"rarity": "common",
+		"mana_cost": "{1}{G}",
+		"type": "Creature — Elf Rogue ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/171.jpg"
+	},
+	{
+		"name": "Elvish Visionary_SVG",
+		"rarity": "common",
+		"mana_cost": "{1}{G}",
+		"type": "Creature — Elf Shaman ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/134.jpg"
+	},
+	{
+		"name": "Fogspewer_MON",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/175.jpg"
+	},
+	{
+		"name": "Morbid Bloomer",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}",
+		"type": "Creature — Fungus ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/199.jpg"
+	},
+	{
+		"name": "Primal Genesis",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}",
+		"type": "Sorcery",
+		"back": {
+			"name": "Genesis Totem",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/162b.jpg",
+			"type": "Totemic Enchantment — Aura "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/162a.jpg"
+	},
+	{
+		"name": "Skittertiller",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}",
+		"type": "Artifact Creature — Insect Construct ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/204.jpg"
+	},
+	{
+		"name": "Speaker of Aun_KRS",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}",
+		"type": "Creature — Elf Shaman ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KRS/194.jpg"
+	},
+	{
+		"name": "Star-Studded Sagittaur",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{G}",
+		"type": "Enchantment Creature — Centaur Archer ",
+		"back": {
+			"name": "Equinox Mark",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/200b.jpg",
+			"type": "Enchantment — Aura Blessing "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/200a.jpg"
+	},
+	{
+		"name": "Stoic Sentinel",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{G}",
+		"type": "Creature — Elf Scout ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/167.jpg"
+	},
+	{
+		"name": "Menelaia, Beloved Lyrist",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}",
+		"type": "Legendary Enchantment Creature — Demigod",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/182.jpg"
+	},
+	{
+		"name": "Alrantan Visionary",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{G}",
+		"type": "Creature — Human Shaman ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/177.jpg"
+	},
+	{
+		"name": "Evaldi, Genesis of Hope_VST",
+		"rarity": "rare",
+		"mana_cost": "{2}{G}",
+		"type": "Legendary Creature — Elf Druid ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/162.jpg"
+	},
+	{
+		"name": "Night Drudger_VRD",
+		"rarity": "rare",
+		"mana_cost": "{2}{G}",
+		"type": "Creature — Human Soldier ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/184.jpg"
+	},
+	{
+		"name": "Ozanwood Huntsman",
+		"rarity": "rare",
+		"mana_cost": "{2}{G}",
+		"type": "Creature — Human Ranger ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/195.jpg"
+	},
+	{
+		"name": "Ozan's Blessing",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{G}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/194.jpg"
+	},
+	{
+		"name": "Player Band",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}{G}",
+		"type": "Artifact — Equipment ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/190.jpg"
+	},
+	{
+		"name": "Club Promoter",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{G}",
+		"type": "Creature — Human Advisor ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/173.jpg"
+	},
+	{
+		"name": "Skola Nyxweaver",
+		"rarity": "rare",
+		"mana_cost": "{G}{G}{G}",
+		"type": "Creature — Satyr Soldier Scout ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/TRX/198.jpg"
+	},
+	{
+		"name": "Wildcourt Seeker_BLR",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}{G}",
+		"type": "Creature — Elf Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/209.jpg"
+	},
+	{
+		"name": "Zolo, the Freehorn_DOV",
+		"rarity": "mythic",
+		"mana_cost": "{1}{G}{G}",
+		"type": "Legendary Creature — Minotaur Warrior ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/DOV/225.jpg"
+	},
+	{
+		"name": "Imperfect Fugisaur",
+		"rarity": "rare",
+		"mana_cost": "{2}{G}{G}",
+		"type": "Creature — Dinosaur ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/185.jpg"
+	},
+	{
+		"name": "Jens Slopeskidder",
+		"rarity": "rare",
+		"mana_cost": "{2}{G}{G}",
+		"type": "Legendary Creature — Human Scout ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/194.jpg"
+	},
+	{
+		"name": "Pulse of the Unending Rave",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{G}",
+		"type": "Legendary Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/191.jpg"
+	},
+	{
+		"name": "Ujuraq, Elder Watcher",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{G}",
+		"type": "Legendary Creature — Elephant Monk ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KUT/172.jpg"
+	},
+	{
+		"name": "Rhulha, the Aberrant_SRC",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{G}{G}",
+		"type": "Legendary Creature — Elder Horror ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SRC/187.jpg"
+	},
+	{
+		"name": "Defile the Silver Court_KSV",
+		"rarity": "rare",
+		"mana_cost": "{3}{G}{G}",
+		"type": "Enchantment — Campaign ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/172.jpg"
+	},
+	{
+		"name": "Evaldi's Masterpiece_VST",
+		"rarity": "mythic",
+		"mana_cost": "{3}{G}{G}",
+		"type": "Creature — Mutant ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VST/163.jpg"
+	},
+	{
+		"name": "Jade Champion_GQC",
+		"rarity": "rare",
+		"mana_cost": "{3}{G}{G}",
+		"type": "Creature — Centaur Knight ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/194.jpg"
+	},
+	{
+		"name": "Tugae Deathspinner_BLR",
+		"rarity": "rare",
+		"mana_cost": "{3}{G}{G}",
+		"type": "Creature — Spider ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/201.jpg"
+	},
+	{
+		"name": "Vasilisa, Helping Hand",
+		"rarity": "mythic",
+		"mana_cost": "{3}{G}{G}",
+		"type": "Legendary Planeswalker — Vasilisa ",
+		"back": {
+			"name": "Vasilisa, Waging War",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/210b.jpg",
+			"type": "Legendary Creature — Human Wizard "
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CYB/210a.jpg"
+	},
+	{
+		"name": "Iroshi's Devotee_VRD",
+		"rarity": "rare",
+		"mana_cost": "{6}{G}",
+		"type": "Creature — Cat Ninja ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/179.jpg"
+	},
+	{
+		"name": "Orovus, the Worldcarver_GQC",
+		"rarity": "mythic",
+		"mana_cost": "{7}{G}{G}",
+		"type": "Legendary Creature — Eldrazi ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/199.jpg"
+	},
+	{
+		"name": "Overwhelming Grizzly_SVG",
+		"rarity": "rare",
+		"mana_cost": "{3}{G}{G}{G}",
+		"type": "Creature — Bear ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/142.jpg"
+	},
+	{
+		"name": "Silversong Ancient_KSV",
+		"rarity": "rare",
+		"mana_cost": "{4}{G}{G}{G}",
+		"type": "Creature — Elemental ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/194.jpg"
+	},
+	{
+		"name": "Scratch's Horseman_BLR",
+		"rarity": "mythic",
+		"mana_cost": "{4}{G}{G}",
+		"type": "Creature — Elemental Knight ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/195.jpg"
+	},
+	{
+		"name": "Ancient Stirrings_GQC",
+		"rarity": "uncommon",
+		"mana_cost": "{G}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/GQC/176.jpg"
+	},
+	{
+		"name": "Thunderous Avalanche",
+		"rarity": "rare",
+		"mana_cost": "{2}{G}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/OLD/217.jpg"
+	},
+	{
+		"name": "Brutality_MON",
+		"rarity": "rare",
+		"mana_cost": "{G}{G}{G}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/MON/166.jpg"
+	},
+	{
+		"name": "Canopy Culling_KSV",
+		"rarity": "rare",
+		"mana_cost": "{1}{G}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/170.jpg"
+	},
+	{
+		"name": "Explore_SVG",
+		"rarity": "common",
+		"mana_cost": "{1}{G}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/135.jpg"
+	},
+	{
+		"name": "Entangled Fossil",
+		"rarity": "rare",
+		"mana_cost": "{G}",
+		"type": "Artifact",
+		"back": {
+			"name": "Reborn Reef",
+			"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/167b.jpg",
+			"type": "Creature — Plant"
+			},
+		"image": "https://revolution-manifesto.herokuapp.com/cards/CCR/167a.jpg"
+	},
+	{
+		"name": "Harrow_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{G}",
+		"type": "Instant",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/180.jpg"
+	},
+	{
+		"name": "An Unlikely Peace_BLR",
+		"rarity": "uncommon",
+		"mana_cost": "{1}{G}",
+		"type": "Enchantment",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/BLR/204.jpg"
+	},
+	{
+		"name": "Grand Consonance",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{G}{G}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/POP/182.jpg"
+	},
+	{
+		"name": "Iroshi, Blade of the Old Ways_VRD",
+		"rarity": "mythic",
+		"mana_cost": "{2}{G}{G}",
+		"type": "Legendary Planeswalker — Iroshi ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/VRD/178.jpg"
+	},
+	{
+		"name": "Weaving of the World_SVG",
+		"rarity": "uncommon",
+		"mana_cost": "{2}{G}{G}",
+		"type": "Enchantment — Saga ",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/SVG/153.jpg"
+	},
+	{
+		"name": "Scout Ahead_KSV",
+		"rarity": "uncommon",
+		"mana_cost": "{G}",
+		"type": "Sorcery",
+		"image": "https://revolution-manifesto.herokuapp.com/cards/KSV/192.jpg"
+	}
+]
+[MainSheet(15)]
+Jack, Monster Mentor
+Evelyn Snakewood, Dark Druid_VRD
+Gift of Deadwoods_BLR
+Tenacious Snapvines_DOV
+Vibrant Vengeance_BLR
+Garren, Returned Prophet
+Lucille, Ruthless Warlord_BLR
+Speaker of Ash_DOV
+Alehana the Persuader_DOV
+Raise_KSV
+Chief Executive Dhante
+Whipchain Warlord
+Auroric Span
+Safe and Sound_BLR
+Manifest the Lightveins
+Essence Remade_KSV
+Lhosei the Determined
+Henry, River Cities Mayor_SRC
+Crystal Lion_KRS
+Kynaios, Blade-Bound
+Survivors of the New World
+Michal, the Anointed_GQC
+Heartbreak
+As'Ahai, the Warsong_KSV
+Abominable Avalanche
+Rogue's Palace Cardshark_VRD
+Spikemane Lion
+Ulfarl, Seeking Stenseidr_KSV
+Tyrant of Tributes_MON
+Totemic Kigatilik
+Wilderkin Behemoth
+Elektes, First King of Akros
+Ameret, Hope of Night_SRC
+Assemble the Mob_BLR
+Breakbot
+Sonam the Hunted
+Blind Keelah
+Scrapyard Mecha
+Titanic Fossil_MON
+Glimpse Beyond_KSV
+Deceiver's Gift_KSV
+Ghostwarden's Claim
+Coup D'Etat
+Get Your Wish
+Sprite Dragon_KRS
+Truthcleaver_DOV
+Ella, Rose Court Queen_BLR
+Lightspeed Launcher
+Archon of Condemnation
+Disciple of Seqineq
+Half-Heart's Claim_KSV
+Alcadia, Cardinal Judge
+Wayward Drek
+Dreamfall_KRS
+Ephara's Judgment
+In Search of Peace_BLR
+Serene Mediator
+Social Engineering
+Whirring Inspector
+JJ Mack, Trendsetter_POP
+Hundred-Handed Pillars
+Nimbus of Thought
+Gates to the Underworld
+Titan's Stairs
+Miasmic Cove
+Ephemeral Mire
+Shell Cove
+Buried Colossus
+Nessian Woods
+Barren Ashlands
+The Amethryn Waste_KRS
+Icepoint Pass_KRS
+Ukshu, Crossroads of the West_KRS
+Emgara, the Brilliant City_KRS
+Kythar, the Frozen Peak_KRS
+Karsinel, the Crystal Glade_KRS
+Karsi's Spine, Great Sierra_KRS
+The Aunglade, Haven of Ages_KRS
+Caves of Ignea_KRS
+The Umberdeep, Lost Layer_KRS
+Dormant Crag_BLR
+Dormant Altar_BLR
+Dormant Clearing_BLR
+Dormant Stream_BLR
+Dormant Peak_BLR
+Dormant Cavern_BLR
+Dormant Temple_BLR
+Dormant Moorland_BLR
+Dormant Copse_BLR
+Dormant Bay_BLR
+Fungal Mire_DOV
+Flourishing Crevasse_DOV
+Flooded Morass_DOV
+Gloomcover Steppe_DOV
+Lavatorn Fields_DOV
+Pool of Light_DOV
+Frostfire Geysers_DOV
+Lush Oasis_DOV
+Heart of the Glade_DOV
+Spiraling Canyon_DOV
+Dubious Path_SRC
+Thriving Tower_SRC
+Disturbing Locale_SRC
+Reliable Market_SRC
+Impressive Skyline_SRC
+Riverside View_SRC
+Beloved Chapel_SRC
+Downtown Theater_SRC
+Secluded Farmland_SRC
+Decadent Hall_SRC
+Radaran Remnant_VST
+Sanctis Remnant_VST
+Goresand Remnant_VST
+Tradeway Remnant_VST
+Ruinstorm Remnant_VST
+Stark Expanse
+Clearwater Grotto
+Windbeaten Stones
+Profane Grove
+Misty Peak
+Contested Passage_KSV
+Gilded Court_BLR
+Ice Path_MON
+Luxurious Estate_VRD
+Nascent Lightvein
+New Divide_BLR
+Primal Fissure
+Redeveloped Cityscape
+Shifting Lair_VRD
+Warpway Rings
+Ascendant Peak_SVG
+Cobalt Basin_GQC
+Extravagant Patisserie_DOV
+Stone Circle_SVG
+Steadfast Gatekeepers
+Timeworn Crags
+Quarry Shaft_KRS
+Wasted Watchpost
+Aethanis Conservator_VST
+Aether Conductor_VST
+All Is Dust_GQC
+Archaic Obelisk
+Azumoth, the Fated Ruin_GQC
+Chromatic Shard_KRS
+Dawnchime, Lhosei's Staff
+Embrace the Unnatural
+Eradicator Engine_VST
+Forgotten Cultivator
+Gate of Realms_SVG
+Ghariv, the Quaking City_GQC
+Imposing Oddity
+Keening Belltower_BLR
+Leyshard
+Liminal Observer_VST
+Matter Harvester
+Mistwreath Stones_SVG
+Plasma Armory
+Protoplasmera_GQC
+Soul-Guide Lantern
+Spatial Rift
+Stella's Journal
+Tactical Skis_VRD
+Sword of Rage and Tranquility_BLR
+Taste for Malice
+The Chasmal Rift_GQC
+The Smoking Strand
+Unlicensed Pistol_SRC
+Viridian's Trusty Sidearm_VRD
+Xiv, Replisparked
+The First Dream_VRD
+Coalesced Mesa
+Coalesced Glacier
+Coalesced Core
+Coalesced Peaks
+Coalesced Cliff
+Bravewing Hero_DOV
+Binding Whisper_BLR
+Claes, Shield of Karda
+Crafty Informant_VRD
+Dated Mechanoid
+Sparring Partner_BLR
+Symbol of the Revolution_DOV
+Spinmaster
+Veiltouched Soulbinder
+Prince of the Pride
+Corgan Bourgeois
+Cybres-Clan Arbiter_GQC
+Lost Resistor
+Lichbane Forerunner_BLR
+Overwhelmed Sentry_SVG
+Ozzen Enquirer
+Queen Andarli, the Fierce_KSV
+Sir Hogginsworth, Quartermaster_VRD
+Angelic Aperture_KRS
+Basilo, Lion of Valor
+Justiciar Overseer_VRD
+Renowned Roughrider
+The Fall of Trax
+Unburnt Maiden_DOV
+Yaeji, Resplendent Idol
+Brallatt, Light-Maiden_SVG
+Bringer of Heliod's Light
+Chosen of Heliod
+Florina, Heretical Preacher_DOV
+Vengeful Icemage_SVG
+Agnomakhos, Justice
+General Diadem, Usurper
+March on Atterdal_KSV
+Banish to the Ice_SVG
+Drift Off_BLR
+Event Horizon_MON
+Gentle Grasp
+Let Them Eat Cake_DOV
+Planned Obsolescence
+Revolutionary Class_DOV
+Seal Away
+Chronicle of Bequeathal
+Gone Pickin'
+Bring the House Down
+Wipe the World Clean_BLR
+Starlit Exeunt_GQC
+Redeploy_KSV
+Aegis Pocketwatch_VRD
+Baptize in His Brilliance_GQC
+Glyph of Protection_SVG
+Heroes Never Die_DOV
+Piece Together_VRD
+The Love of a Lifetime_DOV
+Unite the Clans_SVG
+Rivha's Blessed Blade_GQC
+Charming Siren
+Lanternlight Assailant_DOV
+Tireless Aspirants
+Agent of Deception
+Wall of Mysteries_VST
+Smuggling Kingpin_VRD
+Waterglass Duelist_DOV
+Skofa Ambusher_SVG
+Haubay's Familiar
+Callisto, the Teqiarch
+Covetous Frostwyrm
+Siflir, Elder Pawn
+Silverarm Spellblade_SVG
+Tobias Maxwell, Justiciar Boss_VRD
+Laboratory Maniac_VRD
+Awoken Thunderer_VRD
+Endless Paper Trail_SRC
+Wildkin Imposter_BLR
+Jetstream Cruiser
+Oracle of Zakros
+End of Monsters_MON
+Hoarding Culebre_DOV
+Primordial of Emila Glade_BLR
+Raboorah Goliath
+Wrecking Whale
+Persuasive Orator_GQC
+Eavesdrop_VRD
+Opt_GQC
+Industrialize
+Kaleidoscape_KRS
+Ebb and Flow
+Cursory Glance_GQC
+Omen of Deception
+Reconsider_KSV
+Overrule Orders_KSV
+Negate_SVG
+Grasp at Frail Dreams_GQC
+Learned Class_DOV
+Moonlit Meditation_BLR
+Presence of the First Dream_VRD
+Research Grant
+Splashback
+Teqien Pledge
+Ancestral Secrets_KSV
+Divine Mishap
+Unshackle the Deceiver_KSV
+Sabotage_VRD
+Ice Shards_KRS
+Kywon's Progeny_BLR
+Mathmatimancy_DOV
+Sandwarp_VST
+Studies in Cognitive Motion_DOV
+Temporal Tunnel_KRS
+The Arbiter
+The Sinking of Olantin
+Dark Rite Cleric_GQC
+Diabolical Minion_VRD
+Elder of Offerings
+Extraction Ritual
+Rooftop Slink
+Tartok Wanderer
+Undercroft Poisoner_DOV
+Heartless Trainer_MON
+Aspect of the End
+Liliana's Goon_SRC
+Mob Hangman_DOV
+Reinstated Reaper_BLR
+Replicrawler
+Smiling Sludge
+Smirk, Darkhand's Favored_VRD
+Reapers Called to Harvest_BLR
+Voidmist Prodigy_KSV
+Chrolcatos, Pidae's Founder
+Half-Heart_KSV
+Umberdeep Shade_KRS
+Afterlife Augur_BLR
+Gelthis, Unspeakable Maw
+Programmed Pursuer
+Lumbering Mammoth_SVG
+Data Weaver
+Judge, Jury, and Executioner
+Myrkalt, Shade-Bound_SVG
+Necrotic Savant_BLR
+Wicked Fossil_MON
+Threzak, the Heinous_GQC
+Hugo Darkhand, the Mastermind_VRD
+Demon of Darker Paths_KRS
+Malicious Skycleaver
+Bearer of Last Wishes_GQC
+All That Remains
+Crucify_GQC
+Deadly Dispute
+Dissect Intel
+Duress_SRC
+Fatal Flaw_KRS
+Feast of Whispered Knives_DOV
+Field Test_DOV
+Glauna, Decadent Demon_DOV
+Out with the Old
+Maim
+Organized Espionage_VRD
+Shatter Identity_KSV
+Succumb to History_BLR
+Suffer Vile Retribution_GQC
+Twilight Ambush_BLR
+Chronicle of Extinction
+Coax Soul_SVG
+Thin the Veil
+Tithe to the Machine
+Omen of Slaughter
+Blunt Instrument_VRD
+Ragecloak Shifter
+Disposable Mook_VRD
+Emblazoned Hooligan
+Fencing Master_DOV
+Renegade Apprentice_BLR
+Sparks of a Revolution
+Worried Vulpine_MON
+Emgaran Duelist_KRS
+Lichbound Arsonist_BLR
+Nest Parasite_GQC
+Pensive Caldera
+Razelit Meditation_BLR
+Savvy Smith
+Orcish Bloodhunter_GQC
+Satyr Arsonist
+Surge Protector_KRS
+Talented Blacksmith_SVG
+Spirited Protest_DOV
+Audacious Roughrider
+Conjoined Irradiant_KRS
+Elemental of Surprise_MON
+Lightning Warmonger
+Wildfang Cavalier
+Cartel Muscle_SRC
+Strongarm Gambler_DOV
+Waker of Slumbering Titans_BLR
+Ardor, Forefront of Freedom
+Chainbreaker's Familiar
+Cityscape Dragon_SRC
+Merciless Shieldbreaker_GQC
+Scourge of the Spine_KRS
+Aldur Peak-Terror_SVG
+Steam-Powered Steer_VRD
+Siege at the Bastion d'Orlet_DOV
+At the Walls_KSV
+Braise_DOV
+Burning Dawn
+Calamity Smith In: The Gilded Heist_VRD
+Vanguard Assault_KSV
+Violent Discharge_SRC
+Karda's Legacy
+Eltensian Hospitality_BLR
+Embrace Hopelessness_BLR
+Engines of War_KSV
+Ferocious Flame_SVG
+Firebolt
+Gleaming Laser
+Ignite
+Incendiary Flow_BLR
+Koios, Spear of Karda
+Lightvein Arrow
+Realize the Delicate Ideal_GQC
+Rune-Mage's Wrath_SVG
+Set Ablaze
+Boundary Guardian
+Dawnglade Cultivator_SVG
+Ever-Gnawing Rat_MON
+Jericho's Assistant_SRC
+Seeker of New Horizons
+Putrescent Carrier_GQC
+Bankbuster Heavy_VRD
+Dawnglade Wildbear_SVG
+Elvish Witness_VRD
+Elvish Visionary_SVG
+Fogspewer_MON
+Morbid Bloomer
+Primal Genesis
+Skittertiller
+Speaker of Aun_KRS
+Star-Studded Sagittaur
+Stoic Sentinel
+Menelaia, Beloved Lyrist
+Alrantan Visionary
+Evaldi, Genesis of Hope_VST
+Night Drudger_VRD
+Ozanwood Huntsman
+Ozan's Blessing
+Player Band
+Club Promoter
+Skola Nyxweaver
+Wildcourt Seeker_BLR
+Zolo, the Freehorn_DOV
+Imperfect Fugisaur
+Jens Slopeskidder
+Pulse of the Unending Rave
+Ujuraq, Elder Watcher
+Rhulha, the Aberrant_SRC
+Defile the Silver Court_KSV
+Evaldi's Masterpiece_VST
+Jade Champion_GQC
+Tugae Deathspinner_BLR
+Vasilisa, Helping Hand
+Iroshi's Devotee_VRD
+Orovus, the Worldcarver_GQC
+Overwhelming Grizzly_SVG
+Silversong Ancient_KSV
+Scratch's Horseman_BLR
+Ancient Stirrings_GQC
+Thunderous Avalanche
+Brutality_MON
+Canopy Culling_KSV
+Explore_SVG
+Entangled Fossil
+Harrow_BLR
+An Unlikely Peace_BLR
+Grand Consonance
+Iroshi, Blade of the Old Ways_VRD
+Weaving of the World_SVG
+Scout Ahead_KSV
