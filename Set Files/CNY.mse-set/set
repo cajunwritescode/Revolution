@@ -1321,7 +1321,7 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
-		chop_top: 2,8,
+		chop_top: 2,10,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
@@ -4652,10 +4652,10 @@ card:
 		Art Validated
 		!update adjusted: Was {U}, Counter target noncreature spell unless its controller pays {X}, where X is the number of colors among permanents you control.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2025-10-29 23:47:34
+	time_modified: 2025-10-30 00:31:53
 	card_color: blue
 	name: Veto
-	casting_cost: U
+	casting_cost: XU
 	image: image1257
 	image_2: 
 	mainframe_image: 
@@ -5793,7 +5793,7 @@ card:
 		Art Validated
 		!update adjusted: Was 2/1. Approval now counts like party.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2025-10-29 23:39:03
+	time_modified: 2025-10-30 00:29:56
 	card_color: green
 	name: Cabinet Recruiter 
 	casting_cost: 2G
@@ -5808,7 +5808,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><nospellcheck><key>Approval</key></nospellcheck> — When <atom-cardname><nospellcheck>Cabinet Recruiter </nospellcheck></atom-cardname>enters, you may search your library for a creature card with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>, reveal it, put it into your hand, then shuffle.<blob></kw-A><moved><atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A></moved></blob>
+	rule_text: When <atom-cardname><nospellcheck>Cabinet Recruiter </nospellcheck></atom-cardname>enters, you may search your library for a creature card with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>, reveal it, put it into your hand, then shuffle.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -6779,9 +6779,9 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		{ql} — <kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Security Initiative</nospellcheck></atom-cardname> enters, you may tap or untap target nonland permanent. Then draw a card.
-		An opponent controls three or more tapped nonland permanents.
+		{ql} — An opponent controls three or more tapped nonland permanents.
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6845,7 +6845,7 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Silence the Opposition</nospellcheck></atom-cardname> enters, draw two cards, then discard a card.
-		A creature card or creature token was put into your graveyard from anywhere this turn. 
+		{ql}, {ql}, {ql} — A creature card or creature token was put into your graveyard from anywhere this turn. 
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6909,8 +6909,8 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		When <atom-cardname><nospellcheck>Meeting of the Elites</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
-		You’ve sacrificed a nonland permanent this turn.
+		{ql} — When <atom-cardname><nospellcheck>Meeting of the Elites</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		{ql}, {ql} — You’ve sacrificed a nonland permanent this turn.
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6972,7 +6972,7 @@ card:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Free Market</nospellcheck></atom-cardname> enters, target creature gets +2/+2 until end of turn.
 		You control a creature with power 4 or greater.
-		You control a creature with toughness 4 or greater.
+		{ql}, {ql} — You control a creature with toughness 4 or greater.
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -7036,7 +7036,7 @@ card:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Together in Arms</nospellcheck></atom-cardname> enters, create two 1/1 colorless Soldier creature tokens.
 		You controlled a spell that targeted a creature you controlled this turn.
-		You controlled an ability that targeted a creature you controlled this turn.
+		{ql}, {ql} — You controlled an ability that targeted a creature you controlled this turn.
 
 card:
 	stylesheet: m15-altered
@@ -7922,15 +7922,15 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update adjusted: Policy effects changed from three creatures. Equality changed from "At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control."
+		!update adjusted: Was {2}{W}. Policy effects changed from three creatures. Equality changed from "At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control."
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-29 23:50:33
+	time_modified: 2025-10-30 00:32:49
 	card_color: white
 	card_color_2: white
 	name: Distributive Justice
 	name_2: Equality
-	casting_cost: 2W
+	casting_cost: 1W
 	image: image72
 	image_2: image_23
 	mainframe_image: 
@@ -8255,8 +8255,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-		You’ve cast two or more spells this turn.
-		You’ve drawn two or more cards this turn.
+		{ql} — You’ve cast two or more spells this turn.
+		{ql} — You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-altered
@@ -8357,7 +8357,7 @@ card:
 		Art Validated
 		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-29 23:40:17
+	time_modified: 2025-10-30 00:30:06
 	card_color: blue
 	name: Congressional Kraken
 	casting_cost: 5UU
@@ -8374,7 +8374,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Approval</key></nospellcheck> — When <atom-cardname><nospellcheck>Congressional Kraken</nospellcheck></atom-cardname> enters, return each nonland permanent with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck> to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.<blob></kw-A><moved><atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A></moved></blob>
+		When <atom-cardname><nospellcheck>Congressional Kraken</nospellcheck></atom-cardname> enters, return each nonland permanent with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck> to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -8542,9 +8542,9 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Ascend to Power</nospellcheck></atom-cardname> enters, you may sacrifice a creature, discard a card, or pay 3 life. If you do, draw two cards.
-		You’ve sacrificed a nonland permanent this turn.
+		{ql} — You’ve sacrificed a nonland permanent this turn.
 		You’ve discarded a card this turn.
-		You’ve lost life this turn.
+		{ql} — You’ve lost life this turn.
 
 card:
 	stylesheet: m15-altered
@@ -8838,8 +8838,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		Three or more sources you controlled dealt damage this turn.
-		A source you controlled dealt 3 or more damage this turn.
+		{ql} — Three or more sources you controlled dealt damage this turn.
+		{ql} — A source you controlled dealt 3 or more damage this turn.
 
 card:
 	stylesheet: m15-altered
@@ -8941,11 +8941,11 @@ card:
 		Art Validated
 		!update adjusted: Ability was "Whenever a player casts a spell, if no mana from a basic source was spent to cast it, Flaw in the System deals 2 damage to that player." Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-29 23:32:04
+	time_modified: 2025-10-30 00:34:00
 	card_color: red, artifact, horizontal
 	name: Flaw in the System
 	casting_cost: 1R
-	image: image1.png
+	image: image6.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -8969,7 +8969,7 @@ card:
 	watermark: custom watermark four
 	power: 2
 	toughness: 2
-	illustrator: Francisco Badilla
+	illustrator: Izzy Medrano
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9152,10 +9152,10 @@ card:
 		Art Validated
 		!update adjusted: Was X/X with trample for {1}{G}. Approval now counts like party.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-29 23:39:48
+	time_modified: 2025-10-30 00:31:46
 	card_color: green
 	name: Chromagoyf
-	casting_cost: 1G
+	casting_cost: G
 	image: image374
 	image_2: 
 	mainframe_image: 
@@ -9174,7 +9174,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: *
-	toughness: *
+	toughness: *+1
 	illustrator: Fan Zhang
 	card_code_text: 
 	card_code_text_2: 
@@ -10237,10 +10237,10 @@ card:
 		Art Validated
 		!update reworked: Was {X}{W}{U}{B} instant with "As an additional cost to cast this spell, exile X cards from your graveyard." "You draw X cards and gain X life, then each opponent loses X life."
 	time_created: 2023-02-27 20:38:19
-	time_modified: 2025-10-30 00:12:39
+	time_modified: 2025-10-30 00:33:11
 	card_color: white, blue, black, multicolor, horizontal
 	name: Scandalous Revelation
-	casting_cost: XWUB
+	casting_cost: 2WUB
 	image: image456
 	image_2: 
 	mainframe_image: 
@@ -11079,7 +11079,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 
-		chop_bottom: 5
+		chop_bottom: 
 		shrink_typeline_text: 1
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11254,7 +11254,7 @@ card:
 		chop_top: 7
 		chop_bottom: 7
 		shrink_typeline_text: 1
-		frames: clear
+		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
@@ -11263,10 +11263,11 @@ card:
 		Art Validated
 		!update reworked: Was 2/2 for {3} with "Spend only mana of different colors to cast this spell.", "For each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay."
 	time_created: 2023-02-27 20:49:25
-	time_modified: 2025-10-30 00:01:49
+	time_modified: 2025-10-30 00:35:47
+	card_color: multicolor
 	name: Tomer, Figurehead President
 	casting_cost: 4
-	image: image43
+	image: image7.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12163,8 +12164,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		Three or more sources you controlled dealt damage this turn.
-		A source you controlled dealt 3 or more damage this turn.
+		{ql} — Three or more sources you controlled dealt damage this turn.
+		{ql} — A source you controlled dealt 3 or more damage this turn.
 
 card:
 	stylesheet: m15-altered
@@ -13084,8 +13085,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-		You’ve cast two or more spells this turn.
-		You’ve drawn two or more cards this turn.
+		{ql} — You’ve cast two or more spells this turn.
+		{ql} — You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-art-lair
