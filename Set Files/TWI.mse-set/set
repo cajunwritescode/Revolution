@@ -86,6 +86,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -113,6 +114,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -150,6 +152,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -180,6 +183,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -211,6 +215,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -241,6 +246,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -272,6 +278,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -314,6 +321,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -345,6 +353,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -374,6 +383,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -404,6 +414,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -436,6 +447,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -468,6 +480,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -507,6 +520,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -537,6 +551,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -576,6 +591,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -605,6 +621,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -634,6 +651,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -663,6 +681,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -702,6 +721,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -731,6 +751,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -763,6 +784,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -795,6 +817,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -826,6 +849,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -864,6 +888,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -903,6 +928,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -934,6 +960,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -965,6 +992,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -996,6 +1024,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1035,6 +1064,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1074,6 +1104,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1113,6 +1144,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1144,6 +1176,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1183,6 +1216,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1223,6 +1257,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1254,6 +1289,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1283,6 +1319,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1315,6 +1352,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1345,6 +1383,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1378,6 +1417,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1408,6 +1448,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1439,6 +1480,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1478,6 +1520,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1515,6 +1558,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1546,6 +1590,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1585,6 +1630,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1624,6 +1670,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1655,6 +1702,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1686,6 +1734,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1717,6 +1766,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1749,6 +1799,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1778,6 +1829,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1809,6 +1861,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1848,6 +1901,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1878,6 +1932,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1910,6 +1965,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1942,6 +1998,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1974,6 +2031,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2004,6 +2062,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2036,6 +2095,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2068,6 +2128,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2098,6 +2159,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2138,6 +2200,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2169,6 +2232,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2200,6 +2264,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2228,6 +2293,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2258,6 +2324,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2289,6 +2356,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2321,6 +2389,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2354,6 +2423,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2388,6 +2458,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2420,6 +2491,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2450,6 +2522,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2482,6 +2555,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2514,6 +2588,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2546,6 +2621,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2575,6 +2651,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2606,6 +2683,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2647,6 +2725,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2688,6 +2767,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2721,6 +2801,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2762,6 +2843,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2795,6 +2877,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2827,6 +2910,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2857,6 +2941,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2888,6 +2973,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2917,6 +3003,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2945,6 +3032,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2975,6 +3063,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3007,6 +3096,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3047,6 +3137,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3079,6 +3170,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3119,6 +3211,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3151,6 +3244,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3189,6 +3283,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3221,6 +3316,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3255,6 +3351,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3295,6 +3392,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3329,6 +3427,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3361,6 +3460,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3394,6 +3494,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3426,6 +3527,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3459,6 +3561,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3491,6 +3594,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3529,6 +3633,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3562,6 +3667,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3601,6 +3707,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3633,6 +3740,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3672,6 +3780,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3714,6 +3823,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3744,6 +3854,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3775,6 +3886,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3803,6 +3915,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3832,6 +3945,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3864,6 +3978,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3896,6 +4011,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3937,6 +4053,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3966,6 +4083,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3996,6 +4114,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4024,6 +4143,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -4075,6 +4195,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of Fire and Faith</nospellcheck></atom-cardname> enters, it deals 2 damage to each creature you don’t control.
 		<b>Defeated</b> — <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:0:0:30>
 		 — ​
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -4126,6 +4247,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of Rot and Ruin</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You gain 3 life.
 		<b>Defeated</b> — <margin:0:0:30>You may play land cards from your graveyard.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: true
 	styling_data:
@@ -4165,6 +4287,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4197,6 +4320,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4229,6 +4353,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4271,6 +4396,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -4322,6 +4448,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of the Empty Throne</nospellcheck></atom-cardname> enters, return target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent card from your graveyard to your hand.
 		<b>Defeated</b> — <margin:0:0:30>Whenever a land you control enters, create a 1/1 white Soldier creature token.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: false
 	notes:
@@ -4355,6 +4482,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4388,6 +4516,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4426,6 +4555,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4463,6 +4593,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4495,6 +4626,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4528,6 +4660,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -4583,6 +4716,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of Rune and Whisper</nospellcheck></atom-cardname> enters, return target creature to its owner’s hand.
 		<b>Defeated</b> — <margin:0:0:30>At the beginning of your upkeep, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: false
 	notes:
@@ -4613,6 +4747,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4653,6 +4788,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4682,6 +4818,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4714,6 +4851,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -4767,6 +4905,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of Dreamwoven Law</nospellcheck></atom-cardname> enters, tap up to one target creature and put two <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
 		<b>Defeated</b> — <margin:0:0:30>Whenever you attack, tap target creature.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: false
 	notes:
@@ -4797,6 +4936,7 @@ card:
 	card_code_text: Story Spotlight
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4839,6 +4979,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4881,6 +5022,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4919,6 +5061,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4951,6 +5094,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4981,6 +5125,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5014,6 +5159,7 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 
+
 card:
 	has_styling: false
 	notes:
@@ -5046,6 +5192,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5078,6 +5225,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5108,6 +5256,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5142,6 +5291,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5184,6 +5334,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5224,6 +5375,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5255,6 +5407,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5285,6 +5438,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5325,6 +5479,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -5376,6 +5531,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Blood toke<param-*s>ns</param-*s></key></nospellcheck>. <atom-reminder-expert> <i-auto>(They’re artifacts with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 		<b>Defeated</b> — <margin:0:0:30>Whenever you sacrifice a permanent, <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> deals 1 damage to any other noncreature permanent.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: false
 	notes:
@@ -5408,6 +5564,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5440,6 +5597,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5480,6 +5638,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5512,6 +5671,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5544,6 +5704,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5576,6 +5737,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5617,6 +5779,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5650,6 +5813,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5682,6 +5846,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5710,6 +5875,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5750,6 +5916,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5782,6 +5949,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5825,6 +5993,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5857,6 +6026,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5887,6 +6057,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5919,6 +6090,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -5970,6 +6142,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of the Quiet Moon</nospellcheck></atom-cardname> enters, exile target nonland permanent you don’t control until <atom-cardname><nospellcheck>Advance of the Quiet Moon</nospellcheck></atom-cardname> leaves the battlefield.
 		<b>Defeated</b> — <margin:0:0:30>Whenever a nontoken creature you control leaves the battlefield, create a 1/1 white Soldier creature token.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: false
 	notes:
@@ -6004,6 +6177,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6058,6 +6232,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of the Umbral Bargain</nospellcheck></atom-cardname> enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If they do, you lose 1 life.
 		<b>Defeated</b> — <margin:0:0:30>At the beginning of each opponent’s upkeep, if that player has one or fewer cards in hand, they lose 2 life.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: false
 	notes:
@@ -6088,6 +6263,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6118,6 +6294,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6169,6 +6346,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of the Sainted March</nospellcheck></atom-cardname> enters, create two 1/1 red Berserker creature tokens.
 		<b>Defeated</b> — <margin:0:0:30>Whenever you attack, create a 1/1 red Berserker creature token that’s tapped and attacking.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: true
 	styling_data:
@@ -6210,6 +6388,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6262,6 +6441,7 @@ card:
 		When <atom-cardname><nospellcheck>Advance of the Hollow Wake</nospellcheck></atom-cardname> enters, create two 2/2 black Zombie creature tokens with “This creature can’t block.”
 		<b>Defeated</b> — <margin:0:0:30>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</margin:0:0:30>
 		 — ​
+
 card:
 	has_styling: false
 	notes:
@@ -6292,6 +6472,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6324,6 +6505,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6355,6 +6537,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6383,6 +6566,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6416,6 +6600,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6446,6 +6631,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6482,6 +6668,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6518,6 +6705,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6563,6 +6751,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6609,6 +6798,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6652,6 +6842,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6682,6 +6873,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6729,6 +6921,7 @@ card:
 		When <atom-cardname><nospellcheck>Thorn and Trial</nospellcheck></atom-cardname> enters, return target creature or planeswalker card with mana value 3 or less from your graveyard to the battlefield.
 		<b>3 Defense</b> — <margin:0:0:30>Spells your opponents cast during your turn cost <sym-auto>2</sym-auto> more to cast.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>When <atom-cardname><nospellcheck>Thorn and Trial</nospellcheck></atom-cardname> is first defeated, create a 4/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6776,6 +6969,7 @@ card:
 		When <atom-cardname><nospellcheck>Path of Scales</nospellcheck></atom-cardname> enters, draw three cards.
 		<b>3 Defense</b> — <margin:0:0:30>Creatures you don’t control get -1/-0.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Whenever you cast a noncreature spell, copy it. You may choose new targets for the copy.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6823,6 +7017,7 @@ card:
 		When <atom-cardname><nospellcheck>Pact Beyond Death</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return a card milled this way to your hand.
 		<b>4 Defense</b> — <margin:0:0:30>Whenever you draw a card, you gain 2 life.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>When this battle is first defeated, search your library for a card, put it into your hand, then shuffle.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6867,6 +7062,7 @@ card:
 		When <atom-cardname><nospellcheck>Eclipse of the Divine</nospellcheck></atom-cardname> enters, exile the top three cards of your library.
 		<b>3 Defense</b> — <margin:0:0:30>When this battle first reaches this stage, you may play cards exiled with <atom-cardname><nospellcheck>Eclipse of the Divine</nospellcheck></atom-cardname> until the end of your next turn.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Attacking creatures you control are 4/4 Angels with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -6915,6 +7111,7 @@ card:
 		You may look at the top card of your library any time.
 		<b>4 Defense</b> — <margin:0:0:30>You may play lands from the top of your library.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>You may cast creature spells from the top of your library.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes:
@@ -6943,6 +7140,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6982,6 +7180,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7014,6 +7213,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7048,6 +7248,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7080,6 +7281,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7118,6 +7320,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7163,6 +7366,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7201,6 +7405,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7242,6 +7447,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7274,6 +7480,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -7325,6 +7532,7 @@ card:
 		When <atom-cardname><nospellcheck>Clash at Aureth Cross</nospellcheck></atom-cardname> enters, if you cast it from your hand, destroy all creatures.
 		<b>2 Defense</b> — <margin:0:0:30>At the beginning of your end step, create a 1/1 white Soldier creature token.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Creature tokens you control get +1/+1 and have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes:
@@ -7358,6 +7566,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7403,6 +7612,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -7452,6 +7662,7 @@ card:
 		At the beginning of combat on your turn, create a 1/1 red Faerie creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it at the beginning of the next end step.
 		<b>2 Defense</b> — <margin:0:0:30>When this battle first reaches this stage, you may discard up to two cards. If you do, draw that many cards.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Creatures you control get +1/+0.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes:
@@ -7481,6 +7692,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7514,6 +7726,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7544,6 +7757,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7578,6 +7792,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7617,6 +7832,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7657,6 +7873,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7693,6 +7910,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7721,6 +7939,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7754,6 +7973,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7791,13 +8011,15 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
+		!update nerfed: Changed from end step trigger to attack trigger. Can now regrow lands that weren’t milled.
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-09-04 17:13:38
+	time_modified: 2025-10-29 21:57:27
 	name: Reaper of Blossoms
 	casting_cost: 1G
 	image: image252.png
@@ -7813,7 +8035,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: At the beginning of your end step, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then you may pay <sym-auto>G</sym-auto>. If you do, return a land card milled this way to your hand. Otherwise, you gain 1 life. 
+	rule_text: Whenever <atom-cardname><nospellcheck>Reaper of Blossoms</nospellcheck></atom-cardname> attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then you may pay <sym-auto>G</sym-auto>. If you do, return a land card from your graveyard to your hand. Otherwise, you gain 1 life. 
 	flavor_text: <i-flavor>Some spirits forget who they were. Some remember too well.</i-flavor>
 	power: 2
 	toughness: 3
@@ -7821,6 +8043,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7854,6 +8077,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7887,6 +8111,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7917,6 +8142,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7949,6 +8175,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7984,6 +8211,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -8032,6 +8260,7 @@ card:
 		When <atom-cardname><nospellcheck>Clash at the Shaded Maw</nospellcheck></atom-cardname> enters, exile each player’s graveyard.
 		<b>2 Defense</b> — <margin:0:0:30>If a card or token would be put into a graveyard from anywhere, exile it instead.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Whenever a permanent an opponent controls is exiled, that player loses 1 life.</margin:0:0:30>
+
 card:
 	has_styling: true
 	styling_data:
@@ -8073,6 +8302,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -8124,6 +8354,7 @@ card:
 		When this battle enters, you may destroy target noncreature, nonland permanent.
 		<b>2 Defense</b> — <margin:0:0:30>When this battle first reaches this stage, create two 2/2 black Zombie creature tokens with “This creature can’t block.”</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes:
@@ -8157,6 +8388,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga-operation
 	stylesheet_version: 2024-09-23
@@ -8206,6 +8438,7 @@ card:
 		Whenever you cast a noncreature spell, create a 1/1 white Soldier creature token.
 		<b>3 Defense</b> — <margin:0:0:30>When <atom-cardname><nospellcheck>Clash at Mistwrit Vale</nospellcheck></atom-cardname> first reaches this stage, return target instant or sorcery card from your graveyard to your hand.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Noncreature spells you cast cost <sym-auto>2</sym-auto> less to cast.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes:
@@ -8236,6 +8469,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8269,6 +8503,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8310,6 +8545,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8340,6 +8576,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8371,6 +8608,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8401,6 +8639,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8431,6 +8670,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8461,6 +8701,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8491,6 +8732,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8522,6 +8764,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8553,6 +8796,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8583,6 +8827,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8613,6 +8858,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8646,6 +8892,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8683,6 +8930,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8728,6 +8976,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8760,6 +9009,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8795,6 +9045,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8830,6 +9081,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8863,6 +9115,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8896,6 +9149,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8931,6 +9185,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8964,6 +9219,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8996,6 +9252,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9037,6 +9294,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9073,6 +9331,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9118,6 +9377,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9151,6 +9411,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9194,6 +9455,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9227,6 +9489,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9270,6 +9533,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9311,6 +9575,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9346,6 +9611,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9383,6 +9649,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9417,6 +9684,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9460,6 +9728,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9504,6 +9773,7 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 
+
 card:
 	has_styling: false
 	notes:
@@ -9536,6 +9806,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9573,6 +9844,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9614,6 +9886,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9644,6 +9917,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9677,6 +9951,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9713,6 +9988,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9744,6 +10020,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9789,6 +10066,7 @@ card:
 		[+2]: <margin:130:0:0>Untap up to three target permanents. You gain 3 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a 4/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Each player chooses a creature they control with the greatest power among creatures they control. Destroy all other creatures.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9831,6 +10109,7 @@ card:
 		[+1]: <margin:130:0:0>Discard a card, then draw a card. </margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> deals 3 damage to any target.</margin:130:0:0>
 		[0]: <margin:130:0:0>If <atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> has six or more loyalty counters on him, he becomes a 5/5 blue and red Dragon creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely. Damage no longer causes him to lose loyalty.)</i-auto></margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9873,6 +10152,7 @@ card:
 		[+2]: <margin:130:0:0>Exile up to two target creatures you own. At the beginning of your next declare attackers step, return those creatures to the battlefield tapped and attacking.</margin:130:0:0>
 		[0]: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> becomes a 4/4 Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. <i-auto>(They don’t lose loyalty while not a planeswalker.)</i-auto></margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Ameret, Seeker of the Sun</nospellcheck></atom-cardname> deals 3 damage to any target and you gain 3 life.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9944,6 +10224,7 @@ card:
 		[+1]: <margin:130:0:0>Look at the top three cards of your library. Put two of them into your hand and the rest into your graveyard.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile target creature or planeswalker. You gain 5 life.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Exile the top X cards of each opponent’s library, where X is the number of cards in your graveyard.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -10007,6 +10288,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 2/2 black Zombie creature token with “This creature can’t block.” You gain 2 life.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Target player sacrifices a nonland permanent. If that permanent had mana value 2 or less, <atom-legname><nospellcheck>Devika</nospellcheck></atom-legname> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever an opponent loses life, you gain that much life.” Then each opponent loses 5 life.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10033,6 +10315,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10074,6 +10357,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10106,6 +10390,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10136,6 +10421,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10168,6 +10454,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10198,6 +10485,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10226,6 +10514,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10254,6 +10543,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10282,6 +10572,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10310,6 +10601,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10338,6 +10630,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10366,6 +10659,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10394,6 +10688,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10422,6 +10717,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10450,6 +10746,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10478,6 +10775,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10513,6 +10811,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10543,6 +10842,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10575,6 +10875,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10609,6 +10910,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10637,6 +10939,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10667,6 +10970,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10705,6 +11009,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10734,6 +11039,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10765,6 +11071,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10796,6 +11103,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10827,6 +11135,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10856,6 +11165,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10885,6 +11195,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10914,6 +11225,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10945,6 +11257,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10972,6 +11285,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10998,6 +11312,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -11032,6 +11347,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -11066,6 +11382,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -11100,6 +11417,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -11134,6 +11452,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -11163,6 +11482,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -11190,6 +11510,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -11221,6 +11542,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -11248,6 +11570,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -11276,6 +11599,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11303,6 +11627,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -11337,6 +11662,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -11367,6 +11693,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -11393,6 +11720,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11436,6 +11764,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11474,6 +11803,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11514,6 +11844,7 @@ card:
 	card_code_text: Decree Signed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11559,6 +11890,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11604,6 +11936,7 @@ card:
 	card_code_text: Decree Signed by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11650,6 +11983,7 @@ card:
 	card_code_text: Decree Signed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11695,6 +12029,7 @@ card:
 	card_code_text: Decree Signed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11741,6 +12076,7 @@ card:
 	card_code_text: Decree Signed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11786,6 +12122,7 @@ card:
 	card_code_text: Decree Signed by raboka
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11832,6 +12169,7 @@ card:
 	card_code_text: Decree Signed by CatInTree
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11876,6 +12214,7 @@ card:
 	card_code_text: Decree Signed by kumrac
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11921,6 +12260,7 @@ card:
 	card_code_text: Decree Signed by raboka
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11967,6 +12307,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11976,8 +12317,9 @@ card:
 		!tag Dolcairn
 		TWI !promo
 		!design Zangy
+		!update
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-09-04 17:13:03
+	time_modified: 2025-10-29 21:59:14
 	name: Reaper of Blossoms
 	casting_cost: 1G
 	image: image43.png
@@ -11993,7 +12335,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: At the beginning of your end step, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then you may pay <sym-auto>G</sym-auto>. If you do, return a land card milled this way to your hand. Otherwise, you gain 1 life. 
+	rule_text: Whenever Reaper of Blossoms attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then you may pay <sym-auto>G</sym-auto>. If you do, return a land card from your graveyard to your hand. Otherwise, you gain 1 life.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -12008,6 +12350,7 @@ card:
 	card_code_text: Decree Signed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -12051,6 +12394,7 @@ card:
 	card_code_text: Decree Signed by Stasis
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -12096,6 +12440,7 @@ card:
 	card_code_text: Decree Signed by CatInTree
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -12134,6 +12479,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -12173,6 +12519,7 @@ card:
 	card_code_text: Decree Signed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -12211,6 +12558,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -12252,6 +12600,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 keyword:
 	keyword: Chant
 	match: Chant <atom-param>cost</atom-param>

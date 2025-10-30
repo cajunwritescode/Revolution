@@ -212,9 +212,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2023-08-11 13:49:45
+	time_modified: 2025-10-29 23:43:48
 	card_color: white
 	name: Held in Contempt
 	casting_cost: W
@@ -228,7 +230,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature has <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
-		<i><kw-A><i-auto><nospellcheck><key>Approval</i></key></nospellcheck></i-auto></kw-A> — <sym-auto>2</sym-auto>: Exile enchanted creature if its power is less than or equal to the number of colors among permanents you control.
+		<sym-auto>2</sym-auto>: Exile enchanted creature if its power is less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sylvain Sarrailh
 	card_code_text: 
@@ -249,9 +251,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-03-01 14:54:12
+	time_modified: 2025-10-29 23:38:51
 	card_color: white
 	name: Brazen Blackcoats
 	casting_cost: 1W
@@ -264,7 +268,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>: Tap target creature. This ability costs <sym-auto>X</sym-auto> less to activate, where X is the number of colors among permanents you control.
+		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>: Tap target creature. This ability costs <sym-auto>X</sym-auto> less to activate, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“Hands up! What’s a person like you doing in a place like this?”</i-flavor>
 	power: 2
 	toughness: 1
@@ -316,9 +320,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-02-25 19:47:17
+	time_modified: 2025-10-29 23:33:57
 	card_color: white
 	name: Seasoned Spymaster
 	casting_cost: 3W
@@ -327,7 +333,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
@@ -460,9 +472,9 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		 adjusted: Changed from +1/+1 counter on itself to tap target creature.
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-09-30 09:28:54
+	time_modified: 2025-10-29 23:33:58
 	card_color: white
 	name: Rogue Justiciar
 	casting_cost: 2W
@@ -471,7 +483,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text: Whenever Rogue <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Justiciar</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> becomes the target of a spell or ability you control, you may tap target creature. This ability triggers only once each turn.
 	flavor_text: <i-flavor>When the leaders of <error-spelling:en_US>Nylin</error-spelling:en_US> come up short, the <error-spelling:en_US>Penrath</error-spelling:en_US> rise to the occasion.</i-flavor>
@@ -686,9 +704,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Was 2/2. Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-08-22 22:36:37
+	time_modified: 2025-10-29 23:48:08
 	card_color: blue
 	name: Dampening Reconciliator
 	casting_cost: 3U
@@ -703,14 +723,14 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Dampening Reconciliator</nospellcheck></atom-cardname> enters, tap up to one target creature and put X <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it, where X is the number of colors among permanents you control. <i-auto>(If a permanent with a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> would become untapped, remove one from it instead.)</i-auto>
+	rule_text: When <atom-cardname><nospellcheck>Dampening Reconciliator</nospellcheck></atom-cardname> enters, tap up to one target creature and put X <kw-0><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-0> on it, where X is your <kw-0><nospellcheck><key>approval</key></nospellcheck></kw-0>. <i-auto>(Your <kw-0><nospellcheck><key>approval</key></nospellcheck></kw-0> contains up to one different permanent of each color. If a permanent with a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> would become untapped, remove one from it instead.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“Stay the course, friends. Unrest leads to nothing but a weakened state.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 2
-	toughness: 2
+	toughness: 3
 	illustrator: Steven Shan
 	card_code_text: 
 	card_code_text_2: 
@@ -730,9 +750,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-06-01 10:38:16
+	time_modified: 2025-10-29 23:44:33
 	name: Political Prisoner
 	casting_cost: 1U
 	image: image183
@@ -748,7 +770,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Political Prisoner</nospellcheck></atom-cardname> can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> as long as the number of colors among permanents you control is greater than the number of colors among permanents defending player controls.
+		<atom-cardname><nospellcheck>Political Prisoner</nospellcheck></atom-cardname> can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> as long as your <kw-A><nospellcheck><key>approval</key></nospellcheck> is greater than defending player’s <kw-A><nospellcheck><key>approval</key></nospellcheck>.<blob></kw-A><moved><atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A></moved></blob>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -1259,8 +1281,9 @@ card:
 	notes:
 		Changed: Now 1 mana less
 		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-07-25 18:37:52
+	time_modified: 2025-10-29 23:45:24
 	card_color: black
 	name: Rigged Trial
 	casting_cost: 5B
@@ -1276,7 +1299,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — This spell costs <sym-auto>X</sym-auto> less to cast, where X is the number of colors among permanents you control.
+		This spell costs <sym-auto>X</sym-auto> less to cast, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 		Exile target creature.
 	rule_text_2: 
 	rule_text_3: 
@@ -1296,12 +1319,19 @@ card:
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2,8,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
 	notes:
 		Art Validated
+		!update adjusted: Was 4/3. Now exiles on death and returns cards with higher mv to hand. Approval now counts like party
 		!!exportname Senators' Chauffeur
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-02-25 19:48:54
+	time_modified: 2025-10-29 23:46:23
 	card_color: black
 	name: Senators’ Chauffeur
 	casting_cost: 5B
@@ -1316,7 +1346,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Senators’ Chauffeur</nospellcheck></atom-cardname> enters, return up to one target creature card with mana value less than or equal to the number of colors among permanents you control from your graveyard to the battlefield.
+	rule_text:
+		When <atom-cardname><nospellcheck>Senators’ Chauffeur</nospellcheck></atom-cardname> enters, choose up to one target creature card in your graveyard. Return it to the battlefield if its mana value less is than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>. Otherwise, return it to your hand.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Senators’ Chauffeur</nospellcheck></atom-cardname> dies, exile it.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -1889,9 +1921,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2023-10-18 22:00:46
+	time_modified: 2025-10-29 23:47:05
 	card_color: red
 	name: Up-and-Comer
 	casting_cost: 1R
@@ -1906,7 +1940,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Discard a card: Draw a card. This ability costs <sym-auto>X</sym-auto> less to activate, where X is the number of colors among permanents you control.
+	rule_text: <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Discard a card: Draw a card. This ability costs <sym-auto>X</sym-auto> less to activate, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Be wary of a young man in a profession where men live long.</i-flavor>
@@ -1933,12 +1967,14 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Was {4}{R}. Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-06-17 14:32:47
+	time_modified: 2025-10-29 23:44:00
 	card_color: red
 	name: Inflammatory Declaimer
-	casting_cost: 4R
+	casting_cost: 3R
 	image: image81
 	image_2: 
 	mainframe_image: 
@@ -1950,7 +1986,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Inflammatory Declaimer</nospellcheck></atom-cardname> enters, it deals X damage to each opponent, where X is the number of colors among permanents you control.
+	rule_text: When <atom-cardname><nospellcheck>Inflammatory Declaimer</nospellcheck></atom-cardname> enters, it deals X damage to each opponent, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“This misinformed notion shall not stand! Up in arms, my friends!”</i-flavor>
@@ -2177,9 +2213,9 @@ card:
 	has_styling: false
 	notes:
 		Art Validated
-		 adjusted was 2/1 with "When Main Street Hooligang dies, if it wasn’t blocking, exile the top card of your library. You may play it this turn."
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-09-30 09:26:23
+	time_modified: 2025-10-29 23:34:16
 	card_color: red
 	name: Main Street Hooligang
 	casting_cost: 1R
@@ -2190,9 +2226,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
@@ -2309,9 +2347,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-06-01 10:31:28
+	time_modified: 2025-10-29 23:34:03
 	card_color: red
 	name: Revolutionary Throng
 	casting_cost: 2R
@@ -2322,9 +2362,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
@@ -2494,9 +2536,9 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		 adjusted: Was 6/6 and gained twice X life.
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-09-30 09:29:50
+	time_modified: 2025-10-29 23:46:55
 	card_color: green
 	name: Triumphant Herd
 	casting_cost: 4GG
@@ -2511,7 +2553,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Triumphant Herd</nospellcheck></atom-cardname> enters, you gain X life, where X is the number of colors among permanents you control.
+	rule_text: When <atom-cardname><nospellcheck>Triumphant Herd</nospellcheck></atom-cardname> enters, you gain X life, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck><atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>After months of opposition promoting the creation of environmental reserves, Senator <error-spelling:en_US>Adli</error-spelling:en_US> announced his campaign’s victory in spectacular fashion.</i-flavor>
@@ -2531,9 +2573,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2023-08-08 21:58:33
+	time_modified: 2025-10-29 23:43:30
 	card_color: green
 	name: Gerrymanderer
 	casting_cost: 3G
@@ -2550,7 +2594,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — <sym-auto>1G</sym-auto>: Target creature gets +X/+X until end of turn, where X is the number of colors among permanents you control. Activate only once each turn and only as a sorcery.
+		<sym-auto>1G</sym-auto>: Target creature gets +X/+X until end of turn, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>. Activate only once each turn and only as a sorcery.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -2616,12 +2660,13 @@ card:
 	notes:
 		Reprint
 		Art Validated
+		!update
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-06-17 19:51:20
+	time_modified: 2025-10-29 23:30:08
 	card_color: green
 	name: Ram Through
 	casting_cost: 1G
-	image: image88
+	image: image3.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -2639,7 +2684,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: none
-	illustrator: Brian Fajardo
+	illustrator: Alisher Mirzoev
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2839,9 +2884,9 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		 buffed: Was 2/1
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-09-30 09:25:35
+	time_modified: 2025-10-29 23:34:19
 	card_color: green
 	name: Inner City Scout
 	casting_cost: 1G
@@ -2852,9 +2897,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text: Whenever <atom-cardname><nospellcheck>Inner City Scout</nospellcheck></atom-cardname> becomes the target of a spell or ability you control, untap it. It gets +1/+1 until end of turn. This ability triggers only once each turn.
 	rule_text_2: 
@@ -3296,9 +3343,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:07:30
-	time_modified: 2024-01-10 18:58:20
+	time_modified: 2025-10-29 23:33:52
 	name: Trailblazer Anarch
 	casting_cost: 1R/W
 	image: image1224
@@ -3308,9 +3357,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text: <atom-cardname><nospellcheck>Trailblazer Anarch</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s your turn.
 	rule_text_2: 
 	rule_text_3: 
@@ -3332,9 +3383,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: No longer checks all permanents.
 	time_created: 2023-02-27 20:07:30
-	time_modified: 2024-06-24 00:33:31
+	time_modified: 2025-10-29 23:56:08
 	name: Pinnacle of Progress
 	casting_cost: 5G/UG/U
 	image: image3
@@ -3348,7 +3401,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		This spell costs <sym-auto>1</sym-auto> less to cast for each counter among permanents you control.
+		This spell costs <sym-auto>1</sym-auto> less to cast for each counter among creatures you control.
 		<kw-A><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
 	rule_text_2: 
 	rule_text_3: 
@@ -3492,9 +3545,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:07:33
-	time_modified: 2024-01-10 18:58:22
+	time_modified: 2025-10-29 23:34:10
 	name: Mutinous Inciter
 	casting_cost: 3RG
 	image: image1229
@@ -3504,9 +3559,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		Whenever you attack, up to one target attacking creature gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
@@ -4232,10 +4289,18 @@ card:
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
-	has_styling: false
-	notes: Art Validated
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-06-18 21:06:13
+	time_modified: 2025-10-29 23:44:48
 	card_color: white
 	name: Prismatic Propagandist
 	casting_cost: 3W
@@ -4250,7 +4315,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Prismatic Propagandist</nospellcheck></atom-cardname> enters, create X 1/1 colorless Soldier creature tokens, where X is the number of colors among permanents you control.
+	rule_text: When <atom-cardname><nospellcheck>Prismatic Propagandist</nospellcheck></atom-cardname> enters, create X 1/1 colorless Soldier creature tokens, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“We want you!”</i-flavor>
@@ -4361,9 +4426,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-08-22 22:17:38
+	time_modified: 2025-10-29 23:34:22
 	card_color: white
 	name: Getaway Proxy
 	casting_cost: W
@@ -4374,9 +4441,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
@@ -4579,9 +4648,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Was {U}, Counter target noncreature spell unless its controller pays {X}, where X is the number of colors among permanents you control.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2023-08-01 19:21:11
+	time_modified: 2025-10-29 23:47:34
 	card_color: blue
 	name: Veto
 	casting_cost: U
@@ -4596,7 +4667,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — Counter target noncreature spell unless its controller pays <sym-auto>X</sym-auto>, where X is the number of colors among permanents you control.
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each color in your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
+		Counter target noncreature spell unless its controller pays <sym-auto>X</sym-auto>.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
@@ -4974,9 +5047,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-07-12 01:57:37
+	time_modified: 2025-10-29 23:47:13
 	card_color: black
 	name: Warrant-Borne Cop
 	casting_cost: 2B
@@ -4991,7 +5066,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Warrant-Borne Cop</nospellcheck></atom-cardname> enters, target player reveals X cards from their hand, where X is the number of colors among permanents you control. You choose one of them. That player discards that card.
+	rule_text: When <atom-cardname><nospellcheck>Warrant-Borne Cop</nospellcheck></atom-cardname> enters, target player reveals X cards from their hand, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>. You choose one of them. That player discards that card.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -5335,9 +5410,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-02-27 04:11:51
+	time_modified: 2025-10-29 23:42:42
 	card_color: red
 	name: Flock Favorites
 	casting_cost: 4R
@@ -5352,7 +5429,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When Flock Favorites enters, exile the top X cards of your library, where X is the number of colors among permanents you control. Until the end of your next turn, you may play those cards.
+	rule_text: When Flock Favorites enters, exile the top X cards of your library, where X is your <kw-A><nospellcheck><key>approval</key></nospellcheck>. Until the end of your next turn, you may play those cards.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -5712,9 +5789,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Was 2/1. Approval now counts like party.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-06-23 13:53:00
+	time_modified: 2025-10-29 23:39:03
 	card_color: green
 	name: Cabinet Recruiter 
 	casting_cost: 2G
@@ -5729,7 +5808,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Cabinet Recruiter </nospellcheck></atom-cardname>enters, you may search your library for a creature card with mana value less than or equal to the number of colors among permanents you control, reveal it, put it into your hand, then shuffle.
+	rule_text: <kw-A><nospellcheck><key>Approval</key></nospellcheck> — When <atom-cardname><nospellcheck>Cabinet Recruiter </nospellcheck></atom-cardname>enters, you may search your library for a creature card with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>, reveal it, put it into your hand, then shuffle.<blob></kw-A><moved><atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A></moved></blob>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -5755,9 +5834,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-01-18 23:03:32
+	time_modified: 2025-10-29 23:34:18
 	card_color: green
 	name: Insurgency Mentor
 	casting_cost: 4G
@@ -5768,9 +5849,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
@@ -5914,9 +5997,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-06-21 12:52:04
+	time_modified: 2025-10-29 23:33:55
 	card_color: green
 	name: Sleeper Insurgent
 	casting_cost: 1G
@@ -5927,9 +6012,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<atom-cardname><nospellcheck>Sleeper Insurgent</nospellcheck></atom-cardname> doesn’t untap during your untap step.
@@ -5956,12 +6043,12 @@ card:
 	has_styling: false
 	notes:
 		Art Validated
-		 adjusted: Was a 2/1 for {2}{G}.
+		!update adjusted: Was a 1/1 for {1}{G}.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2024-09-30 09:04:01
+	time_modified: 2025-10-29 23:56:35
 	card_color: green
 	name: Sillaman Regrafter
-	casting_cost: 1G
+	casting_cost: G
 	image: image105
 	image_2: 
 	mainframe_image: 
@@ -5982,7 +6069,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: custom watermark five
-	power: 1
+	power: 0
 	toughness: 1
 	illustrator: Liaw Cheng Yi
 	card_code_text: 
@@ -7093,9 +7180,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:21:06
-	time_modified: 2024-02-25 20:53:11
+	time_modified: 2025-10-29 23:34:13
 	card_color: white, red, green, multicolor, horizontal
 	name: Mondo, Outcast Maverick
 	casting_cost: 2RGW
@@ -7106,9 +7195,11 @@ card:
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
@@ -7314,9 +7405,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:21:08
-	time_modified: 2024-06-17 17:00:12
+	time_modified: 2025-10-29 23:33:43
 	card_color: white, red, green, multicolor, horizontal
 	name: Urban Twinmotors
 	casting_cost: 1RGW
@@ -7327,9 +7420,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>
@@ -7401,22 +7496,26 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update buffed: Now an Insect.
 	time_created: 2023-02-27 20:21:10
-	time_modified: 2024-07-24 21:17:24
+	time_modified: 2025-10-29 23:28:51
 	card_color: white, blue, black, multicolor, horizontal
 	name: Reconnaissance Agent
 	casting_cost: WUB
-	image: image114
+	image: image2.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Insect</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Reconnaissance Agent</nospellcheck></atom-cardname> enters, you may choose one —
@@ -7431,7 +7530,7 @@ card:
 	watermark: custom watermark one
 	power: 2
 	toughness: 2
-	illustrator: Joshua Raphael
+	illustrator: Nino Setiawan
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7823,9 +7922,10 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		!update adjusted: Policy effects changed from three creatures. Equality changed from "At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control."
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-08-22 21:40:04
+	time_modified: 2025-10-29 23:50:33
 	card_color: white
 	card_color_2: white
 	name: Distributive Justice
@@ -7844,14 +7944,14 @@ card:
 	rarity: rare
 	chapter_text: <i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 	rule_text: 
-	rule_text_2: At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control.
+	rule_text_2: Whenever you attack, draw a card if you control two or more attacking creatures with the same power or the same toughness
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute three +1/+1 counters among any number of target creatures you control.
-	level_2_text: You control three or more creatures with the same power.
-	level_3_text: You control three or more creatures with the same toughness.
+	level_1_text: When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute two +1/+1 counters among one or two target creatures you control.
+	level_2_text: You control two or more creatures with the same power.
+	level_3_text: You control two or more creatures with the same toughness.
 	illustrator: A Dan
 	illustrator_2: Nazar Hrabovyi
 	card_code_text: 
@@ -7862,9 +7962,9 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute three +1/+1 counters among any number of target creatures you control.
-		You control three or more creatures with the same power.
-		You control three or more creatures with the same toughness.
+		When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute two +1/+1 counters among one or two target creatures you control.
+		{ql} — You control two or more creatures with the same power.
+		{ql} — You control two or more creatures with the same toughness.
 
 card:
 	stylesheet: m15-altered
@@ -7877,12 +7977,14 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Was Choose any number at {3}{W}{W}.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-06-01 10:42:08
+	time_modified: 2025-10-29 23:48:28
 	card_color: white
 	name: Chromatic Rift
-	casting_cost: 3WW
+	casting_cost: 2WW
 	image: image35
 	image_2: 
 	mainframe_image: 
@@ -7895,7 +7997,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Choose any number —
+		Choose one —
 		<li><bullet>• </bullet>Destroy all multicolored creatures.
 		</li><li><bullet>• </bullet>Destroy all monocolored creatures.
 		</li><li><bullet>• </bullet>Destroy all colorless creatures.</li>
@@ -8251,9 +8353,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-08-22 22:36:05
+	time_modified: 2025-10-29 23:40:17
 	card_color: blue
 	name: Congressional Kraken
 	casting_cost: 5UU
@@ -8270,7 +8374,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Congressional Kraken</nospellcheck></atom-cardname> enters, return each nonland permanent with mana value less than or equal to the number of colors among permanents you control to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
+		<kw-A><nospellcheck><key>Approval</key></nospellcheck> — When <atom-cardname><nospellcheck>Congressional Kraken</nospellcheck></atom-cardname> enters, return each nonland permanent with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck> to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.<blob></kw-A><moved><atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A></moved></blob>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -8547,9 +8651,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-02-25 21:05:44
+	time_modified: 2025-10-29 23:44:11
 	card_color: black
 	name: Judge, Jury, and Executioner
 	casting_cost: 3B
@@ -8566,7 +8672,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Judge, Jury, and Executioner</nospellcheck></atom-cardname> enters, exile up to one target creature with mana value less than or equal to the number of colors among permanents you control.
+		When <atom-cardname><nospellcheck>Judge, Jury, and Executioner</nospellcheck></atom-cardname> enters, exile up to one target creature with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -8831,26 +8937,30 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Ability was "Whenever a player casts a spell, if no mana from a basic source was spent to cast it, Flaw in the System deals 2 damage to that player." Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-03-16 10:16:44
+	time_modified: 2025-10-29 23:32:04
 	card_color: red, artifact, horizontal
 	name: Flaw in the System
 	casting_cost: 1R
-	image: image306
+	image: image1.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever a player casts a spell, if no mana from a basic source was spent to cast it, <atom-cardname><nospellcheck>Flaw in the System</nospellcheck></atom-cardname> deals 2 damage to that player.
+		Whenever a player spends one or more mana from a nonbasic source, <atom-cardname><nospellcheck>Flaw in the System</nospellcheck></atom-cardname> deals 1 damage to that player.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>It takes an entire community to raise a child, but just one child to raze a community.</i-flavor>
@@ -8859,7 +8969,7 @@ card:
 	watermark: custom watermark four
 	power: 2
 	toughness: 2
-	illustrator: Izzy Medrano
+	illustrator: Francisco Badilla
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8918,9 +9028,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2024-01-04 18:56:05
-	time_modified: 2024-02-26 01:24:16
+	time_modified: 2025-10-29 23:34:07
 	card_color: red
 	name: Penrath Firearm
 	casting_cost: 4R
@@ -8929,7 +9041,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
@@ -8954,7 +9072,7 @@ card:
 		dfc_type: transforming
 		front_style: 2 box saga
 		defaults: saga chapters use the "move loyalty costs" options
-		stripe_coordinate: 340,
+		stripe_coordinate: 320,
 		snap_chapter_to_box: 2,2,2,
 		front_font_cap: 13
 		back_stripe_coordinate: 
@@ -8978,14 +9096,14 @@ card:
 	notes:
 		Art Validated
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
-		 nerfed: Golden Age now has a third instance of its condition. Harmony no longer lets you mill three cards, and targets the card it exiles.
+		!update adjusted: Was {1}{G} with etb "you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle."
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-09-30 08:58:19
+	time_modified: 2025-10-29 23:51:31
 	card_color: green
 	card_color_2: green
 	name: Golden Age
 	name_2: Harmony
-	casting_cost: 1G
+	casting_cost: G
 	image: image49
 	image_2: image_21
 	mainframe_image: 
@@ -9004,7 +9122,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>For all of its faults, <error-spelling:en_US>Nylin</error-spelling:en_US> offers one thing in greater supply than all else: the potential to be greater than the sum of its parts.</i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
+	level_1_text: When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 	level_2_text: You’ve cast a multicolored spell this turn.
 	illustrator: Bastien Jez
 	illustrator_2: Terraform Studios
@@ -9016,8 +9134,8 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle.
-		You’ve cast a multicolored spell this turn.
+		When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+		{ql}, {ql}, {ql} — You’ve cast a multicolored spell this turn.
 
 card:
 	stylesheet: m15-altered
@@ -9030,9 +9148,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Was X/X with trample for {1}{G}. Approval now counts like party.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-08-26 22:10:51
+	time_modified: 2025-10-29 23:39:48
 	card_color: green
 	name: Chromagoyf
 	casting_cost: 1G
@@ -9047,9 +9167,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Chromagoyf</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of colors among permanents you control.
+	rule_text: <atom-cardname><nospellcheck>Chromagoyf</nospellcheck></atom-cardname>’s power is equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck> and its toughness is equal to that number plus 1.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Drawing power from <error-spelling:en_US>Nylin’s</error-spelling:en_US> <error-spelling:en_US>leylines</error-spelling:en_US>, the once-thriving <error-spelling:en_US>Chromagoyf</error-spelling:en_US> now faces extinction.</i-flavor>
@@ -9076,9 +9194,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-06-22 00:37:15
+	time_modified: 2025-10-29 23:34:26
 	card_color: green
 	name: Aspiring Anarchist
 	casting_cost: G
@@ -9089,9 +9209,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Crocodile</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Crocodile</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
@@ -9371,9 +9493,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:38:06
-	time_modified: 2024-01-10 18:58:35
+	time_modified: 2025-10-29 23:34:24
 	name: Empowered Revisionary
 	casting_cost: 3GW
 	image: image440
@@ -9383,9 +9507,11 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
@@ -9680,27 +9806,39 @@ card:
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
-	has_styling: false
-	notes: Art Validated
+	has_styling: true
+	styling_data:
+		chop_top: 5,12,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		Art Validated
+		!renameof Exemplar of Grit
+		!update reworked: Was Exemplar of Grit, a 3/1 Human Survivor for {U}{B}{R} with "When ~ dies while attacking, return it to the battlefield tapped under its owner’s control with a defender counter on it." "When ~ dies while blocking, return it to the battlefield tapped under its owner’s control with a decayed counter on it.
 	time_created: 2023-02-27 20:38:10
-	time_modified: 2024-02-29 21:59:21
+	time_modified: 2025-10-30 00:04:22
 	card_color: blue, black, red, multicolor, horizontal
-	name: Exemplar of Grit
-	casting_cost: UBR
-	image: image61
+	name: Envoy of the Fallen
+	casting_cost: 1UBR
+	image: image4.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Exemplar of Grit</nospellcheck></atom-cardname> dies while attacking, return it to the battlefield tapped under its owner’s control with a <kw-0><nospellcheck><key>defender</key></nospellcheck></kw-0> counter on it.
-		When <atom-cardname><nospellcheck>Exemplar of Grit</nospellcheck></atom-cardname> dies while blocking, return it to the battlefield tapped under its owner’s control with a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on it.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Envoy of the Fallen</nospellcheck></atom-cardname> enters, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+		Sacrifice another creature: <atom-cardname><nospellcheck>Envoy of the Fallen</nospellcheck></atom-cardname> deals 1 damage to each opponent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -9708,8 +9846,8 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: custom watermark two
 	power: 3
-	toughness: 1
-	illustrator: Johannes Helgeson
+	toughness: 3
+	illustrator: Francisco Badilla
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9721,12 +9859,14 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update reworked: Was 3/3 for {B}{R}{G} that made a Treasure on attack and has "X, Sacrifice an artifact: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn."
 	time_created: 2023-02-27 20:38:10
-	time_modified: 2024-06-19 22:00:45
+	time_modified: 2025-10-30 00:06:17
 	card_color: black, red, green, multicolor, horizontal
 	name: Freightyard Scrappers
-	casting_cost: BRG
+	casting_cost: 4BRG
 	image: image23
 	image_2: 
 	mainframe_image: 
@@ -9739,16 +9879,17 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Freightyard Scrappers</nospellcheck></atom-cardname> attacks, create a <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
-		<sym-auto>X</sym-auto>, Sacrifice an artifact: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn.
+		As an additional cost to cast this spell, you may sacrifice a nonland permanent. If you do, it costs <sym-auto>X</sym-auto> less to cast, where X is that permanent’s mana value.
+		Ward–-Sacrifice a nonland permanent.
+		Whenever <atom-cardname><nospellcheck>Freightyard Scrappers</nospellcheck></atom-cardname> attacks, each opponent sacrifices a nonland permanent.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: custom watermark three
-	power: 3
-	toughness: 3
+	power: 7
+	toughness: 7
 	illustrator: Felipe de Barros
 	card_code_text: 
 	card_code_text_2: 
@@ -9768,12 +9909,14 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!reworked: Was a 3/2 for {R}{G}{W} with "Whenever Penrath Dispatcher attacks, you may put a creature card with mana value less than or equal to Penrath Dispatcher’s power from your hand onto the battlefield tapped and attacking.", "{2}: Penrath Dispatcher gets +1/+1 until end of turn."
 	time_created: 2023-02-27 20:38:10
-	time_modified: 2024-06-17 17:57:03
+	time_modified: 2025-10-30 00:11:41
 	card_color: white, red, green, multicolor, horizontal
 	name: Penrath Dispatcher
-	casting_cost: RGW
+	casting_cost: 1RGW
 	image: image449
 	image_2: 
 	mainframe_image: 
@@ -9781,21 +9924,25 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Penrath Dispatcher</nospellcheck></atom-cardname> attacks, you may put a creature card with mana value less than or equal to <atom-cardname><nospellcheck>Penrath Dispatcher</nospellcheck></atom-cardname>’s power from your hand onto the battlefield tapped and attacking.
-		<sym-auto>2</sym-auto>: <atom-cardname><nospellcheck>Penrath Dispatcher</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<margin:0:0:5>Whenever <atom-cardname><nospellcheck>Penrath Dispatcher</nospellcheck></atom-cardname> attacks, choose one. X is the number of attacking creatures.</margin:0:0:5>
+		<li><bullet>• </bullet>Search your library for a creature card with mana value X or less, reveal it, put it into your hand, then shuffle.
+		</li><li><bullet>• </bullet>You may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking.</li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: custom watermark four
-	power: 3
-	toughness: 2
+	power: 4
+	toughness: 4
 	illustrator: Liang Sinan
 	card_code_text: 
 	card_code_text_2: 
@@ -10086,9 +10233,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update reworked: Was {X}{W}{U}{B} instant with "As an additional cost to cast this spell, exile X cards from your graveyard." "You draw X cards and gain X life, then each opponent loses X life."
 	time_created: 2023-02-27 20:38:19
-	time_modified: 2024-08-23 03:02:39
+	time_modified: 2025-10-30 00:12:39
 	card_color: white, blue, black, multicolor, horizontal
 	name: Scandalous Revelation
 	casting_cost: XWUB
@@ -10096,16 +10245,16 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
-	rule_text:
-		As an additional cost to cast this spell, exile X cards from your graveyard.
-		You draw X cards and gain X life, then each opponent loses X life.
+	rule_text: Draw three cards, then discard X cards. When you do, destroy all nonland permanents with mana value X or less. You gain X life.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>Tragedy is brought by those you’d least expect upon those who least expect it.</i-flavor>
@@ -10397,9 +10546,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Can now play lands. Approval now counts like party.
 	time_created: 2023-02-27 20:47:18
-	time_modified: 2024-08-22 22:38:52
+	time_modified: 2025-10-29 23:43:00
 	card_color: blue
 	name: Gaze Upon Civilization
 	casting_cost: 3U
@@ -10416,7 +10567,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		You may look at the top card of your library any time.
-		<kw-A><i-auto><nospellcheck><key>Approval</key></nospellcheck></i-auto></kw-A> — Once during each of your turns, you may cast a spell with mana value less than or equal to the number of colors among permanents you control from your hand or the top of your library without paying its mana cost.
+		Once during each of your turns, you may play a land or cast a spell with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck> from your hand or the top of your library without paying its mana cost.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -10441,12 +10592,14 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update was 3/3 for {2}{B}{B} that let you only cast cards from your graveyard during your turn, exiling cards that touched your graveyard.
 	time_created: 2023-02-27 20:47:18
-	time_modified: 2024-08-23 02:13:28
+	time_modified: 2025-10-30 00:07:34
 	card_color: black
 	name: Old Times Ruminator
-	casting_cost: 2BB
+	casting_cost: 4B
 	image: image464
 	image_2: 
 	mainframe_image: 
@@ -10459,19 +10612,19 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		During your turn, you may play cards from your graveyard but not from anywhere else.
-		Whenever you cast an instant or sorcery spell, exile that card instead of putting it into your graveyard as it resolves.
-		If another permanent you control would be put into your graveyard, exile it instead.
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Old Times Ruminator</nospellcheck></atom-cardname> enters, create The Codex, a legendary colorless artifact token with “<sym-auto>T</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>” and “<sym-auto>T</sym-auto>, Sacrifice this token: Search your library for a card, put it into your graveyard, then shuffle.”
+		<atom-cardname><nospellcheck>Old Times Ruminator</nospellcheck></atom-cardname> gets +1/+1 for each card in your graveyard.
 	rule_text_2: 
 	rule_text_3: 
-	flavor_text: <i-flavor>“Back in my day . . .”</i-flavor>
+	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	level_1_text: 
 	level_2_text: <i-flavor></i-flavor>
 	level_3_text: 
-	power: 3
-	toughness: 3
+	power: 0
+	toughness: 1
 	illustrator: Borja Pindado
 	card_code_text: 
 	card_code_text_2: 
@@ -10485,12 +10638,14 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update reworked: Was 2/2 for {1}{R}{R} with "Whenever you cast an artifact spell, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it." "{2}, {T}: Add {R} for each artifact you control. Spend this mana only to cast artifact spells or activate abilities of artifacts."
 	time_created: 2023-02-27 20:47:18
-	time_modified: 2024-08-23 18:12:49
+	time_modified: 2025-10-30 00:14:05
 	card_color: red
 	name: Venture Capitalist
-	casting_cost: 1RR
+	casting_cost: 1R
 	image: image98
 	image_2: 
 	mainframe_image: 
@@ -10503,8 +10658,8 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		Whenever you cast an artifact spell, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it.
-		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Add <sym>R</sym> for each artifact you control. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+		When <atom-cardname><nospellcheck>Venture Capitalist</nospellcheck></atom-cardname> enters, you may search your library for an artifact card, exile it, then shuffle. You may play that card this turn.
+		<sym-auto>T</sym-auto>, Sacrifice an artifact: Add one mana of any color.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -10512,7 +10667,7 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: custom watermark three
 	power: 2
-	toughness: 2
+	toughness: 1
 	illustrator: Mariusz Gandzel
 	card_code_text: 
 	card_code_text_2: 
@@ -10723,6 +10878,7 @@ card:
 	notes:
 		Flag: Maybe too swingy
 		Art Validated
+		!update
 	time_created: 2023-02-27 20:47:50
 	time_modified: 2024-06-18 13:18:26
 	card_color: white, red, green, multicolor, horizontal
@@ -10929,9 +11085,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Was 3/3 without vigilance and "When High Senator Talpa enters, choose target opponent. If you control fewer creatures than that player, create a number of 1/1 colorless Soldier creature tokens equal to the difference. If you have fewer cards in hand than that player, draw cards equal to the difference."
 	time_created: 2023-02-27 20:49:25
-	time_modified: 2024-08-23 18:20:11
+	time_modified: 2025-10-29 23:54:09
 	name: High Senator Talpa
 	casting_cost: 2WU
 	image: image476
@@ -10945,14 +11103,19 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: mythic rare
-	rule_text: When <atom-legname><nospellcheck>High Senator Talpa</nospellcheck></atom-legname> enters, choose target opponent. If you control fewer creatures than that player, create a number of 1/1 colorless Soldier creature tokens equal to the difference. If you have fewer cards in hand than that player, draw cards equal to the difference.
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<margin:0:0:5>When <atom-cardname><nospellcheck>High Senator Talpa</nospellcheck></atom-cardname> enters or attacks, choose one —</margin:0:0:5>
+		<li><bullet>• </bullet>If an opponent has more life than you, gain 3 life.
+		</li><li><bullet>• </bullet>If an opponent controls more creatures than you, create a number of 1/1 colorless Soldier creature.
+		</li><li><bullet>• </bullet>If an opponent has more cards in hand than you, draw a card. </li>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	power: 3
-	toughness: 3
+	toughness: 4
 	illustrator: Joel Chaim Holtzman
 	card_code_text: 
 	card_code_text_2: 
@@ -11047,7 +11210,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update
 	time_created: 2023-09-02 22:02:47
 	time_modified: 2024-06-17 18:08:46
 	name: Estrathian Gentrifiers
@@ -11094,11 +11259,13 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update reworked: Was 2/2 for {3} with "Spend only mana of different colors to cast this spell.", "For each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay."
 	time_created: 2023-02-27 20:49:25
-	time_modified: 2024-06-01 10:45:41
+	time_modified: 2025-10-30 00:01:49
 	name: Tomer, Figurehead President
-	casting_cost: 3
+	casting_cost: 4
 	image: image43
 	image_2: 
 	mainframe_image: 
@@ -11111,17 +11278,17 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		Spend only mana of different colors to cast this spell.
-		For each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay.
+		<atom-cardname><nospellcheck>Tomer, Figurehead President</nospellcheck></atom-cardname> is all colors and all creature types.
+		Spells you cast have <kw-0><nospellcheck><key>conspire</key></nospellcheck></kw-0>. <i-auto>(As you cast a spell with <kw-0><nospellcheck><key>conspire</key></nospellcheck></kw-0>, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	power: 2
-	toughness: 2
+	power: 4
+	toughness: 4
 	illustrator: Brenda van Vugt
-	card_code_text: 
+	card_code_text: AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Stasis
@@ -11132,9 +11299,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update adjusted: Previously gave indestructible at max approval rather than ward. Previously had Equip {5}, discounted by the target’s colors rather than the attach condition.
 	time_created: 2023-02-27 20:49:25
-	time_modified: 2024-06-17 21:11:52
+	time_modified: 2025-10-29 23:55:39
 	name: The Majority Whip
 	casting_cost: 1
 	image: image94
@@ -11149,9 +11318,9 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		Equipped creature gets +2/+2.
-		As long as there are five colors among permanents you control, equipped creature has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
-		<kw-0><nospellcheck><key>Equip <param-name>5.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-0> ability costs <sym-auto>1</sym-auto> less to activate for each of its target’s colors.
+		Equipped creature gets +2/+2 and has <kw-0><nospellcheck><key>ward <param-cost><sym-auto>X</sym-auto></param-cost></key></nospellcheck></kw-0>, where X is the number of colors it is.
+		Whenever a legendary creature you control attacks, you may attach <atom-cardname><nospellcheck>The Majority Whip</nospellcheck></atom-cardname> to it.
+		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -11173,6 +11342,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Tiril Bureau
+		!update
 		!related Eager Voter;Magnetic Rhetorician;Informed Voter;Election Fraud;Lofty Voter;Estranged Aristocrat;Congressional Hall;Interrogation Chamber;Executive Office;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Minister of Utility;Ballot Registrar;Killing in the Name of;Mellan, Defense Attorney;Demographer;Corrupt Congressman;Incumbency;
 		Art Validated
 		!tokentag Tiril Bureau
@@ -11213,6 +11383,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Hazakh Arsenal
+		!update
 		!related Informed Voter;Election Fraud;Lofty Voter;Estranged Aristocrat;Ardent Voter;Declamation Podium;Congressional Hall;Interrogation Chamber;Executive Office;Neglected Slums;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Ballot Registrar;Killing in the Name of;Gubernatorial Fundraiser;Demographer;Corrupt Congressman;
 		Art Validated
 		!tokentag Hazakh Arsenal
@@ -11252,6 +11423,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Vishanki Inc
+		!update
 		!related Lofty Voter;Estranged Aristocrat;Ardent Voter;Declamation Podium;Obstinate Voter;International Development;Interrogation Chamber;Executive Office;Neglected Slums;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Killing in the Name of;Gubernatorial Fundraiser;Grassroots Campaigners;Corrupt Congressman;
 		Art Validated
 		!tokentag Vishanki Inc.
@@ -11291,6 +11463,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Penrath Insurgency
+		!update
 		!related Eager Voter;Magnetic Rhetorician;Ardent Voter;Declamation Podium;Obstinate Voter;International Development;Congressional Hall;Executive Office;Neglected Slums;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Minister of Utility;Gubernatorial Fundraiser;Grassroots Campaigners;Mellan, Defense Attorney;Incumbency;
 		Art Validated
 		!tokentag Penrath Insurgency
@@ -11330,6 +11503,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Sillaman Laboratories
+		!update
 		!related Eager Voter;Magnetic Rhetorician;Informed Voter;Election Fraud;Obstinate Voter;International Development;Congressional Hall;Interrogation Chamber;Neglected Slums;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Minister of Utility;Ballot Registrar;Grassroots Campaigners;Mellan, Defense Attorney;Demographer;Incumbency;
 		Art Validated
 		!tokentag Sillaman Laboratories
@@ -11422,6 +11596,7 @@ card:
 		!!exportname CNY Minion
 		!related Hazakh Conscriptor;Merciless Headsman;The First Battalion2>;Hazakh Agenda2>;CNY Hazakh Arsenal;
 		Art Validated
+		!update
 	time_created: 2022-08-30 16:07:31
 	time_modified: 2024-06-18 17:10:59
 	name: Minion
@@ -11457,6 +11632,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Treasure
+		!update
 		!related Deadly Dispute;Resourceful Hireling;Invest;Debt Collectors;Noxious Conditions;Gubernatorial Fundraiser;Coercive Contractor;Sustainable Investments;Liquidate;Meeting of the Elites;Sola, Contraband Playboy;Black-Tie Gala;Subsidized Market;Dhante's Inferno;Freightyard Scrappers;Vishanki Agenda2>;Chief Executive Dhante;CNY Vishanki Inc.;
 		Art Validated
 	time_created: 2022-08-30 16:11:23
@@ -11493,6 +11669,7 @@ card:
 	notes:
 		!related Enforcer's Baton;Border Junction3>;Flags on High2>;Prismatic Propagandist;Together in Arms2>;Mondo, Outcast Maverick;Sparks of a Revolution;Freedom;Empowered Revisionary;High Senator Talpa;
 		Art Validated
+		!update
 	time_created: 2023-03-24 10:54:13
 	time_modified: 2023-07-23 23:27:06
 	card_color: colorless
@@ -11529,6 +11706,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Robot
+		!update
 		!related Resourceful Hireling;Prosperity Project;Social Engineering;Central Processor;Subsidized Market;Severin, Sparkmind;
 		Art Validated
 	time_created: 2022-08-30 16:07:31
@@ -11567,6 +11745,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Sentry of the New World
+		!update
 		!related The Quindral Accords;
 		Art Validated
 	time_created: 2023-03-24 10:54:13
@@ -11606,6 +11785,7 @@ card:
 	notes:
 		!!exportname CNY Berserker
 		!related Penrath Agenda;
+		!update
 		Art Validated
 	time_created: 2023-03-24 10:54:13
 	time_modified: 2023-09-13 17:11:11
@@ -11682,6 +11862,7 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Equipment
+		!update
 		!related Penrath Firearm;
 		Art Validated
 	time_created: 2022-08-30 16:07:31
@@ -11732,13 +11913,14 @@ card:
 	notes:
 		!!exportname Chromatic Rift Promo
 		Art Validated
+		!update
 		
 		!promo!design Stasis
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-09-30 09:08:45
+	time_modified: 2025-10-29 23:48:49
 	card_color: white
 	name: Chromatic Rift
-	casting_cost: 3WW
+	casting_cost: 2WW
 	image: image110
 	image_2: 
 	mainframe_image: 
@@ -11751,7 +11933,7 @@ card:
 	sub_type_3: 
 	rarity: special
 	rule_text:
-		Choose any number —
+		Choose one —
 		<li><bullet>• </bullet>Destroy all multicolored creatures.
 		</li><li><bullet>• </bullet>Destroy all monocolored creatures.
 		</li><li><bullet>• </bullet>Destroy all colorless creatures.</li>
@@ -11880,10 +12062,10 @@ card:
 		overlay: 
 	notes:
 		!!exportname Gaze Upon Civilization Promo
-		
+		!update
 		!promo!design Stasis
 	time_created: 2023-02-27 20:47:18
-	time_modified: 2024-09-30 09:07:21
+	time_modified: 2025-10-29 23:43:17
 	card_color: blue
 	name: Gaze Upon Civilization
 	casting_cost: 3U
@@ -11900,7 +12082,7 @@ card:
 	rarity: special
 	rule_text:
 		You may look at the top card of your library any time.
-		<i><kw-A><i-auto><nospellcheck><key>Approval</i></key></nospellcheck></i-auto></kw-A> — Once during each of your turns, you may cast a spell with mana value less than or equal to the number of colors among permanents you control from your hand or the top of your library without paying its mana cost.
+		Once during each of your turns, you may play a land or cast a spell with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck> from your hand or the top of your library without paying its mana cost.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -12630,9 +12812,9 @@ card:
 	has_styling: false
 	notes:
 		Art Validated
-		 adjusted was {4}{W} with "Whenever you attack, you may tap or untap target creature."
+		!update 101: Changed from Rogue to Rebel.
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2024-09-14 15:27:19
+	time_modified: 2025-10-29 23:34:00
 	card_color: white
 	name: Penrath Roperunner
 	casting_cost: 5W
@@ -12641,7 +12823,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
@@ -13047,6 +13235,35 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !update
+	time_created: 2025-10-30 00:07:46
+	time_modified: 2025-10-30 00:15:27
+	name: The Codex
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Legendary Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>T</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>, Sacrifice this token: Search your library for a card, put it into your graveyard, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Joshua Cairos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
 keyword:
 	keyword: Pledge
 	match: Make a pledge
@@ -13061,10 +13278,10 @@ keyword:
 	mode: custom
 keyword:
 	keyword: Approval
-	match: Approval
-	reminder: 
+	match: approval
+	reminder: Your approval contains up to one different permanent of each color.
 	rules: 
-	mode: pseudo
+	mode: action
 pack_type:
 	name: custom pack
 	enabled: true
