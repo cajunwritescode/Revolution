@@ -11940,9 +11940,7 @@ card:
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
+	has_styling: false
 	notes:
 		!tag Twiltrie
 		!tag Sunvrath
@@ -11950,7 +11948,7 @@ card:
 		TWI !update !promo
 		!design Zangy
 	time_created: 2025-06-10 00:03:32
-	time_modified: 2025-10-29 21:42:23
+	time_modified: 2025-10-30 13:42:57
 	name: Sunvrath Charm
 	casting_cost: RW
 	image: image8
@@ -11970,7 +11968,7 @@ card:
 		Choose one —
 		<li><bullet>• </bullet>You may discard a card. If you do, draw two cards.
 		</li><li><bullet>• </bullet>Return target creature card with mana value 2 or less from your graveyard to the battlefield.
-		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Sunvrath Charm</nospellcheck></atom-cardname> deals 2 damage to target attacking or blocking creature. You gain 2 life.</li>
+		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Sunvrath Charm</nospellcheck></atom-cardname> deals 2 damage to any target. You gain 2 life.</li>
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -12080,9 +12078,7 @@ card:
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
+	has_styling: false
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
@@ -12090,11 +12086,11 @@ card:
 		TWI !update !promo
 		!design Zangy
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-10-29 21:43:19
+	time_modified: 2025-10-30 14:34:21
 	card_color: blue, black, multicolor, horizontal
 	name: Witchery
 	casting_cost: UU/BB
-	image: image11
+	image: image329.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12109,7 +12105,7 @@ card:
 	rarity: special
 	rule_text:
 		Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
-		At the beginning of each end step, if you’ve spent four or more mana to cast instant and/or sorcery spells this turn, create a 4/4 Horror creature token.
+		At the beginning of each end step, if you’ve spent four or more mana to cast instant and/or sorcery spells this turn, create a 4/4 black Horror creature token.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -12218,9 +12214,7 @@ card:
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
+	has_styling: false
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
@@ -12228,7 +12222,7 @@ card:
 		!tag GildedNoon
 		TWI !update !promo
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-10-29 21:42:39
+	time_modified: 2025-10-30 14:30:42
 	card_color: blue, red, multicolor, horizontal
 	name: Trickery
 	casting_cost: UU/RR
@@ -12246,7 +12240,7 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		Whenever you attack, create a token that’s a copy of target attacking creature, except it’s 1/1 and it has “At the beginning of your end step, exile this token.”
+		Whenever you attack, create a tapped and attacking token that’s a copy of target attacking creature, except it’s 1/1 and it has “At the beginning of your end step, exile this token.”
 		Triggered abilities you control can’t cause you to sacrifice or exile creature tokens you control.
 	rule_text_2: 
 	rule_text_3: 
@@ -12319,10 +12313,10 @@ card:
 		!design Zangy
 		!update
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-10-29 21:59:14
+	time_modified: 2025-10-30 14:33:37
 	name: Reaper of Blossoms
 	casting_cost: 1G
-	image: image43.png
+	image: image53.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 

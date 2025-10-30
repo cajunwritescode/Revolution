@@ -5795,9 +5795,9 @@ card:
 		Art Validated
 		!update adjusted: Was 2/1. Approval now counts like party.
 	time_created: 2023-02-27 20:16:04
-	time_modified: 2025-10-30 00:37:54
+	time_modified: 2025-10-30 13:25:22
 	card_color: green
-	name: Cabinet Recruiter 
+	name: Cabinet Recruiter
 	casting_cost: 2G
 	image: image91
 	image_2: 
@@ -5810,7 +5810,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Cabinet Recruiter </nospellcheck></atom-cardname>enters, you may search your library for a creature card with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>, reveal it, put it into your hand, then shuffle.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Cabinet Recruiter</nospellcheck></atom-cardname> enters, you may search your library for a creature card with mana value less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>, reveal it, put it into your hand, then shuffle.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -6786,7 +6786,7 @@ card:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Security Initiative</nospellcheck></atom-cardname> enters, you may tap or untap target nonland permanent. Then draw a card.
-		{ql}, {ql} — An opponent controls three or more tapped nonland permanents.
+		An opponent controls three or more tapped nonland permanents.
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6853,7 +6853,7 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Silence the Opposition</nospellcheck></atom-cardname> enters, draw two cards, then discard a card.
-		{ql}, {ql}, {ql} — A creature card or creature token was put into your graveyard from anywhere this turn. 
+		A creature card or creature token was put into your graveyard from anywhere this turn. 
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -6920,7 +6920,7 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		{ql}, {ql} — When <atom-cardname><nospellcheck>Meeting of the Elites</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Meeting of the Elites</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 		You’ve sacrificed a nonland permanent this turn.
 
 card:
@@ -6985,8 +6985,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Free Market</nospellcheck></atom-cardname> enters, target creature gets +2/+2 until end of turn.
-		{ql} — You control a creature with power 4 or greater.
-		{ql}, {ql} — You control a creature with toughness 4 or greater.
+		You control a creature with power 4 or greater.
+		You control a creature with toughness 4 or greater.
 
 card:
 	stylesheet: m15-mainframe-dfc
@@ -7052,8 +7052,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Together in Arms</nospellcheck></atom-cardname> enters, create two 1/1 colorless Soldier creature tokens.
-		{ql} — You controlled a spell that targeted a creature you controlled this turn.
-		{ql} — You controlled an ability that targeted a creature you controlled this turn.
+		You controlled a spell that targeted a creature you controlled this turn.
+		You controlled an ability that targeted a creature you controlled this turn.
 
 card:
 	stylesheet: m15-altered
@@ -7942,7 +7942,7 @@ card:
 		!update adjusted: Was {2}{W}. Policy effects changed from three creatures. Equality changed from "At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control."
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-30 00:51:37
+	time_modified: 2025-10-30 12:20:41
 	card_color: white
 	card_color_2: white
 	name: Distributive Justice
@@ -7963,12 +7963,12 @@ card:
 	rarity: rare
 	chapter_text: <i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 	rule_text: 
-	rule_text_2: Whenever you attack, draw a card if you control two or more attacking creatures with the same power or the same toughness
+	rule_text_2: Whenever you attack, draw a card if you control two or more attacking creatures with the same power or the same toughness.
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor>The biggest myth we comfort ourselves with is that we are born equal. Justice is not to be assumed, but to be fought for.</i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute two +1/+1 counters among one or two target creatures you control.
+	level_1_text: When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute up to two +1/+1 counters among one or two target creatures you control.
 	level_2_text: You control two or more creatures with the same power.
 	level_3_text: You control two or more creatures with the same toughness.
 	illustrator: A Dan
@@ -7981,9 +7981,9 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute two +1/+1 counters among one or two target creatures you control.
-		{ql} — You control two or more creatures with the same power.
-		{ql} — You control two or more creatures with the same toughness.
+		When <atom-cardname><nospellcheck>Distributive Justice</nospellcheck></atom-cardname> enters, distribute up to two +1/+1 counters among one or two target creatures you control.
+		You control two or more creatures with the same power.
+		You control two or more creatures with the same toughness.
 
 card:
 	stylesheet: m15-altered
@@ -8277,8 +8277,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-		{ql} — You’ve cast two or more spells this turn.
-		{ql} — You’ve drawn two or more cards this turn.
+		You’ve cast two or more spells this turn.
+		You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-altered
@@ -8567,9 +8567,9 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Ascend to Power</nospellcheck></atom-cardname> enters, you may sacrifice a creature, discard a card, or pay 3 life. If you do, draw two cards.
-		{ql} — You’ve sacrificed a nonland permanent this turn.
+		You’ve sacrificed a nonland permanent this turn.
 		You’ve discarded a card this turn.
-		{ql} — You’ve lost life this turn.
+		You’ve lost life this turn.
 
 card:
 	stylesheet: m15-altered
@@ -8866,8 +8866,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		{ql} — Three or more sources you controlled dealt damage this turn.
-		{ql} — A source you controlled dealt 3 or more damage this turn.
+		Three or more sources you controlled dealt damage this turn.
+		A source you controlled dealt 3 or more damage this turn.
 
 card:
 	stylesheet: m15-altered
@@ -9165,7 +9165,7 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-		{ql}, {ql}, {ql} — You’ve cast a multicolored spell this turn.
+		You’ve cast a multicolored spell this turn.
 
 card:
 	stylesheet: m15-altered
@@ -12199,8 +12199,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-		{ql} — Three or more sources you controlled dealt damage this turn.
-		{ql} — A source you controlled dealt 3 or more damage this turn.
+		Three or more sources you controlled dealt damage this turn.
+		A source you controlled dealt 3 or more damage this turn.
 
 card:
 	stylesheet: m15-altered
