@@ -1,0 +1,70 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.3946169694,0.6520209124)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4994318842,0.4941997741)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6053830306,0.6488265452)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5005681158,0.8066476835)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rhombus
+	combine: overlap
+	point:
+		position: (0.5010593220,0.3432203390)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7097457627,0.6546610169)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5010593220,0.9661016949)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2923728814,0.6546610169)
+		lock: free
+		line_after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.4533898305)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: 
+		combine: merge
+		point:
+			position: (0.9705845744,0.0515202533)
+			lock: free
+			line_after: curve
+			handle_before: (-0.4805991618,0.4542924673)
+			handle_after: (-0.3547398370,0.8158029715)
+		point:
+			position: (0.7092927913,0.6440493434)
+			lock: free
+			line_after: curve
+			handle_before: (0.2849355100,-0.6454002236)
+			handle_after: (0.0102187239,0.0150969720)
+		point:
+			position: (0.5729656666,0.4302186087)
+			lock: direction
+			line_after: curve
+			handle_before: (-0.0122728134,0.0117187743)
+			handle_after: (0.4528152617,-0.4323735483)

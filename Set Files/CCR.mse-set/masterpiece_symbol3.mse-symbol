@@ -1,0 +1,265 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.5062682371,0.7284867407)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5325465002,0.8085877473)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6175847458,0.8085877473)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5487873599,0.8580928919)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5750656230,0.9381938984)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5062682371,0.8886887538)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4374708513,0.9381938984)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4637491143,0.8580928919)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3949517285,0.8085877473)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4799899741,0.8085877473)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.8388953558,0.5081477577)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8651736188,0.5882487642)
+		lock: free
+		line_after: line
+	point:
+		position: (0.9502118644,0.5882487642)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8814144786,0.6377539088)
+		lock: free
+		line_after: line
+	point:
+		position: (0.9076927416,0.7178549154)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8388953558,0.6683497708)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7700979699,0.7178549154)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7963762330,0.6377539088)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7275788471,0.5882487642)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8126170927,0.5882487642)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.1609292541,0.5102664017)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1872075171,0.5903674083)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2722457627,0.5903674083)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2034483769,0.6398725529)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2297266399,0.7199735594)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1609292541,0.6704684148)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0921318682,0.7199735594)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1184101313,0.6398725529)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0496127454,0.5903674083)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1346509910,0.5903674083)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.7350817965,0.1034867407)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7613600595,0.1835877473)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8463983051,0.1835877473)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7776009192,0.2330928919)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8038791823,0.3131938984)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7350817965,0.2636887538)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6662844106,0.3131938984)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6925626737,0.2330928919)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6237652878,0.1835877473)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7088035334,0.1835877473)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.2880478981,0.1119613170)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3143261612,0.1920623235)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3993644068,0.1920623235)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3305670209,0.2415674681)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3568452840,0.3216684747)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2880478981,0.2721633301)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2192505123,0.3216684747)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2455287754,0.2415674681)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1767313895,0.1920623235)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2617696351,0.1920623235)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.5042372881,0.1588983051)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5825098273,0.3974874827)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8358050847,0.3974874827)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6308849169,0.5449437038)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7091574560,0.7835328815)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5042372881,0.6360766603)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2993171203,0.7835328815)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3775896594,0.5449437038)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1726694915,0.3974874827)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4259647490,0.3974874827)
+		lock: free
+		line_after: line

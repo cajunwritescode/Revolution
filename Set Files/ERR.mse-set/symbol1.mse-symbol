@@ -1,0 +1,221 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: difference
+	point:
+		position: (0.7996792702,0.3934662888)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8707308985,0.4650403555)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8011730026,0.5340905295)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7301213743,0.4625164628)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: difference
+	point:
+		position: (0.4968093435,0.0951079406)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5703927493,0.1661374636)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5003497474,0.2386988776)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4267663416,0.1676693546)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: difference
+	point:
+		position: (0.1967417873,0.2982145458)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2692598310,0.3703314238)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1981445764,0.4418422724)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1256265327,0.3697253945)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.1954148232,0.2053243741)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3628785931,0.3692985379)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2008919949,0.5347324440)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0334282250,0.3707582801)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.8023694106,0.2972555200)
+		lock: free
+		line_after: line
+	point:
+		position: (0.9705025369,0.4645954117)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8041646804,0.6317217528)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6360315541,0.4643818611)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.4997095374,0.0046050760)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6630085604,0.1687436283)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4988700081,0.3320426513)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3355709851,0.1679040990)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.5681818182,0.9332386364)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4318181819,0.9332386364)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7332509042,0.6321022727)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8696145405,0.6321022727)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.7343750000,0.5568181818)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8678977273,0.5568181818)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8678977273,0.6321022727)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7343750000,0.6321022727)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.2684659091,0.5397727273)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1321022727,0.5397727273)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4354442790,0.8366477273)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5718079154,0.8366477273)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.2656250000,0.5397727272)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1321022727,0.5397727272)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1321022727,0.4644886363)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2656250000,0.4644886363)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Square
+	combine: merge
+	point:
+		position: (0.4343750000,0.2596590909)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4343750000,0.9931818182)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5670454545,0.9931818182)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5670454545,0.2596590909)
+		lock: free
+		line_after: line
