@@ -9126,7 +9126,7 @@ card:
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 		!update adjusted: Was {1}{G} with etb "you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle."
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-30 00:51:50
+	time_modified: 2025-10-30 19:13:04
 	card_color: green
 	card_color_2: green
 	name: Golden Age
@@ -9147,7 +9147,7 @@ card:
 	rarity: rare
 	chapter_text: <i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 	rule_text: 
-	rule_text_2: At the beginning of your upkeep, you may exile target multicolored card from your graveyard. You may cast a copy of it this turn. <i-auto>(You still pay its costs. A copy of a permanent spell becomes a token.)</i-auto>
+	rule_text_2: At the beginning of your upkeep, you may exile target multicolored card from your graveyard. If you do, you may cast a copy of it this turn. <i-auto>(You still pay its costs. A copy of a permanent spell becomes a token.)</i-auto>
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>For all of its faults, <error-spelling:en_US>Nylin</error-spelling:en_US> offers one thing in greater supply than all else: the potential to be greater than the sum of its parts.</i-flavor>
@@ -9165,7 +9165,7 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-		You’ve cast a multicolored spell this turn.
+		{ql}, {ql}, {ql} — You’ve cast a multicolored spell this turn.
 
 card:
 	stylesheet: m15-altered
@@ -13120,8 +13120,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-		{ql} — You’ve cast two or more spells this turn.
-		{ql} — You’ve drawn two or more cards this turn.
+		You’ve cast two or more spells this turn.
+		You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-art-lair
