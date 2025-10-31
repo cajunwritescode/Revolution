@@ -246,7 +246,7 @@ card:
 	rule_text: <atom-cardname><nospellcheck>Bring Down the Sky</nospellcheck></atom-cardname> deals X damage to each creature and each planeswalker. Put up to X exiled cards with flashback you own into your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Mus Musaoy
-	custom_card_number: Story Spotlight
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: Story Spotlight
 	card_code_text_3: Story Spotlight
