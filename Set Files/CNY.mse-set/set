@@ -1333,7 +1333,7 @@ card:
 		!update adjusted: Was 4/3. Now exiles on death and returns cards with higher mv to hand. Approval now counts like party
 		!!exportname Senators' Chauffeur
 	time_created: 2023-02-27 20:06:32
-	time_modified: 2025-10-30 00:54:41
+	time_modified: 2025-10-31 22:49:16
 	card_color: black
 	name: Senators’ Chauffeur
 	casting_cost: 5B
@@ -1349,7 +1349,7 @@ card:
 	sub_type_3: 
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Senators’ Chauffeur</nospellcheck></atom-cardname> enters, choose up to one target creature card in your graveyard. Return it to the battlefield if its mana value less is than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>. Otherwise, return it to your hand.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Senators’ Chauffeur</nospellcheck></atom-cardname> enters, choose up to one target creature card in your graveyard. Return it to the battlefield if its mana value is less than or equal to your <kw-A><nospellcheck><key>approval</key></nospellcheck>. Otherwise, return it to your hand.<atom-reminder-action> <i-auto>(Your approval contains up to one different permanent of each color.)</i-auto></atom-reminder-action></kw-A>
 		When <atom-cardname><nospellcheck>Senators’ Chauffeur</nospellcheck></atom-cardname> dies, exile it.
 	rule_text_2: 
 	rule_text_3: 
@@ -9165,7 +9165,7 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Golden Age</nospellcheck></atom-cardname> enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-		{ql}, {ql}, {ql} — You’ve cast a multicolored spell this turn.
+		You’ve cast a multicolored spell this turn.
 
 card:
 	stylesheet: m15-altered

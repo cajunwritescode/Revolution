@@ -45344,7 +45344,7 @@
       "Skeleton",
       "Pilot"
      ],
-     "text": "When Senators' Chauffeur enters, choose up to one target creature card in your graveyard. Return it to the battlefield if its mana value less is than or equal to your approval. Otherwise, return it to your hand. (Your approval contains up to one different permanent of each color.)\nWhen Senators' Chauffeur dies, exile it.",
+     "text": "When Senators' Chauffeur enters, choose up to one target creature card in your graveyard. Return it to the battlefield if its mana value is less than or equal to your approval. Otherwise, return it to your hand. (Your approval contains up to one different permanent of each color.)\nWhen Senators' Chauffeur dies, exile it.",
      "toughness": "3",
      "type": "Creature — Skeleton Pilot",
      "types": [
