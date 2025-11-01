@@ -2411,7 +2411,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		<kw-A><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this becomes the target of a spell or ability an opponent controls, counter it unless its controller pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever <atom-cardname><nospellcheck>Wall Scaler</nospellcheck></atom-cardname> deals damage to a player, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -3731,7 +3731,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		Equipped creature has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>. <i-auto>(Whenever it becomes the target of a spell or ability an opponent controls, counter it unless its controller pays <sym-auto>2</sym-auto>.)</i-auto>
+		Equipped creature has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck></kw-0>. <i-auto>(Whenever it becomes the target of a spell or ability an opponent controls, counter it unless its controller pays <sym-auto>2</sym-auto>.)</i-auto>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>A <error-spelling:en_US>Justiciar</error-spelling:en_US> agent is prepared for any scenario, no matter how unlikely.</i-flavor>
 	illustrator: Stephen Noble
@@ -4386,7 +4386,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname> enters, create a <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> <kw-1><nospellcheck><key>Gadget</key></nospellcheck>, then attach it to <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment artifact token with equip <sym>2</sym> that grants that ability.)</i-auto></atom-reminder-custom></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname> enters, create a <kw-0><nospellcheck><key>ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck></kw-0> <kw-1><nospellcheck><key>Gadget</key></nospellcheck>, then attach it to <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment artifact token with equip <sym>2</sym> that grants that ability.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor>Invention and magic working in perfect harmony.</i-flavor>
 	power: 3
 	toughness: 4
@@ -5663,7 +5663,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		Equipped creature has <kw-0><nospellcheck><key>ward <param-cost><sym-auto>X</sym-auto></param-cost></key></nospellcheck></kw-0>, where X is the number of permanents attached to it. <i-auto>(Multiple instances of <kw-0><nospellcheck><key>ward <param-cost>trigger</param-cost></key></nospellcheck></kw-0> separately.)</i-auto>
+		Equipped creature has <kw-0><nospellcheck><key>ward <param-mana><sym-auto>X</sym-auto></param-mana></key></nospellcheck></kw-0>, where X is the number of permanents attached to it. <i-auto>(Multiple instances of <kw-0><nospellcheck><key>ward <param-cost>trigger</param-cost></key></nospellcheck></kw-0> separately.)</i-auto>
 		<sym-auto>1</sym-auto>: Equipped creature can’t be blocked this turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -7479,7 +7479,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		This spell can’t be countered.
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-0>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-mana><sym-auto>4</sym-auto></param-mana></key></nospellcheck></kw-0>
 		Your opponents play with cards they own from outside the game revealed.
 		You may cast spells any player owns from outside the game or from the command zone.
 	flavor_text: <i-flavor></i-flavor>
@@ -7937,7 +7937,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: common
 	rule_text:
-		Equipped creature has <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>.
+		Equipped creature has <kw-0><nospellcheck><key>ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck></kw-0>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Shadowverse (Uncredited)
@@ -9644,7 +9644,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2020-12-05 21:33:40
-	time_modified: 2025-10-31 19:47:56
+	time_modified: 2025-10-31 20:44:13
 	name: Monument to Vanity
 	casting_cost: BR
 	image: image308
@@ -9657,7 +9657,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Endgame</key></nospellcheck><atom-reminder-expert> <i-auto>(If you control eight or more tapped permanents, enter your endgame for the rest of the game.)</i-auto></atom-reminder-expert></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		Whenever you tap <atom-cardname><nospellcheck>Monument to Vanity</nospellcheck></atom-cardname> for mana, if you’re in your <kw-0><nospellcheck><key>endgame</key></nospellcheck></kw-0>, exile the top card of your library. You may play that card this turn.
+		<sym-auto>T</sym-auto>: Exile the top card of your library. You may play that card this turn. Active only if you’re in your <kw-0><nospellcheck><key>endgame</key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jon Plsek
 	card_code_text: 
