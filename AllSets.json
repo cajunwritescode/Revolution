@@ -40591,7 +40591,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "Vigilance\nWhen High Senator Talpa enters or attacks, choose one —\n• If an opponent has more life than you, gain 3 life.\n• If an opponent controls more creatures than you, create a number of 1/1 colorless Soldier creature.\n• If an opponent has more cards in hand than you, draw a card. ",
+     "text": "Vigilance\nWhen High Senator Talpa enters or attacks, choose one —\n• If an opponent has more life than you, gain 3 life.\n• If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature.\n• If an opponent has more cards in hand than you, draw a card. ",
      "toughness": "4",
      "type": "Legendary Creature — Human Advisor",
      "types": [

@@ -11119,7 +11119,7 @@ card:
 		Art Validated
 		!update adjusted: Was 3/3 without vigilance and "When High Senator Talpa enters, choose target opponent. If you control fewer creatures than that player, create a number of 1/1 colorless Soldier creature tokens equal to the difference. If you have fewer cards in hand than that player, draw cards equal to the difference."
 	time_created: 2023-02-27 20:49:25
-	time_modified: 2025-10-29 23:54:09
+	time_modified: 2025-10-31 23:14:54
 	name: High Senator Talpa
 	casting_cost: 2WU
 	image: image476
@@ -11137,7 +11137,7 @@ card:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		<margin:0:0:5>When <atom-cardname><nospellcheck>High Senator Talpa</nospellcheck></atom-cardname> enters or attacks, choose one —</margin:0:0:5>
 		<li><bullet>• </bullet>If an opponent has more life than you, gain 3 life.
-		</li><li><bullet>• </bullet>If an opponent controls more creatures than you, create a number of 1/1 colorless Soldier creature.
+		</li><li><bullet>• </bullet>If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature.
 		</li><li><bullet>• </bullet>If an opponent has more cards in hand than you, draw a card. </li>
 	rule_text_2: 
 	rule_text_3: 
