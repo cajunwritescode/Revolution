@@ -51,6 +51,10 @@ styling:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: POP
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
 card:
 	has_styling: false
 	notes: 
@@ -8088,14 +8092,14 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		hybrid_name: grey
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !design Purplemurasaki
 	time_created: 2023-04-24 22:42:51
-	time_modified: 2025-01-30 19:43:13
+	time_modified: 2025-11-28 23:04:56
 	name: Irrlicht
 	casting_cost: WB
 	image: image288
@@ -8114,7 +8118,8 @@ card:
 	toughness: 1
 	card_stamp: none
 	illustrator: Julia Yefremova ed. Cajun
-	custom_card_number: 277
+	partition_select: after main set N
+	custom_card_number: 
 	card_code_text: World Championship 2023 — Purplemurasaki
 	card_code_text_2: World Championship 2023 — Purplemurasaki
 	card_code_text_3: World Championship 2023 — Purplemurasaki
@@ -8130,14 +8135,14 @@ card:
 		chop_top: 
 		chop_bottom: 8
 		frames: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		hybrid_name: grey
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !design Epid
 	time_created: 2023-04-24 22:42:51
-	time_modified: 2025-01-30 19:43:11
+	time_modified: 2025-11-28 23:05:16
 	name: Music Master
 	casting_cost: U
 	image: image292
@@ -8156,7 +8161,8 @@ card:
 	toughness: 2
 	card_stamp: none
 	illustrator: CharuNikkoo
-	custom_card_number: 278
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: World Championship 2023 — Epid
 	card_code_text_2: World Championship 2023 — Epid
 	card_code_text_3: World Championship 2023 — Epid
@@ -8173,18 +8179,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://i.scdn.co/image/ab67616d0000b27339a755b54f6dfe08b1e9821a
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Magdalena Bay (Star)
 		!append  (Spend a different color of mana on each {Vp}.)
 	time_created: 2023-04-16 15:16:42
-	time_modified: 2025-01-30 19:42:27
+	time_modified: 2025-11-28 23:11:00
 	name: Mini Mix Vol. 3
 	alias: Magdalena Bay
 	image: image291
@@ -8201,7 +8207,8 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	card_stamp: none
 	illustrator: Magdalena Bay
-	custom_card_number: 291
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8218,17 +8225,17 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.deviantart.com/2blind2draw/art/Yaeji-698097763
-		!promo
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Yaeji, Resplendent Idol (Star)
 	time_created: 2023-04-30 08:56:19
-	time_modified: 2025-01-30 19:43:07
+	time_modified: 2025-11-28 23:05:42
 	name: Yaeji
 	alias: Yaeji, Resplendent Idol
 	casting_cost: 2W
@@ -8247,7 +8254,8 @@ card:
 	toughness: 3
 	card_stamp: none
 	illustrator: 2blind2draw (DeviantArt)
-	custom_card_number: 279
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8264,17 +8272,17 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.hiphopscriptures.com/j-dilla
-		!promo
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Farrah P, Ascendant Looper (Star)
 	time_created: 2023-04-30 09:12:30
-	time_modified: 2025-01-30 19:43:05
+	time_modified: 2025-11-28 23:06:07
 	name: J Dilla
 	alias: Farrah P, Ascendant Looper
 	casting_cost: 2U
@@ -8294,7 +8302,8 @@ card:
 	toughness: 2
 	card_stamp: none
 	illustrator: da illest
-	custom_card_number: 280
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8309,21 +8318,21 @@ card:
 	styling_data:
 		chop_top: 
 		chop_bottom: 
+		shrink_typeline_text: 1
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.artstation.com/artwork/nDLge
-		!promo
-		
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Chamille, AAA-Lister (Star)
 		!prepend (This card has no color. Spend a different color of mana on each {Vp}.)
 	time_created: 2023-04-30 09:19:03
-	time_modified: 2025-02-28 17:40:46
+	time_modified: 2025-11-28 23:09:11
 	name: Lady Gaga
 	alias: Chamille, AAA-Lister
 	casting_cost: VVV
@@ -8342,7 +8351,8 @@ card:
 	toughness: 3
 	card_stamp: none
 	illustrator: Tony Washington
-	custom_card_number: 288
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Star Chosen by AllWhoWander
 	card_code_text_2: Star Chosen by AllWhoWander
 	card_code_text_3: Star Chosen by AllWhoWander
@@ -8359,18 +8369,18 @@ card:
 		chop_bottom: 9
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.artstation.com/artwork/G8ZXnz
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname JJ Mack, Trendsetter (Star)
 		!prepend (This card is blue and red. Spend a nonblue, nonred color of mana on {Vp}.)
 	time_created: 2023-04-16 00:26:00
-	time_modified: 2025-01-30 19:42:52
+	time_modified: 2025-11-28 23:07:38
 	name: Charli XCX
 	alias: JJ Mack, Trendsetter
 	casting_cost: 1VUR
@@ -8392,7 +8402,8 @@ card:
 	toughness: 4
 	card_stamp: none
 	illustrator: Eoghan
-	custom_card_number: 285
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by HSquid
 	card_code_text_2: Star Chosen by HSquid
 	card_code_text_3: Star Chosen by HSquid
@@ -8409,18 +8420,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.artstation.com/artwork/3danav
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Mykian, Pop Paragon (Star)
 		!prepend (This card is green and blue. Spend a nongreen, nonblue color of mana on {Vp}.)
 	time_created: 2023-04-30 08:50:54
-	time_modified: 2025-01-30 19:42:43
+	time_modified: 2025-11-28 23:09:41
 	name: Dorian Electra
 	alias: Mykian, Pop Paragon
 	casting_cost: 2VGU
@@ -8439,7 +8450,8 @@ card:
 	toughness: 3
 	card_stamp: none
 	illustrator: MinJi K Yoon
-	custom_card_number: 287
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8456,19 +8468,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.artstation.com/artwork/Oy8Vk8
-		
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Sashanki, Destiny’s Chosen (Star)
 		!prepend (This card is green and white. Spend a nongreen, nonwhite color of mana on {Vp}.)
 	time_created: 2023-04-30 08:46:58
-	time_modified: 2025-02-28 18:24:13
+	time_modified: 2025-11-28 23:07:21
 	name: Beyoncé
 	alias: Sashanki, Destiny’s Chosen
 	casting_cost: VGW
@@ -8487,7 +8498,8 @@ card:
 	toughness: 4
 	card_stamp: none
 	illustrator: Heco Heio
-	custom_card_number: 284
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8502,20 +8514,21 @@ card:
 	styling_data:
 		chop_top: 
 		chop_bottom: 
+		shrink_typeline_text: 1.5
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.goutemesdisques.com/uploads/pics/Danny-L-Harle-Harlecore.jpg
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Galius, Bringer of Bass (Star)
 		!prepend (This card is black and green. Spend a nonblack, nongreen color of mana on {Vp}.)
 	time_created: 2023-04-30 08:44:20
-	time_modified: 2025-01-30 19:42:48
+	time_modified: 2025-11-28 23:09:28
 	name: Danny L Harle
 	alias: Galius, Bringer of Bass
 	casting_cost: 2VBG
@@ -8535,7 +8548,8 @@ card:
 	toughness: 5
 	card_stamp: none
 	illustrator: Danny L Harle
-	custom_card_number: 286
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8552,18 +8566,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.reddit.com/r/pcmusic/comments/cndxqp/oil_of_every_pearls_uninsides_background_render/
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Hyperloop Obelisk (Star)
 		!append  (Spend a different color of mana on each {Vp}.)
 	time_created: 2023-04-16 21:26:44
-	time_modified: 2025-01-30 19:42:25
+	time_modified: 2025-11-28 23:11:21
 	name: Oil of Every Pearl’s Un-Insides
 	alias: Hyperloop Obelisk
 	image: image300
@@ -8580,7 +8594,8 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	card_stamp: none
 	illustrator: SOPHIE
-	custom_card_number: 292
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8597,18 +8612,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3500/35006749_so.jpg
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Tree of Clues (Star)
 		!append  (Spend a different color of mana on each {Vp}.)
 	time_created: 2023-04-16 21:24:07
-	time_modified: 2025-01-30 19:42:35
+	time_modified: 2025-11-28 23:10:20
 	name: 1000 Gecs and the Tree of Clues
 	alias: Tree of Clues
 	image: image301
@@ -8625,7 +8640,8 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	card_stamp: none
 	illustrator: 100 Gecs
-	custom_card_number: 289
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8642,18 +8658,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.tinymixtapes.com/sites/default/files/1708/macintosh-plus-floral-shoppe.jpg
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Sunset Slums (Star)
 		!append  (Spend a different color of mana on each {Vp}.)
 	time_created: 2023-04-16 21:26:44
-	time_modified: 2025-01-30 19:42:31
+	time_modified: 2025-11-28 23:10:42
 	name: Floral Shoppe
 	alias: Sunset Slums
 	image: image302
@@ -8670,7 +8686,8 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	card_stamp: none
 	illustrator: Macintosh Plus
-	custom_card_number: 290
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8687,17 +8704,17 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.artstation.com/artwork/d8AW9e
-		!promo
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Xeon, BPM Savant (Star)
 	time_created: 2023-04-30 08:26:57
-	time_modified: 2025-01-30 19:43:00
+	time_modified: 2025-11-28 23:06:46
 	name: SOPHIE
 	alias: Xeon, BPM Savant
 	casting_cost: 2R
@@ -8716,7 +8733,8 @@ card:
 	toughness: 3
 	card_stamp: none
 	illustrator: John Dervishi
-	custom_card_number: 282
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by Requieum
 	card_code_text_2: Star Chosen by Requieum
 	card_code_text_3: Star Chosen by Requieum
@@ -8733,18 +8751,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://twitter.com/slayyyter/status/1580668344251752448
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Studio Excelsior (Star)
 		!append  (Spend a different color of mana on each {Vp}.)
 	time_created: 2023-04-16 21:26:44
-	time_modified: 2025-01-30 19:42:21
+	time_modified: 2025-11-28 23:11:40
 	name: Troubled Paradise
 	alias: Studio Excelsior
 	image: image304
@@ -8761,7 +8779,8 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	card_stamp: none
 	illustrator: Slayyyter, Dall-E
-	custom_card_number: 293
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Star Chosen by AllWhoWander
 	card_code_text_2: Star Chosen by AllWhoWander
 	card_code_text_3: Star Chosen by AllWhoWander
@@ -8778,17 +8797,17 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://static.stereogum.com/uploads/2016/07/AG-Cook-1000x1000.jpg
-		!promo
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Tozzenia, Chief Executive (Star)
 	time_created: 2023-04-30 10:39:05
-	time_modified: 2025-01-30 19:43:02
+	time_modified: 2025-11-28 23:06:27
 	name: A.G. Cook
 	alias: Tozzenia, Chief Executive
 	casting_cost: 1BBB
@@ -8807,7 +8826,8 @@ card:
 	toughness: 4
 	card_stamp: none
 	illustrator: A.G. Cook, Hannah Diamond
-	custom_card_number: 281
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8824,18 +8844,18 @@ card:
 		chop_bottom: 
 		frames: borderless art
 		other_options: godzilla style alias, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.artstation.com/artwork/W2LAr3
-		!promo 
+		!promo Hyperpopstar
 		!design platypeople
 		!exportname Venus, the Basilisk (Star)
 		!prepend (This card is green. Spend a nongreen color of mana on {Vp}.)
 	time_created: 2023-04-30 10:42:18
-	time_modified: 2025-10-30 13:36:38
+	time_modified: 2025-11-28 23:07:02
 	name: Caroline Polachek
 	alias: Venus, the Basilisk
 	casting_cost: 2VG
@@ -8852,7 +8872,8 @@ card:
 	toughness: 5
 	card_stamp: none
 	illustrator: Christian Orrillo
-	custom_card_number: 283
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Star Chosen by kayiu102
 	card_code_text_2: Star Chosen by kayiu102
 	card_code_text_3: Star Chosen by kayiu102
@@ -8868,16 +8889,18 @@ card:
 		chop_top: 7
 		chop_bottom: 7
 		frames: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: rare
 		hybrid_name: grey
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!foil !promo !design platypeople
+		!update !promo Chikyu Foil
+		!design platypeople
 		https://x.com/kuranaga15/status/1742880532642558391/photo/1
 	time_created: 2021-03-03 00:13:28
-	time_modified: 2025-01-30 19:43:46
+	time_modified: 2025-11-28 23:12:26
 	name: Acid Hydra
 	casting_cost: XGG
 	image: image75
@@ -8894,7 +8917,8 @@ card:
 	power: 0
 	toughness: 0
 	illustrator: kuranaga15
-	custom_card_number: 294
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: Foil Opened by AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8909,16 +8933,17 @@ card:
 	styling_data:
 		chop_top: 12
 		chop_bottom: 12
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: uncommon
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!imagine
-		 !promo !design platypeople
+		!promo Chikyu Foil
+		!update !design platypeople
 		twitter.com/oyasuminjyutsu/status/1566417619162320896
 	time_created: 2021-01-27 20:38:24
-	time_modified: 2025-02-28 18:32:28
+	time_modified: 2025-11-28 23:12:57
 	name: Emblazoned Hooligan
 	casting_cost: R
 	image: image307
@@ -8933,7 +8958,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: oyasuminjyutsu
-	custom_card_number: 295
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: Foil Opned by Silver
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8949,16 +8975,19 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: mythic
 		hybrid_name: grey
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		https://www.pixiv.net/en/artworks/118183705
-		!foil !promo !design platypeopleG
+		!promo Chikyu Foil
+		!design platypeople
+		!update
 	time_created: 2021-05-13 01:03:34
-	time_modified: 2025-03-31 11:38:36
+	time_modified: 2025-11-28 23:13:19
 	name: Top of the Charts
 	casting_cost: 2WB
 	image: image308
@@ -8979,8 +9008,199 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	card_stamp: none
 	illustrator: ribero
-	custom_card_number: 296
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: Foil Opened by DrChipmunk
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 360, 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		alt_rarity_color: mythic
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion;Kitsuo Mythmaker
+		!secret !update !design platypeople
+	time_created: 2025-11-19 20:26:49
+	time_modified: 2025-11-29 03:14:43
+	name: Real Virtuality
+	casting_cost: 2UU
+	image: image309
+	image_2: image310
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Draw three cards, then discard a card.
+		If it’s not an extra turn and you’ve <kw-A><nospellcheck><key>amped it up</key></nospellcheck> twice this turn, take an extra turn after this one.<atom-reminder-action> <i-auto>(You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</i-auto></atom-reminder-action></kw-A>
+		Exile Real <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Virtuality</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tanky.sg
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		alt_rarity_color: uncommon
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design platypeople
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 23:17:48
+	name: Rock On
+	casting_cost: R
+	image: image311
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Target creature gets +2/+0 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn. It gets an additional +1/+0 until end of turn for each time you’ve <kw-A><nospellcheck><key>amped it up</key></nospellcheck> this turn.<atom-reminder-action> <i-auto>(You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Peter Kovacs
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		alt_rarity_color: common
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design platypeople
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 23:17:16
+	name: Ensconce
+	casting_cost: G
+	image: image312
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>“It’s not the music that keeps me dancing. I just have to look at you and my heart begins its own beat.”</i-flavor>
+	illustrator: HoangLapArt
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!update !secret !design platypeople
+		!prepend (This card is red. Spend a nonred color of mana on {Vp}.)\n
+		!inpend > /replace/
+	time_created: 2020-12-21 00:55:42
+	time_modified: 2025-12-01 15:32:23
+	name: Lightvein Arrow
+	casting_cost: VR
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: > <atom-cardname><nospellcheck>Lightvein Arrow</nospellcheck></atom-cardname> deals 3 damage to any target. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Scott Uminga
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!update !secret !design platypeople
+		!inpend > /replace/
+	time_created: 2021-03-02 00:41:47
+	time_modified: 2025-11-28 23:22:21
+	name: Ozzen Enquirer
+	casting_cost: 1W
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Advisor</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> <kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		> Whenever you gain life, noncreature spells your opponents cast cost <sym-auto>1</sym-auto> more to cast until your next turn. This ability triggers only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Io Tikhaya
+	partition_select: after main set R
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 

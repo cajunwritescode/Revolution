@@ -40,6 +40,8 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
+	magic-m15-art-lair:
+		remove_from_autocount: no
 	magic-m15-champions-test:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -214,9 +216,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:43:48
 	card_color: white
@@ -253,9 +253,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:38:51
 	card_color: white
@@ -322,9 +320,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:33:57
 	card_color: white
@@ -472,9 +468,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:33:58
 	card_color: white
@@ -706,9 +700,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update adjusted: Was 2/2. Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:48:08
 	card_color: blue
@@ -752,9 +744,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update adjusted: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:44:33
 	name: Political Prisoner
@@ -1283,7 +1273,6 @@ card:
 	notes:
 		Changed: Now 1 mana less
 		Art Validated
-		!update nerfed: Approval now counts like party.
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:45:24
 	card_color: black
@@ -1330,7 +1319,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update adjusted: Was 4/3. Now exiles on death and returns cards with higher mv to hand. Approval now counts like party
 		!!exportname Senators' Chauffeur
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-31 22:49:16
@@ -1923,9 +1911,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:47:05
 	card_color: red
@@ -1969,9 +1955,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update adjusted: Was {4}{R}. Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:44:00
 	card_color: red
@@ -2213,9 +2197,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:34:16
 	card_color: red
@@ -2349,9 +2331,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:34:03
 	card_color: red
@@ -2536,9 +2516,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:46:55
 	card_color: green
@@ -2575,9 +2553,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:43:30
 	card_color: green
@@ -2662,7 +2638,6 @@ card:
 	notes:
 		Reprint
 		Art Validated
-		!update
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:30:08
 	card_color: green
@@ -2884,9 +2859,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:34:19
 	card_color: green
@@ -3345,9 +3318,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:07:30
 	time_modified: 2025-10-29 23:33:52
 	name: Trailblazer Anarch
@@ -3385,9 +3356,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update nerfed: No longer checks all permanents.
+	notes: Art Validated
 	time_created: 2023-02-27 20:07:30
 	time_modified: 2025-10-29 23:56:08
 	name: Pinnacle of Progress
@@ -3547,9 +3516,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:07:33
 	time_modified: 2025-10-29 23:34:10
 	name: Mutinous Inciter
@@ -4298,9 +4265,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-29 23:44:48
 	card_color: white
@@ -4428,9 +4393,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-29 23:34:22
 	card_color: white
@@ -4650,9 +4613,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update adjusted: Was {U}, Counter target noncreature spell unless its controller pays {X}, where X is the number of colors among permanents you control.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-30 00:31:53
 	card_color: blue
@@ -5049,9 +5010,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-29 23:47:13
 	card_color: black
@@ -5412,9 +5371,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-29 23:42:42
 	card_color: red
@@ -5791,9 +5748,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update adjusted: Was 2/1. Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-30 13:25:22
 	card_color: green
@@ -5836,9 +5791,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-29 23:34:18
 	card_color: green
@@ -5999,9 +5952,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-29 23:33:55
 	card_color: green
@@ -6043,9 +5994,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update adjusted: Was a 1/1 for {1}{G}.
+	notes: Art Validated
 	time_created: 2023-02-27 20:16:04
 	time_modified: 2025-10-29 23:56:35
 	card_color: green
@@ -6418,10 +6367,13 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!renameof Devoted Lackies
+		!update
 	time_created: 2023-02-27 20:20:46
-	time_modified: 2024-06-22 14:02:19
-	name: Devoted Lackies
+	time_modified: 2025-12-01 16:00:05
+	name: Devoted Lackeys
 	casting_cost: BR
 	image: image86
 	image_2: 
@@ -6436,7 +6388,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When you sacrifice <atom-cardname><nospellcheck>Devoted Lackies</nospellcheck></atom-cardname> as a cost to cast a spell or activate an ability that isn’t a mana ability, copy that spell or ability. You may choose new targets for the copy. <i-auto>(A copy of a permanent spell becomes a token.)</i-auto>
+		When you sacrifice <atom-cardname><nospellcheck>Devoted Lackeys</nospellcheck></atom-cardname> as a cost to cast a spell or activate an ability that isn’t a mana ability, copy that spell or ability. You may choose new targets for the copy. <i-auto>(A copy of a permanent spell becomes a token.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -6739,7 +6691,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
 	time_modified: 2025-10-30 00:53:14
@@ -6809,7 +6760,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
 	time_modified: 2025-10-30 00:53:20
@@ -6878,7 +6828,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
 	time_modified: 2025-10-30 00:51:57
@@ -6943,7 +6892,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
 	time_modified: 2025-10-30 00:51:43
@@ -7010,7 +6958,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:20:54
 	time_modified: 2025-10-30 00:53:39
@@ -7197,9 +7144,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:21:06
 	time_modified: 2025-10-29 23:34:13
 	card_color: white, red, green, multicolor, horizontal
@@ -7422,9 +7367,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:21:08
 	time_modified: 2025-10-29 23:33:43
 	card_color: white, red, green, multicolor, horizontal
@@ -7513,9 +7456,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update buffed: Now an Insect.
+	notes: Art Validated
 	time_created: 2023-02-27 20:21:10
 	time_modified: 2025-10-29 23:28:51
 	card_color: white, blue, black, multicolor, horizontal
@@ -7939,7 +7880,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update adjusted: Was {2}{W}. Policy effects changed from three creatures. Equality changed from "At the beginning of each combat, until end of turn, creatures you control have base power equal to the greatest base power among creatures you control and have base toughness equal to the greatest base toughness among creatures you control."
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 12:20:41
@@ -7996,9 +7936,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update adjusted: Was Choose any number at {3}{W}{W}.
+	notes: Art Validated
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-29 23:48:28
 	card_color: white
@@ -8234,7 +8172,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 00:53:05
@@ -8375,9 +8312,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 00:30:06
 	card_color: blue
@@ -8521,7 +8456,6 @@ card:
 	notes:
 		Flag: High LeQ
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 00:47:25
@@ -8676,9 +8610,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update nerfed: Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-29 23:44:11
 	card_color: black
@@ -8823,7 +8755,6 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 00:53:27
@@ -8965,9 +8896,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update adjusted: Ability was "Whenever a player casts a spell, if no mana from a basic source was spent to cast it, Flaw in the System deals 2 damage to that player." Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 00:34:00
 	card_color: red, artifact, horizontal
@@ -9056,9 +8985,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2024-01-04 18:56:05
 	time_modified: 2025-10-29 23:34:07
 	card_color: red
@@ -9124,7 +9051,6 @@ card:
 	notes:
 		Art Validated
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
-		!update adjusted: Was {1}{G} with etb "you may sacrifice a land. If you do, search your library for a land card, put it onto the battlefield, then shuffle."
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 19:13:04
 	card_color: green
@@ -9178,9 +9104,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update adjusted: Was X/X with trample for {1}{G}. Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 00:42:41
 	card_color: green
@@ -9224,9 +9148,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-29 23:34:26
 	card_color: green
@@ -9523,9 +9445,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:38:06
 	time_modified: 2025-10-29 23:34:24
 	name: Empowered Revisionary
@@ -9845,10 +9765,9 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!renameof Exemplar of Grit
-		!update reworked: Was Exemplar of Grit, a 3/1 Human Survivor for {U}{B}{R} with "When ~ dies while attacking, return it to the battlefield tapped under its owner’s control with a defender counter on it." "When ~ dies while blocking, return it to the battlefield tapped under its owner’s control with a decayed counter on it.
+		!update nerfed: Now checks if it was cast.
 	time_created: 2023-02-27 20:38:10
-	time_modified: 2025-10-30 00:04:22
+	time_modified: 2025-12-01 15:51:00
 	card_color: blue, black, red, multicolor, horizontal
 	name: Envoy of the Fallen
 	casting_cost: 1UBR
@@ -9867,7 +9786,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Envoy of the Fallen</nospellcheck></atom-cardname> enters, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+		When <atom-cardname><nospellcheck>Envoy of the Fallen</nospellcheck></atom-cardname> enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.
 		Sacrifice another creature: <atom-cardname><nospellcheck>Envoy of the Fallen</nospellcheck></atom-cardname> deals 1 damage to each opponent.
 	rule_text_2: 
 	rule_text_3: 
@@ -9889,9 +9808,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update reworked: Was 3/3 for {B}{R}{G} that made a Treasure on attack and has "X, Sacrifice an artifact: Return target artifact card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn."
+	notes: Art Validated
 	time_created: 2023-02-27 20:38:10
 	time_modified: 2025-10-30 01:02:31
 	card_color: black, red, green, multicolor, horizontal
@@ -9939,9 +9856,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update reworked: Was a 3/2 for {R}{G}{W} with "Whenever Penrath Dispatcher attacks, you may put a creature card with mana value less than or equal to Penrath Dispatcher’s power from your hand onto the battlefield tapped and attacking.", "{2}: Penrath Dispatcher gets +1/+1 until end of turn."
+	notes: Art Validated
 	time_created: 2023-02-27 20:38:10
 	time_modified: 2025-10-30 00:11:41
 	card_color: white, red, green, multicolor, horizontal
@@ -10263,9 +10178,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update reworked: Was {X}{W}{U}{B} instant with "As an additional cost to cast this spell, exile X cards from your graveyard." "You draw X cards and gain X life, then each opponent loses X life."
+	notes: Art Validated
 	time_created: 2023-02-27 20:38:19
 	time_modified: 2025-10-30 01:07:34
 	card_color: white, blue, black, multicolor, horizontal
@@ -10576,9 +10489,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update adjusted: Can now play lands. Approval now counts like party.
+	notes: Art Validated
 	time_created: 2023-02-27 20:47:18
 	time_modified: 2025-10-29 23:43:00
 	card_color: blue
@@ -10622,9 +10533,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update was 3/3 for {2}{B}{B} that let you only cast cards from your graveyard during your turn, exiling cards that touched your graveyard.
+	notes: Art Validated
 	time_created: 2023-02-27 20:47:18
 	time_modified: 2025-10-30 00:07:34
 	card_color: black
@@ -10668,9 +10577,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update reworked: Was 2/2 for {1}{R}{R} with "Whenever you cast an artifact spell, create a 0/0 colorless Robot artifact creature token with a +1/+1 counter on it." "{2}, {T}: Add {R} for each artifact you control. Spend this mana only to cast artifact spells or activate abilities of artifacts."
+	notes: Art Validated
 	time_created: 2023-02-27 20:47:18
 	time_modified: 2025-10-30 00:14:05
 	card_color: red
@@ -10908,7 +10815,6 @@ card:
 	notes:
 		Flag: Maybe too swingy
 		Art Validated
-		!update
 	time_created: 2023-02-27 20:47:50
 	time_modified: 2024-06-18 13:18:26
 	card_color: white, red, green, multicolor, horizontal
@@ -11117,9 +11023,9 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update adjusted: Was 3/3 without vigilance and "When High Senator Talpa enters, choose target opponent. If you control fewer creatures than that player, create a number of 1/1 colorless Soldier creature tokens equal to the difference. If you have fewer cards in hand than that player, draw cards equal to the difference."
+		!update
 	time_created: 2023-02-27 20:49:25
-	time_modified: 2025-10-31 23:14:54
+	time_modified: 2025-11-29 00:39:27
 	name: High Senator Talpa
 	casting_cost: 2WU
 	image: image476
@@ -11137,7 +11043,7 @@ card:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		<margin:0:0:5>When <atom-cardname><nospellcheck>High Senator Talpa</nospellcheck></atom-cardname> enters or attacks, choose one —</margin:0:0:5>
 		<li><bullet>• </bullet>If an opponent has more life than you, gain 3 life.
-		</li><li><bullet>• </bullet>If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature.
+		</li><li><bullet>• </bullet>If an opponent controls more creatures than you, create a 1/1 colorless Soldier creature token.
 		</li><li><bullet>• </bullet>If an opponent has more cards in hand than you, draw a card. </li>
 	rule_text_2: 
 	rule_text_3: 
@@ -11240,9 +11146,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update
+	notes: Art Validated
 	time_created: 2023-09-02 22:02:47
 	time_modified: 2024-06-17 18:08:46
 	name: Estrathian Gentrifiers
@@ -11289,9 +11193,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update reworked: Was 2/2 for {3} with "Spend only mana of different colors to cast this spell.", "For each color among permanents you control, the first multicolored spell you cast each turn costs one mana of that color less to cast. This effect reduces only the amount of colored mana you pay."
+	notes: Art Validated
 	time_created: 2023-02-27 20:49:25
 	time_modified: 2025-10-30 00:59:34
 	card_color: multicolor
@@ -11332,9 +11234,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update adjusted: Previously gave indestructible at max approval rather than ward. Previously had Equip {5}, discounted by the target’s colors rather than the attach condition.
+	notes: Art Validated
 	time_created: 2023-02-27 20:49:25
 	time_modified: 2025-10-29 23:55:39
 	name: The Majority Whip
@@ -11375,7 +11275,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Tiril Bureau
-		!update
 		!related Eager Voter;Magnetic Rhetorician;Informed Voter;Election Fraud;Lofty Voter;Estranged Aristocrat;Congressional Hall;Interrogation Chamber;Executive Office;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Minister of Utility;Ballot Registrar;Killing in the Name of;Mellan, Defense Attorney;Demographer;Corrupt Congressman;Incumbency;
 		Art Validated
 		!tokentag Tiril Bureau
@@ -11416,7 +11315,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Hazakh Arsenal
-		!update
 		!related Informed Voter;Election Fraud;Lofty Voter;Estranged Aristocrat;Ardent Voter;Declamation Podium;Congressional Hall;Interrogation Chamber;Executive Office;Neglected Slums;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Ballot Registrar;Killing in the Name of;Gubernatorial Fundraiser;Demographer;Corrupt Congressman;
 		Art Validated
 		!tokentag Hazakh Arsenal
@@ -11456,7 +11354,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Vishanki Inc
-		!update
 		!related Lofty Voter;Estranged Aristocrat;Ardent Voter;Declamation Podium;Obstinate Voter;International Development;Interrogation Chamber;Executive Office;Neglected Slums;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Killing in the Name of;Gubernatorial Fundraiser;Grassroots Campaigners;Corrupt Congressman;
 		Art Validated
 		!tokentag Vishanki Inc.
@@ -11496,7 +11393,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Penrath Insurgency
-		!update
 		!related Eager Voter;Magnetic Rhetorician;Ardent Voter;Declamation Podium;Obstinate Voter;International Development;Congressional Hall;Executive Office;Neglected Slums;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Minister of Utility;Gubernatorial Fundraiser;Grassroots Campaigners;Mellan, Defense Attorney;Incumbency;
 		Art Validated
 		!tokentag Penrath Insurgency
@@ -11536,7 +11432,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Sillaman Laboratories
-		!update
 		!related Eager Voter;Magnetic Rhetorician;Informed Voter;Election Fraud;Obstinate Voter;International Development;Congressional Hall;Interrogation Chamber;Neglected Slums;Open Air Boardwalk;Groupthink Tank;Bustling Motorway;Looming Skyscrapers;Urban Sunscape;Controlled Ecosystem;Minister of Utility;Ballot Registrar;Grassroots Campaigners;Mellan, Defense Attorney;Demographer;Incumbency;
 		Art Validated
 		!tokentag Sillaman Laboratories
@@ -11629,7 +11524,6 @@ card:
 		!!exportname CNY Minion
 		!related Hazakh Conscriptor;Merciless Headsman;The First Battalion2>;Hazakh Agenda2>;CNY Hazakh Arsenal;
 		Art Validated
-		!update
 	time_created: 2022-08-30 16:07:31
 	time_modified: 2024-06-18 17:10:59
 	name: Minion
@@ -11665,7 +11559,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Treasure
-		!update
 		!related Deadly Dispute;Resourceful Hireling;Invest;Debt Collectors;Noxious Conditions;Gubernatorial Fundraiser;Coercive Contractor;Sustainable Investments;Liquidate;Meeting of the Elites;Sola, Contraband Playboy;Black-Tie Gala;Subsidized Market;Dhante's Inferno;Freightyard Scrappers;Vishanki Agenda2>;Chief Executive Dhante;CNY Vishanki Inc.;
 		Art Validated
 	time_created: 2022-08-30 16:11:23
@@ -11702,7 +11595,6 @@ card:
 	notes:
 		!related Enforcer's Baton;Border Junction3>;Flags on High2>;Prismatic Propagandist;Together in Arms2>;Mondo, Outcast Maverick;Sparks of a Revolution;Freedom;Empowered Revisionary;High Senator Talpa;
 		Art Validated
-		!update
 	time_created: 2023-03-24 10:54:13
 	time_modified: 2023-07-23 23:27:06
 	card_color: colorless
@@ -11739,7 +11631,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Robot
-		!update
 		!related Resourceful Hireling;Prosperity Project;Social Engineering;Central Processor;Subsidized Market;Severin, Sparkmind;
 		Art Validated
 	time_created: 2022-08-30 16:07:31
@@ -11778,7 +11669,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Sentry of the New World
-		!update
 		!related The Quindral Accords;
 		Art Validated
 	time_created: 2023-03-24 10:54:13
@@ -11818,7 +11708,6 @@ card:
 	notes:
 		!!exportname CNY Berserker
 		!related Penrath Agenda;
-		!update
 		Art Validated
 	time_created: 2023-03-24 10:54:13
 	time_modified: 2023-09-13 17:11:11
@@ -11866,17 +11755,23 @@ card:
 	notes:
 		!!exportname CNY Chaneryx, Perfect Lifeform
 		!related Severin's Masterwork;
-		Art Validated
+		Art Validated !update
 	time_created: 2023-09-16 17:44:46
-	time_modified: 2024-03-01 18:11:18
+	time_modified: 2025-12-01 15:57:20
 	card_color: white, blue, green, multicolor, horizontal
 	name: Chaneryx, Perfect Lifeform
 	image: image493
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type: <word-list-type-en>Token Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-race-en>Leviathan</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text: <kw-A><nospellcheck><key>Ward <param-cost><sym-auto>10</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>10</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 10
@@ -11895,7 +11790,6 @@ card:
 	has_styling: false
 	notes:
 		!!exportname CNY Equipment
-		!update
 		!related Penrath Firearm;
 		Art Validated
 	time_created: 2022-08-30 16:07:31
@@ -11946,9 +11840,8 @@ card:
 	notes:
 		!!exportname Chromatic Rift Promo
 		Art Validated
-		!update
-		
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-29 23:48:49
 	card_color: white
@@ -11997,7 +11890,9 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!!exportname Incumbency Promo !promo!design Stasis
+		!!exportname Incumbency Promo
+		!promo Nylin Delegate
+		!design Stasis
 		!addtoken Tiril Bureau;1;Sillaman Laboratories;1;Penrath Insurgency;1
 		!inpend pledge./add/ (Create any white Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)
 	time_created: 2023-02-27 20:47:18
@@ -12044,7 +11939,8 @@ card:
 		overlay: 
 	notes:
 		!!exportname Severin’s Masterwork Promo
-		 !promo!design Stasis
+		 !promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2024-08-23 03:50:59
 	card_color: white
@@ -12095,8 +11991,8 @@ card:
 		overlay: 
 	notes:
 		!!exportname Gaze Upon Civilization Promo
-		!update
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-02-27 20:47:18
 	time_modified: 2025-10-29 23:43:17
 	card_color: blue
@@ -12153,10 +12049,9 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
 		!!exportname Sparks of a Revolution Promo
-		
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-10-30 00:53:32
@@ -12217,8 +12112,8 @@ card:
 		overlay: 
 	notes:
 		!!exportname Coup D'Etat Promo
-		
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-02-27 20:38:19
 	time_modified: 2024-09-30 09:08:31
 	card_color: blue, black, red, multicolor, horizontal
@@ -12267,8 +12162,8 @@ card:
 	notes:
 		!!exportname Defect Promo
 		Art Validated
-		
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 		!append  (It can’t block. When it attacks, sacrifice it at end of combat.)
 	time_created: 2023-02-27 20:38:08
 	time_modified: 2024-09-30 09:08:09
@@ -12316,8 +12211,8 @@ card:
 	notes:
 		!!exportname Search and Seizure Promo
 		Art Validated
-		
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-02-27 20:20:50
 	time_modified: 2024-09-30 09:06:59
 	name: Search and Seizure
@@ -12361,7 +12256,8 @@ card:
 	notes:
 		!!exportname Vishanki Hellkite Promo
 		Changed: Only cares about artifact sources, not nonland
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-02-27 20:38:08
 	time_modified: 2024-08-25 22:07:46
 	name: Vishanki Hellkite
@@ -12408,7 +12304,8 @@ card:
 		overlay: 
 	notes:
 		!!exportname Whirring Inspector Promo
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 		!append  (That card returns to its owner’s hand, or that permanent returns to the battlefield under its owner’s control.)
 	time_created: 2023-02-27 20:38:10
 	time_modified: 2025-09-04 21:08:15
@@ -12462,8 +12359,8 @@ card:
 		NSFW 
 		!!exportname Work Safety Violation Promo
 		Art Validated
-		
-		!promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-02-27 20:38:19
 	time_modified: 2025-08-31 23:44:11
 	card_color: black, red, green, multicolor, horizontal
@@ -12514,8 +12411,8 @@ card:
 	notes:
 		!!exportname Estrathe, Center of Civilization Promo
 		Art Validated
-		
-		 !promo!design Stasis
+		!promo Nylin Delegate
+		!design Stasis
 	time_created: 2023-07-08 01:20:20
 	time_modified: 2024-09-30 09:07:45
 	card_color: land, multicolor
@@ -12846,9 +12743,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes:
-		Art Validated
-		!update 101: Changed from Rogue to Rebel.
+	notes: Art Validated
 	time_created: 2023-02-27 20:06:32
 	time_modified: 2025-10-29 23:34:00
 	card_color: white
@@ -12889,14 +12784,17 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: rare
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: !foil !promo !design Stasis
+	notes:
+		!promo Chikyu Foil
+		!design Stasis
 	time_created: 2023-02-27 20:20:50
-	time_modified: 2025-01-30 20:20:49
+	time_modified: 2025-11-29 00:13:45
 	name: Liquidate
 	casting_cost: BR
 	image: image138
@@ -12918,7 +12816,8 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: none
 	illustrator: ginnaaaaaaan
-	custom_card_number: 278
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Foil Opened by AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12933,16 +12832,18 @@ card:
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: 255,255,255:0.1:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
 	notes:
 		twitter.com/ishir0se/status/1853029354252763464
-		!foil  !promo !design Stasis
+		!promo Chikyu Foil
+		!design Stasis
 	time_created: 2023-02-27 20:07:24
-	time_modified: 2025-02-28 18:34:37
+	time_modified: 2025-11-29 00:13:39
 	name: Ignited Soul
 	casting_cost: B/R
 	image: image139
@@ -12967,7 +12868,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: ishir0se
-	custom_card_number: 279
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Foil Opened by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12982,16 +12884,17 @@ card:
 	styling_data:
 		chop_top: 6
 		chop_bottom: 5
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: rare
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
 	notes:
 		https://www.deviantart.com/zerochan923600/art/The-Mewtwo-family-348820474
-		!foil !promo 
+		!promo Chikyu Foil
 	time_created: 2024-01-04 18:55:29
-	time_modified: 2025-04-30 18:55:42
+	time_modified: 2025-11-29 00:14:09
 	card_color: blue
 	name: Thesis on Mutation
 	casting_cost: 1U
@@ -13008,7 +12911,8 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	watermark: none
 	illustrator: zerochan923600
-	custom_card_number: 280
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Foil Opened by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13024,15 +12928,16 @@ card:
 		frames: borderless art, frameless art, inverted
 		popout_image_style: 0, 0, 375, 325,
 		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, popunder art
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: rare
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		CNY !promo 
+		!promo Kitsuo Mythmaker
 		!design Stasis
 	time_created: 2025-04-11 20:42:07
-	time_modified: 2025-05-31 16:13:41
+	time_modified: 2025-11-29 00:14:33
 	name: Serve Again
 	casting_cost: 2B
 	image: image141
@@ -13051,7 +12956,8 @@ card:
 	rule_text: Whenever a nontoken creature you control dies, create a token that’s a copy of it, except it’s a Minion and has <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(It loses all other creature types. It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anna Astrid
-	custom_card_number: 281
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mythmaker Found by Lih
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13068,7 +12974,7 @@ card:
 		stripe_coordinate: 315,380,
 		snap_chapter_to_box: 2,3,4,
 		front_font_cap: 12
-		other_options: remove from autocount, use hovering pt
+		other_options: use hovering pt
 		custom_symbol_one: PolicyDFCSymbols/FrontFace.png
 		custom_symbol_two: PolicyDFCSymbols/BackFace.png
 		custom_chapter_location: 
@@ -13078,10 +12984,10 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!promo terminal
+		!promo Weft Terminal
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-07-31 14:28:57
+	time_modified: 2025-11-29 00:15:13
 	card_color: blue
 	card_color_2: blue
 	name: Research Grant
@@ -13110,7 +13016,8 @@ card:
 	level_3_text: You’ve drawn two or more cards this turn.
 	illustrator: Leon Tukker
 	illustrator_2: Leon Tukker
-	custom_card_number: 282
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Terminal Recovered by DrChipmunk
 	card_code_text_2: Terminal Recovered by DrChipmunk
 	card_code_text_3: 
@@ -13128,14 +13035,13 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: true
 	styling_data:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		promo: yes
 	notes:
-		CNY !noexport !promo
+		!noexport !promo Twiltrie Decree
 		!design Stasis
-		Decree
 	time_created: 2025-08-26 01:54:14
-	time_modified: 2025-08-31 20:16:11
+	time_modified: 2025-11-29 00:17:09
 	name: Chittering Gargantua
 	casting_cost: 8UB
 	image: image145
@@ -13158,7 +13064,8 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: Ognjen Sporin
-	custom_card_number: 285
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13168,14 +13075,13 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: true
 	styling_data:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		promo: yes
 	notes:
-		CNY !update !promo<soft-line>
-		!design Stasis
-		Decree</soft-line>
+		!promo Twiltrie Decree<soft-line>
+		!design Stasis</soft-line>
 	time_created: 2025-08-25 23:18:56
-	time_modified: 2025-10-29 21:47:06
+	time_modified: 2025-11-29 00:16:03
 	name: Deadly Dispute
 	casting_cost: 1B
 	image: image146
@@ -13196,7 +13102,8 @@ card:
 		Draw two cards and create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ognjen Sporin
-	custom_card_number: 284
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: Decree Signed by raboka
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13206,11 +13113,10 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: false
 	notes:
-		CNY !noexport !promo
+		!update !promo Twiltrie Decree
 		!design Stasis
-		Decree
 	time_created: 2025-08-25 21:50:27
-	time_modified: 2025-08-31 22:50:09
+	time_modified: 2025-11-29 01:26:25
 	name: Genotype Splicer
 	casting_cost: 1W
 	image: image147
@@ -13233,8 +13139,8 @@ card:
 	toughness: 1
 	illustrator: Ognjen Sporin
 	partition_select: after main set R
-	custom_card_number: 283
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Decree Signed bt DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13243,14 +13149,13 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: true
 	styling_data:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		promo: yes
 	notes:
-		CNY !promo
+		!promo Twiltrie Decree
 		!design Stasis
-		Decree
 	time_created: 2025-08-25 23:28:46
-	time_modified: 2025-09-29 23:08:00
+	time_modified: 2025-11-29 00:16:52
 	name: Redeveloped Cityscape
 	casting_cost: 
 	image: image148
@@ -13266,7 +13171,8 @@ card:
 	rule_text: <sym-auto>T</sym-auto>, Sacrifice Redeveloped <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Cityscape</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: Search your library for a basic land card and put it onto the battlefield tapped. Then you may exile a land card from your hand. If you do, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Art of Li
-	custom_card_number: 286
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: Decree Signed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13275,7 +13181,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2025-10-30 00:07:46
 	time_modified: 2025-10-30 00:15:27
 	name: The Codex
@@ -13299,6 +13205,241 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		alt_rarity_color: 255,255,255:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion;Theros Fate
+		!update !secret !design Stasis
+		!replacetoken FateSoldier;2
+	time_created: 2025-11-19 16:34:03
+	time_modified: 2025-11-29 00:27:02
+	name: Flags on High
+	casting_cost: 1R
+	image: image149
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When <atom-cardname><nospellcheck>Flags on High</nospellcheck></atom-cardname> enters, create two 1/1 colorless Soldier creature tokens.
+		<sym-auto>1R</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Flags on High</nospellcheck></atom-cardname>: Target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		Stasis
+		!exportname FateSoldier
+		!tokentag FateSoldier
+	time_created: 2025-11-19 17:07:07
+	time_modified: 2025-11-29 00:24:25
+	card_color: colorless
+	name: Soldier
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Soldier</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set N
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Twiltrie Decree
+		!update !secret !design Stasis
+	time_created: 2025-11-19 17:58:00
+	time_modified: 2025-11-29 00:26:58
+	name: Survivors of the New World
+	casting_cost: 2GW
+	image: image151
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Mutant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When Survivors of the New World enters, if it isn’t a token, create two tokens that are copies of it.
+		When Survivors of the New World dies, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Ognjen Sporin
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: borderless art
+		alt_rarity_color: rare
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion;Vereaux Hero
+		!update !secret !design Stasis
+	time_created: 2025-11-28 22:13:23
+	time_modified: 2025-11-29 00:31:17
+	name: Aspiring Anarchist
+	casting_cost: G
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Crocodile</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Aspiring Anarchist</nospellcheck></atom-cardname> attacks, you may have its base power and toughness become equal to the power and toughness of another target attacking creature until end of turn.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: ThemeFinland
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		dfc_type: transforming
+		front_style: 3 box saga
+		defaults: saga chapters use the "move loyalty costs" options
+		stripe_coordinate: 286,360,
+		move_loyalty_costs: 
+		snap_chapter_to_box: 2,3,4,
+		front_font_cap: 
+		other_options: use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		custom_symbol_one: 
+		custom_symbol_two: 
+		alt_rarity_color: rare
+		custom_chapter_location: 
+		replacement_chapter_location: PolicySymbols/
+		level_1_chop: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Art Validated
+		!promo Eternal Excursion;Vereaux Hero
+		!update !secret !design Stasis
+		!hidetag (Hero)
+		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
+	time_created: 2023-02-27 20:37:10
+	time_modified: 2025-11-29 00:35:28
+	card_color: red
+	card_color_2: red
+	name: Sparks of a Revolution
+	name_2: Freedom
+	casting_cost: R
+	transformation: custom symbol one
+	transformation_2: custom symbol two
+	image: image1.png
+	image_2: image_21.png
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Policy</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: <word-list-enchantment></word-list-enchantment>
+	sub_type_3: 
+	rarity: special
+	chapter_text: <i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
+	rule_text: 
+	rule_text_2: Whenever you attack, create a 1/1 colorless Soldier creature token that’s tapped and attacking.
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1_text: When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	level_2_text: Three or more sources you controlled dealt damage this turn.
+	level_3_text: A source you controlled dealt 3 or more damage this turn.
+	illustrator: YunaXD
+	illustrator_2: Sina Hayati
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Stasis
+	copyright_2: Stasis
+	copyright_3: Stasis
+	special_text:
+		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
+		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		Three or more sources you controlled dealt damage this turn.
+		A source you controlled dealt 3 or more damage this turn.
 
 keyword:
 	keyword: Pledge

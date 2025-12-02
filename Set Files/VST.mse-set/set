@@ -43,6 +43,10 @@ styling:
 		other_options: ancestral generic mana
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: VST
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
 	magic-m15-planeswalker:
 		text box mana symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -79,6 +83,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -113,6 +118,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -142,6 +148,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -174,6 +181,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -200,6 +208,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -224,6 +233,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -258,6 +268,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -282,6 +293,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -317,6 +329,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -353,6 +366,7 @@ card:
 	copyright: Reuben Covington3
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -388,6 +402,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -419,6 +434,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -456,6 +472,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -490,6 +507,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -513,6 +531,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -542,6 +561,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -578,6 +598,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -610,6 +631,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -640,6 +662,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -666,6 +689,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -701,6 +725,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -731,6 +756,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -759,6 +785,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -791,6 +818,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -822,6 +850,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -857,6 +886,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -888,6 +918,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -921,6 +952,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: #build around
@@ -944,6 +976,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -976,6 +1009,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1006,6 +1040,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1040,6 +1075,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1078,6 +1114,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1110,6 +1147,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1143,6 +1181,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1176,6 +1215,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1211,6 +1251,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1246,6 +1287,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1279,6 +1321,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1315,6 +1358,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1352,6 +1396,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1386,6 +1431,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1420,6 +1466,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -1458,6 +1505,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1492,6 +1540,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1528,6 +1577,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1560,6 +1610,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1588,6 +1639,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1621,6 +1673,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1655,6 +1708,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1691,6 +1745,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1729,6 +1784,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: !
@@ -1763,6 +1819,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -1784,6 +1841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -1805,6 +1863,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -1826,6 +1885,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -1847,6 +1907,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -1868,6 +1929,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1897,6 +1959,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -1931,6 +1994,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1960,6 +2024,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1997,6 +2062,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2038,6 +2104,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2073,6 +2140,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2110,6 +2178,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2140,6 +2209,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -2163,6 +2233,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2196,6 +2267,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2231,6 +2303,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2263,6 +2336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2296,6 +2370,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -2319,6 +2394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2352,6 +2428,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2385,6 +2462,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -2409,6 +2487,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2439,6 +2518,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2490,6 +2570,7 @@ card:
 		[+1]: <margin:130:0:0>Target opponent reveals all the cards in their hand except one. You choose a card revealed this way. That player discards that card.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Destroy target creature unless its controller sacrifices two other creatures.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of your end step, draw two cards unless target opponent sacrifices two creatures or pays 6 life.”</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -2522,6 +2603,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2554,6 +2636,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -2581,6 +2664,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2613,6 +2697,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2651,6 +2736,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2687,6 +2773,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2722,6 +2809,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2752,6 +2840,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2788,6 +2877,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2820,6 +2910,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -2845,6 +2936,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -2877,6 +2969,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2903,6 +2996,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: change art with +2/+1
@@ -2929,6 +3023,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2958,6 +3053,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2994,6 +3090,7 @@ card:
 	copyright: 
 	copyright_2: Zervintz 2015
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3026,6 +3123,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3061,6 +3159,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3094,6 +3193,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3138,6 +3238,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3168,6 +3269,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3198,6 +3300,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3230,6 +3333,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3266,6 +3370,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3302,6 +3407,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3330,6 +3436,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3362,6 +3469,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3395,6 +3503,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3429,6 +3538,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: !cajun This spell
@@ -3453,6 +3563,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3487,6 +3598,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3515,6 +3627,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: reprint
@@ -3539,6 +3652,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3573,6 +3687,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3606,6 +3721,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3641,6 +3757,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3672,6 +3789,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3704,6 +3822,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3733,6 +3852,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -3768,6 +3888,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -3805,6 +3926,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3842,6 +3964,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3881,6 +4004,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3910,6 +4034,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3940,6 +4065,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3978,6 +4104,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4017,6 +4144,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4058,6 +4186,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4096,6 +4225,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4125,6 +4255,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4158,6 +4289,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4188,6 +4320,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4225,6 +4358,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4258,6 +4392,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: !script "s>l>/Spawn Wurm of World’s End/l>f>/spawn Wurm of Wold’s End VST/f>","t"
@@ -4285,6 +4420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4312,6 +4448,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4350,6 +4487,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4389,6 +4527,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4422,6 +4561,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4453,6 +4593,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4491,6 +4632,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4528,6 +4670,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4561,6 +4704,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4596,6 +4740,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4633,6 +4778,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4663,6 +4809,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4698,6 +4845,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4736,6 +4884,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4775,6 +4924,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4819,6 +4969,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4874,6 +5025,7 @@ card:
 		[-1]: <margin:130:0:0>Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.</margin:130:0:0>
 		[-4]: <margin:130:0:0>For each other nonland permanent, its owner puts it on the top or bottom of their library.</margin:130:0:0>
 		[-10]: <margin:130:0:0>Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control.    </margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -4909,6 +5061,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4943,6 +5096,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -4975,6 +5129,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5012,6 +5167,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5047,6 +5203,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5076,6 +5233,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5110,6 +5268,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5150,6 +5309,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -5179,6 +5339,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: flavor?
@@ -5202,6 +5363,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5236,6 +5398,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5270,6 +5433,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5317,6 +5481,7 @@ card:
 		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Luma, Guiding Star</nospellcheck></atom-cardname> deals 1 damage to any target. If a creature is dealt damage this way, it can’t attack or block until your next turn.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create three 1/1 white Nomad creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, then <kw-0><nospellcheck><key>journey</key></nospellcheck></kw-0> three times.</margin:130:0:0>
 		[-6]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Luma</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Guiding Star deals 20 damage to target creature or planeswalker. Your life total becomes equal to your starting life total.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5356,6 +5521,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5391,6 +5557,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5423,6 +5590,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5457,6 +5625,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -5486,6 +5655,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5519,6 +5689,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5553,6 +5724,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5582,6 +5754,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5620,6 +5793,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -5649,6 +5823,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -5683,6 +5858,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -5712,6 +5888,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5744,6 +5921,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5778,6 +5956,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -5811,6 +5990,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5847,6 +6027,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -5871,6 +6052,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5908,6 +6090,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5937,6 +6120,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5974,6 +6158,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6008,6 +6193,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6041,6 +6227,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6074,6 +6261,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6103,6 +6291,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6136,6 +6325,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6173,6 +6363,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6211,6 +6402,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -6245,6 +6437,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6274,6 +6467,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6311,6 +6505,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6344,6 +6539,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6380,6 +6576,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6408,6 +6605,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6444,6 +6642,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6480,6 +6679,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6509,6 +6709,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6542,6 +6743,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6577,6 +6779,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6614,6 +6817,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6651,6 +6855,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6690,6 +6895,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -6713,6 +6919,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -6741,6 +6948,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6778,6 +6986,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6809,6 +7018,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6840,6 +7050,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -6873,6 +7084,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6913,6 +7125,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -6949,6 +7162,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: art?
@@ -6974,6 +7188,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -7006,6 +7221,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7053,6 +7269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7089,6 +7306,7 @@ card:
 	copyright: 
 	copyright_2: Zervintz 2015
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7124,6 +7342,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7151,6 +7370,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7180,6 +7400,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -7210,6 +7431,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-clearartifact
 	stylesheet_version: 2024-05-30
@@ -7239,6 +7461,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7273,6 +7496,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7300,6 +7524,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -7335,6 +7560,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7364,6 +7590,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7389,6 +7616,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7426,6 +7654,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7453,6 +7682,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -7487,6 +7717,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: name?
@@ -7510,6 +7741,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -7544,6 +7776,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7578,6 +7811,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: new art!
@@ -7602,6 +7836,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7627,6 +7862,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7654,6 +7890,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -7689,6 +7926,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -7722,6 +7960,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7747,6 +7986,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7771,6 +8011,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -7803,6 +8044,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7835,6 +8077,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7860,6 +8103,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -7885,6 +8129,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: needs more playtest data
@@ -7910,6 +8155,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7937,6 +8183,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7972,6 +8219,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -8007,6 +8255,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -8032,6 +8281,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -8057,6 +8307,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -8081,6 +8332,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -8113,6 +8365,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8140,6 +8393,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: art?
@@ -8165,6 +8419,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: 
@@ -8191,6 +8446,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8229,6 +8485,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: true
 	styling_data:
@@ -8268,6 +8525,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8305,6 +8563,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8342,6 +8601,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -8372,6 +8632,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8405,6 +8666,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8441,6 +8703,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8477,6 +8740,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8513,6 +8777,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8549,6 +8814,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8590,6 +8856,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8619,6 +8886,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8636,9 +8904,9 @@ card:
 		overlay: 
 	notes:
 		VST !design Reuben
-		!promo
+		!promo Eternal Excursion
 	time_created: 2017-10-16 17:34:49
-	time_modified: 2023-04-01 17:04:24
+	time_modified: 2025-11-28 18:08:45
 	name: Instincts of the Pack
 	casting_cost: 2R
 	image: image58
@@ -8653,12 +8921,14 @@ card:
 		Whenever a creature you control enters, <atom-cardname><nospellcheck>Instincts of the Pack</nospellcheck></atom-cardname> deals 1 damage to each opponent. If that creature is a Hyena, this deals 2 damage to each opponent instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ramazan Kazaliev
+	partition_select: after main set P
 	card_code_text: Excursion Claimed by Kilgaris
 	card_code_text_2: Excursion Claimed by Kilgaris
 	card_code_text_3: Excursion Claimed by Kilgaris
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8673,10 +8943,10 @@ card:
 		overlay: 
 	notes:
 		VST
-		!promo
+		!promo Eternal Excursion
 		!design Reuben
 	time_created: 2017-10-03 17:05:06
-	time_modified: 2024-04-29 20:49:06
+	time_modified: 2025-11-28 18:08:30
 	name: Sandwarp
 	casting_cost: 2UU
 	image: image115
@@ -8691,6 +8961,7 @@ card:
 		Counter target spell.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anato Finnstark
+	partition_select: after main set P
 	custom_card_number: 
 	card_code_text: Eternal Excursion
 	card_code_text_2: Eternal Excursion
@@ -8698,6 +8969,370 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!!!
+		!design Reuben
+		!secret !update !promo Eternal Excursion;Weft Terminal
+		!inpend enters, journey./add/ (Exile the top card of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)
+		!inpend > /replace/
+	time_created: 2017-10-09 15:29:53
+	time_modified: 2025-11-28 18:20:10
+	name: Eternal Wanderer
+	casting_cost: U
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nomad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> When <atom-cardname><nospellcheck>Eternal Wanderer</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>journey</key></nospellcheck></kw-0>.
+		> Whenever you put a journeyed card into your hand, you may pay <sym-auto>2</sym-auto>. If you do, <kw-0><nospellcheck><key>journey</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Max Hay
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Reuben Covington
+	copyright_2: Reuben Covington
+	copyright_3: Reuben Covington
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: true
+	styling_data:
+		rarity_symbol: VST
+		shrink_type: 1.3
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
+	notes:
+		!design Reuben
+		!secret !update !promo Eternal Excursion;Weft Terminal
+		!inpend > /replace/
+	time_created: 2017-05-15 18:08:03
+	time_modified: 2025-11-28 18:20:17
+	name: Liminal Observer
+	casting_cost: 2CC
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: > At the beginning of your end step, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Liiga Smilshkalne
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Reuben Covington
+	copyright_2: Reuben Covington
+	copyright_3: Reuben Covington
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Reuben
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-07 18:38:29
+	time_modified: 2025-11-28 20:35:31
+	name: Saviour of the Lost
+	casting_cost: 2W
+	image: image135
+	image_2: image136
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Saviour</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> of the Lost attacks, you may waste two <kw-A><nospellcheck><key>nonwastes</key></nospellcheck> lands you control. If you do, return up to two target creature cards with total mana value 2 or less from your graveyard to the battlefield.<atom-reminder-action> <i-auto>(It becomes Wastes, a basic land with “<sym>T</sym>: Add <sym>C</sym>” and no other abilities or types.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Johannes Voss
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,269,273,
+		other_options: ancestral generic mana, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+		clear: yes
+	notes:
+		!promo Eternal Excursion;Chikyu Foil
+		!update !secret !design Reuben
+	time_created: 2017-08-13 13:40:04
+	time_modified: 2025-11-28 18:19:55
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: He/They
+	name: Karn, Heart of Guilt
+	casting_cost: 4CCCC
+	image: image137
+	image_2: image140
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Karn</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	rarity: special
+	rule_text:
+		Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.
+		Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.
+		Return all other nonland permanents to their owner’s hands.
+		Put any number of permanent cards from your hand, graveyard, or exiled with <atom-legname><nospellcheck>Karn</nospellcheck></atom-legname> onto the battlefield under your control.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	loyalty_cost_1: +2
+	loyalty_cost_2: -1
+	loyalty_cost_3: -4
+	loyalty_cost_4: -10
+	loyalty: 6
+	level_1_text: <margin:130:0:0>Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>For each other nonland permanent, its owner puts it on the top or bottom of their library.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control.    </margin:130:0:0>
+	illustrator: apios
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Reuben Covington
+	copyright_2: Reuben Covington
+	copyright_3: Reuben Covington
+	special_text:
+		[+2]: <margin:130:0:0>Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.</margin:130:0:0>
+		[-4]: <margin:130:0:0>For each other nonland permanent, its owner puts it on the top or bottom of their library.</margin:130:0:0>
+		[-10]: <margin:130:0:0>Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control.    </margin:130:0:0>
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,375,270,
+		other_options: ancestral generic mana, vorthos box
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+		clear: yes
+	notes:
+		!promo Eternal Excursion;Chikyu Foil;Shiny Hunt
+		!update !secret !design Reuben
+		!hidetag ★
+	time_created: 2017-08-13 13:40:04
+	time_modified: 2025-11-28 18:20:52
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: He/They
+	name: Karn, Heart of Guilt
+	casting_cost: 4CCCC
+	image: image141
+	image_2: image143
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Karn</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	rarity: special
+	rule_text:
+		Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.
+		Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.
+		Return all other nonland permanents to their owner’s hands.
+		Put any number of permanent cards from your hand, graveyard, or exiled with <atom-legname><nospellcheck>Karn</nospellcheck></atom-legname> onto the battlefield under your control.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	loyalty_cost_1: +2
+	loyalty_cost_2: -1
+	loyalty_cost_3: -4
+	loyalty_cost_4: -10
+	loyalty: 6
+	level_1_text: <margin:130:0:0>Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>For each other nonland permanent, its owner puts it on the top or bottom of their library.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control.    </margin:130:0:0>
+	illustrator: apios
+	custom_card_number: 1259
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Reuben Covington
+	copyright_2: Reuben Covington
+	copyright_3: Reuben Covington
+	special_text:
+		[+2]: <margin:130:0:0>Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>4</sym> for each of those creatures.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.</margin:130:0:0>
+		[-4]: <margin:130:0:0>For each other nonland permanent, its owner puts it on the top or bottom of their library.</margin:130:0:0>
+		[-10]: <margin:130:0:0>Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control.    </margin:130:0:0>
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		frames: borderless art, universes beyond
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Reuben
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 18:27:25
+	name: Runic Sealer
+	casting_cost: 2W
+	image: image144
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		As Runic Sealer enters, choose a noncreature, nonland card name.
+		Spells with the chosen name can’t be cast.
+		Activated abilities of sources with the chosen name can’t be activated.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Polina Graf
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: 
+
+card:
+	has_styling: false
+	notes:
+		!design Reuben
+		!secret !update !promo Eternal Excursion;Theros Fate
+	time_created: 2025-11-19 16:33:58
+	time_modified: 2025-11-28 18:27:19
+	name: Render Inert
+	casting_cost: 1U
+	image: image148
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature or artifact</param-name></key></nospellcheck></kw-a>
+		Enchanted permanent loses all abilities and doesn’t untap during its controller’s untap step.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Reuben
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 18:27:36
+	name: Biramous Entity
+	casting_cost: GU
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Mutant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Biramous</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Entity enters, search your library for a permanent card with the same name as another target nontoken permanent you control. Reveal it and put that card into your hand. Then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Valera Lutfullina
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
 keyword:
 	keyword: Endure
 	match: Endure <atom-param>cost</atom-param>

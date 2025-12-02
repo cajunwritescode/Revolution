@@ -116,6 +116,11 @@ styling:
 	magic-m15-paradox:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: KSV
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
 	magic-m15-planeswalker-pokemon:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -262,6 +267,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -290,6 +296,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -318,6 +325,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -353,6 +361,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -379,6 +388,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -407,6 +417,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -435,6 +446,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -463,6 +475,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -502,6 +515,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -532,6 +546,7 @@ card:
 	copyright: assdDesign: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -569,6 +584,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -610,6 +626,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -636,6 +653,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -665,6 +683,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CR 15
@@ -691,6 +710,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -728,6 +748,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -758,6 +779,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -787,6 +809,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -815,6 +838,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: UB 7
@@ -843,6 +867,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -867,6 +892,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -891,6 +917,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -921,6 +948,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -951,6 +979,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -978,6 +1007,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1006,6 +1036,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1035,6 +1066,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1066,6 +1098,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1094,6 +1127,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1122,6 +1156,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1167,6 +1202,7 @@ card:
 		When <atom-cardname><nospellcheck>Fleshmaker’s Harvest</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> and gain 4 life.
 		[f] — Exile up to two target creature cards in graveyards. Create a 2/2 black Zombie creature token for each card exiled this way.
 		[f] — Return up to two other target permanent cards from your graveyard to your hand.
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1201,6 +1237,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1231,6 +1268,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -1266,6 +1304,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1295,6 +1334,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1322,6 +1362,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1348,6 +1389,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1376,6 +1418,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1404,6 +1447,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1451,6 +1495,7 @@ card:
 		When <atom-cardname><nospellcheck>As’Ahai’s Final Front</nospellcheck></atom-cardname> enters, you draw a card and gain 2 life.
 		[f] — Until your next turn, you may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
 		[f] — Until your next turn, noncreature spells your opponents cast cost <sym-auto>2</sym-auto> more to cast.
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -1486,6 +1531,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -1516,6 +1562,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -1553,6 +1600,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1577,6 +1625,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -1607,6 +1656,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1652,6 +1702,7 @@ card:
 		When <atom-cardname><nospellcheck>Siege of Ember Cove</nospellcheck></atom-cardname> enters, target creature you control gets +3/+3 until end of turn.
 		[f] — This combat, target attacking creature can’t be blocked except by three or more creatures.
 		[f] — This combat, target attacking creature must be blocked by at least three creatures if able.
+
 card:
 	has_styling: false
 	notes: 
@@ -1680,6 +1731,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1706,6 +1758,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1734,6 +1787,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1760,6 +1814,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -1797,6 +1852,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1824,6 +1880,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1853,6 +1910,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: !design Bergland
@@ -1881,6 +1939,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -1916,6 +1975,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1942,6 +2002,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1970,6 +2031,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -1994,6 +2056,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -2021,6 +2084,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -2055,6 +2119,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -2085,6 +2150,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2115,6 +2181,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -2143,6 +2210,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -2169,6 +2237,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: UB 7
@@ -2198,6 +2267,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2243,6 +2313,7 @@ card:
 		When <atom-cardname><nospellcheck>Snowsinger’s False Spring</nospellcheck></atom-cardname> enters, draw three cards.
 		[f] — Untap up to three creatures you control.
 		[f] — Untap up to three lands you control.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2289,6 +2360,7 @@ card:
 		When <atom-cardname><nospellcheck>Defense of Silver Glade</nospellcheck></atom-cardname> enters, create a 2/2 white Knight creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>. 
 		[f] — Attacking creatures gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 		[f] — Create a token that’s a copy of target token you control.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2336,6 +2408,7 @@ card:
 		When <atom-cardname><nospellcheck>Half-Heart’s Claim</nospellcheck></atom-cardname> enters, each opponent loses 3 life and you gain 3 life.
 		[f] — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 		[f] — You may sacrifice a creature. When you do, destroy target nonland permanent with mana value 3 or less.
+
 card:
 	has_styling: false
 	notes: 
@@ -2364,6 +2437,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2402,6 +2476,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -2431,6 +2506,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -2466,6 +2542,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 6
@@ -2493,6 +2570,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -2528,6 +2606,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 18
@@ -2553,6 +2632,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 7
@@ -2580,6 +2660,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2614,6 +2695,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2641,6 +2723,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -2666,6 +2749,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 14
@@ -2695,6 +2779,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 12
@@ -2722,6 +2807,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -2759,6 +2845,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2793,6 +2880,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 15
@@ -2820,6 +2908,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 3
@@ -2845,6 +2934,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 1
@@ -2870,6 +2960,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 13
@@ -2897,6 +2988,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2928,6 +3020,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CW 12
@@ -2955,6 +3048,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -2984,6 +3078,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 7
@@ -3017,6 +3112,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 8
@@ -3044,6 +3140,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 12
@@ -3071,6 +3168,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3099,6 +3197,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -3132,6 +3231,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 17
@@ -3158,6 +3258,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 15
@@ -3181,6 +3282,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -3210,6 +3312,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 1
@@ -3239,6 +3342,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 2
@@ -3266,6 +3370,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 6
@@ -3293,6 +3398,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 3
@@ -3323,6 +3429,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 18
@@ -3351,6 +3458,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 13
@@ -3378,6 +3486,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 9
@@ -3403,6 +3512,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CU 14
@@ -3430,6 +3540,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -3465,6 +3576,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 10
@@ -3492,6 +3604,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -3519,6 +3632,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 14
@@ -3544,6 +3658,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3578,6 +3693,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -3604,6 +3720,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3631,6 +3748,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3660,6 +3778,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -3689,6 +3808,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3717,6 +3837,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB17
@@ -3740,6 +3861,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 3
@@ -3768,6 +3890,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 16
@@ -3793,6 +3916,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -3826,6 +3950,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 17
@@ -3849,6 +3974,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 7
@@ -3877,6 +4003,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 1
@@ -3902,6 +4029,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -3929,6 +4057,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CR 13
@@ -3956,6 +4085,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -3983,6 +4113,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -4010,6 +4141,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4049,6 +4181,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CR 6
@@ -4076,6 +4209,7 @@ card:
 	copyright: AdcrDesign: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -4106,6 +4240,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -4139,6 +4274,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CR 1
@@ -4166,6 +4302,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CR 14
@@ -4194,6 +4331,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CR 10
@@ -4221,6 +4359,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4259,6 +4398,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -4284,6 +4424,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4324,6 +4465,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -4361,6 +4503,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -4390,6 +4533,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4428,6 +4572,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4464,6 +4609,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -4498,6 +4644,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 10
@@ -4523,6 +4670,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 13
@@ -4546,6 +4694,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 16
@@ -4572,6 +4721,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -4611,6 +4761,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 2
@@ -4641,6 +4792,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 14
@@ -4664,6 +4816,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 3
@@ -4689,6 +4842,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 18
@@ -4712,6 +4866,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 4
@@ -4739,6 +4894,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 10
@@ -4765,6 +4921,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -4800,6 +4957,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 15
@@ -4827,6 +4985,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 8
@@ -4852,6 +5011,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -4886,6 +5046,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CB 13
@@ -4911,6 +5072,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 12
@@ -4939,6 +5101,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: CG 7
@@ -4964,6 +5127,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -4991,6 +5155,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -5020,6 +5185,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5056,6 +5222,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5085,6 +5252,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5107,6 +5275,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -5143,6 +5312,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5180,6 +5350,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5214,6 +5385,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5241,6 +5413,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -5277,6 +5450,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5302,6 +5476,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5327,6 +5502,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5356,6 +5532,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5390,6 +5567,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5418,6 +5596,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: !design Bergland
@@ -5448,6 +5627,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5476,6 +5656,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -5514,6 +5695,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5541,6 +5723,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5569,6 +5752,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5595,6 +5779,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -5625,6 +5810,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5657,6 +5843,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -5693,6 +5880,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5719,6 +5907,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5747,6 +5936,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5785,6 +5975,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -5822,6 +6013,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5848,6 +6040,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5874,6 +6067,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5898,6 +6092,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -5926,6 +6121,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -5957,6 +6153,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: !design Bergland
@@ -5984,6 +6181,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: !script "s>l>Tunnel Reminder/l>f>/spawn The Tunnels KSV/f>/s>","t"
@@ -6014,6 +6212,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6040,6 +6239,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6066,6 +6266,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6091,6 +6292,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -6126,6 +6328,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -6164,6 +6367,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6192,6 +6396,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6218,6 +6423,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -6257,6 +6463,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6295,6 +6502,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6323,6 +6531,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6351,6 +6560,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -6388,6 +6598,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -6427,6 +6638,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -6466,6 +6678,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6494,6 +6707,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes:
@@ -6524,6 +6738,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6552,6 +6767,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6580,6 +6796,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6608,6 +6825,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -6645,6 +6863,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -6684,6 +6903,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6713,6 +6933,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6737,6 +6958,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6769,6 +6991,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -6810,6 +7033,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -6850,6 +7074,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6881,6 +7106,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -6918,6 +7144,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -6950,6 +7177,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: !design Bergland
@@ -6977,6 +7205,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -7008,6 +7237,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -7038,6 +7268,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7081,6 +7312,7 @@ card:
 		Whenever you attack, you may draw a card.
 		[f], [f] — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
 		[f] — Return up to one instant or sorcery card from your graveyard to your hand.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7126,6 +7358,7 @@ card:
 		Whenever you attack, each defending player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Each defending player loses 3 life unless they sacrifice a nonland permanent or discard a card.
 		Return a creature card from a graveyard to the battlefield tapped under your control. 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7174,6 +7407,7 @@ card:
 		[-1]: <margin:130:0:0>Create a black enchantment token with “Whenever an opponent draws a card, put a loyalty counter on a Nixilis you control. If you do, that opponent loses 1 life.”</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy target creature. Its controller draws two cards and you gain 2 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Each player discards all the cards in their hand, then draws that many cards minus one.</margin:130:0:0>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7219,6 +7453,7 @@ card:
 		Whenever you attack, exile the top two cards of your library. You may play a card exiled with <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> this turn.
 		Create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.
 		When you next cast a spell this turn, <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> deals damage equal to that spell’s mana value to any target.
+
 card:
 	has_styling: true
 	styling_data:
@@ -7255,6 +7490,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7297,6 +7533,7 @@ card:
 		Whenever you attack, untap up to one target creature. It must block this combat if able.
 		[f], [f] — Create a 5/5 black Horror creature token that’s tapped and attacking.
 		[f] — Draw a card for each attacking creature with power 4 or greater.
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7341,6 +7578,7 @@ card:
 		[+1]: <margin:130:0:0>You may sacrifice a land or discard a land card. If you do, draw a card and gain 2 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may put a land card from your hand or graveyard onto the battlefield. When you do, <atom-legname><nospellcheck>Ulfarl</nospellcheck></atom-legname> deals 2 damage to any target.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Put any number of land cards from your hand and/or graveyard onto the battlefield. When you do, <atom-legname><nospellcheck>Ulfarl</nospellcheck></atom-legname> deals damage equal to the number of lands you control divided as you choose among any number of targets.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -7370,6 +7608,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -7410,6 +7649,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -7450,6 +7690,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7495,6 +7736,7 @@ card:
 		When <atom-cardname><nospellcheck>Fall of Iron Hill</nospellcheck></atom-cardname> enters, create four 1/1 red Goblin creature tokens with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 		[f] — Whenever a creature dies this turn, <atom-cardname><nospellcheck>Fall of Iron Hill</nospellcheck></atom-cardname> deals 1 damage to each opponent.
 		[f] — Whenever a creature dies this turn, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7538,6 +7780,7 @@ card:
 		When <atom-cardname><nospellcheck>Matchmaker’s Grand Game</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Weapon toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-action> <i-auto>(They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip <sym>2</sym>.)</i-auto></atom-reminder-action></kw-A>
 		[f] — Attach any number of Equipment you control to target attacking creature.
 		[f] — Target attacking creature gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Untap it.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7583,6 +7826,7 @@ card:
 		When <atom-cardname><nospellcheck>The Battle Beneath</nospellcheck></atom-cardname> enters, up to two target creatures can’t block or become blocked this turn.
 		Whenever one or more creatures you control deal damage to an opponent this turn, draw a card.
 		Whenever one or more creatures you control deal damage to an opponent this turn, that player discards a card.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7628,6 +7872,7 @@ card:
 		When <atom-cardname><nospellcheck>Embermane’s Blitz</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
 		[f] — You may discard a card. If you do, draw two cards.
 		[f] — You may discard a card. When you do, <atom-cardname><nospellcheck>Embermane’s Blitz</nospellcheck></atom-cardname> deals 3 damage to any target.
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7655,6 +7900,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -7691,6 +7937,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7719,6 +7966,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: false
 	notes: 
@@ -7746,6 +7994,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -7779,6 +8028,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -7812,6 +8062,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -7845,6 +8096,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -7880,6 +8132,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -7915,6 +8168,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -7948,6 +8202,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7973,6 +8228,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8002,6 +8258,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -8038,6 +8295,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8094,6 +8352,7 @@ card:
 		[+1]: <margin:130:0:0>Create two 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Choose <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. You get an emblem with “Creatures you control get +1/+1 and have the chosen ability.”</margin:130:0:0>
 		[-8]: <margin:130:0:0>For each other permanent you control, create a token that’s a copy of that permanent.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -8120,6 +8379,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -8164,6 +8424,7 @@ card:
 		Whenever you attack, create two tapped and attacking 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		Attacking creatures get +1/+1 until end of turn.
 		Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
+
 card:
 	has_styling: false
 	notes: 
@@ -8189,6 +8450,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8212,6 +8474,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8235,6 +8498,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8263,6 +8527,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8286,6 +8551,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8309,6 +8575,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8332,6 +8599,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8355,6 +8623,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8383,6 +8652,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	has_styling: true
 	styling_data:
@@ -8424,6 +8694,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8447,6 +8718,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8478,6 +8750,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8503,6 +8776,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8541,6 +8815,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8567,6 +8842,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8593,6 +8869,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8621,6 +8898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8648,6 +8926,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8672,6 +8951,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -8699,6 +8979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -8726,6 +9007,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -8753,6 +9035,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8796,6 +9079,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-spellbook
 	stylesheet_version: 2020-06-17
@@ -8832,6 +9116,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8885,6 +9170,7 @@ card:
 		[-1]: <margin:130:0:0>Create a black enchantment token with “Whenever an opponent draws a card, put a loyalty counter on a Nixilis you control. If you do, that opponent loses 1 life.”</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy target creature. Its controller draws two cards and you gain 2 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Each player discards all the cards in their hand, then draws that many cards minus one.</margin:130:0:0>
+
 card:
 	stylesheet: scifi
 	stylesheet_version: 2024-05-30
@@ -8922,6 +9208,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: scifi
 	stylesheet_version: 2024-05-30
@@ -8935,7 +9222,8 @@ card:
 		overlay: 
 	notes:
 		!num 271
-		!promo
+		!update
+		!promo Karslav Skirmish
 		!design Bergland
 	time_created: 2020-02-27 22:26:50
 	time_modified: 2022-06-01 00:57:44
@@ -8959,6 +9247,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: scifi
 	stylesheet_version: 2024-05-30
@@ -9003,6 +9292,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9028,6 +9318,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9057,6 +9348,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -9103,6 +9395,7 @@ card:
 		Whenever you attack, create two tapped and attacking 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		Attacking creatures get +1/+1 until end of turn.
 		Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
+
 card:
 	stylesheet: fallout
 	stylesheet_version: 2024-05-30
@@ -9135,6 +9428,7 @@ card:
 	copyright: 268 Karslav Skirmish
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
@@ -9144,11 +9438,10 @@ card:
 		colored_rarities: no
 		overlay: 
 	notes:
-		!num 281
 		!promo
 		!design Bergland
 	time_created: 2020-02-27 22:27:00
-	time_modified: 2024-04-30 09:00:57
+	time_modified: 2025-12-01 15:11:00
 	name: Wall of Blossoms
 	casting_cost: 1G
 	image: image290
@@ -9166,12 +9459,13 @@ card:
 	toughness: 4
 	illustrator: Heather Hudson
 	custom_card_number: 
-	card_code_text: 
+	card_code_text: Karslav Skirmish
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Karslav Skirmish 275
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9215,6 +9509,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9261,6 +9556,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9305,6 +9601,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -9337,6 +9634,7 @@ card:
 	copyright: Design: Bergland
 	copyright_2: Design: Bergland
 	copyright_3: Design: Bergland
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9392,6 +9690,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9448,6 +9747,282 @@ card:
 		[+1]: <margin:130:0:0>Create two 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Choose <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. You get an emblem with “Creatures you control get +1/+1 and have the chosen ability.”</margin:130:0:0>
 		[-8]: <margin:130:0:0>For each other permanent you control, create a token that’s a copy of that permanent.</margin:130:0:0>
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!update !secret !design Bergland
+		!inpend > /replace/
+	time_created: 2019-12-01 11:34:00
+	time_modified: 2025-12-01 15:12:54
+	name: Redeploy
+	casting_cost: 1W
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> Exile target permanent you control, then return it to the battlefield under its owner’s control.
+		> Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Izabela Kasuba-Marczesak
+	custom_card_number: 288
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design: Bergland
+	copyright_2: Design: Bergland
+	copyright_3: Design: Bergland
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!update !secret !design Bergland
+		!inpend > /replace/
+	time_created: 2019-11-30 18:37:59
+	time_modified: 2025-11-28 21:47:16
+	card_color: green
+	name: New Growth
+	casting_cost: 1G
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: > Exile target noncreature permanent. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Samtheconceptartist
+	custom_card_number: 282
+	card_code_text: 
+	card_code_text_2: Story Spotlight 15/15
+	card_code_text_3: Story Spotlight 15/15
+	copyright: Design: Bergland
+	copyright_2: Design: Bergland
+	copyright_3: Design: Bergland
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 340,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: short text only
+		overlay: 
+	notes:
+		!design Bergland
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 17:53:58
+	time_modified: 2025-11-28 21:48:17
+	name: Ancestral Secrets
+	casting_cost: UUU
+	image: image299
+	image_2: image300
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Draw three cards.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Fjubi
+	custom_card_number: 283
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: 
+		other_options: 
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Bergland
+		!secret !update !promo Eternal Excursion;Theros Fate
+	time_created: 2025-11-19 16:31:31
+	time_modified: 2025-11-28 21:51:59
+	name: Not This Day
+	casting_cost: W
+	image: image301
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Whenever you attack, return target creature card with mana value 1 or less from your graveyard to the battlefield tapped and attacking.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Miles Lockett
+	custom_card_number: 285
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: 
+		other_options: 
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Bergland
+		!secret !update !promo Eternal Excursion;Theros Fate
+	time_created: 2025-11-19 16:34:04
+	time_modified: 2025-11-28 21:52:12
+	name: Military
+	casting_cost: RRR
+	image: image302
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Whenever you attack with creatures with total power 6 or more, <atom-cardname><nospellcheck>Military</nospellcheck></atom-cardname> deals 2 damage to target opponent or planeswalker.
+		Whenever you cast a red creature spell, it gets +2/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Miles Lockett
+	custom_card_number: 286
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design DrakeXIV
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 21:50:16
+	name: Ardent Ascetic
+	casting_cost: 2G
+	image: image303
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When Ardent Ascetic enters, draw a card.
+		You may play an additional land on each of your turns.
+	flavor_text: <i-flavor>He had no roof, no riches, but most importantly, no regrets.</i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Polina Graf
+	custom_card_number: 284
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: 
+		other_options: 
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Bergland
+		!secret !update !promo Eternal Excursion;Theros Fate
+	time_created: 2025-11-19 16:34:06
+	time_modified: 2025-11-28 21:52:36
+	name: Canopy Culling
+	casting_cost: 1G
+	image: image304
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		You may cast creature spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
+		At the beginning of your end step, you may shuffle a creature you control into its owner’s library. If you do, draw a card, then untap up to two lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Miles Lockett
+	custom_card_number: 287
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
 keyword:
 	keyword: Tunneler
 	match: Tunneler

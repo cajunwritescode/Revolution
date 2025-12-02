@@ -12,7 +12,7 @@ set_info:
 	symbol: symbol1.mse-symbol
 	masterpiece_symbol: masterpiece_symbol1.mse-symbol
 	auto_errata: no
-	sort_special_rarity: separate numbering
+	sort_special_rarity: after other cards
 styling:
 	magic-counter-m15:
 		rules_width: alligned with symbol field
@@ -55,8 +55,12 @@ styling:
 	magic-m15-outlaws:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: VRD
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
 	magic-m15-textless:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		promo: no
 		overlay: 
@@ -2411,7 +2415,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		<kw-A><nospellcheck><key>Ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this becomes the target of a spell or ability an opponent controls, counter it unless its controller pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>2</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
 		Whenever <atom-cardname><nospellcheck>Wall Scaler</nospellcheck></atom-cardname> deals damage to a player, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -3098,11 +3102,13 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 3
-		chop_bottom: 3
+		chop_bottom: 7
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: RR02: design for Johnny/Jenny psychographic
+	notes:
+		RR02: design for Johnny/Jenny psychographic
+		!update
 	time_created: 2020-11-28 16:26:05
 	time_modified: 2021-04-29 13:02:18
 	name: Rogue’s Palace Cardshark
@@ -3731,7 +3737,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		Equipped creature has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck></kw-0>. <i-auto>(Whenever it becomes the target of a spell or ability an opponent controls, counter it unless its controller pays <sym-auto>2</sym-auto>.)</i-auto>
+		Equipped creature has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>. <i-auto>(Whenever it becomes the target of a spell or ability an opponent controls, counter it unless its controller pays <sym-auto>2</sym-auto>.)</i-auto>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>A <error-spelling:en_US>Justiciar</error-spelling:en_US> agent is prepared for any scenario, no matter how unlikely.</i-flavor>
 	illustrator: Stephen Noble
@@ -4386,7 +4392,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname> enters, create a <kw-0><nospellcheck><key>ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck></kw-0> <kw-1><nospellcheck><key>Gadget</key></nospellcheck>, then attach it to <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment artifact token with equip <sym>2</sym> that grants that ability.)</i-auto></atom-reminder-custom></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname> enters, create a <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> <kw-1><nospellcheck><key>Gadget</key></nospellcheck>, then attach it to <atom-cardname><nospellcheck>Adept Arcanist</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment artifact token with equip <sym>2</sym> that grants that ability.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor>Invention and magic working in perfect harmony.</i-flavor>
 	power: 3
 	toughness: 4
@@ -5663,7 +5669,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		Equipped creature has <kw-0><nospellcheck><key>ward <param-mana><sym-auto>X</sym-auto></param-mana></key></nospellcheck></kw-0>, where X is the number of permanents attached to it. <i-auto>(Multiple instances of <kw-0><nospellcheck><key>ward <param-cost>trigger</param-cost></key></nospellcheck></kw-0> separately.)</i-auto>
+		Equipped creature has <kw-0><nospellcheck><key>ward <param-cost><sym-auto>X</sym-auto></param-cost></key></nospellcheck></kw-0>, where X is the number of permanents attached to it. <i-auto>(Multiple instances of <kw-0><nospellcheck><key>ward <param-cost>trigger</param-cost></key></nospellcheck></kw-0> separately.)</i-auto>
 		<sym-auto>1</sym-auto>: Equipped creature can’t be blocked this turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -6329,7 +6335,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>City Soarer</nospellcheck></atom-cardname> enters, create a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> <kw-0><nospellcheck><key>Gadget</key></nospellcheck></kw-0> and a <kw-0><nospellcheck><key>ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck></kw-0> <kw-0><nospellcheck><key>Gadget</key></nospellcheck></kw-0>, then attach them to <atom-cardname><nospellcheck>City Soarer</nospellcheck></atom-cardname>. <i-auto>(They’re Equipment artifact tokens with <kw-0><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> that grants those ability.)</i-auto>
+	rule_text: When <atom-cardname><nospellcheck>City Soarer</nospellcheck></atom-cardname> enters, create a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> <kw-0><nospellcheck><key>Gadget</key></nospellcheck></kw-0> and a <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> <kw-0><nospellcheck><key>Gadget</key></nospellcheck></kw-0>, then attach them to <atom-cardname><nospellcheck>City Soarer</nospellcheck></atom-cardname>. <i-auto>(They’re Equipment artifact tokens with <kw-0><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> that grants those ability.)</i-auto>
 	flavor_text: <i-flavor>As swift and deadly as a bullet.</i-flavor>
 	power: 2
 	toughness: 2
@@ -7479,7 +7485,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		This spell can’t be countered.
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-mana><sym-auto>4</sym-auto></param-mana></key></nospellcheck></kw-0>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-0>
 		Your opponents play with cards they own from outside the game revealed.
 		You may cast spells any player owns from outside the game or from the command zone.
 	flavor_text: <i-flavor></i-flavor>
@@ -7937,7 +7943,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: common
 	rule_text:
-		Equipped creature has <kw-0><nospellcheck><key>ward <param-mana><sym-auto>2</sym-auto></param-mana></key></nospellcheck></kw-0>.
+		Equipped creature has <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Shadowverse (Uncredited)
@@ -9733,17 +9739,18 @@ card:
 	styling_data:
 		chop_top: 
 		chop_bottom: 7
-		frames: clear, borderless art
-		remove_from_autocount: yes
+		frames: clear
+		remove_from_autocount: no
 		alt_rarity_color: 245,148,31:186,45,38:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
+		!promo Viridian’s Mission
 		!design DrChillbrain
+		!update
 	time_created: 2021-03-13 21:43:11
-	time_modified: 2021-12-18 12:57:32
+	time_modified: 2025-11-28 20:45:19
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -9763,7 +9770,8 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: Niram S
-	custom_card_number: 277
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by AllWhoWander
 	card_code_text_2: Mission Completed by AllWhoWander
 	card_code_text_3: Mission Completed by AllWhoWander
@@ -9779,7 +9787,7 @@ card:
 		chop_top: 12
 		chop_bottom: 12
 		frames: fnm promo
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 0,0,0:0,0,0:255,255,255:255,255,255:0.1:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9788,7 +9796,7 @@ card:
 		!design DrChillbrain
 		!promo
 	time_created: 2021-08-14 20:12:57
-	time_modified: 2021-09-30 21:48:58
+	time_modified: 2025-11-28 20:45:26
 	name: Eavesdrop
 	casting_cost: U
 	image: image46
@@ -9803,7 +9811,8 @@ card:
 		Draw a card.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Livin’</error-spelling:en_US> on the streets teaches ya the <error-spelling:en_US>kinds’a</error-spelling:en_US> conversations you need to lean in to.”</i-flavor>
 	illustrator: Logan Preshaw
-	custom_card_number: 278
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by CoolBeens
 	card_code_text_2: Mission Completed by CoolBeens
 	card_code_text_3: Mission Completed by CoolBeens
@@ -9819,7 +9828,7 @@ card:
 		!promo
 		!design DrChillbrain
 	time_created: 2021-08-14 19:29:33
-	time_modified: 2021-11-01 01:04:03
+	time_modified: 2025-11-28 20:45:38
 	name: Shock
 	casting_cost: R
 	image: image80
@@ -9840,7 +9849,8 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Van Lawrence Ching
-	custom_card_number: 280
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by Kilgaris
 	card_code_text_2: Mission Completed by Kilgaris
 	card_code_text_3: Mission Completed by Kilgaris
@@ -9856,7 +9866,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 0,0,0:0,0,0:255,255,255:255,255,255:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9865,7 +9875,7 @@ card:
 		!promo
 		!design DrChillbrain
 	time_created: 2021-08-14 19:57:56
-	time_modified: 2021-12-01 03:49:22
+	time_modified: 2025-11-28 20:45:33
 	name: Elvish Witness
 	casting_cost: 1G
 	image: image138
@@ -9882,7 +9892,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Nele Klumpe
-	custom_card_number: 281
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by Philippe Saner
 	card_code_text_2: Mission Completed by Philippe Saner
 	card_code_text_3: Mission Completed by Philippe Saner
@@ -9899,14 +9910,14 @@ card:
 		shrink_name_text: 2
 		other_options: un-indent nonloyalty abilities, pride pinlines
 		alt_rarity_color: 245,148,31:186,45,38:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
 		!promo
 		!design DrChillbrain
 	time_created: 2020-12-31 11:02:33
-	time_modified: 2022-02-28 21:06:20
+	time_modified: 2025-11-28 20:46:06
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			pride_pin: nonbinary
@@ -9932,7 +9943,8 @@ card:
 	level_4_text: <margin:130:0:0>Target creature you control deals damage equal to its power to target creature or planeswalker.</margin:130:0:0>
 	level_5_text: 
 	illustrator: Ina Wong
-	custom_card_number: 282
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by Cool Beens
 	card_code_text_2: Mission Completed by Cool Beens
 	card_code_text_3: Mission Completed by Cool Beens
@@ -9954,7 +9966,7 @@ card:
 		frame_options: show border
 		chop_text: 
 		alt_rarity_color: 214,196,94:95,84,40:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -9962,7 +9974,7 @@ card:
 		!design DrChillbrain
 		!exportname Whirlwind Romantic (Mission)
 	time_created: 2020-11-13 08:26:27
-	time_modified: 2024-08-30 13:56:18
+	time_modified: 2025-11-28 20:46:40
 	name: James Bond, 007
 	alias: Whirlwind Romantic
 	casting_cost: 1BR
@@ -9988,7 +10000,8 @@ card:
 	power: 3
 	toughness: 1
 	illustrator: Robert McGinnis
-	custom_card_number: 283
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by Epid
 	card_code_text_2: Mission Completed by Epid
 	card_code_text_3: Mission Completed by Epid
@@ -10004,7 +10017,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		popout_image_style: 0,0,375,486,
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -10013,7 +10026,7 @@ card:
 		!design DrChillbrain
 		!promo
 	time_created: 2021-02-04 09:42:56
-	time_modified: 2021-09-30 21:49:26
+	time_modified: 2025-11-28 20:47:37
 	name: The Rack
 	casting_cost: 1
 	image: image311
@@ -10028,7 +10041,8 @@ card:
 		At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Richard Thomas
-	custom_card_number: 284
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by Dork in Distress
 	card_code_text_2: Mission Completed by Dork in Distress
 	card_code_text_3: Mission Completed by Dork in Distress
@@ -10084,7 +10098,7 @@ card:
 		chop_top: 17
 		chop_bottom: 17
 		frames: borderless art, inverted
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10096,7 +10110,7 @@ card:
 		Whenever a creature dies, you draw a card and you lose 1 life.
 		Whenever you cast a noncreature spell, target creature gets -2/-2 until end of turn and you gain 2 life.
 	time_created: 2020-12-07 13:04:06
-	time_modified: 2024-08-30 10:13:53
+	time_modified: 2025-11-28 20:45:44
 	name: World Domination
 	casting_cost: XBBB
 	image: image314
@@ -10111,7 +10125,8 @@ card:
 		At the beginning of your end step, World Domination deals damage to any target equal to the number of noncreature spells you’ve cast this turn. You gain that much life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jordan Grimmer
-	custom_card_number: 279
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Mission Completed by AllWhoWander
 	card_code_text_2: Mission Completed by AllWhoWander
 	card_code_text_3: Mission Completed by AllWhoWander
@@ -10125,7 +10140,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		other_options: auto nyx crowns, vorthos box
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 0,0,0:0,0,0:255,255,255:255,255,255:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10135,7 +10150,7 @@ card:
 		!promo
 		!design DrChillbrain
 	time_created: 2020-12-09 12:27:00
-	time_modified: 2023-04-30 21:39:45
+	time_modified: 2025-11-28 20:43:13
 	name: Diabolical Minion
 	casting_cost: B
 	image: image53
@@ -10152,7 +10167,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Snowy Zhang
-	custom_card_number: 285
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Excursion Claimed by Epid
 	card_code_text_2: Excursion Claimed by Epid
 	card_code_text_3: Excursion Claimed by Epid
@@ -10168,7 +10184,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10179,7 +10195,7 @@ card:
 		!promo
 		!design DrChillbrain
 	time_created: 2023-03-31 14:25:14
-	time_modified: 2024-04-29 20:54:03
+	time_modified: 2025-11-28 20:42:13
 	name: Destructive Force
 	casting_cost: 5RR
 	image: image76
@@ -10192,10 +10208,396 @@ card:
 	rule_text: Each player sacrifices five lands. Destructive Force deals 5 damage to each creature.
 	flavor_text: <i-flavor>Their armies salt our fields, for they do not eat. They burn our homes, for they do not sleep.</i-flavor>
 	illustrator: Jaan-Paul van Eeden
-	custom_card_number: 286
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Eternal Excursion
 	card_code_text_2: Eternal Excursion
 	card_code_text_3: Eternal Excursion
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 214,196,94:95,84,40:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		alt_rarity_color: 214,196,94:95,84,40:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design DrChillbrain
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 17:03:46
+	time_modified: 2025-11-28 20:49:13
+	name: Iroshi’s Devotee
+	casting_cost: 6G
+	image: image84
+	image_2: image316
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ninja</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		As an additional cost to cast this spell, you may return any number of creatures you control to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands. This spell costs <sym-auto>2</sym-auto> less to cast for each creature returned to its owner’s hand this way.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Ona Kristensen
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 10
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		alt_rarity_color: 214,196,94:95,84,40:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design DrChillbrain
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 17:14:53
+	time_modified: 2025-11-28 20:49:08
+	name: Rogue’s Palace Cardshark
+	casting_cost: 2RG
+	image: image317
+	image_2: image318
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dog</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: When Rogue’s Palace <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Cardshark</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, an opponent looks at the top four cards of your library and separates them into a face-down pile and a face-up pile. Reveal one of those piles, then put all permanent cards with mana value 3 or less from that pile onto the battlefield under your control. Put the rest and the other pile into your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Earl Toribio
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: auto nyx crowns, vorthos box
+		remove_from_autocount: yes
+		alt_rarity_color: 214,196,94:95,84,40:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion;Chikyu Foil;Shiny Hunt
+		!update !secret !design DrChillbrain
+		!hidetag ★
+	time_created: 2018-08-23 19:57:43
+	time_modified: 2025-11-28 20:58:27
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/her
+	name: Smirk, Darkhand’s Favored
+	casting_cost: BB
+	image: image319
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: special
+	rule_text:
+		When <atom-legname><nospellcheck>Smirk</nospellcheck></atom-legname> enters, add the top two <kw-A><nospellcheck><key>car<param-*s>ds</param-*s> of your library to your evil plan</key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at them, then exile them face-down. You may pay <sym>7</sym> once a turn as a sorcery to cast any number of cards in your evil plan without paying their mana costs.)</i-auto></atom-reminder-action></kw-A>
+		Whenever you cast your second spell each turn, you draw a card and you lose 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Kusuribe
+	custom_card_number: 1288
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: auto nyx crowns, vorthos box
+		alt_rarity_color: 214,196,94:95,84,40:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion;Chikyu Foil
+		!update !secret !design DrChillbrain
+	time_created: 2018-08-23 19:57:43
+	time_modified: 2025-11-28 20:49:48
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/her
+	name: Smirk, Darkhand’s Favored
+	casting_cost: BB
+	image: image320
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: special
+	rule_text:
+		When <atom-legname><nospellcheck>Smirk</nospellcheck></atom-legname> enters, add the top two <kw-A><nospellcheck><key>car<param-*s>ds</param-*s> of your library to your evil plan</key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at them, then exile them face-down. You may pay <sym>7</sym> once a turn as a sorcery to cast any number of cards in your evil plan without paying their mana costs.)</i-auto></atom-reminder-action></kw-A>
+		Whenever you cast your second spell each turn, you draw a card and you lose 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Kusuribe
+	partition_select: after main set R
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		alt_rarity_color: 245,148,31:186,45,38:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design DrChillbrain
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 20:52:59
+	name: Smuggling Kingpin
+	casting_cost: 1U
+	image: image321
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Whenever you attack, you may put a contraband counter on Smuggling Kingpin.
+		Once each turn, you may cast a spell with mana value X from your hand without paying its mana cost, where X is the number of contraband counters on Smuggling Kingpin.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Zach Cohen
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!design DrChillbrain
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-19 17:58:00
+	time_modified: 2025-11-28 20:52:36
+	name: Freezefire Corps
+	casting_cost: UR
+	image: image322
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+		Whenever <atom-cardname><nospellcheck>Freezefire Corps</nospellcheck></atom-cardname> attacks, exile the top card of your library. You may play that card this turn. It costs <sym-auto>2</sym-auto> less to cast.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ognjen Sporin
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 6
+		frames: borderless art
+		alt_rarity_color: 224,224,224:84,84,84:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design DrChillbrain
+		!secret !update !promo Eternal Excursion;Vereaux Hero
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-28 20:54:59
+	name: Granite Harbinger
+	casting_cost: 1
+	image: image323
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Gargoyle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Granite Harbinger</nospellcheck></atom-cardname> dies, you may search your library for a Nightmare card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor>Abandoned projects from the Lyceum of Marble most be carefully disposed of.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: exellero
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: borderless art
+		alt_rarity_color: 214,196,94:95,84,40:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design DrChillbrain
+		!secret !update !promo Eternal Excursion;Vereaux Hero
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-28 20:55:03
+	card_color: land, multicolor
+	name: Luxurious Estate
+	casting_cost: 
+	image: image324
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		As <atom-cardname><nospellcheck>Luxurious Estate</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, it enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: aw-anqi
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!secret !update !design DrChillbrain
+		!inpend Endgame /add/(If you control eight or more tapped permanents, enter your endgame for the rest of the game.)
+		!inpend > /replace/
+	time_created: 2020-12-05 21:33:40
+	time_modified: 2025-12-01 15:47:29
+	name: Monument to Vanity
+	casting_cost: BR
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> <kw-0><nospellcheck><key>Endgame</key></nospellcheck></kw-0> 
+		> <sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		> <sym-auto>T</sym-auto>: Exile the top card of your library. You may play that card this turn. Active only if you’re in your <kw-0><nospellcheck><key>endgame</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Artem Katalkin
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 

@@ -13,6 +13,8 @@ set_info:
 	auto_errata: no
 	automatic_reminder_text: old, expert, pseudo, action, custom
 	card_number_style: 001/099
+	custom_symbol_1: totem.png,File found,512,+
+	custom_symbol_2: figure.png,File found,512,+
 	use_flavor_bar: yes
 styling:
 	magic-COTWC-m15doublefaced:
@@ -80,8 +82,8 @@ styling:
 		overlay: 
 	magic-m15-mainframe-dfc:
 		other_options: use hovering pt, use holofoil stamps, back color indicator, ancestral generic mana, unindent nonloyalty abilities, auto nyx crowns
-		custom_symbol_one: totem.png
-		custom_symbol_two: figure.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_1_chop: -4,5
 		level_5_chop: -4,5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -108,6 +110,10 @@ styling:
 		overlay: 
 	magic-m15-paradox:
 		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: KUT
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
 		overlay: 
 	magic-m15-planeswalker:
 		text box mana symbols: magic-mana-small.mse-symbol-font
@@ -170,6 +176,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -193,6 +200,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -219,6 +227,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -244,6 +253,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -270,6 +280,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -303,6 +314,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Misc.
@@ -327,6 +339,7 @@ card:
 	copyright: © Wizards of the Coas
 	copyright_2: © Wizards of the Coas
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: 
@@ -352,13 +365,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: totem.png
-		custom_symbol_two: figure.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_5_chop: -10,10
 		level_6_chop: 
 		level_7_chop: 
@@ -413,6 +427,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -441,6 +456,7 @@ card:
 	copyright: © Wizards of the Coas
 	copyright_2: © Wizards of the Coas
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -473,6 +489,7 @@ card:
 	copyright: © Wizards of the Coas
 	copyright_2: © Wizards of the Coas
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -522,6 +539,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -557,6 +575,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Inuit
@@ -583,6 +602,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -617,6 +637,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -655,6 +676,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -682,6 +704,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -706,6 +729,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -737,6 +761,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -780,6 +805,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coast and Aura Designs
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -806,6 +832,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -846,6 +873,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -872,6 +900,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -906,6 +935,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -930,6 +960,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -955,6 +986,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -979,6 +1011,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -1003,6 +1036,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1039,6 +1073,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -1065,6 +1100,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1100,6 +1136,7 @@ card:
 	copyright: © Wizards of the Coas
 	copyright_2: © Wizards of the Coas
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: 
@@ -1123,6 +1160,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1145,6 +1183,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1194,6 +1233,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1227,6 +1267,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -1253,6 +1294,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1290,6 +1332,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1315,6 +1358,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1358,6 +1402,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1384,6 +1429,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1426,6 +1472,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1448,6 +1495,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1474,6 +1522,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1523,6 +1572,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: Inuit
@@ -1549,6 +1599,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1577,6 +1628,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1613,6 +1665,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -1640,6 +1693,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1674,6 +1728,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1709,14 +1764,15 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
 		other_options: use hovering pt, use holofoil stamps, back color indicator, ancestral generic mana, unindent nonloyalty abilities, auto nyx crowns
-		custom_symbol_one: totem.png
-		custom_symbol_two: figure.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_1_chop: -4,4
 		level_2_chop: 
 		level_5_chop: -4
@@ -1769,6 +1825,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -1805,6 +1862,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -1831,6 +1889,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1873,6 +1932,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -1905,6 +1965,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -1929,6 +1990,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1961,6 +2023,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1995,6 +2058,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2028,6 +2092,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2052,6 +2117,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2076,6 +2142,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2112,6 +2179,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2138,6 +2206,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2171,6 +2240,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2196,6 +2266,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2221,6 +2292,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2245,6 +2317,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2271,6 +2344,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2297,6 +2371,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2334,6 +2409,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2358,6 +2434,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2393,6 +2470,7 @@ card:
 	copyright: veli-nystrom© Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2442,6 +2520,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2480,6 +2559,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2513,6 +2593,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2545,6 +2626,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2589,6 +2671,7 @@ card:
 	copyright: © Wizards of the Coas
 	copyright_2: © Wizards of the Coas
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -2617,6 +2700,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2650,6 +2734,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2676,6 +2761,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2711,6 +2797,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -2737,6 +2824,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -2764,6 +2852,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2803,6 +2892,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2833,6 +2923,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2873,6 +2964,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -2899,6 +2991,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2925,6 +3018,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -2960,6 +3054,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -2994,6 +3089,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3027,6 +3123,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3079,6 +3176,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: 
@@ -3105,6 +3203,7 @@ card:
 	copyright: © Wizards of the Coas
 	copyright_2: © Wizards of the Coas
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: Asian
@@ -3129,6 +3228,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -3151,6 +3251,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -3179,6 +3280,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -3205,6 +3307,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -3232,6 +3335,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -3256,6 +3360,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3281,6 +3386,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -3307,6 +3413,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3339,6 +3446,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -3363,6 +3471,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3402,6 +3511,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -3429,6 +3539,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3472,6 +3583,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Inuit
@@ -3499,6 +3611,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3542,6 +3655,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3575,6 +3689,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -3598,6 +3713,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3638,6 +3754,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3645,8 +3762,8 @@ card:
 	styling_data:
 		front_font_cap: 
 		other_options: use hovering pt, use holofoil stamps, back color indicator, ancestral generic mana, unindent nonloyalty abilities, auto nyx crowns
-		custom_symbol_one: totem.png
-		custom_symbol_two: figure.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_1_chop: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -3696,6 +3813,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes:
@@ -3723,6 +3841,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -3754,6 +3873,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3789,6 +3909,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -3815,6 +3936,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -3842,6 +3964,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: Asian
@@ -3869,6 +3992,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -3898,6 +4022,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3948,6 +4073,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes:
@@ -3975,6 +4101,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -4002,6 +4129,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -4029,6 +4157,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4057,6 +4186,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -4082,6 +4212,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4119,6 +4250,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4169,6 +4301,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: 
@@ -4196,6 +4329,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4223,6 +4357,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4257,6 +4392,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4284,6 +4420,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4309,6 +4446,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4344,6 +4482,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -4370,6 +4509,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4397,6 +4537,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4422,6 +4563,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4449,6 +4591,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -4477,6 +4620,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4527,6 +4671,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4554,6 +4699,7 @@ card:
 	copyright: © WotC & Nickelodeon
 	copyright_2: © WotC & Nickelodeon
 	copyright_3: © WotC & Nickelodeon
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4577,6 +4723,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: guildmage
@@ -4602,6 +4749,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Misc.
@@ -4628,6 +4776,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4678,6 +4827,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4715,6 +4865,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4766,6 +4917,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4802,6 +4954,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4838,6 +4991,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4867,6 +5021,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4894,6 +5049,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4921,6 +5077,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -4948,6 +5105,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4984,6 +5142,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5011,6 +5170,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5045,6 +5205,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5095,6 +5256,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5144,6 +5306,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5171,6 +5334,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5201,6 +5365,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5236,6 +5401,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5263,6 +5429,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5290,6 +5457,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5317,6 +5485,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5344,6 +5513,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5371,6 +5541,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5396,6 +5567,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -5425,6 +5597,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -5452,6 +5625,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5487,6 +5661,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5514,6 +5689,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5542,6 +5718,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -5569,6 +5746,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5594,6 +5772,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -5621,6 +5800,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -5644,6 +5824,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5681,6 +5862,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: true
 	styling_data:
@@ -5714,6 +5896,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5739,6 +5922,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5777,6 +5961,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5813,6 +5998,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5846,6 +6032,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -5871,6 +6058,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5898,6 +6086,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: true
 	styling_data:
@@ -5934,6 +6123,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -5961,6 +6151,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5997,6 +6188,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6033,6 +6225,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -6058,6 +6251,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -6086,6 +6280,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -6114,6 +6309,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6138,6 +6334,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6162,6 +6359,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6188,6 +6386,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6214,6 +6413,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6238,6 +6438,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -6265,6 +6466,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6302,6 +6504,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -6330,6 +6533,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -6357,6 +6561,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6407,6 +6612,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6441,6 +6647,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6472,6 +6679,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6507,6 +6715,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6544,6 +6753,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6579,6 +6789,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal 
@@ -6606,6 +6817,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coast and Aura Designs
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6656,6 +6868,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6690,6 +6903,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6721,6 +6935,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6753,6 +6968,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6788,6 +7004,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -6815,6 +7032,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -6838,6 +7056,7 @@ card:
 	copyright: Leonardo E. Giordano© Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6889,6 +7108,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6926,6 +7146,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6959,6 +7180,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7009,6 +7231,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7044,6 +7267,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -7071,6 +7295,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7108,6 +7333,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: Asian
@@ -7144,6 +7370,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7182,6 +7409,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: Asian
@@ -7210,6 +7438,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -7233,6 +7462,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7269,6 +7499,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7305,6 +7536,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7355,6 +7587,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7390,6 +7623,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -7417,6 +7651,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -7452,6 +7687,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -7480,6 +7716,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -7519,6 +7756,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7527,8 +7765,8 @@ card:
 		front_font_cap: 
 		shrink_typeline_text: 
 		other_options: use hovering pt, use holofoil stamps, back color indicator, ancestral generic mana, unindent nonloyalty abilities, auto nyx crowns
-		custom_symbol_one: totem.png
-		custom_symbol_two: figure.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_1_chop: -4,5
 		level_2_chop: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -7581,6 +7819,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	has_styling: false
 	notes: 
@@ -7606,6 +7845,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7651,6 +7891,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7684,6 +7925,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -7712,6 +7954,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7756,6 +7999,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -7787,6 +8031,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -7810,6 +8055,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7851,6 +8097,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal 
@@ -7879,6 +8126,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: Asian
@@ -7909,6 +8157,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coast and Aura Designs
+
 card:
 	has_styling: false
 	notes: Asian
@@ -7932,6 +8181,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -7959,6 +8209,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7989,6 +8240,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -8017,6 +8269,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8050,6 +8303,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8086,6 +8340,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8124,6 +8379,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8158,6 +8414,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8185,6 +8442,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -8211,6 +8469,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8249,6 +8508,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -8272,6 +8532,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -8296,6 +8557,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -8322,6 +8584,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8355,6 +8618,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -8381,6 +8645,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -8405,6 +8670,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: !slotmarker landslot
@@ -8429,6 +8695,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8464,6 +8731,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8494,6 +8762,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coast and Aura Designs
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8530,6 +8799,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8580,6 +8850,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8629,6 +8900,7 @@ card:
 		[+1]: <margin:130:0:0>Add <sym>RR</sym>. You may discard a card. If you do, draw a card.</margin:130:0:0>
 		[-X]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Solara</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals X damage to each other creature and planeswalker.</margin:130:0:0>
 		[-8]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Solara</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals damage to each opponent equal to twice the number of <sym>R</sym> in the mana cost of cards in your graveyard.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -8661,6 +8933,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8712,6 +8985,7 @@ card:
 		Whenever a nontoken creature you control dies, create a 1/1 black Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		[+1]: <margin:130:0:0>Each opponent loses 2 life and you gain 2 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Sacrifice a creature. When you do, destroy target nonland permanent.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: Asian
@@ -8744,6 +9018,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8784,6 +9059,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8814,6 +9090,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Asian
@@ -8842,6 +9119,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8883,6 +9161,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Boreal
@@ -8910,6 +9189,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8958,6 +9238,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9008,6 +9289,7 @@ card:
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9038,6 +9320,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9068,6 +9351,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9100,6 +9384,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9138,6 +9423,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9168,6 +9454,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9198,6 +9485,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9228,6 +9516,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9258,6 +9547,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9288,6 +9578,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9336,13 +9627,14 @@ card:
 		[+2]: <margin:130:0:0>Create a 1/1 blue Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Return up to one target nonland permanent to its owner’s hand. You may return another card from your graveyard to your hand.</margin:130:0:0>
 		[-11]: <margin:130:0:0>Any number of target nonland, non-Aura permanents become lands with “<sym-auto>T</sym-auto>: Add one mana of any color” and lose all other card types and abilities.</margin:130:0:0>
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Wilderkin Behemoth (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:34:55
 	name: Naga, Loyal Beardog
@@ -9368,6 +9660,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9380,7 +9673,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Rescuer of the Lost (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-06-07 00:05:03
 	time_modified: 2021-04-04 23:34:06
 	name: Momo, Leaping Lemur
@@ -9407,13 +9700,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Caldera Elemental (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:34:03
 	name: Future Industries Mecha
@@ -9439,6 +9733,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9450,7 +9745,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Boundary Guardian (Avatar)
-		!promo 
+		!promo Avatar
 		!inpend surveil 1./add/ (Look at the top card of your library. You may put that card into your graveyard.)
 	time_created: 2020-02-12 11:22:48
 	time_modified: 2024-08-30 13:26:31
@@ -9477,6 +9772,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9488,7 +9784,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Fortunous Windhorse (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:33:51
 	name: Appa, Aang’s Companion
@@ -9514,6 +9810,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9525,7 +9822,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Serene Mediator (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:33:54
 	name: Aang, the Lost Avatar
@@ -9552,6 +9849,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9562,7 +9860,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Monastery Flagdancers (Avatar)
-		!promo 
+		!promo Avatar
 		!inpend more creatures/add/ (When this attacks, if it has no +1/+1 counters, you may tap one or more of your other creatures to put one on it.)
 	time_created: 2020-07-28 19:42:58
 	time_modified: 2021-04-04 23:33:46
@@ -9589,6 +9887,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9601,7 +9900,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Combat-Form Instructor (Avatar)
-		!promo 
+		!promo Avatar
 		!inpend more creatures/add/ (When this attacks, if it has no +1/+1 counters, you may tap one or more of your other creatures to put one on it.)
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:33:42
@@ -9628,13 +9927,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Emberwind Visionary (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2024-08-30 10:17:06
 	name: Tenzin, Airbending Expert
@@ -9660,13 +9960,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Guru of Tumbling Stone (Avatar)
-		!promo 
+		!promo Avatar
 		!inpend more creatures/add/ (When this attacks, if it has no +1/+1 counters, you may tap two or more of your other creatures to put one on it.)
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:33:12
@@ -9693,6 +9994,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9704,7 +10006,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Sunflare Disciple (Avatar)
-		!promo 
+		!promo Avatar
 		!inpend more creatures/add/ (When this attacks, if it has no +1/+1 counters, you may tap three or more of your other creatures to put one on it.)
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:33:08
@@ -9732,13 +10034,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Solara’s Pyromancer (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:33:04
 	name: Azula, Raging Firebender
@@ -9772,13 +10075,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Narwa Igniter (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-11 21:22:09
 	name: Asami of Future Industries
@@ -9804,6 +10108,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9815,7 +10120,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Seqineq, the Rising Sun (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:32:56
 	name: Korra, One with Raava
@@ -9841,13 +10146,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Ujuraq, Elder Watcher (Avatar)
-		!promo 
+		!promo Avatar
 		!inpend surveil 1./add/ (Look at the top card of your library. You may put that card into your graveyard.)
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2024-08-30 13:25:18
@@ -9874,6 +10180,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9884,7 +10191,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Atrah of the First Word (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:32:50
 	name: Aang, Avatar State
@@ -9910,6 +10217,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9921,7 +10229,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Sonam the Hunted (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:32:45
 	name: Iroh, Dragon of the West
@@ -9947,6 +10255,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9958,7 +10267,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Tigal, Guru of the Dhagiri (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2023-04-30 20:56:17
 	name: Katara, Proven Waterbender
@@ -9982,6 +10291,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -9993,7 +10303,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Anigul, the Setting Sun (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2018-11-29 18:56:03
 	time_modified: 2024-08-30 13:28:21
 	name: Unalaq, One with Vaatu
@@ -10021,6 +10331,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
@@ -10032,7 +10343,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Isolated Meditation (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:32:32
 	name: Frozen in Ice
@@ -10059,13 +10370,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-godzilla-planeswalker
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Solara, Sun Speaker (Avatar)
-		!promo
+		!promo Avatar
 		Add RR. You may discard a card. If you do, draw a card.
 		Solara deals X damage to each creature and each other planeswalker.
 		Solara deals damage to each opponent equal to twice the number of R in the mana cost of cards in your graveyard.
@@ -10104,13 +10416,14 @@ card:
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coast and Aura Designs
 	special_text: 
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: false
 	notes:
 		!exportname Wrap in Flames (Avatar)
-		!promo
+		!promo Avatar
 	time_created: 2020-05-18 17:43:04
 	time_modified: 2021-04-04 23:32:23
 	name: Wild Lightning
@@ -10136,15 +10449,16 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
 		popout_image_style: 120,5,120,110,
-		other_options: mythic edition, remove from autocount, use hovering pt, use holofoil stamps, back color indicator, ancestral generic mana, unindent nonloyalty abilities, auto nyx crowns
-		custom_symbol_one: totem.png
-		custom_symbol_two: figure.png
+		other_options: mythic edition, use hovering pt
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_1_chop: -4,5
 		level_5_chop: -4,5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -10152,10 +10466,9 @@ card:
 		overlay: 
 	notes:
 		KUT !design Matt
-		!num 300
-		!promo
+		!promo Eternal Excursion
 	time_created: 2017-09-09 19:33:36
-	time_modified: 2023-04-30 21:44:47
+	time_modified: 2025-11-28 18:39:04
 	extra_data:
 		magic-m15-doublefaced-append:
 			corner: day
@@ -10165,6 +10478,8 @@ card:
 	name: Burning Dawn
 	name_2: Sunscale Totem
 	casting_cost: 2R
+	transformation: custom symbol one
+	transformation_2: custom symbol two
 	type_symbol: enchantment
 	type_symbol_2: creature
 	image: image251
@@ -10193,13 +10508,15 @@ card:
 	toughness_2: 
 	illustrator: Anato Finnstark
 	illustrator_2: Cindy Avelino, extended@dall-e
-	custom_card_number: 300a
-	card_code_text: Excursion Claimed by PTM
+	partition_select: after main set P
+	custom_card_number: 
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: Excursion Claimed by PTM
 	copyright: © Wizards of the Coast and Aura Designs
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coas
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10209,15 +10526,15 @@ card:
 		chop_bottom: 5
 		frames: borderless art
 		popout_image_style: 170,25,55,55,
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Matt
-		!promo
+		!promo Eternal Excursion
 	time_created: 2020-02-20 20:29:25
-	time_modified: 2023-04-30 21:45:09
+	time_modified: 2025-11-28 18:38:07
 	name: Stoic Sentinel
 	casting_cost: 1G
 	image: image267
@@ -10234,13 +10551,15 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: Innervalue
-	custom_card_number: 301
-	card_code_text: Excursion Claimed by Philippe Saner
+	partition_select: after main set P
+	custom_card_number: 
+	card_code_text: 
 	card_code_text_2: Excursion Claimed by Philippe Saner
 	card_code_text_3: Excursion Claimed by Philippe Saner
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10251,16 +10570,16 @@ card:
 		frames: borderless art
 		popout_image_style: 140,26,150,50,
 		other_options: ancestral generic mana, auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: always
 		overlay: 
 	notes:
 		!design Matt
-		!promo
+		!promo Eternal Excursion
 	time_created: 2020-04-26 18:31:34
-	time_modified: 2023-04-30 21:45:20
+	time_modified: 2025-11-28 18:38:26
 	name: Ghostwarden's Claim
 	casting_cost: BGU
 	image: image269
@@ -10273,13 +10592,212 @@ card:
 	rule_text: Exile target nonland permanent. <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: FlerPainter
-	custom_card_number: 302
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Excursion Claimed by Philippe Saner
 	card_code_text_2: Excursion Claimed by Philippe Saner
 	card_code_text_3: Excursion Claimed by Philippe Saner
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-07 21:03:09
+	time_modified: 2025-11-28 18:43:47
+	name: Bloodstitched Tupilaq
+	casting_cost: 2B
+	image: image272
+	image_2: image274
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: You may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bloodstitched</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tupilaq</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enter as a copy of any creature card in a graveyard with mana value 4 or less.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Wero Gallo
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-07 21:08:07
+	time_modified: 2025-11-28 18:44:09
+	name: Thin the Veil
+	casting_cost: 2BB
+	image: image279
+	image_2: 
+	mainframe_image: image281
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Search your library for a nonland card not named Thin the Veil, exile it, then shuffle. If it has mana value less than or equal to the number of card types among cards in your graveyard, you may cast it without paying its mana cost. If you don’t, put it into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Michael Engler
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes:
+		!design Matt
+		!secret !update !promo Eternal Excursion;Chikyu Foil
+	time_created: 2019-04-30 19:56:49
+	time_modified: 2025-12-01 15:26:20
+	name: Serene Mediator
+	casting_cost: WU
+	image: image283
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Serene Mediator</nospellcheck></atom-cardname> enters, counter target noncreature spell unless its controller pays <sym-auto>1</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Sa-Dui
+	partition_select: after main set Q
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Matt
+	copyright_2: © Wizards of the Coast
+	copyright_3: © Wizards of the Coast
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: true
+	styling_data:
+		rarity_symbol: KUT
+		chop_text_box: 0,11
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
+	notes:
+		!update !secret !promo Eternal Excursion;Weft Terminal
+		!design Matt
+		!inpend > /replace/
+	time_created: 2019-06-03 16:43:08
+	time_modified: 2025-11-28 19:02:22
+	name: Prophet of the Veil
+	casting_cost: BGU
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> While you’re looking at one or more cards on top of your library except while searching, you may put <atom-cardname><nospellcheck>Prophet of the Veil</nospellcheck></atom-cardname> from among them into your graveyard. When you do, each opponent loses 2 life and you gain 2 life.
+		> <sym-auto>2G</sym-auto>: Return <atom-cardname><nospellcheck>Prophet of the Veil</nospellcheck></atom-cardname> from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 4
+	toughness: 4
+	illustrator: Oliver Morit
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: © Wizards of the Coast
+	copyright_2: © Wizards of the Coast
+	copyright_3: © Wizards of the Coast
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!secret !update !promo Eternal Excursion;Weft Terminal<soft-line>
+		!design Matt</soft-line>
+		!inpend > /replace/
+		!append (This creature can’t be the target of spells or abilities your opponents control with mana value 3 or less.)
+	time_created: 2020-04-26 18:31:34
+	time_modified: 2025-11-28 19:02:26
+	name: Wilderkin Behemoth
+	casting_cost: 1RGW
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> This spell can’t be countered.
+		> <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		> <kw-0><nospellcheck><key>Hexproo<param-name>f</param-name> from <param-name>mana value 3 or less</param-name></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Liiga Smilshkalne
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: © Wizards of the Coast
+	copyright_2: © Wizards of the Coast
+	copyright_3: © Wizards of the Coast
+
 keyword:
 	keyword: Materialize
 	match: Materialize <atom-param>number</atom-param> <atom-param>cost</atom-param>

@@ -16,7 +16,7 @@ set_info:
 	masterpiece_symbol: 
 	auto_errata: no
 	card_number_style: 001/099
-	sort_special_rarity: separate numbering
+	sort_special_rarity: with the rest
 	custom_index: hasflavor,
 styling:
 	magic-m15-altered:
@@ -35,21 +35,29 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-outlaws:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: BLR
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
 		overlay: 
 	magic-m15-promo-dka-miracle:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-showcase-capenna-golden-age:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-showcase-kaldheim:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-showcase-praetor:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-showcase-strixhaven:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-small-strixhaven.mse-symbol-font
 		overlay: 
@@ -69,7 +77,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-windy-ultima:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 card:
@@ -99,6 +107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -126,6 +135,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -160,6 +170,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -195,6 +206,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -220,6 +232,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -245,6 +258,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -272,6 +286,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -299,6 +314,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -326,6 +342,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -353,6 +370,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -377,6 +395,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -401,6 +420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -425,6 +445,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -449,6 +470,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -473,6 +495,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -497,6 +520,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: adjusted: Was {R} Sorcery.
@@ -525,6 +549,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -549,6 +574,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -571,6 +597,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -596,6 +623,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -618,6 +646,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -643,6 +672,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -669,6 +699,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -693,6 +724,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -717,6 +749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -739,6 +772,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -765,6 +799,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -792,6 +827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -816,6 +852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -842,6 +879,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -866,6 +904,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -891,6 +930,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -915,6 +955,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -939,6 +980,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: adjusted: Was {W} and mv2 or less.
@@ -964,6 +1006,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -990,6 +1033,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !addtoken BLR Spirit;2;
@@ -1012,6 +1056,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1040,6 +1085,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1074,6 +1120,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1100,6 +1147,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1124,6 +1172,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1152,6 +1201,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1178,6 +1228,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1210,6 +1261,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1234,6 +1286,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1258,6 +1311,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1284,6 +1338,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1310,6 +1365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1338,6 +1394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1364,6 +1421,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1399,6 +1457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1424,6 +1483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1448,6 +1508,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1480,6 +1541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1512,6 +1574,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1546,6 +1609,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1570,6 +1634,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1592,6 +1657,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1616,6 +1682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1642,6 +1709,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1666,6 +1734,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1690,6 +1759,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1714,6 +1784,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1740,6 +1811,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1762,6 +1834,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: nerfed: Can no longer copy land tokens.
@@ -1789,6 +1862,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1813,6 +1887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Depczyński
@@ -1837,6 +1912,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1863,6 +1939,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1895,6 +1972,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1921,6 +1999,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Consider rearting
@@ -1943,6 +2022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1967,6 +2047,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2001,6 +2082,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2023,6 +2105,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2047,6 +2130,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2073,6 +2157,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2099,6 +2184,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2123,6 +2209,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2147,6 +2234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2171,6 +2259,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !rul You choose if all players draw or no players draw, you don’t choose for each individually.
@@ -2195,6 +2284,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2219,6 +2309,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2241,6 +2332,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2267,6 +2359,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2291,6 +2384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2327,6 +2421,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2351,6 +2446,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2378,6 +2474,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2402,6 +2499,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2428,6 +2526,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2452,6 +2551,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2476,6 +2576,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2499,6 +2600,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2525,6 +2627,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2548,6 +2651,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2580,6 +2684,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2602,6 +2707,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2624,6 +2730,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2650,6 +2757,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2674,6 +2782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2700,6 +2809,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2724,6 +2834,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2750,6 +2861,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2775,6 +2887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2801,6 +2914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2829,6 +2943,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2853,6 +2968,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2879,6 +2995,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2903,6 +3020,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2925,6 +3043,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2950,6 +3069,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2975,6 +3095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3000,6 +3121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3023,6 +3145,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3048,6 +3171,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3083,6 +3207,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3108,6 +3233,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3133,6 +3259,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3156,6 +3283,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3181,6 +3309,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3206,6 +3335,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3231,6 +3361,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3258,6 +3389,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3285,6 +3417,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3312,6 +3445,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3346,6 +3480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3371,6 +3506,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3398,6 +3534,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3423,6 +3560,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3446,6 +3584,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3479,6 +3618,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3504,6 +3644,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3529,6 +3670,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3554,6 +3696,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3581,6 +3724,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3608,6 +3752,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3636,6 +3781,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3661,6 +3807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3688,6 +3835,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: buffed: Was 2/2 and got one counter.
@@ -3713,6 +3861,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3746,6 +3895,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3772,6 +3922,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3797,6 +3948,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3831,6 +3983,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3866,6 +4019,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3893,6 +4047,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3919,6 +4074,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3944,6 +4100,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3971,6 +4128,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3996,6 +4154,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4028,6 +4187,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4056,6 +4216,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4081,6 +4242,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4106,6 +4268,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4135,6 +4298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4162,6 +4326,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4187,6 +4352,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4214,6 +4380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4253,6 +4420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4278,6 +4446,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4305,6 +4474,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4341,6 +4511,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4370,6 +4541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4393,6 +4565,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4418,6 +4591,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4445,6 +4619,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4472,6 +4647,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4497,6 +4673,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4524,6 +4701,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4549,6 +4727,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4574,6 +4753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4609,6 +4789,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4634,6 +4815,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4659,6 +4841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4692,6 +4875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4717,6 +4901,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4741,6 +4926,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4765,6 +4951,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4789,6 +4976,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4813,6 +5001,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4837,6 +5026,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4860,6 +5050,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4883,6 +5074,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4909,6 +5101,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4944,6 +5137,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4971,6 +5165,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4996,6 +5191,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5019,6 +5215,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5044,6 +5241,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5069,6 +5267,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5092,6 +5291,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5119,6 +5319,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5158,6 +5359,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5186,6 +5388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: adjusted: Was 4/4 for {3}{W}{W}
@@ -5213,6 +5416,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5237,6 +5441,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5265,6 +5470,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5290,6 +5496,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5317,6 +5524,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: reworked: Previously gave other creatures +1/+0 when attacking with revolt, and had {2}, Sacrifice a land: Create two 1/1 red Soldiers.
@@ -5342,6 +5550,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: nerfed: Can now only cast one more spell.
@@ -5367,6 +5576,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5390,6 +5600,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5413,6 +5624,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5436,6 +5648,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5459,6 +5672,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5495,6 +5709,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5531,6 +5746,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5567,6 +5783,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5595,6 +5812,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5623,6 +5841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5650,6 +5869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5687,6 +5907,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5712,6 +5933,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: nerfed: Now only creates a Treasure if the card was multicolor.
@@ -5735,6 +5957,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: buffed: Trigger exiles a second card.
@@ -5762,6 +5985,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5810,6 +6034,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5833,6 +6058,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5860,6 +6086,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5886,6 +6113,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5914,6 +6142,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5939,6 +6168,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5967,6 +6197,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6003,6 +6234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6031,6 +6263,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6058,6 +6291,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6085,6 +6319,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6111,6 +6346,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6138,6 +6374,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6163,6 +6400,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6189,6 +6427,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6217,6 +6456,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6253,6 +6493,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6278,6 +6519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: nerfed: Now returns the land tapped with a finality counter.
@@ -6305,6 +6547,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Can make lands enters the battlefield tapped if needed
@@ -6328,6 +6571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6363,6 +6607,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6391,6 +6636,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6418,6 +6664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6445,6 +6692,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6475,6 +6723,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6500,6 +6749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6529,6 +6779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6557,6 +6808,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6580,6 +6832,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: adjusted: Now an instant. The tokens can’t block the turn they enter.
@@ -6611,6 +6864,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6634,6 +6888,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6661,6 +6916,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6690,6 +6946,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6713,6 +6970,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6740,6 +6998,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6750,7 +7009,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2021-08-15 13:56:36
 	time_modified: 2025-09-24 20:24:05
 	name: Ella’s Agent
@@ -6775,6 +7034,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6808,6 +7068,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6849,6 +7110,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6889,6 +7151,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6931,6 +7194,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6971,6 +7235,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7017,6 +7282,7 @@ card:
 		[+1]: <margin:130:0:0>You may sacrifice a creature. If you do, create a 5/5 black Demon creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may pay 2 life. If you do, each opponent loses 5 life.</margin:130:0:0>
 		[-4]: <margin:130:0:0>You may sacrifice a land. If you do, you may cast a card from your hand without paying its mana cost.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7055,6 +7321,7 @@ card:
 		[+1]: <margin:130:0:0>Exile up to one target enchantment or creature. Return it to the battlefield under its owner’s control at the beginning of the next upkeep.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target creature until target nonland permanent you control leaves the battlefield.</margin:130:0:0>
 		[-4]: <margin:130:0:0>You may put a permanent card with mana value 3 or less from your hand or graveyard onto the battlefield.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7101,6 +7368,7 @@ card:
 		[+2]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Choose a nonland, non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card name. Exile all permanents with that name.</margin:130:0:0>
 		[-9]: <margin:130:0:0>Shuffle any number of cards from your graveyard into your library. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals that much damage to any non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target, and you gain that much life.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -7138,6 +7406,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7172,6 +7441,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7202,6 +7472,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7240,6 +7511,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7267,6 +7539,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7292,6 +7565,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7317,13 +7591,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related X>Tugae Deathspinner
-
+	notes: !related X>Tugae Deathspinner
 	time_created: 2021-08-19 13:32:44
 	time_modified: 2021-08-19 13:34:13
 	card_color: green
@@ -7346,6 +7619,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7381,6 +7655,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !remember to keep an eye on this loser
@@ -7407,6 +7682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: buffed: Was Whenever Cerys attacks
@@ -7437,6 +7713,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7461,6 +7738,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7468,7 +7746,6 @@ card:
 	notes:
 		!exportname Red Soldier
 		!related 3>Impromptu Warband;2>Assemble the Mob;2>Cerys, Heart of Klemnae;2>Razelit Meditation;Sparring Partner;2>Revolutionary Recruiter;2>Vanguard Commander;Accompanied Chevalier
-
 	time_created: 2021-08-26 23:36:33
 	time_modified: 2022-08-18 20:21:17
 	card_color: red
@@ -7488,13 +7765,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Reapers Called to Harvest;Zombie Infestation;Fervent Necromancer;2>Reinstated Reaper
-
+	notes: !related Reapers Called to Harvest;Zombie Infestation;Fervent Necromancer;2>Reinstated Reaper
 	time_created: 2021-08-26 23:36:51
 	time_modified: 2021-08-27 10:30:20
 	card_color: black
@@ -7514,13 +7790,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Reapers Called to Harvest;Hieronymus Scratch
-
+	notes: !related Reapers Called to Harvest;Hieronymus Scratch
 	time_created: 2021-08-26 23:37:07
 	time_modified: 2021-08-26 23:52:32
 	card_color: black
@@ -7540,13 +7815,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Familial Roots;Wildcourt Recruiter
-
+	notes: !related Familial Roots;Wildcourt Recruiter
 	time_created: 2021-08-26 23:37:23
 	time_modified: 2021-08-26 23:46:17
 	card_color: green
@@ -7566,13 +7840,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related 2>Ella, Rose Court Queen;X>Enigmatic Mentor
-
+	notes: !related 2>Ella, Rose Court Queen;X>Enigmatic Mentor
 	time_created: 2021-08-26 23:37:39
 	time_modified: 2022-08-18 20:21:39
 	card_color: blue
@@ -7594,13 +7867,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Temporal Termination;Gilded Reaper
-
+	notes: !related Temporal Termination;Gilded Reaper
 	time_created: 2021-08-26 23:37:57
 	time_modified: 2021-08-27 10:28:01
 	name: Treasure
@@ -7619,6 +7891,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7645,6 +7918,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -7668,6 +7942,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -7691,6 +7966,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -7714,6 +7990,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -7737,6 +8014,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -7760,6 +8038,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7788,6 +8067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7812,6 +8092,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7836,6 +8117,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7860,6 +8142,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7884,6 +8167,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7908,6 +8192,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7935,13 +8220,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Natural Majesty;
-
+	notes: !related Natural Majesty;
 	time_created: 2021-08-26 23:37:23
 	time_modified: 2022-08-18 20:55:03
 	card_color: green
@@ -7961,16 +8245,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-kaldheim
 	stylesheet_version: 2024-09-01
 	has_styling: false
 	notes:
-		!promo
+		!promo Eltensia Prophecy
 		!design Pipsqueak
+		!update
 		!append  (You may cast this card from your graveyard for its escape cost.)
 	time_created: 2022-08-25 20:19:51
-	time_modified: 2024-04-29 06:49:57
+	time_modified: 2025-11-28 22:02:56
 	name: Lucille, Ruthless Warlord
 	casting_cost: 3BR
 	image: image225
@@ -7989,22 +8275,24 @@ card:
 	power: 6
 	toughness: 4
 	illustrator: Fell Hound
-	custom_card_number: 290
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Prophecy Completed by Pipsqueak
 	card_code_text_2: Prophecy Completed by Pipsqueak
 	card_code_text_3: Prophecy Completed by Pipsqueak
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Eltensia Prophecy
 	time_created: 2022-08-25 19:55:34
-	time_modified: 2023-02-03 19:48:05
+	time_modified: 2025-11-28 22:01:04
 	name: Bloodfrenzied Vanguard
 	casting_cost: 1RR
 	image: image292
@@ -8021,13 +8309,15 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: Shahab Alizadeh
-	custom_card_number: 286
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Prophecy Completed by PTM
 	card_code_text_2: Prophecy Completed by PTM
 	card_code_text_3: Prophecy Completed by PTM
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8037,16 +8327,16 @@ card:
 		chop_bottom: 7
 		frames: fnm promo
 		other_options: auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Eltensia Prophecy
 	time_created: 2022-08-25 22:04:44
-	time_modified: 2022-10-01 19:25:38
+	time_modified: 2025-11-28 22:01:53
 	name: Incendiary Flow
 	casting_cost: 1R
 	image: image295
@@ -8061,22 +8351,25 @@ card:
 		<i-flavor>“I use extreme violence as my last resort, after regular violence has failed.”<soft-line>
 		—Jessica Turin, <error-spelling:en_US>Archmagus</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: mist XG
-	custom_card_number: 288
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Prophecy Completed by Roxy
 	card_code_text_2: Prophecy Completed by Roxy
 	card_code_text_3: Prophecy Completed by Roxy
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-strixhaven
 	stylesheet_version: 2024-09-01
 	has_styling: false
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Eltensia Prophecy
+		!update
 	time_created: 2022-08-25 19:26:19
-	time_modified: 2023-01-04 07:16:50
+	time_modified: 2025-11-28 21:59:46
 	name: Approaching Greatness
 	casting_cost: 1W
 	image: image296
@@ -8089,13 +8382,15 @@ card:
 	rule_text: Search your library for an enchantment card with mana value 5 or greater, reveal it, put it into your hand, then shuffle. You gain 5 life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jeremy Fenske
-	custom_card_number: 283
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Prophecy Completed by HSquid
 	card_code_text_2: Prophecy Completed by HSquid
 	card_code_text_3: Prophecy Completed by HSquid
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8105,17 +8400,17 @@ card:
 		chop_bottom: 5
 		frames: borderless art, inverted
 		popout_image_style: 0,0,375,523,
-		other_options: auto nyx crowns
-		remove_from_autocount: yes
+		other_options: auto nyx crowns, inverted d20
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Eltensia Prophecy
 	time_created: 2022-08-25 22:26:12
-	time_modified: 2024-08-23 06:19:29
+	time_modified: 2025-11-28 21:58:54
 	name: Unknowable Starspawn
 	casting_cost: 5
 	image: image297
@@ -8134,23 +8429,25 @@ card:
 	power: 5
 	toughness: 4
 	illustrator: Aster Clarke
-	custom_card_number: 281
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Prophecy Completed by Pipsqueak
 	card_code_text_2: Prophecy Completed by Pipsqueak
 	card_code_text_3: Prophecy Completed by Pipsqueak
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
 	has_styling: false
 	notes:
-		!num 291
-		!promo
+		!promo Eltensia Prophecy
 		!design Pipsqueak
+		!update
 	time_created: 2022-08-25 22:31:04
-	time_modified: 2024-04-29 21:22:46
+	time_modified: 2025-11-28 21:57:57
 	name: The Herald of the Wildcourt
 	casting_cost: 2GW
 	image: image298
@@ -8163,6 +8460,7 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
 		You can’t cast noncreature spells.
@@ -8175,6 +8473,7 @@ card:
 	power: 4
 	toughness: 2
 	illustrator: LiigaKlavina
+	partition_select: after main set P
 	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
@@ -8182,20 +8481,21 @@ card:
 	copyright: Eltensia Prophecy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-praetor
 	stylesheet_version: 2024-09-01
 	has_styling: true
 	styling_data:
 		text_chops: 15,15
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Eltensia Prophecy
 	time_created: 2022-08-25 23:23:38
-	time_modified: 2025-09-23 22:37:38
+	time_modified: 2025-11-28 22:00:39
 	name: Stygian Mandate
 	casting_cost: 3BBB
 	image: image299
@@ -8218,25 +8518,26 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Jordan Head
-	custom_card_number: 285
-	card_code_text: Completed by Pipsqueak
+	partition_select: after main set P
+	custom_card_number: 
+	card_code_text: Prophecy Completed by Pipsqueak
 	card_code_text_2: Completed by Pipsqueak
 	card_code_text_3: Completed by Pipsqueak
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
 	has_styling: false
 	notes:
-		!num 292
-		!promo
-		
+		!promo Eltensia Prophecy
+		!update
 		!design Pipsqueak
 		!append  (You may cast this card from your graveyard for its escape cost.)
 	time_created: 2022-08-25 22:41:05
-	time_modified: 2025-09-24 20:40:22
+	time_modified: 2025-11-28 21:57:39
 	name: Kywon, Nostalgic Visionary
 	casting_cost: 2UB
 	image: image300
@@ -8249,6 +8550,7 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
 		When <atom-cardname><nospellcheck>Kywon, Nostalgic Visionary</nospellcheck></atom-cardname> enters, return target instant or sorcery card from your graveyard to your hand. If it had mana value 4 or greater, create a 3/3 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
@@ -8261,12 +8563,14 @@ card:
 	power: 2
 	toughness: 1
 	illustrator: Peter Elson
+	partition_select: after main set P
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Eltensia Prophecy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8276,17 +8580,17 @@ card:
 		chop_bottom: 12
 		frames: borderless art, inverted
 		popout_image_style: 207,8,71,58,
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		
-		!promo
+		!promo Eltensia Prophecy
+		!update
 		!append  (You may cast this card from your graveyard for its escape cost.)
 	time_created: 2022-08-25 23:09:15
-	time_modified: 2025-09-24 20:15:06
+	time_modified: 2025-11-28 22:02:29
 	name: Flesh Offered to the Dead
 	casting_cost: 2W
 	image: image301
@@ -8313,28 +8617,29 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Vlashyrk
-	custom_card_number: 282
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Eltensia Prophecy
 	card_code_text_2: Eltensia Prophecy
 	card_code_text_3: Eltensia Prophecy
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-zendikar
 	stylesheet_version: 2024-09-01
 	has_styling: true
 	styling_data:
 		text_chops: 19,19
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
-
+		!promo Eltensia Prophecy
 	time_created: 2022-08-25 23:25:27
-	time_modified: 2025-09-29 16:26:54
+	time_modified: 2025-11-28 22:01:31
 	name: Eltensian Hospitality
 	casting_cost: 2RR
 	image: image303
@@ -8357,22 +8662,24 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Dominik Mayer
-	custom_card_number: 287
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Eltensia Prophecy
 	card_code_text_2: Eltensia Prophecy
 	card_code_text_3: Eltensia Prophecy
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: windy-ultima
 	stylesheet_version: 2024-05-30
 	has_styling: false
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Eltensia Prophecy
 	time_created: 2022-08-25 19:41:56
-	time_modified: 2024-04-29 21:22:52
+	time_modified: 2025-11-28 22:00:07
 	name: Blood for Bones
 	casting_cost: 3B
 	image: image304
@@ -8395,13 +8702,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Clayshaper
-	custom_card_number: 284
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Eltensia Prophecy
 	card_code_text_2: Eltensia Prophecy
 	card_code_text_3: Eltensia Prophecy
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8411,16 +8720,15 @@ card:
 		chop_bottom: 
 		frames: borderless art, frameless art, inverted
 		popout_image_style: 113,2,157,90,
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
-
+		!promo Eltensia Prophecy
 	time_created: 2022-08-25 23:00:44
-	time_modified: 2025-09-24 21:17:09
+	time_modified: 2025-11-28 22:02:17
 	name: Assemble the Mob
 	casting_cost: 1RW
 	image: image305
@@ -8443,13 +8751,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Vladimir Andreevsky
-	custom_card_number: 289
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Prophecy Completed by Kilgaris
 	card_code_text_2: Prophecy Completed by Kilgaris
 	card_code_text_3: Prophecy Completed by Kilgaris
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8458,16 +8768,16 @@ card:
 		chop_top: 5,5,
 		frames: borderless art
 		popout_image_style: 120,-1,92,96,
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 0,0,0:0,0,0:255,255,255:255,255,255:0.1:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		BLR !design Pipsqueak
-		!promo
+		!promo Eternal Excursion;Chikyu Foil
 	time_created: 2021-06-17 17:46:53
-	time_modified: 2023-04-01 17:05:38
+	time_modified: 2025-11-28 22:03:17
 	name: New Divide
 	image: image307
 	image_2: 
@@ -8481,13 +8791,15 @@ card:
 		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>New Divide</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Game Freak
-	custom_card_number: 293
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Excursion Claimed by Kilgaris
 	card_code_text_2: Excursion Claimed by Kilgaris
 	card_code_text_3: Excursion Claimed by Kilgaris
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8496,15 +8808,16 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Theros Fate
+		!update
 	time_created: 2023-08-18 19:14:08
-	time_modified: 2023-09-30 20:22:15
+	time_modified: 2025-11-28 22:06:30
 	name: Vibrant Vengeance
 	casting_cost: 3BG
 	image: image310
@@ -8519,13 +8832,15 @@ card:
 		Whenever you tap a land for mana, add one mana of any type that land produced.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 294
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Fate Revealed by ndb
 	card_code_text_2: Fate Revealed by ndb
 	card_code_text_3: Fate Revealed by ndb
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8534,15 +8849,15 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-18 19:14:08
-	time_modified: 2024-04-29 21:27:56
+	time_modified: 2025-11-28 22:04:46
 	name: All the Stars are Mine
 	casting_cost: 5UUU
 	image: image309
@@ -8555,13 +8870,15 @@ card:
 	rule_text: When All the Stars are Mine enters and at the beginning of your upkeep, untap all noncreature permanents you don’t control. You gain control of them until end of turn. 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 295
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8570,15 +8887,15 @@ card:
 		chop_top: 6
 		chop_bottom: 6
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-24 13:54:15
-	time_modified: 2024-04-30 07:48:37
+	time_modified: 2025-11-28 22:05:04
 	name: Dissolve Memory’s Hold
 	casting_cost: 1U
 	image: image311
@@ -8598,13 +8915,15 @@ card:
 		    </soft-line>	memories dissolved overnight”<soft-line>
 		</soft-line>—</i>The <error-spelling:en_US>Koiosode<i></i-flavor></error-spelling:en_US>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 296
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8613,15 +8932,15 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-18 19:14:08
-	time_modified: 2024-04-30 07:49:08
+	time_modified: 2025-11-28 22:05:21
 	name: Call of the Crypt
 	casting_cost: 2B
 	image: image312
@@ -8639,13 +8958,15 @@ card:
 		  </soft-line>	but were these his or from a fable never told?”<soft-line>
 		—</i>The <error-spelling:en_US>Koiosode<i></soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 297
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8654,15 +8975,15 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-24 13:50:58
-	time_modified: 2024-04-29 21:28:47
+	time_modified: 2025-11-28 22:05:37
 	name: Lucille’s Conquest
 	casting_cost: 3RR
 	image: image313
@@ -8677,13 +8998,15 @@ card:
 		At the beginning of your upkeep, Lucille’s Conquest deals 4 damage to each opponent unless that player sacrifices two permanents.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 298
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8692,15 +9015,15 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-18 19:14:09
-	time_modified: 2024-04-29 21:29:03
+	time_modified: 2025-11-28 22:05:53
 	name: Master the Old Ways
 	casting_cost: G
 	image: image314
@@ -8716,13 +9039,15 @@ card:
 		<kw-A><nospellcheck><key>Escape—<param-cost><sym-auto>1G</sym-auto>, Exile two other cards from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 299
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8731,15 +9056,15 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-18 19:14:12
-	time_modified: 2024-04-30 07:49:27
+	time_modified: 2025-11-28 22:06:13
 	name: An Unlikely Peace
 	casting_cost: 1G
 	image: image315
@@ -8759,30 +9084,32 @@ card:
 		  </soft-line>remembering the memories of their past.”<soft-line>
 		—</i>The <error-spelling:en_US>Koiosode<i></soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 300
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!promo
-
+		!promo Theros Fate
+		!update
 	time_created: 2023-08-24 13:54:16
-	time_modified: 2025-09-30 22:10:29
+	time_modified: 2025-11-28 22:04:29
 	name: Drift Off
 	casting_cost: 1WW
 	image: image316
@@ -8797,13 +9124,15 @@ card:
 		When Drift Off enters, exile target nonland permanent you don’t control until Drift Off leaves the battlefield. 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 301
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8811,7 +9140,6 @@ card:
 	notes:
 		!related Kywon, Nostalgic Visionary;Kywon’s Progeny
 		!exportname little Drake
-
 	time_created: 2021-08-26 23:38:28
 	time_modified: 2025-09-24 20:55:50
 	card_color: blue
@@ -8833,6 +9161,233 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Pipsqueak
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 19:46:07
+	time_modified: 2025-11-28 22:07:59
+	name: Reinstated Reaper
+	casting_cost: BB
+	image: image318
+	image_2: image319
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever an opponent loses life for the first time each turn, put a +1/+1 counter on Reinstated Reaper. If you’re <kw-A><nospellcheck><key>ancient</key></nospellcheck>, put two on it instead.<atom-reminder-action> <i-auto>(You’re ancient as long as you have eight or more total lands in play or in your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Patrick Manjares
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100, 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Splitmoon
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 18:21:28
+	time_modified: 2025-11-28 22:08:21
+	name: Keening Belltower
+	casting_cost: 4
+	image: image320
+	image_2: image321
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Whenever you draw a card, each opponent loses 1 life and you gain 1 life.
+		<sym-auto>T</sym-auto>: Each player draws a card.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Victor Sales
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!design CanterburyEgg
+		!secret !update !promo Eternal Excursion;Twiltrie Decree
+	time_created: 2025-11-19 17:58:00
+	time_modified: 2025-11-28 22:11:02
+	name: Twilight Ambush
+	casting_cost: B
+	image: image322
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Destroy target creature with power or toughness 2 or less.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ognjen Sporin
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!design Pipsqueak
+		!secret !update !promo Eternal Excursion;Twiltrie Decree
+	time_created: 2025-11-19 17:58:00
+	time_modified: 2025-11-29 13:50:14
+	name: Lichbane Wardwielder
+	casting_cost: 1RW
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<margin:0:0:5>When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lichbane</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Wardwielder</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, choose one —</margin:0:0:5>
+		<li><bullet>• </bullet>Copy target activated or triggered ability from a nonland source. You may choose new targets for the copy.
+		</li><li><bullet>• </bullet>You may choose new targets for target spell or ability.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ognjen Sporin
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!secret!update!design Pipsqueak
+		!inpend > /replace/
+	time_created: 2021-08-15 13:40:41
+	time_modified: 2025-11-28 22:13:40
+	name: In Search of Peace
+	casting_cost: 1WU
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: > Whenever you cast a spell, exile up to one other target permanent you control. Return that card to the battlefield under your control at the beginning of the next end step.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Julie Ju
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: Story Spotlight 2/5
+	card_code_text_3: Story Spotlight 2/5
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!secret!update!design Pipsqueak
+		!inpend > /replace/
+		!append  (This effect lasts indefinitely.)
+	time_created: 2021-08-01 14:11:16
+	time_modified: 2025-11-28 22:15:24
+	card_color: land, multicolor
+	name: Gilded Court
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> <sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		> <sym-auto>T</sym-auto>: Choose a basic land type. <atom-cardname><nospellcheck>Gilded Court</nospellcheck></atom-cardname> gains that type.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kirsten Zirngibl
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
 keyword:
 	keyword: Ancient
 	match: ancient

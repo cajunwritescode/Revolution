@@ -39,6 +39,10 @@ styling:
 	magic-m15-nonbasic-lands:
 		text box mana symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: DOV
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
 	magic-m15-saga:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -89,6 +93,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -131,6 +136,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -175,6 +181,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -219,6 +226,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -260,6 +268,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -304,6 +313,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -358,6 +368,7 @@ card:
 		<margin:0:0:30>At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control.</margin:0:0:30>
 		<sym>3W</sym>: Level 3
 		<margin:0:0:30>When this Class becomes level </sym>3<sym>, exile target nonland permanent an opponent controls until this Class leaves the battlefield.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes: 
@@ -391,6 +402,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -434,6 +446,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -477,6 +490,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -520,6 +534,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -564,6 +579,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	has_styling: false
 	notes: 
@@ -599,6 +615,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -646,6 +663,7 @@ card:
 		<margin:0:0:30>When this Class becomes level </sym>2<sym>, you may return target instant or sorcery card from your graveyard to your hand.</margin:0:0:30>
 		<sym>3U</sym>: Level 3
 		<margin:0:0:30>Once each turn, when you cast an instant or sorcery spell, you may copy that spell. You may choose new targets for the copies.</margin:0:0:30>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -690,6 +708,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -732,6 +751,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -779,6 +799,7 @@ card:
 		<margin:0:0:30>At the beginning of your upkeep, exile the top card of target opponent’s library face down. You may look at it for as long as it remains exiled.</margin:0:0:30>
 		<sym>3B</sym>: Level 3
 		<margin:0:0:30>You may cast spells exiled with this Class. Those spells cost <sym-auto>1</sym-auto> less to cast, and mana of any type can be spent to cast those spells.</margin:0:0:30>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -825,6 +846,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -868,6 +890,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -913,6 +936,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -954,6 +978,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -997,6 +1022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1039,6 +1065,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1082,6 +1109,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -1120,6 +1148,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1167,6 +1196,7 @@ card:
 		<margin:0:0:30>At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.</margin:0:0:30>
 		<sym>3R</sym>: Level 3
 		<margin:0:0:30>Whenever another permanent you control leaves the battlefield, this Class deals 1 damage to any target.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes: 
@@ -1192,6 +1222,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1228,6 +1259,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1261,6 +1293,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1301,6 +1334,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1334,6 +1368,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1369,6 +1404,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -1395,6 +1431,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1428,6 +1465,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1464,6 +1502,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1495,6 +1534,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1528,6 +1568,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1567,6 +1608,7 @@ card:
 		<margin:0:0:30>Whenever a land you control enters, create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:0:0:30>
 		<sym>G</sym>: Level 3
 		<margin:0:0:30>When this Class becomes level </sym>3<sym>, you may sacrifice a land. If you did, search your library for a land card, put that card onto the battlefield, then shuffle.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes: 
@@ -1592,6 +1634,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1627,6 +1670,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1662,6 +1706,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -1685,6 +1730,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1720,6 +1766,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1761,6 +1808,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1794,6 +1842,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1829,6 +1878,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1864,6 +1914,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1915,6 +1966,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1956,6 +2008,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1998,6 +2051,7 @@ card:
 		<margin:0:0:30>When this Class becomes level </sym>2<sym>, you may search your library for a Noble card, reveal it, put it into your hand, then shuffle.</margin:0:0:30>
 		<sym>1BW</sym>: Level 3
 		<margin:0:0:30>When this Class becomes level </sym>3<sym>, each opponent loses 3 life and you gain 3 life.</margin:0:0:30>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2034,6 +2088,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2067,6 +2122,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2102,6 +2158,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2137,6 +2194,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2171,6 +2229,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: TODO: design
@@ -2194,6 +2253,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2229,6 +2289,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -2254,6 +2315,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2286,6 +2348,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2320,6 +2383,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2354,6 +2418,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2388,6 +2453,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2422,6 +2488,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2456,6 +2523,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2490,6 +2558,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2524,6 +2593,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2556,6 +2626,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2590,6 +2661,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2622,6 +2694,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2662,6 +2735,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2695,6 +2769,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -2723,6 +2798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2761,6 +2837,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2794,6 +2871,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2822,6 +2900,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -2850,6 +2929,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2902,6 +2982,7 @@ card:
 		Whenever you indulge, put a loyalty counter on <atom-cardname><nospellcheck>Glauna, Decadent Demon</nospellcheck></atom-cardname>.
 		[-1]: <margin:130:0:0>Create a 2/1 black Imp creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy target creature or planeswalker. Its controller loses 2 life.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -2928,6 +3009,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2963,6 +3045,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2998,6 +3081,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3031,6 +3115,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3064,6 +3149,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -3087,6 +3173,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3127,6 +3214,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3166,6 +3254,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3205,6 +3294,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3240,6 +3330,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3283,6 +3374,7 @@ card:
 		[+1]: <margin:130:0:0>Up to one target creature you control dares 4 and gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-legname><nospellcheck>Cathette</nospellcheck></atom-legname> deals 2 damage to any target and you gain 2 life. Target player creates two 1/1 white Warrior creature tokens.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “At the end of the first combat phase on each of your turns, untap each creature you control. After this phase, there is an additional combat phase.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3321,6 +3413,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3364,6 +3457,7 @@ card:
 		[+1]: <margin:130:0:0>Put a +1/+1 counter and your choice of counter from among <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> on up to one target creature.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Draw a card for each kind of counter among permanents you control.</margin:130:0:0>
 		[-8]: <margin:130:0:0>You get an emblem with “At the beginning of combat on your turn, you may double the number of each kind of counter on any number of target permanents you control.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3403,6 +3497,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3437,6 +3532,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3473,6 +3569,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3512,6 +3609,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3551,6 +3649,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3584,6 +3683,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3621,6 +3721,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3655,6 +3756,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -3683,6 +3785,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3720,6 +3823,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3755,6 +3859,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -3778,6 +3883,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3814,6 +3920,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3845,6 +3952,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3880,6 +3988,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3913,6 +4022,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3951,6 +4061,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3974,6 +4085,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4005,6 +4117,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4041,6 +4154,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4074,6 +4188,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4109,6 +4224,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4140,6 +4256,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4176,6 +4293,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	has_styling: false
 	notes: 
@@ -4204,6 +4322,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4242,6 +4361,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4273,6 +4393,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4311,6 +4432,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4344,6 +4466,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4379,6 +4502,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4416,6 +4540,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4451,6 +4576,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4487,6 +4613,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -4515,6 +4642,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -4541,6 +4669,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4577,6 +4706,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4612,6 +4742,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4647,6 +4778,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4685,6 +4817,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4716,6 +4849,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -4741,6 +4875,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -4769,6 +4904,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -4796,6 +4932,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4827,6 +4964,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4860,6 +4998,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -4887,6 +5026,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -4910,6 +5050,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4941,6 +5082,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4974,6 +5116,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5009,6 +5152,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5047,6 +5191,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5074,6 +5219,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -5101,6 +5247,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -5124,6 +5271,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5159,6 +5307,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5194,6 +5343,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5227,6 +5377,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5262,6 +5413,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5297,6 +5449,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5332,6 +5485,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5368,6 +5522,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5403,6 +5558,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5438,6 +5594,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5473,6 +5630,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: TODO: art
@@ -5498,6 +5656,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5533,6 +5692,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -5560,6 +5720,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5593,6 +5754,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5626,6 +5788,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5653,6 +5816,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5693,6 +5857,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5732,6 +5897,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5773,6 +5939,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: true
 	styling_data:
@@ -5810,6 +5977,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5850,6 +6018,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -5878,6 +6047,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5917,6 +6087,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5957,6 +6128,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5995,6 +6167,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6034,6 +6207,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: true
 	styling_data:
@@ -6067,6 +6241,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6103,6 +6278,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: TODO: design
@@ -6129,6 +6305,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6163,6 +6340,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: true
 	styling_data:
@@ -6198,6 +6376,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: true
 	styling_data:
@@ -6229,6 +6408,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6262,6 +6442,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: true
 	styling_data:
@@ -6293,6 +6474,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: true
 	styling_data:
@@ -6301,9 +6483,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2022-10-04 16:40:42
-	time_modified: 2023-05-31 23:41:35
+	time_modified: 2025-11-28 23:00:13
 	name: Thorngrafter
 	casting_cost: G
 	image: image292
@@ -6314,7 +6496,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Plant</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Thorngrafter</nospellcheck></atom-cardname> enters with a +1/+1 counter and your choice of counter from among <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> on it.
+		<atom-cardname><nospellcheck>Thorngrafter</nospellcheck></atom-cardname> enters with a +1/+1 counter and your choice of counter from among <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> on it.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on <atom-cardname><nospellcheck>Thorngrafter</nospellcheck></atom-cardname>.
 		<sym-auto>T</sym-auto>: You may move a counter from <atom-cardname><nospellcheck>Thorngrafter</nospellcheck></atom-cardname> to another creature you control. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
@@ -6327,6 +6509,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: true
 	styling_data:
@@ -6361,6 +6544,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -6384,6 +6568,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6416,6 +6601,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -6442,6 +6628,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6474,6 +6661,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6508,6 +6696,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6540,6 +6729,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6576,6 +6766,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6610,6 +6801,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6644,6 +6836,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6676,6 +6869,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6708,6 +6902,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6743,6 +6938,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6777,6 +6973,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6810,6 +7007,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6845,6 +7043,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -6867,6 +7066,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -6891,6 +7091,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6923,6 +7124,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -6949,6 +7151,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6981,6 +7184,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7014,6 +7218,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7047,6 +7252,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -7071,6 +7277,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7103,6 +7310,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7137,6 +7345,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -7161,6 +7370,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7193,6 +7403,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7233,6 +7444,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7268,6 +7480,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7304,6 +7517,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -7328,6 +7542,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7362,6 +7577,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7396,6 +7612,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7430,6 +7647,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7460,6 +7678,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -7482,6 +7701,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7514,6 +7734,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7546,6 +7767,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7580,6 +7802,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7612,6 +7835,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7644,6 +7868,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7678,6 +7903,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7710,6 +7936,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7742,6 +7969,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7774,6 +8002,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7806,6 +8035,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7830,6 +8060,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7866,6 +8097,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7901,6 +8133,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7931,6 +8164,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7965,6 +8199,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7997,6 +8232,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8032,6 +8268,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8066,6 +8303,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8100,6 +8338,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8136,6 +8375,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8170,6 +8410,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8204,6 +8445,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8240,6 +8482,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	has_styling: false
 	notes: 
@@ -8264,6 +8507,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8288,6 +8532,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8320,6 +8565,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8360,6 +8606,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -8386,6 +8633,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8426,6 +8674,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8460,6 +8709,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -8485,6 +8735,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8518,6 +8769,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -8542,6 +8794,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8575,6 +8828,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8609,6 +8863,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8643,6 +8898,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8677,6 +8933,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: redesign 2-drop trample
@@ -8703,6 +8960,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes: 
@@ -8731,6 +8989,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8765,6 +9024,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8797,6 +9057,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8827,6 +9088,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8859,6 +9121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8885,6 +9148,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8919,6 +9183,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8949,6 +9214,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8981,6 +9247,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9014,6 +9281,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	has_styling: false
 	notes: 
@@ -9040,6 +9308,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9074,6 +9343,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9106,6 +9376,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9136,6 +9407,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9168,6 +9440,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9202,6 +9475,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9236,6 +9510,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9266,6 +9541,7 @@ card:
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9302,6 +9578,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9338,6 +9615,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9372,6 +9650,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9406,6 +9685,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9440,6 +9720,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -9464,6 +9745,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9496,6 +9778,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9532,6 +9815,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9568,6 +9852,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9602,6 +9887,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9634,6 +9920,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9656,6 +9943,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9678,6 +9966,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9700,6 +9989,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9722,6 +10012,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9744,6 +10035,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9766,6 +10058,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9788,6 +10081,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9810,6 +10104,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9832,6 +10127,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -9854,6 +10150,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: true
 	styling_data:
@@ -9884,6 +10181,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9925,6 +10223,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9955,6 +10254,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9985,6 +10285,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10015,6 +10316,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10045,6 +10347,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10075,6 +10378,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10105,6 +10409,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10137,6 +10442,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10167,6 +10473,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10197,6 +10504,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10227,6 +10535,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10257,6 +10566,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10287,6 +10597,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10317,6 +10628,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10347,6 +10659,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10377,6 +10690,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10407,6 +10721,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10437,6 +10752,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10469,6 +10785,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10498,6 +10815,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10527,6 +10845,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10556,6 +10875,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10585,6 +10905,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10614,6 +10935,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10643,6 +10965,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10672,6 +10995,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10701,6 +11025,7 @@ card:
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	has_styling: false
 	notes: 
@@ -10736,6 +11061,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10763,6 +11089,7 @@ card:
 	copyright: Set by Matt & Chumbeque
 	copyright_2: Set by Matt & Chumbeque
 	copyright_3: Set by Matt & Chumbeque
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10790,6 +11117,7 @@ card:
 	copyright: Set by Matt & Chumbeque
 	copyright_2: Set by Matt & Chumbeque
 	copyright_3: Set by Matt & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10798,7 +11126,7 @@ card:
 		chop_top: 
 		chop_bottom: 
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10807,7 +11135,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2023-01-04 01:58:50
-	time_modified: 2023-01-19 09:36:27
+	time_modified: 2025-11-28 22:25:24
 	name: Heraldic Griffin
 	casting_cost: 3WW
 	image: image52
@@ -10833,13 +11161,15 @@ card:
 	power: 5
 	toughness: 5
 	illustrator: Adobe stock images
-	custom_card_number: 298
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by Kilgaris
 	card_code_text_2: Hero Chosen by Kilgaris
 	card_code_text_3: Hero Chosen by Kilgaris
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10848,7 +11178,7 @@ card:
 		chop_top: 
 		chop_bottom: 
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 224,224,224:84,84,84:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10857,7 +11187,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2022-10-04 16:40:28
-	time_modified: 2024-07-31 20:51:01
+	time_modified: 2025-11-28 22:25:40
 	name: Heroes Never Die
 	casting_cost: 1W
 	image: image300
@@ -10878,13 +11208,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: An Hee-chul
-	custom_card_number: 299
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by Kilgaris
 	card_code_text_2: Hero Chosen by Kilgaris
 	card_code_text_3: Hero Chosen by Kilgaris
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10892,7 +11224,7 @@ card:
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 224,224,224:84,84,84:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10901,7 +11233,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2021-03-15 17:25:51
-	time_modified: 2023-01-19 09:36:38
+	time_modified: 2025-11-28 22:25:56
 	name: Let Them Eat Cake
 	casting_cost: W
 	image: image301
@@ -10922,13 +11254,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Flower Knight Girl/DMM Games
-	custom_card_number: 300
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by Kilgaris
 	card_code_text_2: Hero Chosen by Kilgaris
 	card_code_text_3: Hero Chosen by Kilgaris
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10936,7 +11270,7 @@ card:
 	styling_data:
 		chop_top: 6
 		chop_bottom: 6
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 224,224,224:84,84,84:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10945,7 +11279,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2023-01-04 02:02:32
-	time_modified: 2023-01-19 09:36:52
+	time_modified: 2025-11-28 22:26:29
 	name: Conspiracy of Wealth
 	casting_cost: B
 	image: image302
@@ -10969,13 +11303,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Mort Kunstler
-	custom_card_number: 302
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by ndb
 	card_code_text_2: Hero Chosen by ndb
 	card_code_text_3: Hero Chosen by ndb
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10983,7 +11319,7 @@ card:
 	styling_data:
 		chop_top: 6
 		chop_bottom: 6
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 224,224,224:84,84,84:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10992,7 +11328,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2020-06-18 15:03:21
-	time_modified: 2023-09-01 15:45:19
+	time_modified: 2025-11-28 22:26:46
 	name: Spirited Protest
 	casting_cost: 1R
 	image: image303
@@ -11015,13 +11351,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Stefan Kopinski
-	custom_card_number: 303
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by ndb
 	card_code_text_2: Hero Chosen by ndb
 	card_code_text_3: Hero Chosen by ndb
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11031,7 +11369,7 @@ card:
 		chop_bottom: 4
 		frames: borderless art
 		card_watermark: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 245,148,31:186,45,38:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11040,7 +11378,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2021-11-06 17:58:18
-	time_modified: 2023-01-19 09:36:12
+	time_modified: 2025-11-28 22:28:29
 	name: Truthcleaver
 	casting_cost: UR
 	image: image304
@@ -11066,27 +11404,29 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: cypritree
-	custom_card_number: 308
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by Dodger
 	card_code_text_2: Hero Chosen by Dodger
 	card_code_text_3: Hero Chosen by Dodger
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-godzilla
 	stylesheet_version: 2024-06-06
 	has_styling: true
 	styling_data:
 		alt_rarity_color: 214,196,94:95,84,40:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2023-01-04 01:45:59
-	time_modified: 2023-10-31 21:51:54
+	time_modified: 2025-11-28 22:27:32
 	name: Obelix the Gaul
 	alias: Enduring Jentil
 	casting_cost: 3GGG
@@ -11113,13 +11453,15 @@ card:
 	power: 7
 	toughness: 6
 	illustrator: Josianne Tremblay
-	custom_card_number: 305
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by ndb
 	card_code_text_2: Hero Chosen by ndb
 	card_code_text_3: Hero Chosen by ndb
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11127,7 +11469,7 @@ card:
 	styling_data:
 		chop_top: 6
 		chop_bottom: 8
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 224,224,224:84,84,84:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11136,7 +11478,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2020-06-17 15:32:37
-	time_modified: 2023-03-31 23:05:04
+	time_modified: 2025-11-28 22:25:05
 	name: Decorated Duelist
 	casting_cost: WW
 	image: image306
@@ -11161,13 +11503,15 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: Smite artwork — edit
-	custom_card_number: 297
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by Kilgaris
 	card_code_text_2: Hero Chosen by Kilgaris
 	card_code_text_3: Hero Chosen by Kilgaris
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11175,7 +11519,7 @@ card:
 	styling_data:
 		chop_top: 7
 		chop_bottom: 7
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11184,7 +11528,7 @@ card:
 		!promo
 		!design Matt & Chumbeque
 	time_created: 2020-11-10 14:18:00
-	time_modified: 2023-03-31 23:04:48
+	time_modified: 2025-11-28 22:28:11
 	name: The Running of the Bulls
 	casting_cost: 3RG
 	image: image307
@@ -11207,13 +11551,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Warhammer Fantasy artwork
-	custom_card_number: 307
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Hero Chosen by ndb
 	card_code_text_2: Hero Chosen by ndb
 	card_code_text_3: Hero Chosen by ndb
 	copyright: © WotC, Matt, & Hoop_Thrower
 	copyright_2: © WotC, Matt, & Hoop_Thrower
 	copyright_3: © WotC, Matt, & Hoop_Thrower
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11222,15 +11568,16 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		Promo11 !promo
+		Promo11 !promo Theros Fate
+		!update
 		!design Matt & Chumbeque
 	time_created: 2023-08-18 19:14:07
-	time_modified: 2025-05-31 14:31:46
+	time_modified: 2025-11-28 22:22:33
 	name: Scorching Condemnation
 	casting_cost: 1R
 	image: image8
@@ -11246,13 +11593,15 @@ card:
 		<sym-auto>1R</sym-auto>: <atom-cardname><nospellcheck>Scorching Condemnation</nospellcheck></atom-cardname> becomes a 4/4 red Elemental creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> in addition to its other types until end of turn. Activate only during your turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 309
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Fate Revealed by Philippe Saner
 	card_code_text_2: Fate Revealed by Philippe Saner
 	card_code_text_3: Fate Revealed by Philippe Saner
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -11260,14 +11609,16 @@ card:
 	styling_data:
 		snap_chapter_to_box: 
 		other_options: nyx, class
-		remove_from_autocount: yes
+		remove_from_autocount: no
+		alt_rarity_color: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
+		!promo Theros Fate
+		!update
 		!design Matt & Chumbeque
 	time_created: 2023-08-24 13:57:11
-	time_modified: 2023-12-31 18:37:38
+	time_modified: 2025-11-28 22:24:24
 	name: Revolutionary Class
 	casting_cost: 1W
 	image: image309
@@ -11287,8 +11638,9 @@ card:
 	level_9_text: <sym>1W</sym>:
 	level_10_text: <sym-auto>3W</sym-auto>:
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 310
-	card_code_text: 
+	partition_select: after main set Q
+	custom_card_number: 
+	card_code_text: Fate Revealed by HSquid
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
@@ -11301,6 +11653,7 @@ card:
 		<margin:0:0:30>At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature you control.</margin:0:0:30>
 		<sym-auto>3W</sym-auto>: Level 3
 		<margin:0:0:30>When this Class becomes level </sym>3<sym>, exile target nonland permanent an opponent controls until this Class leaves the battlefield.</margin:0:0:30>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11308,7 +11661,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 8
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11317,7 +11670,7 @@ card:
 		!design Matt & Chumbeque
 		!promo
 	time_created: 2022-09-21 11:28:37
-	time_modified: 2024-04-30 08:58:48
+	time_modified: 2025-11-28 22:26:14
 	name: Lanternlight Assailant
 	casting_cost: U
 	image: image310
@@ -11342,13 +11695,15 @@ card:
 	power: 0
 	toughness: 2
 	illustrator: mauri-alvarez
-	custom_card_number: 301
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Vereaux Hero
 	card_code_text_2: Vereaux Hero
 	card_code_text_3: Vereaux Hero
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11356,7 +11711,7 @@ card:
 	styling_data:
 		chop_top: 7
 		chop_bottom: 7
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11365,7 +11720,7 @@ card:
 		!design Matt & Chumbeque
 		!promo
 	time_created: 2020-06-17 16:02:19
-	time_modified: 2024-04-29 21:00:43
+	time_modified: 2025-11-28 22:27:08
 	name: La Bete du Harnelle
 	casting_cost: GG
 	image: image311
@@ -11388,13 +11743,15 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Engraving, ca. 1765
-	custom_card_number: 304
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Vereaux Hero
 	card_code_text_2: Vereaux Hero
 	card_code_text_3: Vereaux Hero
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11402,7 +11759,7 @@ card:
 	styling_data:
 		chop_top: 6
 		chop_bottom: 6
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 224,224,224:84,84,84:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11411,7 +11768,7 @@ card:
 		!design Matt & Chumbeque
 		!promo
 	time_created: 2023-01-04 02:01:48
-	time_modified: 2024-04-29 21:01:28
+	time_modified: 2025-11-28 22:27:51
 	name: Telling Tall Tales
 	casting_cost: 2G
 	image: image312
@@ -11434,13 +11791,15 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Grafit-art
-	custom_card_number: 306
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Vereaux Hero
 	card_code_text_2: Vereaux Hero
 	card_code_text_3: Vereaux Hero
 	copyright: © WotC, Matt, & Chumbeque
 	copyright_2: © WotC, Matt, & Chumbeque
 	copyright_3: © WotC, Matt, & Chumbeque
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11449,16 +11808,16 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
 		!hidetag (Fate)
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-18 13:31:29
-	time_modified: 2024-04-29 21:20:02
+	time_modified: 2025-11-28 22:23:10
 	name: Telling Tall Tales
 	casting_cost: 2G
 	image: image313
@@ -11473,13 +11832,15 @@ card:
 		At the beginning of your end step, if you control a legendary creature, you may draw a card.
 	flavor_text: <i-flavor>Tales begin and stories end; fables of the past become myths of the future.</i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 311
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11488,15 +11849,15 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: nyx
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!promo
+		!promo Theros Fate
 	time_created: 2023-08-18 19:14:11
-	time_modified: 2024-04-29 21:20:21
+	time_modified: 2025-11-28 22:22:54
 	name: Storming the Palace
 	casting_cost: RW
 	image: image314
@@ -11511,13 +11872,551 @@ card:
 		At the beginning of combat on your turn, you may pay <sym-auto>R/W</sym-auto>. If you do, create a 1/1 red and white Peasant creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “This creature attacks each combat if able.” 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
-	custom_card_number: 312
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Theros Fate
 	card_code_text_2: Theros Fate
 	card_code_text_3: Theros Fate
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!secret !update !design Matt
+		!replacetoken TerminalZombie;1
+		!inpend  > /replace/• 
+		!inpend > /replace/
+	time_created: 2022-10-04 19:09:05
+	time_modified: 2025-11-28 22:46:24
+	name: Field Test
+	casting_cost: XXB
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> Choose up to two —
+		 > Each creature gets -X/-X until     end of turn.
+		 > Each opponent discards X cards.
+		 > You draw X cards and you lose X    life.
+		 > Create an X/X black Zombie         Horror creature token with         <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: TheBakaArts
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: © WotC, Matt, & Chumbeque
+	copyright_2: © WotC, Matt, & Chumbeque
+	copyright_3: © WotC, Matt, & Chumbeque
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!promo Eternal Excursion;Weft Terminal
+		!secret !update !design Matt
+		!inpend > /replace/
+	time_created: 2020-06-17 00:11:08
+	time_modified: 2025-11-28 22:40:59
+	name: Fencing Master
+	casting_cost: R
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> Whenever <atom-cardname><nospellcheck>Fencing Master</nospellcheck></atom-cardname> attacks, you may pay <sym-auto>R</sym-auto>. If you do, put a <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> counter on another target attacking creature.
+		> <sym-auto>1R</sym-auto>: Target creature you control gets +1/+0 until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Kyander Tara
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		popout_image_style: 0,0,375,523,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!exportname TerminalZombie
+		!tokentag TerminalZombie
+		!update
+	time_created: 2022-07-31 22:25:33
+	time_modified: 2025-11-28 22:45:48
+	card_color: black
+	name: Zombie Horror
+	image: image343
+	image_2: 
+	mainframe_image: mainframe_image3.png
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	illustrator: Taregh Saber
+	partition_select: after main set N
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: © WotC, Matt, & Chumbeque
+	copyright_2: © WotC, Matt, & Chumbeque
+	copyright_3: © WotC, Matt, & Chumbeque
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		alt_rarity_color: rare
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt & Chumbeque
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 15:53:25
+	time_modified: 2025-11-28 22:48:26
+	name: Gallant Fancypaw
+	casting_cost: W
+	image: image344
+	image_2: image345
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		 <kw-0><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
+		<atom-cardname><nospellcheck>Gallant Fancypaw</nospellcheck></atom-cardname> can’t be blocked by creatures with power 3 or greater.
+		Whenever you cast an Aura or Equipment spell, you may pay <sym-auto>W</sym-auto>. If you do, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: hao zzz
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	vorthos_box: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		alt_rarity_color: mythic
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt  & Chumbeque
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 20:13:39
+	time_modified: 2025-11-28 22:48:01
+	name: The Love of a Lifetime
+	casting_cost: 1WW
+	image: image346
+	image_2: 
+	mainframe_image: image347
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When The Love of a Lifetime enters, you may search your library for a legendary creature card that doesn’t share a name with a creature you control, reveal it, put it into your hand, then shuffle.
+		Creatures you control get +1/+1.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ZiYin
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0, 0, 375, 100,
+		combined_chop: 5, 5
+		opacity: 200
+		other_options: use taller frame, un-indent nonloyalty abilities, mythic edition fullart
+		alt_rarity_color: mythic
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt & Chumbeque
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 19:59:03
+	time_modified: 2025-11-28 22:48:57
+	name: Glauna, Decadent Demon
+	casting_cost: 1BB
+	image: image348
+	image_2: image349
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Glauna</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	loyalty_cost_2: -1
+	loyalty_cost_3: -2
+	loyalty: 3
+	level_1_text:
+		<kw-A><nospellcheck><key>Indulgence</key></nospellcheck><atom-reminder-custom> <i-auto>(You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you indulge, put a loyalty counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Glauna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Decadent Demon.
+	level_2_text: <margin:130:0:0>Create a 2/1 black Imp creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Destroy target creature or planeswalker. Its controller loses 2 life.</margin:130:0:0>
+	level_4_text: 
+	illustrator: YILONG0910
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: She/Her
+	special_text:
+		<kw-A><nospellcheck><key>Indulgence</key></nospellcheck><atom-reminder-custom> <i-auto>(You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you indulge, put a loyalty counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Glauna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Decadent Demon.
+		[-1]: <margin:130:0:0>Create a 2/1 black Imp creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”</margin:130:0:0>
+		[-2]: <margin:130:0:0>Destroy target creature or planeswalker. Its controller loses 2 life.</margin:130:0:0>
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 4
+		alt_rarity_color: rare
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion;Chikyu Foil
+		!secret !update !design Matt & Chumbeque
+	time_created: 2020-06-17 16:03:14
+	time_modified: 2025-11-28 22:54:50
+	name: Treasury Pilferer
+	casting_cost: 1G
+	image: image350
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: special
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Treasury Pilferer</nospellcheck></atom-cardname> becomes the target of a spell you control, you may have it dare 4. <i-auto>(It becomes a legendary Rebel with base power and toughness 4/4 in addition to its other types until end of turn.)</i-auto>
+		Whenever a Rebel you control deals combat damage to a player, you draw a card and create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Spareribs
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: © Wizards of the Coast and Matt
+	copyright_2: © Wizards of the Coast and Matt
+	copyright_3: © Wizards of the Coast and Matt
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		alt_rarity_color: uncommon
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt & Chumbeque
+		!secret !update !promo Eternal Excursion;Theros Fate
+	time_created: 2025-11-19 16:31:31
+	time_modified: 2025-11-28 22:56:57
+	name: Banish to the Isle
+	casting_cost: 1WW
+	image: image351
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: When <atom-cardname><nospellcheck>Banish to the Isle</nospellcheck></atom-cardname> enters, exile up to one target nonland permanent you don’t control until <atom-cardname><nospellcheck>Banish to the Isle</nospellcheck></atom-cardname> leaves the battlefield. You gain 3 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		alt_rarity_color: rare
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt & Chumbeque
+		!secret !update !promo Eternal Excursion;Theros Fate
+		!replacetoken FateRogue;1
+	time_created: 2025-11-19 16:31:44
+	time_modified: 2025-11-28 22:57:33
+	name: Feast of Whispered Knives
+	casting_cost: 1B
+	image: image352
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	chapter_text: 
+	rule_text:
+		<kw-A><nospellcheck><key>Indulgence</key></nospellcheck><atom-reminder-custom> <i-auto>(You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)</i-auto></atom-reminder-custom></kw-A>
+		<margin:0:0:5>Whenever you indulge, choose one —</margin:0:0:5>
+		<li><bullet>• </bullet><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>. Each opponent loses 2 life.
+		</li><li><bullet>• </bullet>Create a tapped 2/1 black Rogue creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Target creature gets -2/-2 until end of turn.</li>
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: 
+	level_2_text: 
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		Matt
+		!exportname FateRogue<soft-line>
+		!tokentag FateRogue
+		!update</soft-line>
+	time_created: 2025-11-19 17:07:07
+	time_modified: 2025-11-28 22:58:13
+	card_color: black
+	name: Rogue
+	image: image353
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Rogue</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set N
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		alt_rarity_color: rare
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt & Chumbeque
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 22:58:33
+	name: Spellbane Sentinel
+	casting_cost: U
+	image: image354
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Gargoyle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Spellbane</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Sentinel: Counter target noncreature spell unless its controller pays <sym-auto>1</sym-auto>.
+	flavor_text: <i-flavor>Stone cracked and flesh spoke.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Sun Man
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		alt_rarity_color: mythic
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Matt & Chumbeque
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-24 03:22:05
+	time_modified: 2025-11-28 22:59:51
+	name: Symbol of the Revolution
+	casting_cost: W
+	image: image355
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<sym-auto>X</sym-auto>: Symbol of the Revolution dares X. X can’t be 0. <i-auto>(It becomes a legendary Rebel with base power and toughness X/X in addition to its other types until end of turn.)</i-auto>
+		As long as Symbol of the Revolution is a Rebel, it has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Aurelien Moriniere
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!design Matt & Chumbeque
+		!secret !update !promo Eternal Excursion;Twiltrie Decree
+	time_created: 2025-11-19 17:58:00
+	time_modified: 2025-12-01 15:20:34
+	name: Thorngrafter
+	casting_cost: G
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Plant</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thorngrafter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters with a +1/+1 counter and your choice of counter from among <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> on it.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thorngrafter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>T</sym-auto>: You may move a counter from <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Thorngrafter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> to another creature you control. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Ognjen Sporin
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
 keyword:
 	keyword: Indulgence
 	match: Indulgence

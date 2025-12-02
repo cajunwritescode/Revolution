@@ -53,6 +53,10 @@ styling:
 		center_text: short text only
 		inverted_common_symbol: yes
 		overlay: 
+	magic-m15-pixel:
+		rarity_symbol: SVG
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
 	magic-m15-saga:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -98,6 +102,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -133,6 +138,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -168,6 +174,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -201,6 +208,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -236,6 +244,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -271,6 +280,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -306,6 +316,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -341,6 +352,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -376,6 +388,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -411,6 +424,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -435,6 +449,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -460,6 +475,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -486,6 +502,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -510,6 +527,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -544,6 +562,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -570,6 +589,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -594,6 +614,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -616,6 +637,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -660,6 +682,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -692,6 +715,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -722,6 +746,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -744,6 +769,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -770,6 +796,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -794,6 +821,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: changed
@@ -816,6 +844,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -850,6 +879,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -875,6 +905,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -900,6 +931,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -936,6 +968,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -963,6 +996,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -986,6 +1020,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1013,6 +1048,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1040,6 +1076,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1077,6 +1114,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1104,6 +1142,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1129,6 +1168,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1166,6 +1206,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1210,6 +1251,7 @@ card:
 		[+1]: <margin:130:0:0>Draw a card, then you lose life equal to the number of cards in your hand.</margin:130:0:0>
 		[0]: <margin:130:0:0>Each player discards a card, then <atom-legname><nospellcheck>Keseran</nospellcheck></atom-legname> deals 2 damage to each player who didn’t discard a nonland card this way.</margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-legname><nospellcheck>Keseran</nospellcheck></atom-legname> deals 2 damage to any target and you gain 2 life. </margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -1246,6 +1288,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1289,6 +1332,7 @@ card:
 		[+1]: <margin:130:0:0>You choose if and how up to one target creature blocks this turn. You choose before other blockers are declared.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Create a 0/0 red Spirit Warrior creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Creatures you control get +1/+1 until end of turn.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Creatures you control gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. After this phase, there are three additional combat phases followed by an additional main phase.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -1314,6 +1358,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1343,6 +1388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1369,6 +1415,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -1396,6 +1443,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1428,6 +1476,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: Redflag
@@ -1462,6 +1511,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: Reprint (WotC)
@@ -1486,6 +1536,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1518,6 +1569,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1544,6 +1596,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1573,6 +1626,7 @@ card:
 		 [Custom] ™ & © Wizards of the Coast
 	copyright_3:
 		 [Custom] ™ & © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1610,6 +1664,7 @@ card:
 		 [Custom] ™&© Wizards of the Coast
 	copyright_3:
 		 [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1636,6 +1691,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1664,6 +1720,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: Reprint (WotC)
@@ -1688,6 +1745,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -1715,6 +1773,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1740,6 +1799,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1778,6 +1838,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1817,6 +1878,7 @@ card:
 		I, II, III — Return target nonland permanent card with mana value less than or equal to the number of lore counters on <atom-cardname><nospellcheck>Brallatt’s Light</nospellcheck></atom-cardname> from your graveyard to the battlefield.
 		​
 		​
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1851,6 +1913,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1889,6 +1952,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1940,6 +2004,7 @@ card:
 		I, II — Return target permanent an opponent controls to its owner’s hand.
 		III — Search your library for a Kraken, Leviathan, Octopus, or Serpent card, reveal it, put it into your hand, then shuffle.
 		​
+
 card:
 	has_styling: false
 	notes: 
@@ -1965,6 +2030,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2003,6 +2069,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2028,6 +2095,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: [Wergild]
@@ -2051,6 +2119,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2085,6 +2154,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2110,6 +2180,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2135,6 +2206,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2172,6 +2244,7 @@ card:
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2210,6 +2283,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2246,6 +2320,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2271,6 +2346,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2313,6 +2389,7 @@ card:
 		You may play an additional land on each of your turns.
 		I, II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 		III — You gain 1 life for each land you control.
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2350,6 +2427,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2386,6 +2464,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2419,6 +2498,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2446,6 +2526,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2473,6 +2554,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2511,6 +2593,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2541,11 +2624,12 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: !cajun rework
+	notes: 
 	time_created: 2020-07-01 12:09:35
 	time_modified: 2021-04-04 22:21:35
 	name: Winterholm Hersir
@@ -2570,6 +2654,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2609,6 +2694,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2649,6 +2735,7 @@ card:
 		Spells your opponents cast that target you or a permanent you control cost <sym-auto>2</sym-auto> more to cast.
 		I, II, III — Tap up to one target nonland permanent. It doesn’t untap during its controller’s next untap step.
 		​
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2706,6 +2793,7 @@ card:
 		[+1]: <margin:130:0:0>Create a <kw-0><nospellcheck><key>Glyph token</key></nospellcheck></kw-0>. <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, Sacrifice this <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.”)</i-auto></margin:130:0:0>
 		[-1]: <margin:130:0:0>Return target creature to its owner’s hand.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Draw three cards.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -2733,6 +2821,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2768,6 +2857,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2804,6 +2894,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -2832,6 +2923,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2882,6 +2974,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2935,6 +3028,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2961,6 +3055,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2988,6 +3083,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: [Sturmslang are a pirate-y faction that terrorise the coastline of [place].]
@@ -3012,6 +3108,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3057,6 +3154,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -3090,6 +3188,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -3118,6 +3217,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3141,6 +3241,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3172,6 +3273,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -3199,6 +3301,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3241,6 +3344,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text_2: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3277,6 +3381,7 @@ card:
 	copyright: Small
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3311,6 +3416,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/vq3Xd
@@ -3333,6 +3439,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3363,6 +3470,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3396,6 +3504,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -3422,6 +3531,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -3457,6 +3567,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3482,6 +3593,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3519,6 +3631,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3557,6 +3670,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3592,6 +3706,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3627,6 +3742,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3654,6 +3770,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3681,6 +3798,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3718,6 +3836,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3745,6 +3864,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3779,6 +3899,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3828,6 +3949,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3873,6 +3995,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3901,6 +4024,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3933,6 +4057,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -3963,6 +4088,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -3996,6 +4122,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -4021,6 +4148,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4045,6 +4173,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -4077,6 +4206,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -4109,6 +4239,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -4142,6 +4273,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4178,6 +4310,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -4210,6 +4343,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4248,6 +4382,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4274,6 +4409,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -4308,6 +4444,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4348,6 +4485,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4384,6 +4522,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -4418,6 +4557,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4442,6 +4582,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4468,6 +4609,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -4504,6 +4646,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4538,6 +4681,7 @@ card:
 	copyright: Occo |  Not for Sale
 	copyright_2: Occo |  Not for Sale
 	copyright_3: Occo |  Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -4572,6 +4716,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -4601,6 +4746,7 @@ card:
 		 [Custom] ™&© Wizards of the Coast
 	copyright_3:
 		 [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4634,6 +4780,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4668,6 +4815,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4702,6 +4850,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4741,6 +4890,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -4766,6 +4916,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4816,6 +4967,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4843,6 +4995,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4866,6 +5019,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4893,6 +5047,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: 
@@ -4918,6 +5073,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4967,6 +5123,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5006,6 +5163,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5033,6 +5191,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5071,6 +5230,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5121,6 +5281,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5159,6 +5320,7 @@ card:
 		I, II — Create a tapped 2/2 black Zombie creature token.
 		III — <atom-cardname><nospellcheck>Rise of the Draugr</nospellcheck></atom-cardname> deals 2 damage to each opponent and you gain 2 life.
 		​
+
 card:
 	has_styling: true
 	styling_data:
@@ -5197,6 +5359,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5232,6 +5395,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5282,6 +5446,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -5319,6 +5484,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5353,6 +5519,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Maybe 1 damage to any target?
@@ -5380,6 +5547,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5430,6 +5598,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5471,6 +5640,7 @@ card:
 		I — Exile the top five cards of your library.
 		II, III, IV — Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
 		​
+
 card:
 	has_styling: false
 	notes: 
@@ -5498,6 +5668,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5529,20 +5700,12 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 3
-		chop_bottom: 3
-		other_options: ancestral generic mana, auto nyx crowns
-		remove_from_autocount: yes
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: yes
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2020-07-02 12:38:20
-	time_modified: 2020-12-12 18:27:54
+	time_modified: 2025-11-28 20:14:57
 	card_color: red, land
 	name: Mountain
 	image: image202
@@ -5554,27 +5717,20 @@ card:
 	rarity: basic land
 	watermark: mana symbol red
 	illustrator: Philipp A Urlich
-	custom_card_number: 204
+	partition_select: after main set N
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 3
-		chop_bottom: 3
-		other_options: ancestral generic mana, auto nyx crowns
-		remove_from_autocount: yes
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: yes
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2020-07-02 12:38:20
-	time_modified: 2020-12-16 22:33:13
+	time_modified: 2025-11-28 20:14:48
 	card_color: green, land
 	name: Forest
 	casting_cost: 
@@ -5589,29 +5745,22 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	watermark: mana symbol green
 	illustrator: Jason Scheier
-	custom_card_number: 205
+	partition_select: after main set N
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
-	has_styling: true
-	styling_data:
-		chop_top: 3
-		chop_bottom: 3
-		other_options: ancestral generic mana, auto nyx crowns
-		remove_from_autocount: yes
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: yes
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2020-07-02 12:38:20
-	time_modified: 2021-01-19 22:06:31
+	time_modified: 2025-11-28 20:15:02
 	card_color: white, land
 	name: Plains
 	image: image223
@@ -5623,27 +5772,20 @@ card:
 	rarity: basic land
 	watermark: mana symbol white
 	illustrator: Philipp A Urlich
-	custom_card_number: 201
+	partition_select: after main set N
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 3
-		chop_bottom: 3
-		other_options: ancestral generic mana, auto nyx crowns
-		remove_from_autocount: yes
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: yes
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2020-07-02 12:38:20
-	time_modified: 2020-12-12 18:27:49
+	time_modified: 2025-11-28 20:15:07
 	card_color: black, land
 	name: Swamp
 	image: image221
@@ -5655,13 +5797,15 @@ card:
 	rarity: basic land
 	watermark: mana symbol black
 	illustrator: Philipp A Urlich
-	custom_card_number: 203
+	partition_select: after main set N
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5697,6 +5841,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5733,6 +5878,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5779,6 +5925,7 @@ card:
 		All creatures get -1/-1 for each lore counter on <atom-cardname><nospellcheck>Feast of the Crows</nospellcheck></atom-cardname>.
 		I, II, III — You may return a creature card from your graveyard to your hand.
 		​
+
 card:
 	has_styling: false
 	notes: 
@@ -5806,6 +5953,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5833,6 +5981,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5874,6 +6023,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn 4/4 Copy/l>f>/spawn Copy SVG/f>/s>","l"
@@ -5898,20 +6048,12 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 3
-		chop_bottom: 3
-		other_options: ancestral generic mana, auto nyx crowns
-		remove_from_autocount: yes
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: yes
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2020-06-20 18:43:24
-	time_modified: 2020-12-24 16:11:42
+	time_modified: 2025-11-28 20:14:53
 	card_color: blue, land
 	name: Island
 	image: image210
@@ -5923,13 +6065,15 @@ card:
 	rarity: basic land
 	watermark: mana symbol blue
 	illustrator: Philip A. Urlich
-	custom_card_number: 202
+	partition_select: after main set N
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5969,6 +6113,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6003,6 +6148,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6033,6 +6179,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -6075,6 +6222,7 @@ card:
 		I, II — Put a +1/+1 counter on each of up to two target creatures you control.
 		III — Creatures you control with power 4 or greater get +1/+1 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 		​
+
 card:
 	has_styling: true
 	styling_data:
@@ -6127,6 +6275,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6172,6 +6321,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6217,6 +6367,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6245,6 +6396,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	has_styling: true
 	styling_data:
@@ -6279,6 +6431,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6317,6 +6470,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6342,6 +6496,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6382,6 +6537,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6415,6 +6571,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6447,6 +6604,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6470,6 +6628,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6524,6 +6683,7 @@ card:
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text: 
 	special_text_2: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6583,6 +6743,7 @@ card:
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text: 
 	special_text_2: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6639,6 +6800,7 @@ card:
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text: 
 	special_text_2: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6696,6 +6858,7 @@ card:
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text: 
 	special_text_2: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6751,6 +6914,7 @@ card:
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text: 
 	special_text_2: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+
 card:
 	has_styling: false
 	notes: 
@@ -6774,6 +6938,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6809,6 +6974,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6836,6 +7002,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6869,6 +7036,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6909,6 +7077,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -6958,6 +7127,7 @@ card:
 		Destroy all other creatures and enchantments.
 		<kw-a><nospellcheck><key><param-mill>M<kw-a>ill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile it instead.
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6995,6 +7165,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7021,6 +7192,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7047,6 +7219,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7071,6 +7244,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7098,6 +7272,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7123,6 +7298,7 @@ card:
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7158,6 +7334,7 @@ card:
 	copyright: Occo | Not for Sale
 	copyright_2: Occo | Not for Sale
 	copyright_3: Occo | Not for Sale
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7166,7 +7343,7 @@ card:
 		chapter_textboxes: two
 		chapter_divider_coordinates: 
 		separated_text_size: 
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		chapter_number_coordinates: 306,346,386,
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -7174,9 +7351,9 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!promo
+		!promo Eternal Excursion
 	time_created: 2020-07-27 19:17:30
-	time_modified: 2023-05-01 00:54:54
+	time_modified: 2025-11-28 20:12:07
 	name: Feast of the Crows
 	casting_cost: 2BB
 	image: image84
@@ -7197,7 +7374,8 @@ card:
 	power: 
 	toughness: 
 	illustrator: Anato Finnstark
-	custom_card_number: 207
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Excursion Claimed by ndb
 	card_code_text_2: Excursion Claimed by ndb
 	card_code_text_3: Excursion Claimed by ndb
@@ -7209,6 +7387,7 @@ card:
 		All creatures get -1/-1 for each lore counter on <atom-cardname><nospellcheck>Feast of the Crows</nospellcheck></atom-cardname>.
 		I, II, III — You may return a creature card from your graveyard to your hand.
 		​
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7218,16 +7397,16 @@ card:
 		frames: borderless art
 		popout_image_style: 120,20,170,45,
 		other_options: auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		
-		!promo
+		!promo Eternal Excursion
 	time_created: 2021-06-17 17:46:53
-	time_modified: 2023-05-01 00:54:50
+	time_modified: 2025-11-28 20:11:32
 	name: Unite the Clans
 	casting_cost: 3W
 	image: image152
@@ -7240,13 +7419,15 @@ card:
 	rule_text: Look at the top six cards of your library. Put any number of creature cards with total mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Billy Christian
-	custom_card_number: 206
-	card_code_text: Excursion Claimed by Epid
+	partition_select: after main set P
+	custom_card_number: 
+	card_code_text: 
 	card_code_text_2: Excursion Claimed by Epid
 	card_code_text_3: Excursion Claimed by Epid
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7257,7 +7438,7 @@ card:
 		frames: borderless art
 		popout_image_style: 160,15,170,50,
 		other_options: auto nyx crowns
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		alt_rarity_color: 214,196,94:95,84,40:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -7265,9 +7446,9 @@ card:
 		overlay: 
 	notes:
 		SVG !design Occo
-		!promo
+		!promo Eternal Excursion
 	time_created: 2020-07-03 11:33:00
-	time_modified: 2024-04-29 20:57:16
+	time_modified: 2025-11-28 20:14:02
 	name: Gate of Realms
 	casting_cost: 3
 	image: image238
@@ -7282,13 +7463,417 @@ card:
 		<sym-auto>10</sym-auto>, <sym-auto>T</sym-auto>: <atom-cardname><nospellcheck>Gate of Realms</nospellcheck></atom-cardname> deals 3 damage to any target. This ability costs <sym-auto>1</sym-auto> less to activate for each different name among lands you control.
 	flavor_text: <i-flavor>Wonder never runs out, it simply change locales.</i-flavor>
 	illustrator: Thomas Stoop
-	custom_card_number: 208
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Eternal Excursion
 	card_code_text_2: Eternal Excursion
 	card_code_text_3: Eternal Excursion
 	copyright: [Custom] ™&© Wizards of the Coast
 	copyright_2: [Custom] ™&© Wizards of the Coast
 	copyright_3: [Custom] ™&© Wizards of the Coast
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+	time_created: 2025-11-19 16:47:08
+	time_modified: 2025-11-28 20:22:57
+	name: Dawnglade Cultivator
+	casting_cost: G
+	image: image240
+	image_2: image241
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: When <atom-cardname><nospellcheck>Dawnglade Cultivator</nospellcheck></atom-cardname> enters, you may put a land card from your hand onto the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: XU Sheldon
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion;Twiltrie Decree
+	time_created: 2020-07-01 12:09:35
+	time_modified: 2025-11-28 20:34:42
+	name: Winterholm Hersir
+	casting_cost: 1W
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		Abilities your opponents activate cost <sym-auto>1</sym-auto> more to activate unless they’re mana abilities.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ognjen Sporin
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: [Custom] ™&© Wizards of the Coast
+	copyright_2: [Custom] ™&© Wizards of the Coast
+	copyright_3: [Custom] ™&© Wizards of the Coast
+
+card:
+	has_styling: false
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion;Theros Fate
+	time_created: 2025-11-19 16:31:44
+	time_modified: 2025-11-28 20:23:45
+	name: Dark Covenant
+	casting_cost: B
+	image: image243
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When <atom-cardname><nospellcheck>Dark Covenant</nospellcheck></atom-cardname> enters, you draw a card and you lose 1 life.
+		<sym-auto>1B</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Dark Covenant</nospellcheck></atom-cardname>: You draw a card and you lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: two
+		snap_chapter_to_box: 1,2,2,2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!design Emily
+		!secret !update !promo Eternal Excursion;Theros Fate
+	time_created: 2025-11-19 16:34:03
+	time_modified: 2025-12-01 15:40:24
+	name: Climb to the Peak
+	casting_cost: 2R
+	image: image244
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Exile the top five cards of your library.
+	level_2_text: Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
+	illustrator: Tyler Miles Lockett
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
+		I — Exile the top five cards of your library.
+		II, III, IV — Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
+		​
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: borderless art
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-28 20:27:28
+	name: Banish to the Ice
+	casting_cost: 1W
+	image: image247
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Exile target creature. Its controller creates a tapped colorless land token named Far-Off Lands with “<sym-auto>T</sym-auto>: Add one mana of any color.”
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor>Exile on <error-spelling:en_US>Kuutalya’s</error-spelling:en_US> expansive ice flats is death for all but the hardiest.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: john-park
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: borderless art
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-28 20:28:03
+	name: Mistwreath Stones
+	casting_cost: 1
+	image: image248
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Glyph</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When <atom-cardname><nospellcheck>Mistwreath Stones</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Mistwreath Stones</nospellcheck></atom-cardname>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		<sym-auto>1</sym-auto>, Exile <atom-cardname><nospellcheck>Mistwreath Stones</nospellcheck></atom-cardname> from your graveyard: Exile all cards from all graveyards. Draw a card.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text:
+		<i-flavor>“A totem of the dead, to ward off those that have gone beyond.”<soft-line>
+		—<error-spelling:en_US>Samaka</error-spelling:en_US>, Ancient <error-spelling:en_US>Totemist</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: maria-markiewicz
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		other_options: ancestral generic mana, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion;Chikyu Foil
+	time_created: 2020-10-24 15:58:10
+	time_modified: 2025-11-28 20:29:16
+	name: Ferocious Flame
+	casting_cost: R
+	image: image245
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: special
+	rule_text: <atom-cardname><nospellcheck>Ferocious Flame</nospellcheck></atom-cardname> deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: misica
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: [Custom] ™&© Wizards of the Coast
+	copyright_2: [Custom] ™&© Wizards of the Coast
+	copyright_3: [Custom] ™&© Wizards of the Coast
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		other_options: ancestral generic mana, auto nyx crowns
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion;Chikyu Foil;Shiny Hunt
+		!hidetag ★
+	time_created: 2020-10-24 15:58:10
+	time_modified: 2025-11-28 20:34:26
+	name: Ferocious Flame
+	casting_cost: R
+	image: image246
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: special
+	rule_text: <atom-cardname><nospellcheck>Ferocious Flame</nospellcheck></atom-cardname> deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: misica
+	custom_card_number: 
+	card_code_text: 1214
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: [Custom] ™&© Wizards of the Coast
+	copyright_2: [Custom] ™&© Wizards of the Coast
+	copyright_3: [Custom] ™&© Wizards of the Coast
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion;Weft Terminal
+		!inpend > /replace/
+	time_created: 2020-08-26 20:32:33
+	time_modified: 2025-11-28 20:32:23
+	name: Silverarm Spellblade
+	casting_cost: 2U
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> Spells your opponents cast that target <atom-cardname><nospellcheck>Silverarm Spellblade</nospellcheck></atom-cardname> cost <sym-auto>2</sym-auto> more to cast.
+		> Whenever <atom-cardname><nospellcheck>Silverarm Spellblade</nospellcheck></atom-cardname> deals damage to a player, draw a card.
+		> Discard a card: <atom-cardname><nospellcheck>Silverarm Spellblade</nospellcheck></atom-cardname> can’t be blocked this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Daniele Scerra
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: [Custom] ™&© Wizards of the Coast
+	copyright_2: [Custom] ™&© Wizards of the Coast
+	copyright_3: [Custom] ™&© Wizards of the Coast
+
+card:
+	stylesheet: m15-pixel
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		!design Occo
+		!secret !update !promo Eternal Excursion;Weft Terminal
+		!inpend > /replace/
+	time_created: 2019-11-17 19:06:10
+	time_modified: 2025-11-29 03:08:04
+	name: Explore
+	casting_cost: 1G
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		> You may play an additional land this turn.
+		> Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Karolowania
+	partition_select: after main set Q
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Occo | Not for Sale
+	copyright_2: Occo | Not for Sale
+	copyright_3: Occo | Not for Sale
+
 keyword:
 	keyword: Glyph token
 	match: Glyph token

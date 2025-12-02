@@ -34,8 +34,9 @@ set_info:
 		3 Uncommon
 		1 JustRare
 		1 Nonbasic (r:common) (type:Land) (-type:Basic) (unslots)
+		0 Fateful (note:!hidetag ★) (+note:!fateful) (unslots) (unwilds)
 		1 Wildcard (odds:50,30,20)
-		1 Wildcard2 (odds:25,15,10,0,0,50) (-note:!fatereplaced) (+note:!fateadded)
+		1 Wildcard2 (odds:25,15,10,0,0,50) (-note:!hasshiny) (-note:!fateless) (+note:!hidetag ★) (+note:!fateful)
 	set_code: CCR
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: masterpiece_symbol3.mse-symbol
@@ -123,6 +124,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -154,6 +156,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -185,6 +188,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -226,6 +230,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -261,6 +266,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -291,11 +297,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Trapinch
 		!landfall
+		!hasshiny
 		!bdamageb
 	time_created: 2021-01-13 02:50:59
 	time_modified: 2024-12-21 03:11:06
@@ -320,6 +328,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -387,6 +396,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -457,6 +467,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -522,6 +533,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -552,6 +564,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Lanturn !surface
@@ -580,6 +593,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Geodude !surface
@@ -607,11 +621,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Metang
 		!rev 
+		!hasshiny
 	time_created: 2021-01-13 20:42:51
 	time_modified: 2024-12-19 11:21:13
 	name: Enspirited Ore
@@ -630,13 +646,14 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: pokeno255
-	custom_card_number: Pipsqueak
+	custom_card_number: 
 	card_code_text: Pipsqueak
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -667,6 +684,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -736,12 +754,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Skitty !combo !rev 
 		https://www.pixiv.net/en/artworks/84169822
 		!change can only activate as a sorcery
+		!hasshiny
 	time_created: 2021-01-26 21:14:03
 	time_modified: 2025-05-31 14:02:05
 	name: Calamity Cat
@@ -767,6 +787,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -798,6 +819,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Kecleon
@@ -827,12 +849,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		https://www.pixiv.net/en/artworks/85501717
 		Breloom !tokens Berry2>;
-		 nerfed: Lost haste, became a Kangaroo.
+		!hasshiny
 	time_created: 2021-05-06 21:10:35
 	time_modified: 2025-01-30 20:54:04
 	name: Bloom Brute
@@ -862,6 +885,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -893,13 +917,14 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Namie
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !landfall 
@@ -926,6 +951,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -946,13 +972,14 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
 	flavor_text: <i-flavor>Even in the shadow of a volcano, good times can be found by those searching.</i-flavor>
 	illustrator: Orig13
-	custom_card_number: Dravos & Mako
+	custom_card_number: 
 	card_code_text: Dravos & Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Dravos Argentium 2020
 	copyright_2: Dravos Argentium 2020
 	copyright_3: Dravos Argentium 2020
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -973,13 +1000,14 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
 	flavor_text: <i-flavor>Underwater caverns crisscross the seafloor, uncharted by all but the fishes.</i-flavor>
 	illustrator: courtdraws
-	custom_card_number: Dravos & Mako
+	custom_card_number: 
 	card_code_text: Dravos & Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Dravos Argentium 2020
 	copyright_2: Dravos Argentium 2020
 	copyright_3: Dravos Argentium 2020
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1001,13 +1029,14 @@ card:
 	flavor_text: <i-flavor>“Truthfully, I never thought these orbs would do anything. But at the end of the world, what harm could it do?”</i-flavor>
 	illustrator:
 		 satobitorotoku
-	custom_card_number: Dravos & Mako
+	custom_card_number: 
 	card_code_text: Dravos & Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Dravos Argentium 2020
 	copyright_2: Dravos Argentium 2020
 	copyright_3: Dravos Argentium 2020
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1028,13 +1057,14 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor>North of <error-spelling:en_US>Tokusane</error-spelling:en_US> is a small island, always being blanketed by snow regardless of season.</i-flavor>
 	illustrator: YoruXIII
-	custom_card_number: Dravos & Mako
+	custom_card_number: 
 	card_code_text: Dravos & Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Dravos Argentium 2020
 	copyright_2: Dravos Argentium 2020
 	copyright_3: Dravos Argentium 2020
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1055,13 +1085,14 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
 	flavor_text: <i-flavor>The existence of ruins in the desert is well known. What, or even truly where, they are is another matter.</i-flavor>
 	illustrator: Bar-Huma
-	custom_card_number: Dravos & Mako
+	custom_card_number: 
 	card_code_text: Dravos & Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Dravos Argentium 2020
 	copyright_2: Dravos Argentium 2020
 	copyright_3: Dravos Argentium 2020
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1072,7 +1103,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: bluekomadori
+	notes:
+		bluekomadori
+		!hasshiny
 	time_created: 2017-11-13 00:55:15
 	time_modified: 2024-09-12 11:44:04
 	name: A Journey Begins
@@ -1092,6 +1125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1115,13 +1149,14 @@ card:
 	power: 3
 	toughness: 2
 	illustrator: YU2MARU
-	custom_card_number: That1sungod
+	custom_card_number: 
 	card_code_text: That1sungod
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1139,6 +1174,7 @@ card:
 	notes:
 		Sharpedo//Mega Sharpedo
 		old art Pat Manríquez
+		!hasshiny
 	time_created: 2021-05-06 23:06:07
 	time_modified: 2024-11-30 04:32:39
 	card_color_2: black
@@ -1192,6 +1228,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1261,6 +1298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1284,13 +1322,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: ロードン
-	custom_card_number: Lycodrake
+	custom_card_number: 
 	card_code_text: Lycodrake
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Masquerain
@@ -1319,6 +1358,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1342,13 +1382,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Rowdon_illust
-	custom_card_number: That1sungod
+	custom_card_number: 
 	card_code_text: That1sungod
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Lunatone
@@ -1370,13 +1411,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Rowdon_illust
-	custom_card_number: That1sungod
+	custom_card_number: 
 	card_code_text: That1sungod
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Walrein !surface
@@ -1405,6 +1447,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1439,6 +1482,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1475,9 +1519,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Beautifly !amity
+	notes:
+		Beautifly !amity
+		!fateless
 	time_created: 2021-05-07 13:32:54
 	time_modified: 2024-12-19 11:16:12
 	name: Dustwing Butterfly
@@ -1503,6 +1550,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1534,6 +1582,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1595,6 +1644,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1626,6 +1676,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1694,6 +1745,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1725,6 +1777,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1791,6 +1844,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1827,6 +1881,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1857,13 +1912,14 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: cometwing
-	custom_card_number: platypeople
+	custom_card_number: 
 	card_code_text: platypeople
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Aron 
@@ -1891,13 +1947,14 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: kawaacy
-	custom_card_number: Philippe Saner
+	custom_card_number: 
 	card_code_text: Philippe Saner
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CU13 Swellow
@@ -1923,6 +1980,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1944,13 +2002,14 @@ card:
 		<kw-A><nospellcheck><key>Surface <param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: orange_mikan0u0
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1975,13 +2034,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: douzen
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2012,6 +2072,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2053,6 +2114,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2092,6 +2154,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2131,6 +2194,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2150,18 +2214,20 @@ card:
 	power: 2
 	toughness: 4
 	illustrator: KoriArredondo
-	custom_card_number: platypeople
+	custom_card_number: 
 	card_code_text: platypeople
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!landfall / !contest Slugma
 		!bdamageb
+		!hasshiny
 		Landfall Alchemist
 		!ft
 	time_created: 2021-07-19 03:31:51
@@ -2189,6 +2255,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2209,13 +2276,14 @@ card:
 		Target creature gets -3/-3 until end of turn. If you’ve sacrificed a permanent this turn, that creature gets -5/-5 until end of turn instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: drawingpkmneveryday
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2255,6 +2323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CR03 !contest
@@ -2280,6 +2349,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2303,13 +2373,14 @@ card:
 	power: 4
 	toughness: 3
 	illustrator: Jérémy Lignel
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2331,18 +2402,20 @@ card:
 		<sym-auto>1R</sym-auto>, Discard a card, Sacrifice <atom-cardname><nospellcheck>Magma Flow</nospellcheck></atom-cardname>: Draw two cards.
 	flavor_text: <i-flavor>“The volcano’s been restless lately. I hope it’s not a sign of things to come.”</i-flavor>
 	illustrator: CuteSkitty
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Roselia
 		!tokens Berry1>;
+		!hasshiny
 		!change now optional attach
 	time_created: 2021-07-19 03:50:47
 	time_modified: 2024-12-19 21:09:52
@@ -2362,13 +2435,14 @@ card:
 	power: 3
 	toughness: 2
 	illustrator: MeluuArts
-	custom_card_number: Timespiraled
+	custom_card_number: 
 	card_code_text: Timespiraled
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2402,6 +2476,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CW10 Castform
@@ -2422,13 +2497,14 @@ card:
 		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>A<kw-0>cclimate</key></nospellcheck>.<atom-reminder-action> <i-auto>(You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on a creature you control.)</i-auto></atom-reminder-action></kw-A></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: namiri
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2449,13 +2525,14 @@ card:
 	rule_text: Create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>, then sacrifice any number of <kw-0><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck></kw-0>. Target creature you control gets +1/+1 until end of turn for each Berry sacrificed this way. Then it fights target creature you don’t control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: pokeno255
-	custom_card_number: Splashcat & Cajun
+	custom_card_number: 
 	card_code_text: Splashcat & Cajun
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2479,13 +2556,14 @@ card:
 	power: 0
 	toughness: 5
 	illustrator: Null_suke
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2498,9 +2576,9 @@ card:
 		overlay: 
 	notes:
 		CW01 !contest
-		!pack
+		!pack !update
 	time_created: 2021-07-19 04:06:31
-	time_modified: 2024-06-18 19:58:26
+	time_modified: 2025-12-01 15:56:39
 	name: Contest Spectators
 	casting_cost: 1W
 	image: image116
@@ -2509,7 +2587,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Performer</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Once each turn, when you activate a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability, you gain 2 life.
+	rule_text: Once each turn, when you activate a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability, you may gain 2 life.
 	flavor_text:
 		<i-flavor>“At least on the mainland, things are a lot safer here. Instead of fighting for survival, some people just fight for the best seats.”<soft-line>
 		—<error-spelling:en_US>Ema</error-spelling:en_US>, the returned</soft-line></i-flavor>
@@ -2522,6 +2600,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2545,13 +2624,14 @@ card:
 	power: 0
 	toughness: 2
 	illustrator: AutobotTesla
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2575,13 +2655,14 @@ card:
 		</li><li><bullet>• </bullet>You gain 1 life for each token you control.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: MikotoAzure
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Steven https://www.pixiv.net/en/artworks/47198505
@@ -2600,13 +2681,14 @@ card:
 		<i-flavor>“Some of the monsters around here have skin so hard it’s practically metal. Maybe it even is metal.”<soft-line>
 		—Trainee Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
 	illustrator: nnn
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2637,6 +2719,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2647,7 +2730,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Gulpin
+	notes:
+		Gulpin
+		!hasshiny
 	time_created: 2021-07-19 04:11:22
 	time_modified: 2024-09-03 00:14:57
 	name: Hungry Blob
@@ -2672,6 +2757,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2696,13 +2782,14 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: fusenryo2
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2726,13 +2813,14 @@ card:
 		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — <sym-auto>W</sym-auto>, Exile <atom-cardname><nospellcheck>The Ruins Awaken</nospellcheck></atom-cardname> from your graveyard: Create a 1/1 white Golem creature token. Activate only as a sorcery and only if a land entered the battlefield under your control this turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: mcgmark
-	custom_card_number: Pipsqueak
+	custom_card_number: 
 	card_code_text: Pipsqueak
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2763,6 +2851,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2794,6 +2883,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2817,13 +2907,14 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: DAY_Walker_1117
-	custom_card_number: Timespiraled
+	custom_card_number: 
 	card_code_text: Timespiraled
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2850,16 +2941,19 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: KirscheTea
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Skarmory
+	notes:
+		Skarmory
+		!hasshiny
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2024-06-15 22:17:14
 	name: Armored Raptor
@@ -2879,13 +2973,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Midori Harada
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Delcatty
@@ -2904,18 +2999,20 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: MidnightFedora
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Breloom!tokens Berry1>;
 		!change now banishing light
+		!hasshiny
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2024-12-19 21:10:26
 	name: Gone Pickin’
@@ -2929,13 +3026,14 @@ card:
 	rule_text: When <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> enters, exile up to one target nonland permanent an opponent controls until <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> leaves the battlefield. Then create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to a creature you control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: かもなべ
-	custom_card_number: Matt
+	custom_card_number: 
 	card_code_text: Matt
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Zangoose
@@ -2961,6 +3059,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2984,13 +3083,14 @@ card:
 		Create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Riley Kitty
-	custom_card_number: Dodger
+	custom_card_number: 
 	card_code_text: Dodger
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Swampert
@@ -3012,13 +3112,14 @@ card:
 		<i-flavor>“With these stones, we’re able to temporarily make monsters stronger than ever thought possible. Its not without dangers, but we need every edge out here.”<soft-line>
 		—<error-spelling:en_US>Ema</error-spelling:en_US>, to Karina</soft-line></i-flavor>
 	illustrator: garmmon
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3055,6 +3156,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3079,13 +3181,14 @@ card:
 	power: 3
 	toughness: 2
 	illustrator: AutobotTesla
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3107,13 +3210,14 @@ card:
 	power: 2
 	toughness: 3
 	illustrator: Leos Ng
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3135,13 +3239,14 @@ card:
 		<kw-A><nospellcheck><key>Surface <param-cost><sym-auto>5B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: kuroi susumu
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3165,13 +3270,14 @@ card:
 	power: 6
 	toughness: 4
 	illustrator: salanchu
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Froslass
@@ -3192,18 +3298,20 @@ card:
 	power: 4
 	toughness: 3
 	illustrator: ぴっぴ
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!landfall
 		Sableye
+		!hasshiny
 	time_created: 2021-07-21 17:49:34
 	time_modified: 2024-11-26 10:41:10
 	name: Hoard
@@ -3219,13 +3327,14 @@ card:
 		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — If a land entered the battlefield under your control this turn, each opponent loses 2 life.
 	flavor_text: <i-flavor>There is no such thing as “enough.”</i-flavor>
 	illustrator: Null_suke
-	custom_card_number: Pipsqueak
+	custom_card_number: 
 	card_code_text: Pipsqueak
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3250,6 +3359,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Arcanine
@@ -3268,18 +3378,20 @@ card:
 	power: 3
 	toughness: 4
 	illustrator: Hailey Suits
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!surface beater 
 		Medium Surface Shiftry
+		!hasshiny
 	time_created: 2021-07-21 17:55:51
 	time_modified: 2024-11-26 08:00:06
 	name: Rejuvenating Kappa
@@ -3305,6 +3417,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3336,6 +3449,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3356,18 +3470,20 @@ card:
 		Target creature you control gets +2/+2 until end of turn. Untap it.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: @pokemon_hatena
-	custom_card_number: Timespiraled
+	custom_card_number: 
 	card_code_text: Timespiraled
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		might be a jack art instead
 		Tropius, Nuzleaf 
+		!fateless
 	time_created: 2021-07-21 17:55:51
 	time_modified: 2024-06-30 07:43:21
 	name: Harvest Time
@@ -3391,6 +3507,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3412,13 +3529,14 @@ card:
 		<kw-A><nospellcheck><key>Surface <param-cost><sym-auto>4G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: sapphiregale
-	custom_card_number: MBTree
+	custom_card_number: 
 	card_code_text: MBTree
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3446,11 +3564,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!amity
 		Mawile !pack
+		!hasshiny
 	time_created: 2021-07-21 18:03:27
 	time_modified: 2024-06-12 01:19:10
 	name: Charge Beam
@@ -3466,13 +3586,14 @@ card:
 		<kw-A><i-auto><nospellcheck><key>Amity</key></nospellcheck></i-auto></kw-A> — If you attacked with exactly two creatures this turn, <atom-cardname><nospellcheck>Charge Beam</nospellcheck></atom-cardname> deals 2 damage to that permanent’s controller.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Null_Suke
-	custom_card_number: FourEyesIsAFish
+	custom_card_number: 
 	card_code_text: FourEyesIsAFish
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3500,6 +3621,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3520,13 +3642,14 @@ card:
 		Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: ATMOSGEAR
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3563,6 +3686,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3593,6 +3717,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3623,6 +3748,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3660,6 +3786,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3689,13 +3816,14 @@ card:
 		Draw two cards.
 	flavor_text: <i-flavor>Everything’s better with a friend.</i-flavor>
 	illustrator: 莉蓮
-	custom_card_number: FourEyesIsAFish
+	custom_card_number: 
 	card_code_text: FourEyesIsAFish
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3724,6 +3852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3745,13 +3874,14 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	illustrator: ErinPuppy
-	custom_card_number: Pipsqueak
+	custom_card_number: 
 	card_code_text: Pipsqueak
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Sharpedo !surface
@@ -3772,13 +3902,14 @@ card:
 		<margin:0:0:5></li><kw-A><nospellcheck><key>Surface <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto></atom-reminder-custom></kw-A></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pat Manriquez
-	custom_card_number: Dodger
+	custom_card_number: 
 	card_code_text: Dodger
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Froslass
@@ -3805,6 +3936,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3838,6 +3970,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3869,6 +4002,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: pokedex
@@ -3887,13 +4021,14 @@ card:
 		<sym-auto>T</sym-auto>: Draw a card, then discard a card. Activate only if you’ve cast a non-Human creature spell this turn.
 	flavor_text: <i-flavor>Its pages hold descriptions of beasts beyond one’s wildest imagination.</i-flavor>
 	illustrator: Sebastian Reid
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3914,13 +4049,14 @@ card:
 		<i-flavor>“The strange stones can unleash power in certain monsters, but any monster can reach the same, at a price.”<soft-line>
 		—Trainee Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
 	illustrator: Twirlytail
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3954,6 +4090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3975,13 +4112,14 @@ card:
 	power: 3
 	toughness: 2
 	illustrator: Brandon Nguyen
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4022,6 +4160,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4035,6 +4174,7 @@ card:
 		overlay: 
 	notes:
 		Seviper!tokens Berry1>;
+		!hasshiny
 		!changed limited the trigger and AA
 		Sacrifice a Berry: Target creature gets -1/-0 until end of turn and blocks each combat this turn if able. You can’t activate this ability during combat.
 	time_created: 2021-07-21 19:24:04
@@ -4063,11 +4203,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!amity 
 		Dodrio
+		!hasshiny
 		old みなはむ
 	time_created: 2021-07-21 19:29:05
 	time_modified: 2024-06-15 14:52:50
@@ -4088,13 +4230,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: endless-whispers
-	custom_card_number: FourEyesIsAFish
+	custom_card_number: 
 	card_code_text: FourEyesIsAFish
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4106,7 +4249,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !tokens Berry1>;
+	notes:
+		!tokens Berry1>;
+		!hasshiny
 	time_created: 2021-07-21 21:01:09
 	time_modified: 2024-11-26 07:28:39
 	name: Practicing Guru
@@ -4140,6 +4285,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4154,6 +4300,7 @@ card:
 	notes:
 		Shroomish
 		!rev
+		!hasshiny
 	time_created: 2021-07-21 21:01:09
 	time_modified: 2024-11-29 23:36:38
 	name: Spore Collector
@@ -4177,6 +4324,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: https://twitter.com/Orlek_/status/1788406111936086094
@@ -4204,6 +4352,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4230,6 +4379,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4251,16 +4401,19 @@ card:
 		—<error-spelling:en_US>Ema</error-spelling:en_US>, to Karina</soft-line></i-flavor>
 	watermark: other magic symbols color spotlight
 	illustrator: copperlightsource
-	custom_card_number: fluffyDeathbringer
+	custom_card_number: 
 	card_code_text: fluffyDeathbringer
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Chinchou 
+	notes:
+		Chinchou 
+		!hasshiny
 	time_created: 2021-07-21 21:01:09
 	time_modified: 2024-06-30 07:43:59
 	name: Waterway Distraction
@@ -4286,14 +4439,16 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
-		Grimer 
+		Grimer  !update nerfed: Now checks that the sacrificed permanent hits the graveyard.
 		!tokens Berry1>;
+		!hasshiny
 		!rev
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2024-06-13 02:32:35
+	time_modified: 2025-12-01 15:37:59
 	name: Smiling Sludge
 	casting_cost: 1B
 	image: image194
@@ -4305,18 +4460,19 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Smiling Sludge</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		Whenever you sacrifice a nonland permanent, target opponent loses 1 life and you gain 1 life.
+		Whenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3
 	illustrator: Ryota Murayama
-	custom_card_number: Fleur
+	custom_card_number: 
 	card_code_text: Fleur
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4348,6 +4504,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4368,13 +4525,14 @@ card:
 	rule_text: Destroy target non-Human creature. If it has Berries attached to it, gain control of them. Otherwise, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andri Evaris
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4413,6 +4571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4424,7 +4583,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !amity 
+	notes:
+		!amity 
+		!hasshiny
 	time_created: 2021-01-26 21:14:03
 	time_modified: 2024-06-15 14:53:53
 	name: Psych Up
@@ -4449,6 +4610,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4479,6 +4641,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4493,6 +4656,7 @@ card:
 	notes:
 		https://www.pixiv.net/en/artworks/11444102 !amity
 		Grovyle
+		!hasshiny
 	time_created: 2021-07-19 03:50:47
 	time_modified: 2024-06-15 14:52:29
 	name: Sunsoaker
@@ -4518,6 +4682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4543,13 +4708,14 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: 江口直輝
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4581,6 +4747,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4613,6 +4780,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4643,6 +4811,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4655,6 +4824,7 @@ card:
 	notes:
 		!landfall
 		(Bagon)
+		!hasshiny
 	time_created: 2021-07-22 01:29:36
 	time_modified: 2024-08-01 02:47:54
 	name: Leaping Hatchling
@@ -4679,6 +4849,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4709,6 +4880,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4732,13 +4904,14 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: DAY_Walker1117
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4763,13 +4936,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Kunochai
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4792,13 +4966,14 @@ card:
 	power: 1
 	toughness: 2
 	illustrator: Zalcoti
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4820,13 +4995,14 @@ card:
 	power: 2
 	toughness: 1
 	illustrator: Jeremy Ray
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4851,13 +5027,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: All0402
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4881,13 +5058,14 @@ card:
 	power: 
 	toughness: 
 	illustrator: su
-	custom_card_number: platypeople & AWW
+	custom_card_number: 
 	card_code_text: platypeople & AWW
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4910,19 +5088,21 @@ card:
 	power: 1
 	toughness: 3
 	illustrator: krithidraws
-	custom_card_number: Timespiraled
+	custom_card_number: 
 	card_code_text: Timespiraled
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		CW05 Growing Landfall
 		!landfall
 		Zangoose
+		!hasshiny
 	time_created: 2021-09-02 21:32:50
 	time_modified: 2024-11-29 00:02:24
 	name: Outlands Prowler
@@ -4942,13 +5122,14 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: カワトゥー
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4970,13 +5151,14 @@ card:
 	power: 3
 	toughness: 4
 	illustrator: Taiyo Tenebris
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5013,6 +5195,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5049,6 +5232,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5073,13 +5257,14 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: TediousRamen
-	custom_card_number: Dravos Argentium
+	custom_card_number: 
 	card_code_text: Dravos Argentium
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5115,6 +5300,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5135,17 +5321,19 @@ card:
 		<atom-cardname><nospellcheck>Searing Grace</nospellcheck></atom-cardname> deals 3 damage to any target.
 	flavor_text: <i-flavor>From power to beauty, it takes years of work to be effortless.</i-flavor>
 	illustrator: mcgmark
-	custom_card_number: Timespiraled
+	custom_card_number: 
 	card_code_text: Timespiraled
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Zubat !surface 
+		!hasshiny
 		https://www.pixiv.net/en/artworks/80936996
 		https://danbooru.donmai.us/posts/4032123
 		 nerfed: Used to reduce by {2}{B}{B}.
@@ -5174,6 +5362,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5208,6 +5397,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -5230,6 +5420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5251,13 +5442,14 @@ card:
 		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Burn Up</nospellcheck></atom-cardname> deals X damage to target creature or planeswalker.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Manuel Veloz Aguilar
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -5280,11 +5472,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Swablu
-		!todo weather modal
+		!hasshiny
 	time_created: 2021-05-06 21:22:15
 	time_modified: 2024-08-01 02:47:16
 	name: Stratus Fledgling
@@ -5304,13 +5497,14 @@ card:
 	power: 1
 	toughness: 2
 	illustrator: stardragonhorse
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: weather modal
@@ -5331,13 +5525,14 @@ card:
 		</li><li><bullet>• </bullet>Return target nonland permanent with mana value X or less to its owner’s hand.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Devin Elle Kurtz
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5371,6 +5566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5433,11 +5629,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: Koffing // Weezing
+	notes:
+		Koffing // Weezing
+		!hasshiny
 	time_created: 2022-06-22 05:50:10
 	time_modified: 2024-06-30 07:46:03
 	card_color_2: red
@@ -5490,11 +5689,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!contest / !amity
 		!tokens Fish1>;
+		!hasshiny
 	time_created: 2021-07-19 03:34:03
 	time_modified: 2024-06-13 03:56:19
 	name: Prolific Fisher
@@ -5511,13 +5712,14 @@ card:
 	power: 1
 	toughness: 3
 	illustrator: shirokanipe ranran
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: absol
@@ -5544,6 +5746,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5568,6 +5771,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: https://safebooru.org/index.php?page=post&s=view&id=1630065
@@ -5593,6 +5797,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tokens Berry1>;Treasure1>;
@@ -5618,6 +5823,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Manectric
@@ -5645,6 +5851,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5670,6 +5877,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Jigglypuff
@@ -5697,6 +5905,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5724,6 +5933,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5751,6 +5961,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: https://www.newgrounds.com/art/view/irischroma/spinda-patchiru-113-clearing-skies
@@ -5778,6 +5989,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5803,6 +6015,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5831,6 +6044,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5861,6 +6075,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5882,12 +6097,13 @@ card:
 	power: 2
 	toughness: 3
 	illustrator: ourisansan
-	custom_card_number: Dravos Argentium & Cajun
+	custom_card_number: 
 	card_code_text: Dravos Argentium & Cajun
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5914,6 +6130,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !tokens Plant1>;
@@ -5938,6 +6155,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5958,12 +6176,13 @@ card:
 		<sym-auto>2WB</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Ominous Quag</nospellcheck></atom-cardname>: Draw a card.
 	flavor_text: <i-flavor>It’s not the croaking you worry about, it’s when it suddenly stops.</i-flavor>
 	illustrator: やっくん
-	custom_card_number: Mako
+	custom_card_number: 
 	card_code_text: Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5984,12 +6203,13 @@ card:
 		<sym-auto>2UR</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Stunning Cascade</nospellcheck></atom-cardname>: Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: otsumami (bu-bu-heaven)
-	custom_card_number: Mako
+	custom_card_number: 
 	card_code_text: Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6010,12 +6230,13 @@ card:
 		<sym-auto>2BG</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Serpentine Woods</nospellcheck></atom-cardname>: Draw a card.
 	flavor_text: <i-flavor>It matters not how big a forest is, only how easy it is to take a wrong turn.</i-flavor>
 	illustrator: milkayart
-	custom_card_number: Mako
+	custom_card_number: 
 	card_code_text: Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reslot Nonbasic
@@ -6034,12 +6255,13 @@ card:
 		<sym-auto>2RW</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Fortress Arena</nospellcheck></atom-cardname>: Draw a card.
 	flavor_text: <i-flavor>Society lives and dies on the controlled application of violence.</i-flavor>
 	illustrator: The Pokemon Company International
-	custom_card_number: Mako
+	custom_card_number: 
 	card_code_text: Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reslot Nonbasic
@@ -6058,12 +6280,13 @@ card:
 		<sym-auto>2GU</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Cryptic Reef</nospellcheck></atom-cardname>: Draw a card.
 	flavor_text: <i-flavor>The ocean holds centuries of derelict treasures for the resourceful.</i-flavor>
 	illustrator: The Pokemon Company International
-	custom_card_number: Mako
+	custom_card_number: 
 	card_code_text: Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reslot Nonbasic
@@ -6085,6 +6308,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -6104,6 +6328,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -6126,6 +6351,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -6146,6 +6372,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: mimikyu: Kiweyko 
@@ -6169,6 +6396,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6194,6 +6422,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6218,6 +6447,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6242,6 +6472,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6266,6 +6497,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6291,6 +6523,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6320,6 +6553,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6347,6 +6581,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6376,6 +6611,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6401,6 +6637,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6434,6 +6671,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6475,6 +6713,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6506,6 +6745,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6539,6 +6779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6566,10 +6807,12 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
 		Spheal 
+		!hasshiny
 		!token Seal Orb1>;
 		!rev
 		!change no longer intervening if
@@ -6598,6 +6841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6625,6 +6869,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6658,6 +6903,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6687,6 +6933,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6716,6 +6963,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6747,6 +6995,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6776,6 +7025,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6809,6 +7059,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6833,13 +7084,14 @@ card:
 	power: 
 	toughness: 
 	illustrator: TOKIYA
-	custom_card_number: Cajun & Pipqueak
+	custom_card_number: 
 	card_code_text: Cajun & Pipqueak
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6852,6 +7104,7 @@ card:
 		overlay: 
 	notes:
 		Dusclops 
+		!hasshiny
 		https://twitter.com/day_walker1117/status/1268496301257195520
 	time_created: 2021-05-06 22:34:10
 	time_modified: 2024-07-07 08:52:59
@@ -6879,6 +7132,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6890,7 +7144,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !changed can’t name lands
+	notes:
+		!changed can’t name lands
+		!hasshiny
 	time_created: 2021-01-13 20:36:50
 	time_modified: 2024-12-31 22:34:07
 	card_color_2: black
@@ -6942,6 +7198,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Calculated Recovery !rev 
@@ -6966,6 +7223,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6979,6 +7237,7 @@ card:
 		overlay: 
 	notes:
 		!token Golem1>; 
+		!hasshiny
 		Registeel 
 		Indestructible
 		Unyielding Titan can’t attack or block unless you control three or more Golems.
@@ -7010,6 +7269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7041,6 +7301,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7089,11 +7350,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: Deoxys
+	notes:
+		Deoxys
+		!hasshiny
 	time_created: 2021-05-09 17:23:34
 	time_modified: 2024-12-19 12:48:42
 	name: Shadow Sky
@@ -7115,13 +7379,14 @@ card:
 	illustrator: Kozsen
 	additional_credit_2: LeetWizard
 	additional_credit_brush_2: wide flavor
-	custom_card_number: DracoFreezeFlame
+	custom_card_number: 
 	card_code_text: DracoFreezeFlame
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7162,11 +7427,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Metagross
 		!rev 
+		!hasshiny
 	time_created: 2021-01-13 20:42:51
 	time_modified: 2024-10-03 15:38:34
 	name: Magnetling
@@ -7194,6 +7461,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7222,6 +7490,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7246,6 +7515,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7260,6 +7530,7 @@ card:
 		!token Bird1>;Bird Warrior1>;
 		!replacetoken Blaziken;1;Swellow;1
 		 !rev
+		!hasshiny
 	time_created: 2021-01-05 03:51:18
 	time_modified: 2024-09-03 01:38:12
 	extra_data:
@@ -7289,6 +7560,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7302,8 +7574,8 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
 		Treecko//Sceptile 
+		!hasshiny
 		Nimble Gecko
 		Vigilant Iguanodon
 		!change made MM and transforms via amity
@@ -7359,6 +7631,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7382,17 +7655,19 @@ card:
 	power: 0
 	toughness: 2
 	illustrator: ewokakukaede
-	custom_card_number: Philippe Saner
+	custom_card_number: 
 	card_code_text: Philippe Saner
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!token Berry1>; 
+		!hasshiny
 		Shuckle
 		 nerfed: Used to give Berries the Treasure and Food abilities themselves.
 	time_created: 2024-06-18 03:50:25
@@ -7418,6 +7693,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7451,6 +7727,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7466,6 +7743,7 @@ card:
 	notes:
 		!token Golem1>;
 		Regirock
+		!hasshiny
 		Trample
 		Unflinching Titan can’t attack or block unless you control three or more Golems.
 		Whenever Unflinching Titan enters or attacks, untap up to two permanents.
@@ -7504,6 +7782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7523,13 +7802,14 @@ card:
 	rule_text: Create three <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>, then sacrifice any number of Berries. For each Berry sacrificed this way, creatures you control get +1/+1 until end of turn.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 雨宮アキラ
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7548,6 +7828,7 @@ card:
 	notes:
 		Cradily
 		 !rev
+		!hasshiny
 	time_created: 2021-01-13 20:36:50
 	time_modified: 2024-12-19 11:21:55
 	card_color_2: green
@@ -7599,11 +7880,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: !changed mana cost to 2g
+	notes:
+		!changed mana cost to 2g
+		!hasshiny
 	time_created: 2021-05-09 17:24:05
 	time_modified: 2024-12-22 12:38:30
 	name: Heavy Winds
@@ -7623,13 +7907,14 @@ card:
 		<i-flavor>“The weather is finally stilled. That might be the most worrying outcome of all.”<soft-line>
 		—<error-spelling:en_US>Tenki</error-spelling:en_US>, storm chaser</soft-line></i-flavor>
 	illustrator: renepolumorfous
-	custom_card_number: DracoFreezeFlame
+	custom_card_number: 
 	card_code_text: DracoFreezeFlame
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7671,6 +7956,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7713,6 +7999,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7759,6 +8046,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7794,6 +8082,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7806,7 +8095,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !tokens Toy1>;
+	notes:
+		!tokens Toy1>;
+		!hasshiny
 	time_created: 2021-09-05 06:05:16
 	time_modified: 2024-10-14 14:54:08
 	extra_data:
@@ -7870,6 +8161,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7880,7 +8172,8 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		 !rev Draw two cards, then discard two cards unless you have an opponent draw two cards.
+		 
+		!hasshiny!rev Draw two cards, then discard two cards unless you have an opponent draw two cards.
 		Return target permanent or target instant or sorcery card in your graveyard to its owner’s hand.
 		Search your library for up to six legendary permanent cards, put them onto the battlefield, then shuffle your library.
 		Exile target creature or creature card in a graveyard. Return it to the battlefield under its owner’s control at the beginning of that player’s next end step.
@@ -7922,6 +8215,7 @@ card:
 		[0]: <margin:130:0:0>Target creature you control gets +2/+2 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Each player discards a card. Then you may pay 2 life. If you do, draw a card.</margin:130:0:0>
 		[-3]: <margin:130:0:0>You and target opponent’s life totals each become equal to half your combined life totals, rounded down.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7967,6 +8261,7 @@ card:
 		Dragons you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> and <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>.
 		[+1]: <margin:130:0:0><atom-legname><nospellcheck>Iviana</nospellcheck></atom-legname> deals X damage to up to one target creature or planeswalker, where X is 2 plus twice the number of Dragons you control.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may reveal a Dragon card you own from outside the game and put it into your hand. Create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8026,6 +8321,7 @@ card:
 		[+2]: <margin:130:0:0><kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Sacrifice a land or discard a land card. If you do, you may play target creature or land card in your graveyard this turn.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Each player sacrifices a creature. Return a creature card from your graveyard to your hand.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8071,6 +8367,7 @@ card:
 		[+1]: <margin:130:0:0>You may discard a card. If you do, each player may draw a card.</margin:130:0:0>
 		[+1]: <margin:130:0:0>For each player, up to one target creature they control gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Choose a card type. Each opponent who controls more permanents of that type than you sacrifices a number equal to the difference.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8124,6 +8421,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 green Plant creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a blue Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>permanent and “When enchanted permanent dies, you draw two cards.</param-name></key></nospellcheck></kw-a>”</margin:130:0:0>
 		[-5]: <margin:130:0:0>Create a 3/3 green, blue, and red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. For each kind of counter on permanents you control, you may put a counter of that kind on it.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -8165,6 +8463,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8181,6 +8480,7 @@ card:
 	notes:
 		Salamence
 		!ft
+		!hasshiny
 	time_created: 2021-08-15 14:18:19
 	time_modified: 2024-12-19 11:56:42
 	card_color_2: blue, red, multicolor, horizontal
@@ -8235,6 +8535,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8248,6 +8549,7 @@ card:
 	notes:
 		Cacturne 
 		old edface
+		!hasshiny
 		https://x.com/delatoid/status/1845547262677852542
 	time_created: 2021-01-13 02:23:40
 	time_modified: 2024-10-14 14:17:23
@@ -8274,6 +8576,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8289,6 +8592,7 @@ card:
 		https://www.pixiv.net/en/artworks/84957643
 		Quilava
 		!rev 
+		!hasshiny
 	time_created: 2021-01-13 02:45:06
 	time_modified: 2024-10-14 14:52:03
 	extra_data:
@@ -8323,6 +8627,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8335,7 +8640,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Sylveon//Lycanroc krasis
+	notes:
+		Sylveon//Lycanroc krasis
+		!hasshiny
 	time_created: 2021-01-12 04:54:04
 	time_modified: 2024-10-14 14:53:30
 	extra_data:
@@ -8363,10 +8670,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		 !rev
+		!fateless
 	time_created: 2021-09-05 05:52:34
 	time_modified: 2024-12-31 07:53:01
 	name: Heartbreak
@@ -8389,6 +8698,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8417,6 +8727,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !changes now self-exiles
@@ -8444,6 +8755,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8454,7 +8766,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Torkoal !bdamageb
+	notes:
+		Torkoal !bdamageb
+		!hasshiny
 	time_created: 2021-07-22 01:14:38
 	time_modified: 2024-11-26 08:13:08
 	name: Suncaller Tortoise
@@ -8479,6 +8793,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8532,6 +8847,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8557,18 +8873,19 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: so-taro
-	custom_card_number: FourEyesIsAFish & Cajun
+	custom_card_number: 
 	card_code_text: FourEyesIsAFish & Cajun
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Kyogre !rev
-		 nerfed: Only grants surface during the ending phase
+		!hasshiny
 	time_created: 2021-02-01 22:27:56
 	time_modified: 2025-01-30 20:49:06
 	extra_data:
@@ -8592,16 +8909,19 @@ card:
 	power: 6
 	toughness: 6
 	illustrator: ふりゃ
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Grumpig !rev
+	notes:
+		Grumpig !rev
+		!hasshiny
 	time_created: 2021-09-05 06:00:27
 	time_modified: 2025-04-05 08:37:46
 	name: Scattering Swine
@@ -8625,6 +8945,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8636,7 +8957,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Groudon !rev
+	notes:
+		Groudon !rev
+		!hasshiny
 	time_created: 2021-02-01 22:27:56
 	time_modified: 2024-11-26 07:52:04
 	extra_data:
@@ -8667,6 +8990,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8678,7 +9002,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Rayquaza
+	notes:
+		Rayquaza
+		!hasshiny
 	time_created: 2021-01-17 06:35:33
 	time_modified: 2024-11-26 07:52:12
 	extra_data:
@@ -8710,10 +9036,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Jirachi !rev 
+		!hasshiny
 		At the beginning of your end step, you may put a wish counter on Warden of Wishes. If you don’t, you may reveal a card you own from outside the game with mana value less than or equal to the number of wish counters on Warden of Wishes, put it into your hand, then remove all wish counters from Warden of Wishes.
 		At the beginning of your upkeep, you may remove one or more wish counters from Warden of Wishes. If you do, you may reveal a card you own from outside the game with mana value less than or equal to the number of wish counters removed this way and put it into your hand.
 	time_created: 2021-05-07 13:10:50
@@ -8745,6 +9073,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8775,9 +9104,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !token Berry1>;
+	notes:
+		!token Berry1>;
+		!hasshiny
 	time_created: 2021-07-19 03:23:46
 	time_modified: 2024-12-19 10:54:25
 	name: Poisoned Rose
@@ -8803,13 +9135,14 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: ぴっぴ
-	custom_card_number: Splashcat
+	custom_card_number: 
 	card_code_text: Splashcat
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8825,6 +9158,7 @@ card:
 	notes:
 		Aron//Aggron
 		!landfall 
+		!hasshiny
 		!rev
 	time_created: 2021-05-06 20:44:50
 	time_modified: 2024-11-30 01:24:16
@@ -8879,6 +9213,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8893,7 +9228,7 @@ card:
 		overlay: 
 	notes:
 		Ludicolo 
-		?shiny
+		!hasshiny
 	time_created: 2021-05-07 16:06:12
 	time_modified: 2024-11-26 08:05:57
 	name: Carefree Kappa
@@ -8918,6 +9253,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8932,6 +9268,7 @@ card:
 		overlay: 
 	notes:
 		Torchic//Blaziken
+		!hasshiny
 		starter !bdamage
 		!change made MM and transforms via amity
 	time_created: 2021-05-06 23:42:31
@@ -8985,6 +9322,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8996,7 +9334,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Latias
+	notes:
+		Latias
+		!hasshiny
 	time_created: 2021-05-07 16:59:52
 	time_modified: 2025-01-22 19:30:34
 	extra_data:
@@ -9024,9 +9364,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Flygon !bdamage
+	notes:
+		Flygon !bdamage
+		!hasshiny
 	time_created: 2021-07-22 01:07:08
 	time_modified: 2024-06-16 05:13:43
 	name: Earthbreaker Dragon
@@ -9052,6 +9395,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9062,7 +9406,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Sudowoodo
+	notes:
+		Sudowoodo
+		!hasshiny
 	time_created: 2017-11-11 01:34:43
 	time_modified: 2024-07-07 15:00:01
 	name: Mimicry Elemental
@@ -9087,10 +9433,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Deoxys 
+		!hasshiny
 		!change replaced below with punisher
 		Each player can’t cast noncreature spells unless they’ve attacked this turn.
 		The first spell cast each turn costs X less to cast, where X is the amount of damage dealt to players this turn.
@@ -9124,6 +9472,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9192,9 +9541,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Manectric
+	notes:
+		Manectric
+		!hasshiny
 	time_created: 2024-06-13 02:24:08
 	time_modified: 2024-06-18 03:03:33
 	name: Generator Alpha
@@ -9220,11 +9572,14 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: 
+	notes:
+		
+		!hasshiny
 	time_created: 2021-05-09 17:23:49
 	time_modified: 2024-10-03 14:35:32
 	name: Desolate Lands
@@ -9251,6 +9606,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9266,6 +9622,7 @@ card:
 	notes:
 		Mudkip//Swampert
 		starter
+		!hasshiny
 		!change made MM and transforms via amity
 	time_created: 2021-05-06 23:42:31
 	time_modified: 2024-12-23 09:52:07
@@ -9318,6 +9675,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9353,6 +9711,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9364,7 +9723,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Latios 
+	notes:
+		Latios 
+		!hasshiny
 	time_created: 2021-05-07 16:59:52
 	time_modified: 2025-01-22 19:30:46
 	extra_data:
@@ -9392,6 +9753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9416,13 +9778,14 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: Hariel Fontenele
-	custom_card_number: DrChillbrain
+	custom_card_number: 
 	card_code_text: DrChillbrain
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9436,6 +9799,7 @@ card:
 		overlay: 
 	notes:
 		!token Golem1>;
+		!hasshiny
 		Regice
 		Unspeaking Titan can’t attack or block unless you control three or more Golems.
 		Whenever Unspeaking Titan enters or attacks, tap up to one target creature and put a stun counter on it.
@@ -9467,11 +9831,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Wailord !surface 
 		?shiny
+		!hasshiny
 	time_created: 2021-01-23 04:23:57
 	time_modified: 2024-06-30 07:39:49
 	name: Wrecking Whale
@@ -9498,6 +9864,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9563,11 +9930,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: The clouds are dark and endless like an ocean trench, as their rain drags us into the abyss.
+	notes:
+		The clouds are dark and endless like an ocean trench, as their rain drags us into the abyss.
+		!hasshiny
 	time_created: 2021-05-09 17:23:15
 	time_modified: 2024-07-27 22:25:56
 	name: Primordial Seas
@@ -9594,6 +9964,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9610,6 +9981,7 @@ card:
 	notes:
 		Spinda
 		tcg art
+		!hasshiny
 		As long as Teetering Panda is tapped, it has distorted. (Tapped creatures can block it rather than untapped creatures.)
 		1, T: You may tap or untap another target creature.
 		2, Q: Until end of turn, target creature has distorted as long as it’s tapped.
@@ -9639,6 +10011,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9670,6 +10043,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9677,6 +10051,7 @@ card:
 	notes:
 		Mega Altaria
 		!ft
+		!hasshiny
 	time_created: 2021-05-09 17:22:53
 	time_modified: 2024-08-01 02:47:11
 	name: Cirriform Dragon
@@ -9702,6 +10077,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9745,6 +10121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9759,7 +10136,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:
+		
+		!hasshiny
 	time_created: 2021-05-09 17:22:53
 	time_modified: 2024-11-26 07:24:53
 	name: Catch Your Breath
@@ -9787,11 +10166,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!rev Whenever you activate a nontoken creature, if it’s the first time you’ve activated it this turn, you may create a token that’s a copy of that creature, except it’s 1/1 and isn’t legendary.
 		!changed etbt
+		!hasshiny
 	time_created: 2021-07-21 21:54:12
 	time_modified: 2024-12-22 07:55:13
 	name: Plush Collection
@@ -9818,11 +10199,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: 
+	notes:
+		
+		!hasshiny
 	time_created: 2021-05-09 17:22:53
 	time_modified: 2024-07-07 19:50:16
 	name: Diamond Dust
@@ -9849,6 +10233,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9882,6 +10267,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9913,6 +10299,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9941,6 +10328,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9964,6 +10352,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9993,6 +10382,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10028,6 +10418,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10059,6 +10450,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10089,6 +10481,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -10115,12 +10508,14 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Alakazam
 		https://www.pixiv.net/en/artworks/85066206
 		!change from Kinesis
+		!hasshiny
 	time_created: 2021-07-21 18:30:37
 	time_modified: 2024-12-25 16:43:59
 	name: Avert Disaster
@@ -10145,11 +10540,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Beautifly !foil
-		 !promo
+		!fateful !promo Chikyu Foil
 		!design Cajun
 	time_created: 2021-05-07 13:32:54
 	time_modified: 2025-04-30 18:55:07
@@ -10169,13 +10565,14 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: Frostwindz
-	custom_card_number: Foil Opened by DrChipmunk
+	custom_card_number: 
 	card_code_text: Foil Opened by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10190,7 +10587,9 @@ card:
 		overlay: 
 	notes:
 		Ludicolo 
-		!foil  !promo !design Cajun
+		!foil  !promo Chikyu Foil
+		!design Cajun
+		!fateful
 	time_created: 2021-05-07 16:06:12
 	time_modified: 2025-01-30 20:47:50
 	name: Carefree Kappa
@@ -10215,10 +10614,13 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
-		 !foil !promo !design Cajun
+		 !foil !promo Chikyu Foil
+		 !design Cajun
+		!fateful
 	time_created: 2021-09-05 05:52:34
 	time_modified: 2025-08-31 20:19:00
 	name: Heartbreak
@@ -10241,6 +10643,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10273,6 +10676,7 @@ card:
 	card_code_text: Shiny Hunted by Whiffle & Fran6
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10307,6 +10711,7 @@ card:
 	card_code_text: Shiny Hunted by Kilgaris
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10323,7 +10728,7 @@ card:
 		!design Matt
 		 !hidetag ★
 	time_created: 2021-07-21 17:42:58
-	time_modified: 2025-04-04 06:30:01
+	time_modified: 2025-12-01 16:14:38
 	name: Gone Pickin’
 	casting_cost: 2W
 	image: image133
@@ -10342,6 +10747,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10359,7 +10765,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-07-21 18:30:37
-	time_modified: 2025-01-30 21:16:53
+	time_modified: 2025-12-01 16:15:26
 	name: Avert Disaster
 	casting_cost: 1UU
 	image: image163
@@ -10382,6 +10788,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10398,7 +10805,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-09 17:23:15
-	time_modified: 2025-01-30 21:20:14
+	time_modified: 2025-12-01 16:15:37
 	name: Primordial Seas
 	casting_cost: 5UU
 	transformation: custom symbol four
@@ -10423,6 +10830,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10440,7 +10848,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 22:15:38
-	time_modified: 2025-09-29 21:51:57
+	time_modified: 2025-12-01 16:16:03
 	name: Unspeaking Titan
 	casting_cost: 1U
 	image: image311
@@ -10466,6 +10874,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10483,7 +10892,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 22:34:10
-	time_modified: 2025-01-30 21:20:05
+	time_modified: 2025-12-01 16:16:47
 	name: Pressuring Ghoul
 	casting_cost: 1B
 	image: image314
@@ -10509,6 +10918,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10527,7 +10937,7 @@ card:
 		
 		 !hidetag ★
 	time_created: 2021-10-11 14:08:55
-	time_modified: 2025-02-28 17:04:08
+	time_modified: 2025-12-01 16:16:53
 	name: Relentless Bats
 	casting_cost: 1B
 	image: image315
@@ -10551,6 +10961,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -10567,7 +10978,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-01-13 20:36:50
-	time_modified: 2025-01-30 21:21:22
+	time_modified: 2025-12-01 16:17:01
 	card_color_2: black
 	name: Serrated Fossil
 	name_2: Reborn Fisher
@@ -10618,6 +11029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10630,13 +11042,13 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		Grimer 
+		Grimer  !update
 		!tokens Berry1>;
 		!unlocked
 		!design Fleur
 		 !hidetag ★
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2025-01-30 21:21:40
+	time_modified: 2025-12-01 16:17:21
 	name: Smiling Sludge
 	casting_cost: 1B
 	image: image322
@@ -10648,7 +11060,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Smiling Sludge</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		Whenever you sacrifice a nonland permanent, target opponent loses 1 life and you gain 1 life.
+		Whenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3
@@ -10660,6 +11072,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10676,7 +11089,7 @@ card:
 		!unlocked !design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 22:15:38
-	time_modified: 2025-09-29 21:52:06
+	time_modified: 2025-12-01 16:17:30
 	name: Unyielding Titan
 	casting_cost: 3B
 	image: image323
@@ -10702,6 +11115,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10720,7 +11134,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-01-26 21:14:03
-	time_modified: 2025-05-31 14:02:09
+	time_modified: 2025-12-01 16:17:45
 	name: Calamity Cat
 	casting_cost: R
 	image: image324
@@ -10744,6 +11158,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10760,7 +11175,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 22:07:17
-	time_modified: 2025-01-30 21:18:43
+	time_modified: 2025-12-01 16:18:09
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -10782,12 +11197,13 @@ card:
 	toughness: 3
 	illustrator: Chris Hohl
 	custom_card_number: 1129
-	card_code_text: Shiny Hunted by Voltswitch70
+	card_code_text: Shiny Hunted by Voltswitch
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -10807,7 +11223,7 @@ card:
 		!num 1147
 		 !hidetag ★
 	time_created: 2022-06-22 05:50:10
-	time_modified: 2025-01-30 21:21:55
+	time_modified: 2025-12-01 16:18:46
 	card_color_2: red
 	name: Solid Smog
 	name_2: Splitting Smog
@@ -10859,6 +11275,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -10878,7 +11295,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 23:42:31
-	time_modified: 2025-01-30 21:22:32
+	time_modified: 2025-12-01 16:19:00
 	card_color_2: red
 	name: Temperamental Chick
 	name_2: Tempered Fowl
@@ -10929,6 +11346,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10946,7 +11364,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2024-06-18 03:50:25
-	time_modified: 2025-01-30 21:18:02
+	time_modified: 2025-12-01 16:19:41
 	name: Berry Fermenter
 	casting_cost: 2G
 	image: image330
@@ -10968,6 +11386,7 @@ card:
 	card_code_text: Shiny Hunted by Fran6
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10985,7 +11404,7 @@ card:
 		!designer Splashcat
 		 !hidetag ★
 	time_created: 2021-07-19 04:11:22
-	time_modified: 2025-01-30 21:19:15
+	time_modified: 2025-12-01 16:20:25
 	name: Hungry Blob
 	casting_cost: 2G
 	image: image331
@@ -11009,6 +11428,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11026,7 +11446,7 @@ card:
 		!design DrChillbrain
 		 !hidetag ★
 	time_created: 2021-07-19 03:50:47
-	time_modified: 2025-01-30 21:22:22
+	time_modified: 2025-12-01 16:21:23
 	name: Sunsoaker
 	casting_cost: 1G
 	image: image332
@@ -11050,6 +11470,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11068,7 +11489,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 22:15:38
-	time_modified: 2025-09-29 21:52:13
+	time_modified: 2025-12-01 16:21:33
 	name: Unflinching Titan
 	casting_cost: 2G
 	image: image333
@@ -11094,6 +11515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11111,7 +11533,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-01-13 02:45:06
-	time_modified: 2025-01-30 21:17:16
+	time_modified: 2025-12-01 16:21:42
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -11144,6 +11566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -11162,7 +11585,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 20:44:50
-	time_modified: 2025-01-30 21:19:39
+	time_modified: 2025-12-01 16:22:27
 	card_color_2: white, red, multicolor, horizontal
 	name: Ironback Tyke
 	name_2: Ironback Sovereign
@@ -11215,6 +11638,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11228,7 +11652,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2020-09-12 18:33:29
-	time_modified: 2025-04-30 21:41:21
+	time_modified: 2025-12-01 16:23:14
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/her
@@ -11265,6 +11689,7 @@ card:
 		[0]: <margin:130:0:0>Target creature you control gets +2/+2 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Each player discards a card. Then you may pay 2 life. If you do, draw a card.</margin:130:0:0>
 		[-3]: <margin:130:0:0>You and target opponent’s life totals each become equal to half your combined life totals, rounded down.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11284,7 +11709,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-09-05 06:00:27
-	time_modified: 2025-04-05 08:37:36
+	time_modified: 2025-12-01 16:23:26
 	name: Scattering Swine
 	casting_cost: BR
 	image: image338
@@ -11306,6 +11731,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11324,7 +11750,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-09-05 06:29:46
-	time_modified: 2025-01-31 18:30:37
+	time_modified: 2025-12-01 16:23:34
 	name: Seal Shoals
 	casting_cost: WU
 	image: image339
@@ -11348,6 +11774,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11366,7 +11793,7 @@ card:
 		https://x.com/delatoid/status/1845547262677852542
 		 !hidetag ★
 	time_created: 2021-01-13 02:23:40
-	time_modified: 2025-01-31 18:31:46
+	time_modified: 2025-12-01 16:23:44
 	name: Spikey, Jack’s Gravetiller
 	casting_cost: 1BG
 	image: image340
@@ -11391,6 +11818,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11408,7 +11836,7 @@ card:
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-02-01 22:27:56
-	time_modified: 2025-01-31 18:33:41
+	time_modified: 2025-12-01 16:24:30
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -11437,6 +11865,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11456,7 +11885,7 @@ card:
 		!design Cajun
 		!hidetag ★
 	time_created: 2021-01-05 03:51:18
-	time_modified: 2025-02-28 19:28:22
+	time_modified: 2025-12-01 16:22:15
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -11485,6 +11914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11504,7 +11934,7 @@ card:
 		!hidetag ★
 		!design DrChillbrain
 	time_created: 2021-02-01 22:27:56
-	time_modified: 2025-02-28 19:29:00
+	time_modified: 2025-12-01 16:24:41
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -11533,6 +11963,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -11551,7 +11982,7 @@ card:
 		
 		!design DrChillbrain
 	time_created: 2021-05-06 21:22:15
-	time_modified: 2025-04-30 21:35:10
+	time_modified: 2025-12-01 16:15:18
 	name: Stratus Fledgling
 	casting_cost: 2W
 	image: image310
@@ -11576,6 +12007,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11605,6 +12037,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11622,7 +12055,7 @@ card:
 		!design Cajun
 		!hidetag ★
 	time_created: 2021-01-13 20:42:51
-	time_modified: 2025-03-31 11:33:18
+	time_modified: 2025-12-01 16:25:05
 	name: Magnetling
 	casting_cost: 4
 	image: image298
@@ -11648,6 +12081,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -11670,7 +12104,7 @@ card:
 		!design Cajun
 		!num 1170
 	time_created: 2021-05-06 23:42:31
-	time_modified: 2025-03-31 11:36:26
+	time_modified: 2025-12-01 16:20:10
 	card_color_2: green
 	name: Growing Gecko
 	name_2: Old-Growth Gecko
@@ -11721,6 +12155,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -11753,6 +12188,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -11785,6 +12221,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -11801,7 +12238,7 @@ card:
 		!design DrChillbrain
 		!fix
 	time_created: 2021-07-21 17:42:58
-	time_modified: 2025-04-30 21:33:24
+	time_modified: 2025-12-01 16:14:04
 	name: Armored Raptor
 	casting_cost: 4W
 	image: image320
@@ -11826,6 +12263,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -11841,7 +12279,7 @@ card:
 		!design Timespiraled
 		 !hidetag ★
 	time_created: 2021-07-19 03:50:47
-	time_modified: 2025-04-30 21:38:48
+	time_modified: 2025-12-01 16:19:15
 	name: Aroma Spinner
 	casting_cost: 2G
 	image: image342
@@ -11865,6 +12303,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -11878,7 +12317,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-05-06 21:10:35
-	time_modified: 2025-04-30 21:38:59
+	time_modified: 2025-12-01 16:19:50
 	name: Bloom Brute
 	casting_cost: 1G
 	image: image343
@@ -11906,6 +12345,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11923,7 +12363,7 @@ card:
 		Ludicolo 
 		 !hidetag ★
 	time_created: 2021-05-07 16:06:12
-	time_modified: 2025-04-30 21:40:02
+	time_modified: 2025-12-01 16:21:51
 	name: Carefree Kappa
 	casting_cost: 2GU
 	image: image344
@@ -11947,6 +12387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11964,7 +12405,7 @@ card:
 		 !hidetag ★
 		!fix
 	time_created: 2021-05-09 17:22:53
-	time_modified: 2025-04-30 21:33:43
+	time_modified: 2025-12-01 16:14:14
 	name: Catch Your Breath
 	casting_cost: W
 	card_symbol: none
@@ -11990,6 +12431,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12005,7 +12447,7 @@ card:
 		 !hidetag ★
 		!design FourEyesIsAFish
 	time_created: 2021-07-21 18:03:27
-	time_modified: 2025-04-30 21:37:20
+	time_modified: 2025-12-01 16:17:49
 	name: Charge Beam
 	casting_cost: 2R
 	image: image346
@@ -12026,6 +12468,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -12044,7 +12487,7 @@ card:
 		!num 1079
 		!design Splashcat
 	time_created: 2021-05-06 23:06:07
-	time_modified: 2025-04-30 19:08:44
+	time_modified: 2025-12-01 16:16:30
 	card_color_2: black
 	name: Chum Chaser
 	name_2: Ship Shredder
@@ -12097,6 +12540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12115,7 +12559,7 @@ card:
 		!ft  !hidetag ★
 		!fix
 	time_created: 2021-05-09 17:22:53
-	time_modified: 2025-04-30 21:33:56
+	time_modified: 2025-12-01 16:14:27
 	name: Cirriform Dragon
 	casting_cost: 3WW
 	image: image349
@@ -12139,6 +12583,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12154,7 +12599,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-05-09 17:23:49
-	time_modified: 2025-04-30 21:37:29
+	time_modified: 2025-12-01 16:17:56
 	name: Desolate Lands
 	casting_cost: 3RR
 	transformation: custom symbol four
@@ -12179,6 +12624,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12196,7 +12642,7 @@ card:
 		 !hidetag ★
 		!fix
 	time_created: 2021-05-09 17:22:53
-	time_modified: 2025-04-30 21:34:09
+	time_modified: 2025-12-01 16:14:33
 	name: Diamond Dust
 	casting_cost: 5W
 	transformation: custom symbol four
@@ -12221,6 +12667,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12234,7 +12681,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-07-22 01:07:08
-	time_modified: 2025-04-30 21:37:38
+	time_modified: 2025-12-01 16:18:00
 	name: Earthbreaker Dragon
 	casting_cost: 2RR
 	image: image354
@@ -12258,6 +12705,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12273,7 +12721,7 @@ card:
 		 !hidetag ★
 		!design Pipsqueak
 	time_created: 2021-01-13 20:42:51
-	time_modified: 2025-04-30 21:42:41
+	time_modified: 2025-12-01 16:25:00
 	name: Enspirited Ore
 	casting_cost: 4
 	image: image355
@@ -12297,6 +12745,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -12316,7 +12765,7 @@ card:
 		 !hidetag ★
 		!num 1167
 	time_created: 2021-01-13 20:36:50
-	time_modified: 2025-04-30 21:39:12
+	time_modified: 2025-12-01 16:20:00
 	card_color_2: green
 	name: Entangled Fossil
 	name_2: Reborn Reef
@@ -12367,6 +12816,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12382,7 +12832,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-07-21 19:24:04
-	time_modified: 2025-04-30 21:40:11
+	time_modified: 2025-12-01 16:22:00
 	name: Feasting Predator
 	casting_cost: WBG
 	image: image358
@@ -12407,6 +12857,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12422,7 +12873,7 @@ card:
 		Manectric !miss
 		 !hidetag ★
 	time_created: 2024-06-13 02:24:08
-	time_modified: 2025-04-30 21:37:49
+	time_modified: 2025-12-01 16:18:14
 	name: Generator Alpha
 	casting_cost: 3R
 	image: image359
@@ -12446,6 +12897,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12459,7 +12911,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-09-05 05:52:34
-	time_modified: 2025-04-30 21:40:21
+	time_modified: 2025-12-01 16:22:10
 	name: Heartbreak
 	casting_cost: 1WBG
 	image: image360
@@ -12480,6 +12932,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12497,7 +12950,7 @@ card:
 		!design DracoFreezeFlame
 		 !hidetag ★
 	time_created: 2021-05-09 17:24:05
-	time_modified: 2025-04-30 21:39:23
+	time_modified: 2025-12-01 16:20:16
 	name: Heavy Winds
 	casting_cost: 2G
 	transformation: custom symbol four
@@ -12522,6 +12975,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12537,7 +12991,7 @@ card:
 		!design Pipsqueak
 		 !hidetag ★
 	time_created: 2021-07-21 17:49:34
-	time_modified: 2025-04-30 21:36:31
+	time_modified: 2025-12-01 16:16:37
 	name: Hoard
 	casting_cost: 2B
 	image: image362
@@ -12558,6 +13012,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12571,7 +13026,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-07-19 03:31:51
-	time_modified: 2025-04-30 21:37:56
+	time_modified: 2025-12-01 16:18:20
 	name: Lavaborn Slug
 	casting_cost: 1R
 	image: image363
@@ -12595,6 +13050,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12610,7 +13066,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-07-22 01:29:36
-	time_modified: 2025-04-30 21:38:06
+	time_modified: 2025-12-01 16:18:25
 	name: Leaping Hatchling
 	casting_cost: 1R
 	image: image364
@@ -12634,6 +13090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12652,7 +13109,7 @@ card:
 		 !hidetag ★
 		!design Philippe Saner
 	time_created: 2017-11-11 01:34:43
-	time_modified: 2025-04-30 21:38:19
+	time_modified: 2025-12-01 16:18:33
 	name: Mimicry Elemental
 	casting_cost: 1R
 	image: image365
@@ -12676,6 +13133,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12691,7 +13149,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-01-12 04:54:04
-	time_modified: 2025-04-30 21:40:45
+	time_modified: 2025-12-01 16:22:33
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -12718,6 +13176,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12733,7 +13192,7 @@ card:
 		 !hidetag ★
 		!design DrChillbrain
 	time_created: 2021-09-02 21:32:50
-	time_modified: 2025-04-30 21:34:28
+	time_modified: 2025-12-01 16:14:47
 	name: Outlands Prowler
 	casting_cost: 2W
 	image: image367
@@ -12758,6 +13217,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12771,7 +13231,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-01-13 02:50:59
-	time_modified: 2025-04-30 21:40:53
+	time_modified: 2025-12-01 16:22:48
 	name: Pitfall Pincher
 	casting_cost: 1BR
 	image: image368
@@ -12793,6 +13253,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12806,7 +13267,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-07-21 21:54:12
-	time_modified: 2025-04-30 21:34:37
+	time_modified: 2025-12-01 16:14:53
 	name: Plush Collection
 	casting_cost: 2W
 	card_symbol: none
@@ -12831,6 +13292,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12847,7 +13309,7 @@ card:
 		 !hidetag ★
 		!design Splashcat
 	time_created: 2021-07-19 03:23:46
-	time_modified: 2025-04-30 21:41:03
+	time_modified: 2025-12-01 16:22:59
 	name: Poisoned Rose
 	casting_cost: 1BG
 	card_symbol: none
@@ -12878,6 +13340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12893,7 +13356,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2025-04-30 21:34:45
+	time_modified: 2025-12-01 16:15:02
 	name: Practicing Guru
 	casting_cost: 1W
 	card_symbol: none
@@ -12925,6 +13388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12940,7 +13404,7 @@ card:
 		 !hidetag ★
 		!design Splashcat
 	time_created: 2021-07-19 03:34:03
-	time_modified: 2025-04-30 21:41:11
+	time_modified: 2025-12-01 16:23:04
 	name: Prolific Fisher
 	casting_cost: 1UR
 	image: image372
@@ -12962,6 +13426,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12979,7 +13444,7 @@ card:
 		 !hidetag ★
 		!design FourEyesIsAFish
 	time_created: 2021-01-26 21:14:03
-	time_modified: 2025-04-30 21:38:27
+	time_modified: 2025-12-01 16:18:38
 	name: Psych Up
 	casting_cost: RR
 	image: image373
@@ -13003,6 +13468,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13021,7 +13487,7 @@ card:
 		!design DracoFreezeFlame
 		 !hidetag ★
 	time_created: 2021-05-09 17:23:34
-	time_modified: 2025-04-30 21:36:53
+	time_modified: 2025-12-01 16:17:14
 	name: Shadow Sky
 	casting_cost: 4BB
 	transformation: custom symbol four
@@ -13048,6 +13514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -13067,7 +13534,7 @@ card:
 		 !hidetag ★
 		!num 1069
 	time_created: 2021-05-06 23:42:31
-	time_modified: 2025-04-30 21:35:36
+	time_modified: 2025-12-01 16:15:48
 	card_color_2: blue
 	name: Splashing Mudskipper
 	name_2: Surging Mudskipper
@@ -13118,6 +13585,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13135,7 +13603,7 @@ card:
 		!design Logan & Cajun
 		 !hidetag ★
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2025-04-30 21:34:55
+	time_modified: 2025-12-01 16:15:07
 	name: Spore Collector
 	casting_cost: 1W
 	image: image377
@@ -13157,6 +13625,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -13174,7 +13643,7 @@ card:
 		 !hidetag ★
 		!num 1232
 	time_created: 2021-09-05 06:05:16
-	time_modified: 2025-04-30 19:09:46
+	time_modified: 2025-12-01 16:23:53
 	extra_data:
 		magic-m15-mainframe-dfc:
 			vorthos_box: He/him
@@ -13237,6 +13706,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -13252,7 +13722,7 @@ card:
 		 !hidetag ★
 		!design FourEyesIsAFish
 	time_created: 2021-07-21 19:29:05
-	time_modified: 2025-04-30 21:42:03
+	time_modified: 2025-12-01 16:24:13
 	name: Talon Triplets
 	casting_cost: 1RG
 	image: image380
@@ -13277,6 +13747,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13292,7 +13763,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-05-09 17:22:53
-	time_modified: 2025-04-30 21:42:12
+	time_modified: 2025-12-01 16:24:20
 	name: Teetering Panda
 	casting_cost: URW
 	image: image381
@@ -13317,6 +13788,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13334,7 +13806,7 @@ card:
 		Latias
 		 !hidetag ★
 	time_created: 2021-05-07 16:59:52
-	time_modified: 2025-04-30 21:38:41
+	time_modified: 2025-12-01 16:19:06
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -13361,6 +13833,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13379,7 +13852,7 @@ card:
 		 !hidetag ★
 		!design DrChillbrain & Cajun
 	time_created: 2021-01-17 06:35:33
-	time_modified: 2025-04-30 21:42:23
+	time_modified: 2025-12-01 16:24:37
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -13409,6 +13882,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13426,7 +13900,7 @@ card:
 		Latios 
 		 !hidetag ★
 	time_created: 2021-05-07 16:59:52
-	time_modified: 2025-04-30 21:35:58
+	time_modified: 2025-12-01 16:16:10
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -13453,6 +13927,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -13466,7 +13941,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-05-07 13:10:50
-	time_modified: 2025-04-30 21:42:34
+	time_modified: 2025-12-01 16:24:50
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -13494,6 +13969,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -13509,7 +13985,7 @@ card:
 		Chinchou 
 		 !hidetag ★
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2025-04-30 21:37:10
+	time_modified: 2025-12-01 16:17:37
 	name: Waterway Distraction
 	casting_cost: B
 	image: image386
@@ -13533,6 +14009,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -13546,7 +14023,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-01-23 04:23:57
-	time_modified: 2025-04-30 21:36:07
+	time_modified: 2025-12-01 16:16:21
 	name: Wrecking Whale
 	casting_cost: 6UU
 	image: image387
@@ -13571,6 +14048,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -13589,7 +14067,7 @@ card:
 		!num 1241
 		 !hidetag ★
 	time_created: 2021-08-15 14:18:19
-	time_modified: 2025-04-30 19:32:28
+	time_modified: 2025-12-01 16:25:13
 	card_color_2: blue, red, multicolor, horizontal
 	name: Iviana’s Spellmaw
 	name_2: Iviana’s Splitmaw
@@ -13643,6 +14121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13660,7 +14139,7 @@ card:
 		bluekomadori
 		!hidetag ★
 	time_created: 2017-11-13 00:55:15
-	time_modified: 2025-05-01 00:37:36
+	time_modified: 2025-12-01 16:20:32
 	name: A Journey Begins
 	casting_cost: G
 	image: image390
@@ -13679,6 +14158,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -13693,8 +14173,9 @@ card:
 	notes:
 		!surface beater Medium Surface Shiftry
 		 !hidetag ★
+		!update
 	time_created: 2021-07-21 17:55:51
-	time_modified: 2025-04-30 21:39:49
+	time_modified: 2025-12-01 16:21:16
 	name: Rejuvenating Kappa
 	casting_cost: 3G
 	image: image391
@@ -13712,12 +14193,13 @@ card:
 	toughness: 3
 	illustrator: MeAreLegend
 	custom_card_number: 1181
-	card_code_text: Shiny Hunted by TBA
+	card_code_text: Shiny Hunted by Viola
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13731,7 +14213,7 @@ card:
 		overlay: 
 	notes: !hidetag ★
 	time_created: 2021-07-22 01:14:38
-	time_modified: 2025-04-30 21:41:52
+	time_modified: 2025-12-01 16:24:04
 	name: Suncaller Tortoise
 	casting_cost: 1RWB
 	image: image392
@@ -13755,22 +14237,24 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !noexport
 	time_created: 2025-04-30 21:31:09
-	time_modified: 2025-04-30 21:31:29
+	time_modified: 2025-11-10 21:28:16
 	name: Sanaito, vv
 	casting_cost: 2WB
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	rule_text: i don’t even know what happened here man
+	rule_text: i don’t even know what happened here man but it’ll mess up the numbers if i remove it
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -13784,9 +14268,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		Skitty !combo !rev !promo !design Cajun
+		Skitty !combo !rev !promo Weft Terminal
+		 !design Cajun
 		https://www.pixiv.net/en/artworks/84169822
-		!change can only activate as a sorcery
+		!fateful
 	time_created: 2021-01-26 21:14:03
 	time_modified: 2025-05-31 16:24:57
 	name: Calamity Cat
@@ -13813,6 +14298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -13820,11 +14306,10 @@ card:
 	styling_data:
 		promo: yes
 	notes:
-		CCR !promo
+		CCR !fateful !promo Twiltrie Decree
 		!design Cajun
-		Decree
 	time_created: 2025-08-25 22:03:10
-	time_modified: 2025-09-04 17:20:57
+	time_modified: 2025-11-29 00:45:47
 	name: Harvest Time
 	casting_cost: G
 	image: image394
@@ -13842,10 +14327,105 @@ card:
 		<kw-A><nospellcheck><key>Surface <param-cost><sym>G</sym></param-cost></key></nospellcheck> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto><atom-reminder-custom> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ognjen Sporin
-	partition_select: after main set Q
+	partition_select: after normal, main set C
 	card_code_text: Decree Signed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0, 0, 375, 100,
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion;Kitsuo Mythmaker
+		!update !secret !design Cajun
+	time_created: 2025-11-19 21:48:46
+	time_modified: 2025-11-29 00:46:31
+	name: Contest Coordinator
+	casting_cost: 1W
+	image: image395
+	image_2: image396
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Performer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: When Contest Coordinator enters, look at the top five cards of your library. You may reveal a Plains card or a nonland card with an activated ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Eviratari
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: borderless art
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion
+		!update !secret !design Cajun
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-29 00:48:33
+	card_color: land, multicolor
+	name: Temple of Origins
+	casting_cost: 
+	image: image398
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Temple of Origins enters tapped unless you control two or fewer other lands.
+		As Temple of Origins enters, choose two colors.
+		<sym-auto>T</sym-auto>: Add one mana of one of the chosen colors.
+		If you would add mana of a color that wasn’t chosen, add <sym-auto>C</sym-auto> instead.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: te-hu
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
 keyword:
 	keyword: 
 	match: Berry toke<atom-param>*s</atom-param>

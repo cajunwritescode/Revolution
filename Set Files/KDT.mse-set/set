@@ -203,6 +203,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -238,6 +239,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -283,6 +285,7 @@ card:
 		Each opponent can’t attack unless the total power of attacking creatures they control is 4 or less.
 		[+1]: <margin:130:0:0>Until end of turn, The Dutiful Wanderer becomes a 3/3 Human Samurai creature with <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>. <i-auto>(She doesn’t lose loyalty while she’s not a planeswalker.)</i-auto></margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile up to one target creature you control and up to one target creature you don’t control, then return the creature you controlled to the battlefield under its owner’s control.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -319,6 +322,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -371,6 +375,7 @@ card:
 		[+1]: <margin:130:0:0>Up to one other target creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Double another target creature’s power until end of turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Return target creature to its owner’s hand.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -399,6 +404,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -433,6 +439,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -466,6 +473,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -501,6 +509,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -536,6 +545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -574,6 +584,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -609,6 +620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -643,6 +655,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -669,6 +682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -715,6 +729,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -749,6 +764,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -782,6 +798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -816,6 +833,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -849,6 +867,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -887,6 +906,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -913,6 +933,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -939,6 +960,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -966,6 +988,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -993,6 +1016,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1019,6 +1043,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1057,6 +1082,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1089,6 +1115,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1114,6 +1141,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1139,6 +1167,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1165,6 +1194,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1197,6 +1227,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1236,6 +1267,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1270,6 +1302,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1310,6 +1343,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1354,6 +1388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1392,6 +1427,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1424,6 +1460,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1459,6 +1496,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1490,6 +1528,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1531,6 +1570,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1566,6 +1606,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1601,6 +1642,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1639,6 +1681,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1677,6 +1720,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1725,6 +1769,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1752,6 +1797,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1784,6 +1830,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1832,6 +1879,7 @@ card:
 		[+1]: <margin:130:0:0>You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, draw a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, target opponent discards a card, sacrifices a nonland permanent, and loses 3 life.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a creature dies, you may exile it from its owner’s graveyard. If you do, until your next end step, you may cast copies of the exiled card.”</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -1873,6 +1921,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1898,6 +1947,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1920,6 +1970,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1946,6 +1997,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1976,6 +2028,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2002,6 +2055,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2041,6 +2095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2073,6 +2128,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2103,6 +2159,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2138,6 +2195,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2173,6 +2231,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2213,6 +2272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2247,6 +2307,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: buffed: Can now hit battles
@@ -2272,6 +2333,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2297,6 +2359,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2324,6 +2387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2351,6 +2415,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2378,6 +2443,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2405,6 +2471,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2432,6 +2499,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2468,6 +2536,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2503,6 +2572,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2529,6 +2599,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2556,6 +2627,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2597,6 +2669,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2638,6 +2711,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2663,6 +2737,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2697,6 +2772,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2731,6 +2807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2758,6 +2835,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2793,6 +2871,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2828,6 +2907,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2863,6 +2943,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: nerfed: Created three tokens.
@@ -2893,6 +2974,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2934,6 +3016,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2968,6 +3051,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3002,6 +3086,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3035,6 +3120,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3067,6 +3153,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3097,6 +3184,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3128,6 +3216,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -3177,6 +3266,7 @@ card:
 		I — Create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 		II — You may discard a card. If you do, exile the top two cards of your library. You may play one of those cards this turn.
 		III — This Saga deals 2 damage to each opponent.
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3219,6 +3309,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3259,6 +3350,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3292,6 +3384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3322,6 +3415,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3353,6 +3447,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3386,6 +3481,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3421,6 +3517,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3453,6 +3550,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3476,6 +3574,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3501,6 +3600,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3537,6 +3637,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3562,6 +3663,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3595,6 +3697,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3628,6 +3731,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3658,6 +3762,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3692,6 +3797,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3726,6 +3832,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3763,6 +3870,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3797,6 +3905,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3831,6 +3940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3858,6 +3968,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3893,6 +4004,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3926,6 +4038,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3962,6 +4075,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4003,6 +4117,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4032,6 +4147,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4055,6 +4171,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4088,6 +4205,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4121,6 +4239,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4155,6 +4274,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4182,6 +4302,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4213,6 +4334,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4245,6 +4367,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4279,6 +4402,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4325,6 +4449,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4351,6 +4476,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4375,6 +4501,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4415,6 +4542,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4447,6 +4575,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4477,6 +4606,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4527,6 +4657,7 @@ card:
 		[+1]: <margin:130:0:0>Draw a card for each different mana value among spells you’ve cast this turn.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Exile target nonland, nontoken permanent with mana value X or less. You create a colorless Saga enchantment token with <kw-0><nospellcheck><key>time loop</key></nospellcheck></kw-0> and  “<sym>r3</sym>— You may cast a copy of the exiled card without paying its mana cost.” <i-auto>(Remove all lore counters after <sym>r3</sym> without sacrificing the Saga.)</i-auto></margin:130:0:0>
 		[-8]: <margin:130:0:0>You take an extra turn after this one, and each opponent takes an extra turn after the last extra turn. You gain control of each opponent during that player’s next turn.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -4552,6 +4683,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4594,6 +4726,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4621,6 +4754,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4656,6 +4790,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4693,6 +4828,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4733,6 +4869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4765,6 +4902,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4803,6 +4941,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4838,6 +4977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4863,6 +5003,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4890,6 +5031,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4925,6 +5067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4965,6 +5108,7 @@ card:
 		I, II — Look at the top six cards of your library. Put up to one nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 		III — Creatures you control gain <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
 		​
+
 card:
 	has_styling: true
 	styling_data:
@@ -4998,6 +5142,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5031,6 +5176,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5065,6 +5211,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5098,6 +5245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5124,6 +5272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5165,6 +5314,7 @@ card:
 		I — Pay any amount of life. Create an X/X black Demon creature token, where X is the amount of life paid.
 		II — You draw a card and you lose 1 life.
 		III — Target creature you control gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
+
 card:
 	has_styling: true
 	styling_data:
@@ -5195,6 +5345,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5235,6 +5386,7 @@ card:
 		I — Create a 1/1 green Spirit creature token.
 		II — Put a +1/+1 counter on target creature you control.
 		III — Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5275,6 +5427,7 @@ card:
 		I — Up to one other target nonland permanent <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>.
 		II — Draw two cards.
 		III — Create a blue enchantment token named Time Bubble with “Spells you cast cost <sym-auto>1</sym-auto> more to cast.”
+
 card:
 	has_styling: false
 	notes: 
@@ -5300,6 +5453,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5325,6 +5479,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5359,6 +5514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5386,6 +5542,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5421,6 +5578,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5452,6 +5610,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5487,6 +5646,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5520,6 +5680,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5550,6 +5711,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5576,6 +5738,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5608,6 +5771,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5641,6 +5805,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5687,6 +5852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5725,6 +5891,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5759,6 +5926,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5798,6 +5966,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5833,6 +6002,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5869,6 +6039,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5897,6 +6068,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5929,6 +6101,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5975,6 +6148,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6016,6 +6190,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6060,6 +6235,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6096,6 +6272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6134,6 +6311,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6170,6 +6348,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6201,6 +6380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6233,6 +6413,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6266,6 +6447,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6299,6 +6481,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6332,6 +6515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6364,6 +6548,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6388,6 +6573,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6412,6 +6598,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6444,6 +6631,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6482,6 +6670,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6508,6 +6697,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6542,6 +6732,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6566,6 +6757,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6596,6 +6788,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6630,6 +6823,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6654,6 +6848,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6680,6 +6875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6713,6 +6909,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6747,6 +6944,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6779,6 +6977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6814,6 +7013,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6839,6 +7039,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6863,6 +7064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6895,6 +7097,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6929,6 +7132,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6960,6 +7164,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6986,6 +7191,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7019,6 +7225,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7052,6 +7259,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7096,6 +7304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -7132,6 +7341,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7158,6 +7368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7191,6 +7402,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7221,6 +7433,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7255,6 +7468,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7279,6 +7493,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: buffed: Can now hit battles.
@@ -7303,6 +7518,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7337,6 +7553,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7378,6 +7595,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7404,6 +7622,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7428,6 +7647,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7462,6 +7682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7495,6 +7716,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7519,6 +7741,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7559,6 +7782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7583,6 +7807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7617,6 +7842,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7649,6 +7875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7675,6 +7902,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7699,6 +7927,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7723,6 +7952,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7747,6 +7977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7777,6 +8008,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7804,6 +8036,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7837,6 +8070,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7861,6 +8095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7894,6 +8129,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7933,6 +8169,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -7972,6 +8209,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -8007,6 +8245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8035,6 +8274,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8068,6 +8308,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8093,6 +8334,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8126,6 +8368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -8165,6 +8408,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8199,6 +8443,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8230,6 +8475,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -8271,6 +8517,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -8315,6 +8562,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8349,6 +8597,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8382,6 +8631,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8409,6 +8659,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8434,6 +8685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8469,6 +8721,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8504,6 +8757,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8539,6 +8793,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8574,6 +8829,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8607,6 +8863,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8640,6 +8897,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8667,6 +8925,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8695,6 +8954,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8727,6 +8987,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8761,6 +9022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8802,6 +9064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8847,6 +9110,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8870,6 +9134,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8908,6 +9173,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8953,6 +9219,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8988,6 +9255,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9029,6 +9297,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9054,6 +9323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9095,6 +9365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9130,6 +9401,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9164,6 +9436,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9200,6 +9473,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9235,6 +9509,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9269,6 +9544,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9295,6 +9571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9321,6 +9598,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9347,6 +9625,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9373,6 +9652,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9405,6 +9685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9429,6 +9710,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9453,6 +9735,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9479,6 +9762,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9503,6 +9787,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9527,6 +9812,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9556,6 +9842,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9584,6 +9871,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9609,6 +9897,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9637,6 +9926,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -9665,6 +9955,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9695,6 +9986,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9736,6 +10028,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9772,6 +10065,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9803,6 +10097,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9833,6 +10128,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9863,6 +10159,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9893,6 +10190,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9923,6 +10221,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9953,6 +10252,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9981,6 +10281,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10019,6 +10320,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10055,6 +10357,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10093,6 +10396,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10117,6 +10421,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10157,6 +10462,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10185,6 +10491,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10214,6 +10521,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10252,6 +10560,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10294,6 +10603,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10324,6 +10634,7 @@ card:
 	card_code_text: Story Spotlight
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -10365,6 +10676,7 @@ card:
 		I — <i>“Here, I will make my home, my prison, my rock to which I am forever bound.”</i>
 		II — <i>“If I am to live in this world in perpetuity, it will join me at the dusk of time.”</i>
 		III — You may cast a copy of the exiled card without paying its mana cost.
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10398,6 +10710,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10433,6 +10746,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10466,6 +10780,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10501,6 +10816,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-full-art-basic-land-symbol
 	stylesheet_version: 2023-08-15
@@ -10534,6 +10850,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -10573,6 +10890,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10611,6 +10929,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10648,6 +10967,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10661,7 +10981,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		KDT!promo 
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-03-15 23:22:35
 	time_modified: 2025-05-31 16:15:53
@@ -10701,6 +11021,7 @@ card:
 		Each opponent can’t attack unless the total power of attacking creatures they control is 4 or less.
 		[+1]: <margin:130:0:0>Until end of turn, The Dutiful Wanderer becomes a 3/3 Human Samurai creature with <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile up to one target creature you control and up to one target creature you don’t control, then return the creature you controlled to the battlefield under its owner’s control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10717,9 +11038,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		KDT
-		 !promo
-		
+		!promo Kitsuo Mythmaker
 		!design Provocative
 		!append  ({3}, Discard this card: Search your library for an Ayeshi card, reveal it, put it into your hand, then shuffle.)
 	time_created: 2025-03-16 11:01:30
@@ -10750,6 +11069,7 @@ card:
 	card_code_text: Mythmaker Found by tomasmtg
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10767,8 +11087,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 		!inpend Ninjutsu [{]1[}][{]U[}]/add/ ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 	time_created: 2024-12-21 00:11:05
@@ -10801,6 +11120,7 @@ card:
 	card_code_text: Kitsuo Mythmaker
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10817,8 +11137,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2024-12-22 14:13:26
 	time_modified: 2025-08-31 20:34:55
@@ -10853,6 +11172,7 @@ card:
 	card_code_text: Kitsuo Mythmaker
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10869,8 +11189,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2024-12-28 22:34:39
 	time_modified: 2025-08-31 20:35:06
@@ -10906,6 +11225,7 @@ card:
 	card_code_text: Kitsuo Mythmaker
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10924,8 +11244,7 @@ card:
 		use_flash_dot: no
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2024-12-21 00:31:04
 	time_modified: 2025-05-31 16:14:56
@@ -10958,6 +11277,7 @@ card:
 	card_code_text: Mythmaker Found by CovetedPeacock
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10975,8 +11295,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2024-12-22 23:24:21
 	time_modified: 2025-05-31 16:15:26
@@ -11006,6 +11325,7 @@ card:
 	card_code_text: Mythmaker Found by AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11023,8 +11343,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 		!append  ({G}{U}, Return an unblocked attacker you control to hand: Put that card onto the battlefield from your hand tapped and attacking.)
 	time_created: 2025-03-16 12:58:28
@@ -11060,6 +11379,7 @@ card:
 	card_code_text: Kitsuo Mythmaker
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11072,8 +11392,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-03-15 23:02:01
 	time_modified: 2025-08-31 22:59:11
@@ -11111,6 +11430,7 @@ card:
 		[+1]: <margin:130:0:0>Draw a card for each different mana value among spells you’ve cast this turn.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Exile target nonland, nontoken permanent with mana value X or less. You create a colorless Saga enchantment token with <kw-0><nospellcheck><key>time loop</key></nospellcheck></kw-0> and “<sym>r3</sym>— You may cast a copy of the exiled card without paying its mana cost.” <i-auto>(Remove all lore counters after <sym>r3</sym> without sacrificing the Saga.)</i-auto></margin:130:0:0>
 		[-8]: <margin:130:0:0>You take an extra turn after this one, and each opponent takes an extra turn after the last extra turn. You gain control of each opponent during that player’s next turn.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11124,8 +11444,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-03-15 23:49:14
 	time_modified: 2025-08-31 20:36:20
@@ -11167,6 +11486,7 @@ card:
 		[+1]: <margin:130:0:0>You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, draw a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may discard a card, sacrifice another nonland permanent, or pay 3 life. If you do, target opponent discards a card, sacrifices a nonland permanent, and loses 3 life.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a creature dies, you may exile it from its owner’s graveyard. If you do, until your next end step, you may cast copies of the exiled card.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11184,8 +11504,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo 
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-03-16 19:43:20
 	time_modified: 2025-05-31 16:09:58
@@ -11220,6 +11539,7 @@ card:
 	card_code_text: Mythmaker Found by Lih
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11237,8 +11557,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-01-24 14:32:04
 	time_modified: 2025-05-31 16:14:25
@@ -11274,6 +11593,7 @@ card:
 	card_code_text: Mythmaker Found by CovetedPeacock
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11291,8 +11611,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2024-12-28 13:07:39
 	time_modified: 2025-05-31 16:15:05
@@ -11324,6 +11643,7 @@ card:
 	card_code_text: Mythmaker Found by tomasmtg
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11337,8 +11657,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO KDT
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 		!inpend Ninjutsu [{]1[}][{]G[}][{]U[}]/add/ ({1}{G}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 	time_created: 2025-03-15 21:28:50
@@ -11382,6 +11701,7 @@ card:
 		[+1]: <margin:130:0:0>Up to one other target creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Double another target creature’s power until end of turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Return target creature to its owner’s hand.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11398,8 +11718,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO
-		 !promo 
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2024-12-29 08:54:48
 	time_modified: 2025-07-31 14:31:55
@@ -11430,6 +11749,7 @@ card:
 	card_code_text: Mythmaker Found by AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11446,8 +11766,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-03-16 10:13:55
 	time_modified: 2025-08-31 20:36:02
@@ -11478,6 +11797,7 @@ card:
 	card_code_text: Kitsuo Mythmaker
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11494,8 +11814,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-02-10 19:51:57
 	time_modified: 2025-08-31 20:36:54
@@ -11526,6 +11845,7 @@ card:
 	card_code_text: Mythmaker Found by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11542,8 +11862,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 		!inpend on this enchantment./add/ (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)
 	time_created: 2024-12-29 09:03:56
@@ -11575,6 +11894,7 @@ card:
 	card_code_text: Mythmaker Found by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11591,8 +11911,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2025-03-16 01:41:04
 	time_modified: 2025-08-31 20:37:41
@@ -11623,6 +11942,7 @@ card:
 	card_code_text: Kitsuo Mythmaker
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11640,8 +11960,7 @@ card:
 		promo: yes
 		overlay: 
 	notes:
-		POPOUT PROMO
-		 !promo
+		!promo Kitsuo Mythmaker
 		!design Provocative
 	time_created: 2024-12-22 18:04:09
 	time_modified: 2025-08-31 20:35:17
@@ -11673,6 +11992,7 @@ card:
 	card_code_text: Kitsuo Mythmaker
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11687,8 +12007,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		terminal
-		 !promo
+		!promo Weft Terminal
 		!design Provocative
 		!addtoken PromoHardsuit;1;
 	time_created: 2023-04-04 22:33:37
@@ -11716,6 +12035,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11730,8 +12050,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		terminal
-		!promo 
+		!promo Weft Terminal
 		!design Provocative
 	time_created: 2023-08-06 20:17:09
 	time_modified: 2025-08-31 20:39:34
@@ -11769,6 +12088,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11781,9 +12101,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
-		terminal
-		!promo 
+		!promo Weft Terminal
 		!design Schwa77
 	time_created: 2023-05-25 21:35:06
 	time_modified: 2025-06-29 23:56:09
@@ -11812,6 +12130,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -11823,8 +12142,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		terminal
-		!promo 
+		!promo Weft Terminal
 		!design Zangy
 	time_created: 2023-07-09 14:30:10
 	time_modified: 2025-08-31 20:41:10
@@ -11854,6 +12172,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -11865,8 +12184,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		terminal
-		!promo 
+		!promo Weft Terminal
 		!design Provocative
 	time_created: 2024-03-06 21:43:34
 	time_modified: 2025-08-31 20:42:15
@@ -11902,6 +12220,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11909,9 +12228,8 @@ card:
 	styling_data:
 		promo: yes
 	notes:
-		KDT  !noexport !promo
+		!noexport !promo Twiltrie Decree
 		!design Provocative
-		Decree
 		!hidetag (Decree)
 	time_created: 2025-08-25 23:00:22
 	time_modified: 2025-08-31 20:43:18
@@ -11938,6 +12256,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -11945,9 +12264,8 @@ card:
 	styling_data:
 		promo: yes
 	notes:
-		KDT !promo<soft-line>
-		!design Provocative
-		Decree</soft-line>
+		!promo Twiltrie Decree<soft-line>
+		!design Provocative</soft-line>
 	time_created: 2025-08-25 17:27:37
 	time_modified: 2025-09-04 17:55:56
 	name: Kitsune Matriarch
@@ -11971,18 +12289,17 @@ card:
 	card_code_text: Decree Signed by CatInTree
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
+	has_styling: false
 	notes:
-		KDT !noexport !promo
+		!update !promo Twiltrie Decree
 		!design Provocative
 		Decree
 	time_created: 2025-08-11 17:54:48
-	time_modified: 2025-08-31 20:43:27
+	time_modified: 2025-12-01 17:04:51
 	name: Omen Skulker
 	casting_cost: B
 	image: image276
@@ -11996,16 +12313,17 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		Whenever you cast a multicolored spell, <atom-cardname><nospellcheck>Omen Skulker</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
-		Whenever <atom-cardname><nospellcheck>Omen Skulker</nospellcheck></atom-cardname> dies, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		Whenever you cast a multicolored spell, this creature deals 1 damage to each opponent and you gain 1 life.
+		When this creature dies, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Ognjen Sporin
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Decree Signed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12045,6 +12363,45 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: true
+	styling_data:
+		popout_art_coordinates: 0, 0, 375, 100,
+		stretch_art_to_whole_card: no
+		border: no
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		!promo Eternal Excursion;Kitsuo Mythmaker
+		!update !secret
+	time_created: 2025-11-24 10:23:20
+	time_modified: 2025-11-29 01:04:18
+	name: Forest
+	image: image278
+	image_2: 
+	mainframe_image: image279
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sarah Janssen
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
 keyword:
 	keyword: Revered
 	match: Revered

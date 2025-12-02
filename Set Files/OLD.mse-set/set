@@ -24,6 +24,8 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
+	magic-m15-art-lair:
+		remove_from_autocount: no
 	magic-m15-clear-color:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -46,6 +48,10 @@ styling:
 	magic-m15-paradox:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-showcase-capenna-golden-age:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-showcase-kaldheim:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -394,8 +400,8 @@ card:
 	rule_text: Target creature you control gets +2/+0 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn. If it’s attacking, create a 1/1 white Human creature token that’s tapped and attacking.
 	flavor_text: <i-flavor>Downward momentum is key to raiding.</i-flavor>
 	illustrator: SIXMOREVODKA
-	custom_card_number: Scribbl
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
 	copyright: 
@@ -423,8 +429,8 @@ card:
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>6R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: David Ceballos
-	custom_card_number: Scribbl
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
 	copyright: 
@@ -488,8 +494,8 @@ card:
 	power: 2
 	toughness: 3
 	illustrator: Efflam Mercier
-	custom_card_number: Scribbl
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
 	copyright: 
@@ -697,8 +703,8 @@ card:
 	power: 2
 	toughness: 2
 	illustrator: Douglas Deri
-	custom_card_number: Scribbl
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
 	copyright: 
@@ -760,8 +766,8 @@ card:
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Christina P. Myrvold
-	custom_card_number: Scribbl
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
 	copyright: 
@@ -786,8 +792,8 @@ card:
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Cradle of Rebirth</nospellcheck></atom-cardname>: Copy target spell you control which had its flashback cost paid. You may choose new targets for the copy.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Hongyi Chen
-	custom_card_number: Scribbl
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
 	copyright: 
@@ -814,8 +820,8 @@ card:
 	power: 2
 	toughness: 3
 	illustrator: Chris Dien
-	custom_card_number: InfinityChef
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: InfinityChef
 	card_code_text_2: InfinityChef
 	card_code_text_3: InfinityChef
 	copyright: 
@@ -893,8 +899,8 @@ card:
 		Enchanted creature gets +3/+3.
 	flavor_text: <i-flavor>Yetis hunt mountain birds, though sometimes they grab more than just birds in their claws.</i-flavor>
 	illustrator: SixMoreVodka
-	custom_card_number: InfinityChef
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: InfinityChef
 	card_code_text_2: InfinityChef
 	card_code_text_3: InfinityChef
 	copyright: 
@@ -959,8 +965,8 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: Stuart Kim
-	custom_card_number: InfinityChef
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: InfinityChef
 	card_code_text_2: InfinityChef
 	card_code_text_3: InfinityChef
 	copyright: 
@@ -988,8 +994,8 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: Jake Ortman
-	custom_card_number: InfinityChef
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: InfinityChef
 	card_code_text_2: InfinityChef
 	card_code_text_3: InfinityChef
 	copyright: 
@@ -1018,8 +1024,8 @@ card:
 	power: 1
 	toughness: 3
 	illustrator: PainDude _
-	custom_card_number: InfinityChef
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: InfinityChef
 	card_code_text_2: InfinityChef
 	card_code_text_3: InfinityChef
 	copyright: 
@@ -1085,8 +1091,8 @@ card:
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Once a molehill, now a mountain.</i-flavor>
 	illustrator: Calder Moore
-	custom_card_number: InfinityChef
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: InfinityChef
 	card_code_text_2: InfinityChef
 	card_code_text_3: InfinityChef
 	copyright: 
@@ -1295,8 +1301,8 @@ card:
 		<i-flavor>“I can’t explain it, but it almost feels like the giants are being </i>forced<i> to destroy against their will.”<soft-line>
 		—<error-spelling:en_US>Tiv</error-spelling:en_US> <error-spelling:en_US>Kadar</error-spelling:en_US>, <error-spelling:en_US>Alrantan</error-spelling:en_US> archaeologist</soft-line></i-flavor>
 	illustrator: MorkarDFC
-	custom_card_number: Espithel
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Espithel
 	card_code_text_2: Espithel
 	card_code_text_3: Espithel
 	copyright: 
@@ -1478,8 +1484,8 @@ card:
 	power: 3
 	toughness: 2
 	illustrator: Tyler James
-	custom_card_number: Bergland
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Bergland
 	card_code_text_2: Bergland
 	card_code_text_3: Bergland
 	copyright: 
@@ -1506,8 +1512,8 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Silvia Pasqualetto
-	custom_card_number: Bergland
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Bergland
 	card_code_text_2: Bergland
 	card_code_text_3: Bergland
 	copyright: 
@@ -1532,8 +1538,8 @@ card:
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>“How can we ever expect to understand a people who wielded tools the size of mountains?”</i-flavor>
 	illustrator: Sandra Duchiewicz
-	custom_card_number: Bergland
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Bergland
 	card_code_text_2: Bergland
 	card_code_text_3: Bergland
 	copyright: 
@@ -1558,8 +1564,8 @@ card:
 		Enchanted permanent can’t attack, block, or wander.
 	flavor_text: <i-flavor>If there is safety in numbers, how dangerous is solitude?</i-flavor>
 	illustrator: Daria Rashev
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: 
@@ -1625,8 +1631,8 @@ card:
 	power: 2
 	toughness: 1
 	illustrator: Kutty-Sark
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: 
@@ -1692,8 +1698,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Asahisuperdry
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: 
@@ -1719,8 +1725,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Manweri
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: 
@@ -1744,8 +1750,8 @@ card:
 	rule_text: Exile target creature you control, then return that card to the battlefield under your control with an additional +1/+1 counter on it.
 	flavor_text: <i-flavor>Sometimes the safest place to be is nowhere at all.</i-flavor>
 	illustrator: Stevegoad
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: Squidpizza
@@ -1774,8 +1780,8 @@ card:
 	power: *
 	toughness: *
 	illustrator: JJ Peabody
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: 
@@ -1801,8 +1807,8 @@ card:
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>3WW</sym-auto>, Tap X untapped creatures you control</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tacosauceninja
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: 
@@ -1829,8 +1835,8 @@ card:
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jocelin Carmes
-	custom_card_number: Squidpizza
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Squidpizza
 	card_code_text_2: Squidpizza
 	card_code_text_3: Squidpizza
 	copyright: 
@@ -2798,8 +2804,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Naomi Sevoie
-	custom_card_number: Reuben
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Reuben
 	card_code_text_2: Reuben
 	card_code_text_3: Reuben
 	copyright: 
@@ -2992,8 +2998,8 @@ card:
 		<i-flavor>“...If these carvings are correct, it sounds like the Elders </i>wanted<i> to be wiped out.”<soft-line>
 		—<error-spelling:en_US>Narzi</error-spelling:en_US>, hero of the <error-spelling:en_US>Mokar</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Kalen Chock
-	custom_card_number: Story Spotlight
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Story Spotlight
 	card_code_text_2: Story Spotlight
 	card_code_text_3: Story Spotlight
 	copyright: 
@@ -4516,8 +4522,8 @@ card:
 		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Timeworn Crags</nospellcheck></atom-cardname>: Destroy target nonbasic land. This ability costs <sym-auto>1</sym-auto> less to activate for each nonbasic land you don’t control.
 	flavor_text: <i-flavor>Time and magic erode so much more quickly than water.</i-flavor>
 	illustrator: Tiago Sousa
-	custom_card_number: Pipsqueak
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
 	copyright: 
@@ -5784,8 +5790,8 @@ card:
 		<i-flavor>“To my darling <error-spelling:en_US>Nerul</error-spelling:en_US>, I leave you a memory, a melody, and a message.”<soft-line>
 		—<error-spelling:en_US>Alrantan</error-spelling:en_US> statue inscription</soft-line></i-flavor>
 	illustrator: Dominusef
-	custom_card_number: Story Spotlight
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Story Spotlight
 	card_code_text_2: Story Spotlight
 	card_code_text_3: Story Spotlight
 	copyright: 
@@ -6025,8 +6031,8 @@ card:
 	rule_text: Target player reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. You lose 1 life.
 	flavor_text: <i-flavor>Long ago, the Elders convinced <error-spelling:en_US>Thoveus</error-spelling:en_US> to end their consciousness and finally put their grieving, guilty hearts to rest.</i-flavor>
 	illustrator: Baitan 柏坦
-	custom_card_number: Story Spotlight
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Story Spotlight
 	card_code_text_2: Story Spotlight
 	card_code_text_3: Story Spotlight
 	copyright: 
@@ -7504,8 +7510,8 @@ card:
 	rule_text: Exile all artifacts, creatures, and enchantments. Each player’s life total becomes equal to their starting life total.
 	flavor_text: <i-flavor>With a single spell, Cassia cleansed the battlefield and gave the Elders the peace they’d craved for so long.</i-flavor>
 	illustrator: Marco Gonzalez
-	custom_card_number: Story Spotlight
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Story Spotlight
 	card_code_text_2: Story Spotlight
 	card_code_text_3: Story Spotlight
 	copyright: 
@@ -8191,7 +8197,7 @@ card:
 
 card:
 	has_styling: false
-	notes: buffed: Was {2}{U}
+	notes: 
 	time_created: 2022-05-22 22:52:19
 	time_modified: 2025-02-28 18:21:54
 	name: Recurring Visions
@@ -8235,8 +8241,8 @@ card:
 		<i-flavor>“No, I will not help you free the ancients. And to the question you’re about to ask—not even if it saves your people.”<soft-line>
 		—<error-spelling:en_US>Thoveus</soft-line></i-flavor></error-spelling:en_US>
 	illustrator: Matt Forsyth
-	custom_card_number: Story Spotlight
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Story Spotlight
 	card_code_text_2: Story Spotlight
 	card_code_text_3: Story Spotlight
 	copyright: 
@@ -8576,8 +8582,8 @@ card:
 	power: 10
 	toughness: 10
 	illustrator: Cygames, Inc
-	custom_card_number: Timespiraled
-	card_code_text: 
+	custom_card_number: 
+	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
 	copyright: 
@@ -9094,15 +9100,15 @@ card:
 	has_styling: true
 	styling_data:
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
+		!promo Oldun Vision
 		!design Dodger
 	time_created: 2023-12-22 15:45:45
-	time_modified: 2024-01-31 16:03:33
+	time_modified: 2025-11-28 23:46:36
 	name: Renowned Roughrider
 	casting_cost: 1WW
 	image: image282
@@ -9119,7 +9125,8 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: 周亮
-	custom_card_number: 284
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Vision Received by HSquid
 	card_code_text_2: Vision Received by HSquid
 	card_code_text_3: Vision Received by HSquid
@@ -9133,15 +9140,15 @@ card:
 	has_styling: true
 	styling_data:
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
+		!promo Oldun Vision
 		!design Dodger
 	time_created: 2023-12-22 15:48:00
-	time_modified: 2024-01-31 16:03:41
+	time_modified: 2025-11-28 23:48:05
 	name: Audacious Roughrider
 	casting_cost: 1RR
 	image: image290
@@ -9158,7 +9165,8 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Ma Ke
-	custom_card_number: 287
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Vision Received by ndb
 	card_code_text_2: Vision Received by ndb
 	card_code_text_3: Vision Received by ndb
@@ -9172,15 +9180,15 @@ card:
 	has_styling: true
 	styling_data:
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
+		!promo Oldun Vision
 		!design Dodger
 	time_created: 2023-12-22 16:04:12
-	time_modified: 2024-01-31 16:03:50
+	time_modified: 2025-11-28 23:48:28
 	name: Hearty Roughrider
 	casting_cost: 1GG
 	image: image292
@@ -9197,7 +9205,8 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Atomhawk Design
-	custom_card_number: 288
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Vision Received by HSquid
 	card_code_text_2: Vision Received by HSquid
 	card_code_text_3: Vision Received by HSquid
@@ -9213,15 +9222,15 @@ card:
 		chop_top: 3
 		chop_bottom: 3
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Dodger
-		!promo
+		!promo Oldun Vision
 	time_created: 2023-12-22 16:29:05
-	time_modified: 2024-05-29 17:42:28
+	time_modified: 2025-11-28 23:49:51
 	name: Thunderous Avalanche
 	casting_cost: 2G
 	image: image301
@@ -9237,7 +9246,8 @@ card:
 		</li><li><bullet>• </bullet>Destroy each artifact or enchantment with mana value less than or equal to the power of target creature you control.</li>
 	flavor_text: <i-flavor>“My career’s blowing up! Along with their eardrums.”</i-flavor>
 	illustrator: Cerveceria Tres Locos
-	custom_card_number: 289
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Vision Received by ndb
 	card_code_text_2: Vision Received by ndb
 	card_code_text_3: Vision Received by ndb
@@ -9251,10 +9261,9 @@ card:
 	has_styling: false
 	notes:
 		!design Dodger
-		!promo
-		!num 283
+		!promo Oldun Vision
 	time_created: 2023-12-22 16:51:13
-	time_modified: 2024-01-31 16:00:52
+	time_modified: 2025-11-29 00:00:53
 	name: Firebolt
 	casting_cost: R
 	card_symbol: tombstone
@@ -9264,13 +9273,17 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
 		<atom-cardname><nospellcheck>Firebolt</nospellcheck></atom-cardname> deals 2 damage to any target.
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>4R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Illus. Matt Gaser
-	card_code_text: 
+	partition_select: after main set N
+	card_code_text: Oldun Vision
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Vision Received by ndb 
@@ -9283,15 +9296,15 @@ card:
 	has_styling: true
 	styling_data:
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
+		!promo Oldun Vision
 		!design Dodger
 	time_created: 2023-12-22 16:07:00
-	time_modified: 2024-04-29 20:50:13
+	time_modified: 2025-11-28 23:47:05
 	name: Opulent Roughrider
 	casting_cost: 1UU
 	image: image303
@@ -9308,7 +9321,8 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Tomasz Chistowski
-	custom_card_number: 285
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Oldun Vision
 	card_code_text_2: Oldun Vision
 	card_code_text_3: Oldun Vision
@@ -9322,15 +9336,15 @@ card:
 	has_styling: true
 	styling_data:
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!promo
+		!promo Oldun Vision
 		!design Dodger
 	time_created: 2023-12-22 15:40:13
-	time_modified: 2024-04-29 20:50:07
+	time_modified: 2025-11-28 23:47:38
 	name: Barbarous Roughrider
 	casting_cost: 1BB
 	image: image304
@@ -9347,7 +9361,8 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Jaron Zheng
-	custom_card_number: 286
+	partition_select: after main set O
+	custom_card_number: 
 	card_code_text: Oldun Vision
 	card_code_text_2: Oldun Vision
 	card_code_text_3: Oldun Vision
@@ -9361,15 +9376,16 @@ card:
 	has_styling: true
 	styling_data:
 		frames: borderless art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!design Dodger
-		!promo
+		!promo Oldun Vision
+		!update
 	time_created: 2023-12-22 16:20:17
-	time_modified: 2024-04-29 20:50:01
+	time_modified: 2025-11-28 23:49:40
 	name: Swelling Terror
 	casting_cost: XU
 	image: image306
@@ -9382,7 +9398,8 @@ card:
 	rule_text: Counter target spell unless its controller pays <sym-auto>X</sym-auto>. If they do, create an X/X blue and black Fish creature token.
 	flavor_text: <i-flavor><error-spelling:en_US>Thassa</error-spelling:en_US> always had ways of making her displeasure known to mortals.</i-flavor>
 	illustrator: Justin Gerard
-	custom_card_number: 290
+	partition_select: after main set P
+	custom_card_number: 
 	card_code_text: Oldun Vision
 	card_code_text_2: Oldun Vision
 	card_code_text_3: Oldun Vision
@@ -9395,11 +9412,10 @@ card:
 	stylesheet_version: 2024-05-29
 	has_styling: false
 	notes:
-		!num 292
 		!design Dodger
-		!promo
+		!promo Oldun Vision
 	time_created: 2023-12-22 16:44:00
-	time_modified: 2024-04-29 20:49:54
+	time_modified: 2025-11-28 23:51:35
 	name: Final Fate
 	casting_cost: 1B
 	card_symbol: tombstone
@@ -9409,13 +9425,17 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
 		Destroy target creature if its mana value is less than or equal to the amount of mana spent to cast this spell.
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>XBBB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Illus. Pandet Bootkyo
-	card_code_text: 
+	partition_select: after main set P
+	card_code_text: Oldun Vision
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Oldun Vision 
@@ -9427,11 +9447,11 @@ card:
 	stylesheet_version: 2024-05-29
 	has_styling: false
 	notes:
-		!num 291
-		!promo
+		!promo Oldun Vision
 		!design Dodger
+		!update
 	time_created: 2023-12-22 16:49:33
-	time_modified: 2024-04-29 20:49:46
+	time_modified: 2025-11-28 23:51:47
 	name: Elder Eras
 	casting_cost: 3UU
 	card_symbol: tombstone
@@ -9441,6 +9461,9 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>, then draw three cards.
@@ -9448,7 +9471,8 @@ card:
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>7UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Illus. Federico Musetti
-	card_code_text: 
+	partition_select: after main set P
+	card_code_text: Oldun Vision
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Oldun Vision
@@ -9462,17 +9486,17 @@ card:
 	styling_data:
 		chop_top: 4
 		chop_bottom: 4
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
 	notes:
-		!foil !promo !num 293
+		!promo Chikyu Foil
 		!design Dodger
 		https://revilonilmah.tumblr.com/post/718691756510707712/walking-through-a-pokemon-museum-in-real-life
 	time_created: 2021-12-16 14:39:54
-	time_modified: 2025-01-31 18:55:39
+	time_modified: 2025-11-28 23:57:13
 	name: Chronicle of Extinction
 	casting_cost: 2BB
 	image: image180
@@ -9490,7 +9514,8 @@ card:
 		<margin:0:0:5></li><kw-0><nospellcheck><key>Flashback <param-cost><sym-auto>7BB</sym-auto></param-cost></key></nospellcheck></kw-0></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: revilonilmah
-	custom_card_number: 293
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Foil Opened by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9503,17 +9528,17 @@ card:
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
 	notes:
-		!foil
-		
-		!promo !design Dodger
+		!promo Chikyu Foil
+		!update
+		!design Dodger
 	time_created: 2021-12-17 20:20:32
-	time_modified: 2025-02-28 20:42:06
+	time_modified: 2025-11-28 23:57:25
 	name: Raboorah’s Appetite
 	casting_cost: 2UB
 	image: image253
@@ -9526,7 +9551,8 @@ card:
 	rule_text: Counter target spell. Create an X/X blue and black Fish creature token, where X is the total number of permanents with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> you control and the number of instant cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: uroko (rwde4544)
-	custom_card_number: 294
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Foil Opened by HSquid
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9541,17 +9567,19 @@ card:
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
 	notes:
 		https://www.deviantart.com/ravenoath/art/snow-warning-542430431
-		!foil !promo !design Dodger
+		!promo Chikyu Foil
+		!update
+		!design Dodger
 		!replacetoken Abomasnow;1
 	time_created: 2022-05-09 18:34:23
-	time_modified: 2025-03-31 11:40:38
+	time_modified: 2025-11-28 23:57:20
 	name: Abominable Avalanche
 	casting_cost: 1RG
 	image: image278
@@ -9571,7 +9599,8 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	illustrator: ravenoath
-	custom_card_number: 295
+	partition_select: after main set Q
+	custom_card_number: 
 	card_code_text: Foil Opened by PTM
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9624,7 +9653,7 @@ card:
 		frames: borderless art, frameless art, inverted
 		popout_image_style: 0, 0, 375, 380,
 		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, popunder art
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -9632,7 +9661,7 @@ card:
 		OLD !promo
 		 !design Dodger
 	time_created: 2025-04-14 17:38:04
-	time_modified: 2025-06-29 23:59:21
+	time_modified: 2025-11-28 23:59:50
 	name: Igneous Visions
 	casting_cost: R
 	image: image309
@@ -9653,7 +9682,8 @@ card:
 		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Asur Misoa
-	custom_card_number: 296
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: Mythmaker Found by Lihlosaur
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9668,7 +9698,7 @@ card:
 		frames: custom border
 		custom_border_source: stones.png
 		popout_image_style: 0,0,375,523,
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -9676,7 +9706,7 @@ card:
 		!promo terminal
 		!design InfinityChef
 	time_created: 2021-07-01 21:10:27
-	time_modified: 2025-05-31 16:41:47
+	time_modified: 2025-11-29 00:00:29
 	name: Summoning Swords
 	casting_cost: XGG
 	image: image311
@@ -9694,7 +9724,8 @@ card:
 	power: 7
 	toughness: 7
 	illustrator: Haryarti
-	custom_card_number: 297
+	partition_select: after main set R
+	custom_card_number: 
 	card_code_text: Terminal Recovered by SilverParabellum
 	card_code_text_2: InfinityChef
 	card_code_text_3: InfinityChef
@@ -9707,14 +9738,13 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: true
 	styling_data:
-		remove_from_autocount: yes
+		remove_from_autocount: no
 		promo: yes
 	notes:
-		OLD !noexport !promo
+		!noexport !promo Twiltree Decree
 		!design Dodger
-		Decree
 	time_created: 2025-08-25 20:57:30
-	time_modified: 2025-08-31 20:03:46
+	time_modified: 2025-11-28 23:59:00
 	name: Writheling
 	casting_cost: B
 	image: image312
@@ -9734,7 +9764,8 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Ognjen Sporin
-	custom_card_number: 298
+	partition_select: after main set S
+	custom_card_number: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9744,11 +9775,10 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: false
 	notes:
-		OLD !update !promo
+		!promo Twiltree Decree
 		!design Dodger
-		Decree
 	time_created: 2025-08-25 23:18:56
-	time_modified: 2025-09-30 22:19:39
+	time_modified: 2025-11-28 23:59:24
 	name: Glacier Guardian
 	casting_cost: 8GG
 	image: image3.png
@@ -9769,8 +9799,189 @@ card:
 	power: 6
 	toughness: 6
 	illustrator: Art of Li
-	custom_card_number: 299
+	partition_select: after main set S
+	custom_card_number: 
 	card_code_text: Decree Signed by Lih
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: borderless art
+		other_options: auto nyx crowns
+		alt_rarity_color: uncommon
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion
+		!update !secret !design Dodger
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-29 00:02:47
+	name: Whitecliff Pilgrim
+	casting_cost: 1U
+	image: image313
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Whenever a creature entering the battlefield under your control causes an ability of a permanent you control to trigger, draw a card. This ability triggers only once each turn.
+	flavor_text: <i-flavor>“Five days to <error-spelling:en_US>Nisiku</error-spelling:en_US>, then a dozen more before we see <error-spelling:en_US>Seqineq</error-spelling:en_US> rise above the monastery—home.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Andreia Ugrai
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: borderless art
+		other_options: auto nyx crowns
+		alt_rarity_color: common
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion
+		!update !secret !design Dodger
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-29 00:02:51
+	name: All That Remains
+	casting_cost: 2B
+	image: image314
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>B</sym-auto>, Discard a card</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: taissia-abdoullina
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: borderless art
+		other_options: auto nyx crowns
+		alt_rarity_color: mythic
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion
+		!update !secret !design Dodger
+		!hidetag (KUT)
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-29 00:03:26
+	name: Audacious Roughrider
+	casting_cost: 1RR
+	image: image315
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When <atom-cardname><nospellcheck>Audacious Roughrider</nospellcheck></atom-cardname> enters or leaves the battlefield, exile the top card of your library. Then you may discard a card. If you do, put the exiled card into your hand. If you don’t, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Wander <param-cost><sym>4RR</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from the battlefield for its wander cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: ertacaltinoz
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: borderless art
+		other_options: auto nyx crowns
+		alt_rarity_color: rare
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!promo Eternal Excursion
+		!update !secret !design Dodger
+		!hidetag (KUT)
+	time_created: 2025-11-28 21:39:56
+	time_modified: 2025-11-29 00:04:23
+	name: Abominable Avalanche
+	casting_cost: 1RG
+	image: image316
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Abominable Avalanche deals 3 damage divided as you choose among one, two, or three targets.
+		At the beginning of your end step, if you’ve spent at least five mana to cast spells this turn, you may exile Abominable Avalanche from your graveyard. If you do, create a 3/3 green Yeti creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: kerem-beyit
+	partition_select: after main set T
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 
