@@ -7485,7 +7485,7 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 16:47:08
 	time_modified: 2025-11-28 20:22:57
 	name: Dawnglade Cultivator
@@ -7519,7 +7519,7 @@ card:
 	has_styling: false
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion;Twiltrie Decree
+		!secret  !promo Eternal Excursion;Twiltrie Decree
 	time_created: 2020-07-01 12:09:35
 	time_modified: 2025-11-28 20:34:42
 	name: Winterholm Hersir
@@ -7553,7 +7553,7 @@ card:
 	has_styling: false
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion;Theros Fate
+		!secret  !promo Eternal Excursion;Theros Fate
 	time_created: 2025-11-19 16:31:44
 	time_modified: 2025-11-28 20:23:45
 	name: Dark Covenant
@@ -7592,7 +7592,7 @@ card:
 		overlay: 
 	notes:
 		!design Emily
-		!secret !update !promo Eternal Excursion;Theros Fate
+		!secret  !promo Eternal Excursion;Theros Fate
 	time_created: 2025-11-19 16:34:03
 	time_modified: 2025-12-01 15:40:24
 	name: Climb to the Peak
@@ -7622,8 +7622,8 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
-		I — Exile the top five cards of your library.
-		II, III, IV — Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
+		Exile the top five cards of your library.
+		Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
 		​
 
 card:
@@ -7640,7 +7640,7 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-28 20:27:28
 	name: Banish to the Ice
@@ -7686,7 +7686,7 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-28 20:28:03
 	name: Mistwreath Stones
@@ -7739,7 +7739,7 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion;Chikyu Foil
+		!secret  !promo Eternal Excursion;Chikyu Foil
 	time_created: 2020-10-24 15:58:10
 	time_modified: 2025-11-28 20:29:16
 	name: Ferocious Flame
@@ -7777,10 +7777,10 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion;Chikyu Foil;Shiny Hunt
+		!update !promo Eternal Excursion;Chikyu Foil;Shiny Hunt
 		!hidetag ★
 	time_created: 2020-10-24 15:58:10
-	time_modified: 2025-11-28 20:34:26
+	time_modified: 2025-12-02 14:12:01
 	name: Ferocious Flame
 	casting_cost: R
 	image: image246
@@ -7793,8 +7793,8 @@ card:
 	rule_text: <atom-cardname><nospellcheck>Ferocious Flame</nospellcheck></atom-cardname> deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: misica
-	custom_card_number: 
-	card_code_text: 1214
+	custom_card_number: 1214
+	card_code_text: Shiny Hunted by Silver Parabellum
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: [Custom] ™&© Wizards of the Coast
@@ -7807,7 +7807,7 @@ card:
 	has_styling: false
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion;Weft Terminal
+		!secret  !promo Eternal Excursion;Weft Terminal
 		!inpend > /replace/
 	time_created: 2020-08-26 20:32:33
 	time_modified: 2025-11-28 20:32:23
@@ -7845,7 +7845,7 @@ card:
 	has_styling: false
 	notes:
 		!design Occo
-		!secret !update !promo Eternal Excursion;Weft Terminal
+		!secret  !promo Eternal Excursion;Weft Terminal
 		!inpend > /replace/
 	time_created: 2019-11-17 19:06:10
 	time_modified: 2025-11-29 03:08:04

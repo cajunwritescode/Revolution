@@ -6370,7 +6370,7 @@ card:
 	notes:
 		Art Validated
 		!renameof Devoted Lackies
-		!update
+
 	time_created: 2023-02-27 20:20:46
 	time_modified: 2025-12-01 16:00:05
 	name: Devoted Lackeys
@@ -8565,9 +8565,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2024-08-23 02:14:49
+	time_modified: 2025-12-03 17:56:58
 	card_color: black
 	name: Serve Again
 	casting_cost: 2B
@@ -8582,7 +8584,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Whenever a nontoken creature you control dies, create a token that’s a copy of it, except it’s a Minion and has <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(It loses all other creature types. It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
+	rule_text: Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that’s a copy of it, except it’s a Minion and has <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(It loses all other creature types. It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
@@ -9765,7 +9767,7 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update nerfed: Now checks if it was cast.
+		 nerfed: Now checks if it was cast.
 	time_created: 2023-02-27 20:38:10
 	time_modified: 2025-12-01 15:51:00
 	card_color: blue, black, red, multicolor, horizontal
@@ -11023,7 +11025,7 @@ card:
 		overlay: 
 	notes:
 		Art Validated
-		!update
+
 	time_created: 2023-02-27 20:49:25
 	time_modified: 2025-11-29 00:39:27
 	name: High Senator Talpa
@@ -11755,7 +11757,7 @@ card:
 	notes:
 		!!exportname CNY Chaneryx, Perfect Lifeform
 		!related Severin's Masterwork;
-		Art Validated !update
+		Art Validated 
 	time_created: 2023-09-16 17:44:46
 	time_modified: 2025-12-01 15:57:20
 	card_color: white, blue, green, multicolor, horizontal
@@ -12936,8 +12938,9 @@ card:
 	notes:
 		!promo Kitsuo Mythmaker
 		!design Stasis
+		!update
 	time_created: 2025-04-11 20:42:07
-	time_modified: 2025-11-29 00:14:33
+	time_modified: 2025-12-03 17:57:33
 	name: Serve Again
 	casting_cost: 2B
 	image: image141
@@ -12953,7 +12956,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: Whenever a nontoken creature you control dies, create a token that’s a copy of it, except it’s a Minion and has <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(It loses all other creature types. It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
+	rule_text: Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that’s a copy of it, except it’s a Minion and has <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(It loses all other creature types. It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anna Astrid
 	partition_select: after main set P
@@ -13113,7 +13116,7 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: false
 	notes:
-		!update !promo Twiltrie Decree
+		 !promo Twiltrie Decree
 		!design Stasis
 	time_created: 2025-08-25 21:50:27
 	time_modified: 2025-11-29 01:26:25
@@ -13219,7 +13222,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Theros Fate
-		!update !secret !design Stasis
+		 !secret !design Stasis
 		!replacetoken FateSoldier;2
 	time_created: 2025-11-19 16:34:03
 	time_modified: 2025-11-29 00:27:02
@@ -13288,7 +13291,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
-		!update !secret !design Stasis
+		 !secret !design Stasis
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-11-29 00:26:58
 	name: Survivors of the New World
@@ -13332,7 +13335,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Vereaux Hero
-		!update !secret !design Stasis
+		 !secret !design Stasis
 	time_created: 2025-11-28 22:13:23
 	time_modified: 2025-11-29 00:31:17
 	name: Aspiring Anarchist
@@ -13393,7 +13396,7 @@ card:
 	notes:
 		Art Validated
 		!promo Eternal Excursion;Vereaux Hero
-		!update !secret !design Stasis
+		 !secret !design Stasis
 		!hidetag (Hero)
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10

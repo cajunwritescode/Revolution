@@ -6206,22 +6206,6 @@ Draw a card.</text>
 			<set num="214" muid="0" picURL="https://lackeybot.com/revolution/front/214/SVG" rarity="special">SVG</set>
 		</card>
 		<card>
-			<name>Ferocious Flame ★_SVG</name>
-			<text>Ferocious Flame deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.</text>
-			<prop>
-				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="1214" muid="0" picURL="https://lackeybot.com/revolution/front/1214/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
 			<name>Mistwreath Stones_PRO_SVG</name>
 			<text>When Mistwreath Stones enters, scry 1.
 {1}, Sacrifice Mistwreath Stones: Scry 1.
@@ -6436,25 +6420,6 @@ Once each turn, you may cast a spell with mana value X from your hand without pa
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="287" muid="0" picURL="https://lackeybot.com/revolution/front/287/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Amethryn Hoarder_PRO_KRS</name>
-			<text>Flying
-When Amethryn Hoarder enters, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)
-Sacrifice three artifacts and/or creatures: Return Amethryn Hoarder from your graveyard to the battlefield tapped.</text>
-			<prop>
-				<side>front</side>
-				<manacost>4BB</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Dragon</type>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="292" muid="0" picURL="https://lackeybot.com/revolution/front/292/KRS" rarity="special">KRS</set>
 		</card>
 		<card>
 			<name>Chromatic Shard_PRO_KRS</name>
@@ -7249,23 +7214,6 @@ At the beginning of your end step, if you've spent at least five mana to cast sp
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="303" muid="0" picURL="https://lackeybot.com/revolution/front/303/OLD" rarity="special">OLD</set>
-		</card>
-		<card>
-			<name>All That Remains_PRO_OLD</name>
-			<text>Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-Flashback—{B}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="301" muid="0" picURL="https://lackeybot.com/revolution/front/301/OLD" rarity="special">OLD</set>
 		</card>
 		<card>
 			<name>Audacious Roughrider (KUT)</name>

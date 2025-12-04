@@ -10614,7 +10614,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-07 21:03:09
 	time_modified: 2025-11-28 18:43:47
 	name: Bloodstitched Tupilaq
@@ -10654,7 +10654,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-07 21:08:07
 	time_modified: 2025-11-28 18:44:09
 	name: Thin the Veil
@@ -10684,7 +10684,7 @@ card:
 	has_styling: false
 	notes:
 		!design Matt
-		!secret !update !promo Eternal Excursion;Chikyu Foil
+		!secret  !promo Eternal Excursion;Chikyu Foil
 	time_created: 2019-04-30 19:56:49
 	time_modified: 2025-12-01 15:26:20
 	name: Serene Mediator
@@ -10726,7 +10726,7 @@ card:
 		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
 		overlay: 
 	notes:
-		!update !secret !promo Eternal Excursion;Weft Terminal
+		 !secret !promo Eternal Excursion;Weft Terminal
 		!design Matt
 		!inpend > /replace/
 	time_created: 2019-06-03 16:43:08
@@ -10764,7 +10764,7 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: false
 	notes:
-		!secret !update !promo Eternal Excursion;Weft Terminal<soft-line>
+		!secret  !promo Eternal Excursion;Weft Terminal<soft-line>
 		!design Matt</soft-line>
 		!inpend > /replace/
 		!append (This creature can’t be the target of spells or abilities your opponents control with mana value 3 or less.)

@@ -6978,7 +6978,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2017-11-10 22:52:55
 	time_modified: 2025-11-28 17:48:41
 	card_color: green, land
@@ -7010,7 +7010,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2017-11-10 22:52:55
 	time_modified: 2025-11-28 17:48:18
 	card_color: blue, land
@@ -7045,7 +7045,7 @@ card:
 	notes:
 		“A big silver mountain cuts the country in half, making a good landmark to work with when trying to map Chikyu.”
 		—Karina Oblay, field notes
-		!update
+		
 	time_created: 2017-11-10 22:52:55
 	time_modified: 2025-11-28 17:48:33
 	card_color: red, land
@@ -7079,7 +7079,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2017-11-10 22:52:55
 	time_modified: 2025-11-28 17:48:10
 	card_color: white, land
@@ -7111,7 +7111,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2017-11-10 22:52:55
 	time_modified: 2025-11-28 17:48:27
 	card_color: black, land
@@ -7503,7 +7503,7 @@ card:
 	notes:
 		Mimikyu
 		!karina!ema!snip
-		!update
+		
 		!promo
 		!design Cajun
 	time_created: 2019-07-03 18:08:39
@@ -7624,7 +7624,7 @@ card:
 	notes:
 		!exportname TerminalWurm
 		!tokentag TerminalWurm
-		!update
+		
 	time_created: 2020-05-02 18:28:00
 	time_modified: 2025-11-28 21:15:59
 	card_color: green
@@ -8156,7 +8156,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!update
+		
 		!promo
 	time_created: 2019-10-27 00:24:24
 	time_modified: 2025-11-28 17:41:49
@@ -8196,7 +8196,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!update
+		
 		!promo 
 	time_created: 2019-06-03 00:50:06
 	time_modified: 2025-11-28 17:49:46
@@ -8511,7 +8511,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2016-06-13 16:10:41
 	time_modified: 2025-11-28 17:48:50
 	name: Muggy Mire
@@ -8549,7 +8549,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2016-06-13 16:10:41
 	time_modified: 2025-11-28 17:48:58
 	name: Practice Range
@@ -8587,7 +8587,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2016-06-13 16:10:41
 	time_modified: 2025-11-28 17:49:05
 	name: Ruined Shrine
@@ -8625,7 +8625,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2016-06-13 16:10:41
 	time_modified: 2025-11-28 17:49:12
 	name: Still Waters
@@ -8663,7 +8663,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2016-06-13 16:10:41
 	time_modified: 2025-11-28 17:49:20
 	name: Wandering Hamlet
@@ -8703,7 +8703,7 @@ card:
 		overlay: 
 	notes:
 		!design Cajun
-		!update
+		
 		!promo Eternal Excursion;Chikyu Foil
 	time_created: 2020-05-01 21:38:04
 	time_modified: 2025-11-28 17:49:38
@@ -8745,7 +8745,7 @@ card:
 		overlay: 
 	notes:
 		!design Cajun
-		!update
+		
 		!promo Eternal Excursion;Chikyu Foil
 	time_created: 2023-03-31 15:44:35
 	time_modified: 2025-11-28 18:00:03
@@ -9275,7 +9275,7 @@ card:
 		overlay: 
 	notes:
 		!design Cajun
-		!update
+		
 		!promo Eternal Excursion;Chikyu Foil
 	time_created: 2019-06-03 00:49:36
 	time_modified: 2025-11-28 17:50:00
@@ -9309,7 +9309,7 @@ card:
 	notes:
 		!promo Eternal Excursion;Weft Terminal
 		!replacetoken TerminalWurm;1
-		!update !secret
+		 !secret
 		!inpend > /replace/
 	time_created: 2020-08-24 00:18:12
 	time_modified: 2025-11-28 17:44:04
@@ -9351,7 +9351,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		!update !secret
+		 !secret
 	time_created: 2025-11-07 20:29:24
 	time_modified: 2025-11-28 17:44:41
 	name: Ever-Gnawing Rat
@@ -9386,7 +9386,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
-		!update !secret
+		 !secret
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-11-28 17:44:32
 	name: Ghastly Spirit
@@ -9429,7 +9429,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Shiny Hunt
-		!update !secret
+		 !secret
 		!hidetag ★
 	time_created: 2017-11-13 00:55:15
 	time_modified: 2025-11-28 17:54:46
@@ -9468,7 +9468,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Shiny Hunt
-		!update !secret
+		 !secret
 		!hidetag ★
 	time_created: 2017-11-13 00:55:15
 	time_modified: 2025-11-28 17:35:41
@@ -9524,7 +9524,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Shiny Hunt
-		!update !secret
+		 !secret
 		!hidetag ★
 	time_created: 2020-05-01 21:38:04
 	time_modified: 2025-11-28 17:55:02
@@ -9566,7 +9566,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Shiny Hunt
-		!update !secret
+		 !secret
 		!hidetag ★
 	time_created: 2017-11-10 23:42:25
 	time_modified: 2025-11-28 17:54:25
@@ -9614,7 +9614,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Shiny Hunt
-		!update !secret
+		 !secret
 		!hidetag ★
 	time_created: 2019-11-09 01:58:56
 	time_modified: 2025-11-28 17:36:28
@@ -9668,7 +9668,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Shiny Hunt
-		!update !secret
+		 !secret
 		!hidetag ★
 	time_created: 2017-11-10 20:40:27
 	time_modified: 2025-11-28 17:36:37

@@ -8253,7 +8253,7 @@ card:
 	notes:
 		!promo Eltensia Prophecy
 		!design Pipsqueak
-		!update
+		
 		!append  (You may cast this card from your graveyard for its escape cost.)
 	time_created: 2022-08-25 20:19:51
 	time_modified: 2025-11-28 22:02:56
@@ -8367,7 +8367,7 @@ card:
 	notes:
 		!design Pipsqueak
 		!promo Eltensia Prophecy
-		!update
+		
 	time_created: 2022-08-25 19:26:19
 	time_modified: 2025-11-28 21:59:46
 	name: Approaching Greatness
@@ -8445,7 +8445,7 @@ card:
 	notes:
 		!promo Eltensia Prophecy
 		!design Pipsqueak
-		!update
+		
 	time_created: 2022-08-25 22:31:04
 	time_modified: 2025-11-28 21:57:57
 	name: The Herald of the Wildcourt
@@ -8533,7 +8533,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eltensia Prophecy
-		!update
+		
 		!design Pipsqueak
 		!append  (You may cast this card from your graveyard for its escape cost.)
 	time_created: 2022-08-25 22:41:05
@@ -8587,7 +8587,7 @@ card:
 	notes:
 		!design Pipsqueak
 		!promo Eltensia Prophecy
-		!update
+		
 		!append  (You may cast this card from your graveyard for its escape cost.)
 	time_created: 2022-08-25 23:09:15
 	time_modified: 2025-11-28 22:02:29
@@ -8815,7 +8815,7 @@ card:
 	notes:
 		!design Pipsqueak
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-18 19:14:08
 	time_modified: 2025-11-28 22:06:30
 	name: Vibrant Vengeance
@@ -9107,7 +9107,7 @@ card:
 	notes:
 		!design Pipsqueak
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-24 13:54:16
 	time_modified: 2025-11-28 22:04:29
 	name: Drift Off
@@ -9177,7 +9177,7 @@ card:
 		overlay: 
 	notes:
 		!design Pipsqueak
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 19:46:07
 	time_modified: 2025-11-28 22:07:59
 	name: Reinstated Reaper
@@ -9220,7 +9220,7 @@ card:
 		overlay: 
 	notes:
 		!design Splitmoon
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 18:21:28
 	time_modified: 2025-11-28 22:08:21
 	name: Keening Belltower
@@ -9255,7 +9255,7 @@ card:
 	has_styling: false
 	notes:
 		!design CanterburyEgg
-		!secret !update !promo Eternal Excursion;Twiltrie Decree
+		!secret  !promo Eternal Excursion;Twiltrie Decree
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-11-28 22:11:02
 	name: Twilight Ambush
@@ -9287,7 +9287,7 @@ card:
 	has_styling: false
 	notes:
 		!design Pipsqueak
-		!secret !update !promo Eternal Excursion;Twiltrie Decree
+		!secret  !promo Eternal Excursion;Twiltrie Decree
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-11-29 13:50:14
 	name: Lichbane Wardwielder
@@ -9325,7 +9325,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		!secret!update!design Pipsqueak
+		!secret!design Pipsqueak
 		!inpend > /replace/
 	time_created: 2021-08-15 13:40:41
 	time_modified: 2025-11-28 22:13:40
@@ -9358,7 +9358,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		!secret!update!design Pipsqueak
+		!secret!design Pipsqueak
 		!inpend > /replace/
 		!append  (This effect lasts indefinitely.)
 	time_created: 2021-08-01 14:11:16

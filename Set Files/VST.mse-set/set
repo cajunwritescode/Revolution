@@ -8977,7 +8977,7 @@ card:
 	notes:
 		!!!
 		!design Reuben
-		!secret !update !promo Eternal Excursion;Weft Terminal
+		!secret  !promo Eternal Excursion;Weft Terminal
 		!inpend enters, journey./add/ (Exile the top card of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)
 		!inpend > /replace/
 	time_created: 2017-10-09 15:29:53
@@ -9020,7 +9020,7 @@ card:
 		overlay: 
 	notes:
 		!design Reuben
-		!secret !update !promo Eternal Excursion;Weft Terminal
+		!secret  !promo Eternal Excursion;Weft Terminal
 		!inpend > /replace/
 	time_created: 2017-05-15 18:08:03
 	time_modified: 2025-11-28 18:20:17
@@ -9064,7 +9064,7 @@ card:
 		overlay: 
 	notes:
 		!design Reuben
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-07 18:38:29
 	time_modified: 2025-11-28 20:35:31
 	name: Saviour of the Lost
@@ -9106,7 +9106,7 @@ card:
 		clear: yes
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		!update !secret !design Reuben
+		 !secret !design Reuben
 	time_created: 2017-08-13 13:40:04
 	time_modified: 2025-11-28 18:19:55
 	extra_data:
@@ -9167,7 +9167,7 @@ card:
 		clear: yes
 	notes:
 		!promo Eternal Excursion;Chikyu Foil;Shiny Hunt
-		!update !secret !design Reuben
+		 !secret !design Reuben
 		!hidetag ★
 	time_created: 2017-08-13 13:40:04
 	time_modified: 2025-11-28 18:20:52
@@ -9229,7 +9229,7 @@ card:
 		overlay: 
 	notes:
 		!design Reuben
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
 	time_modified: 2025-11-28 18:27:25
 	name: Runic Sealer
@@ -9265,7 +9265,7 @@ card:
 	has_styling: false
 	notes:
 		!design Reuben
-		!secret !update !promo Eternal Excursion;Theros Fate
+		!secret  !promo Eternal Excursion;Theros Fate
 	time_created: 2025-11-19 16:33:58
 	time_modified: 2025-11-28 18:27:19
 	name: Render Inert
@@ -9305,7 +9305,7 @@ card:
 		overlay: 
 	notes:
 		!design Reuben
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
 	time_modified: 2025-11-28 18:27:36
 	name: Biramous Entity

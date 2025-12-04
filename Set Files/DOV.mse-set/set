@@ -6483,7 +6483,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2022-10-04 16:40:42
 	time_modified: 2025-11-28 23:00:13
 	name: Thorngrafter
@@ -11574,7 +11574,7 @@ card:
 		overlay: 
 	notes:
 		Promo11 !promo Theros Fate
-		!update
+		
 		!design Matt & Chumbeque
 	time_created: 2023-08-18 19:14:07
 	time_modified: 2025-11-28 22:22:33
@@ -11615,7 +11615,7 @@ card:
 		overlay: 
 	notes:
 		!promo Theros Fate
-		!update
+		
 		!design Matt & Chumbeque
 	time_created: 2023-08-24 13:57:11
 	time_modified: 2025-11-28 22:24:24
@@ -11887,7 +11887,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		!secret !update !design Matt
+		!secret  !design Matt
 		!replacetoken TerminalZombie;1
 		!inpend  > /replace/• 
 		!inpend > /replace/
@@ -11927,7 +11927,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		!secret !update !design Matt
+		!secret  !design Matt
 		!inpend > /replace/
 	time_created: 2020-06-17 00:11:08
 	time_modified: 2025-11-28 22:40:59
@@ -11970,7 +11970,7 @@ card:
 	notes:
 		!exportname TerminalZombie
 		!tokentag TerminalZombie
-		!update
+		
 	time_created: 2022-07-31 22:25:33
 	time_modified: 2025-11-28 22:45:48
 	card_color: black
@@ -12008,7 +12008,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 15:53:25
 	time_modified: 2025-11-28 22:48:26
 	name: Gallant Fancypaw
@@ -12055,7 +12055,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt  & Chumbeque
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 20:13:39
 	time_modified: 2025-11-28 22:48:01
 	name: The Love of a Lifetime
@@ -12097,7 +12097,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 19:59:03
 	time_modified: 2025-11-28 22:48:57
 	name: Glauna, Decadent Demon
@@ -12146,7 +12146,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		!secret !update !design Matt & Chumbeque
+		!secret  !design Matt & Chumbeque
 	time_created: 2020-06-17 16:03:14
 	time_modified: 2025-11-28 22:54:50
 	name: Treasury Pilferer
@@ -12186,7 +12186,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret !update !promo Eternal Excursion;Theros Fate
+		!secret  !promo Eternal Excursion;Theros Fate
 	time_created: 2025-11-19 16:31:31
 	time_modified: 2025-11-28 22:56:57
 	name: Banish to the Isle
@@ -12225,7 +12225,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret !update !promo Eternal Excursion;Theros Fate
+		!secret  !promo Eternal Excursion;Theros Fate
 		!replacetoken FateRogue;1
 	time_created: 2025-11-19 16:31:44
 	time_modified: 2025-11-28 22:57:33
@@ -12269,7 +12269,7 @@ card:
 		Matt
 		!exportname FateRogue<soft-line>
 		!tokentag FateRogue
-		!update</soft-line>
+		</soft-line>
 	time_created: 2025-11-19 17:07:07
 	time_modified: 2025-11-28 22:58:13
 	card_color: black
@@ -12308,7 +12308,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
 	time_modified: 2025-11-28 22:58:33
 	name: Spellbane Sentinel
@@ -12350,7 +12350,7 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
 	time_modified: 2025-11-28 22:59:51
 	name: Symbol of the Revolution
@@ -12386,7 +12386,7 @@ card:
 	has_styling: false
 	notes:
 		!design Matt & Chumbeque
-		!secret !update !promo Eternal Excursion;Twiltrie Decree
+		!secret  !promo Eternal Excursion;Twiltrie Decree
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-12-01 15:20:34
 	name: Thorngrafter

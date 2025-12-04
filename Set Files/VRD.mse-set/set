@@ -3108,7 +3108,7 @@ card:
 		overlay: 
 	notes:
 		RR02: design for Johnny/Jenny psychographic
-		!update
+		
 	time_created: 2020-11-28 16:26:05
 	time_modified: 2021-04-29 13:02:18
 	name: Rogue’s Palace Cardshark
@@ -9748,7 +9748,7 @@ card:
 	notes:
 		!promo Viridian’s Mission
 		!design DrChillbrain
-		!update
+		
 	time_created: 2021-03-13 21:43:11
 	time_modified: 2025-11-28 20:45:19
 	extra_data:
@@ -10232,7 +10232,7 @@ card:
 		overlay: 
 	notes:
 		!design DrChillbrain
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 17:03:46
 	time_modified: 2025-11-28 20:49:13
 	name: Iroshi’s Devotee
@@ -10278,7 +10278,7 @@ card:
 		overlay: 
 	notes:
 		!design DrChillbrain
-		!secret !update !promo Eternal Excursion;Kitsuo Mythmaker
+		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 17:14:53
 	time_modified: 2025-11-28 20:49:08
 	name: Rogue’s Palace Cardshark
@@ -10321,7 +10321,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Chikyu Foil;Shiny Hunt
-		!update !secret !design DrChillbrain
+		 !secret !design DrChillbrain
 		!hidetag ★
 	time_created: 2018-08-23 19:57:43
 	time_modified: 2025-11-28 20:58:27
@@ -10366,7 +10366,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		!update !secret !design DrChillbrain
+		 !secret !design DrChillbrain
 	time_created: 2018-08-23 19:57:43
 	time_modified: 2025-11-28 20:49:48
 	extra_data:
@@ -10409,7 +10409,7 @@ card:
 		overlay: 
 	notes:
 		!design DrChillbrain
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
 	time_modified: 2025-11-28 20:52:59
 	name: Smuggling Kingpin
@@ -10445,7 +10445,7 @@ card:
 	has_styling: false
 	notes:
 		!design DrChillbrain
-		!secret !update !promo Eternal Excursion
+		!secret  !promo Eternal Excursion
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-11-28 20:52:36
 	name: Freezefire Corps
@@ -10489,7 +10489,7 @@ card:
 		overlay: 
 	notes:
 		!design DrChillbrain
-		!secret !update !promo Eternal Excursion;Vereaux Hero
+		!secret  !promo Eternal Excursion;Vereaux Hero
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-28 20:54:59
 	name: Granite Harbinger
@@ -10533,7 +10533,7 @@ card:
 		overlay: 
 	notes:
 		!design DrChillbrain
-		!secret !update !promo Eternal Excursion;Vereaux Hero
+		!secret  !promo Eternal Excursion;Vereaux Hero
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-28 20:55:03
 	card_color: land, multicolor
@@ -10571,7 +10571,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		!secret !update !design DrChillbrain
+		!secret  !design DrChillbrain
 		!inpend Endgame /add/(If you control eight or more tapped permanents, enter your endgame for the rest of the game.)
 		!inpend > /replace/
 	time_created: 2020-12-05 21:33:40

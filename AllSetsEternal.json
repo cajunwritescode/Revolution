@@ -78121,6 +78121,50 @@
      "uuid": "Feast of the Crows_PRO_SVG"
     },
     {
+     "artist": "misica",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Occo",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Ferocious Flame ★_PRO_SVG",
+     "imageName": "ferocious flame ★_svg",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Rotated",
+      "brawl": "Rotated",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Rotated"
+     },
+     "manaCost": "{R}",
+     "identifiers": {
+      "scryfallId": 6352,
+      "multiverseId": 20251103
+     },
+     "name": "Ferocious Flame ★_SVG",
+     "number": "1214",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Ferocious Flame deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Ferocious Flame ★_PRO_SVG"
+    },
+    {
      "artist": "Thomas Stoop",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -78205,8 +78249,8 @@
      "uuid": "Unite the Clans_PRO_SVG"
     }
    ],
-   "baseSetSize": 223,
-   "totalSetSize": 223,
+   "baseSetSize": 224,
+   "totalSetSize": 224,
    "cardsphereSetId": 6,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -107002,6 +107046,55 @@
      "uuid": "A World Forgotten_PRO_KRS"
     },
     {
+     "artist": "Surya Prasetya",
+     "convertedManaCost": 6,
+     "faceConvertedManaCost": 6,
+     "manaValue": 6,
+     "faceManaValue": 6,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "zarepath",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Amethryn Hoarder_PRO_KRS",
+     "imageName": "amethryn hoarder_pro_krs",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Rotated",
+      "brawl": "Rotated",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Rotated"
+     },
+     "manaCost": "{4}{B}{B}",
+     "identifiers": {
+      "scryfallId": 6365,
+      "multiverseId": 20251103
+     },
+     "name": "Amethryn Hoarder_PRO_KRS",
+     "number": "292",
+     "power": "3",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Dragon"
+     ],
+     "text": "Flying\nWhen Amethryn Hoarder enters, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)\nSacrifice three artifacts and/or creatures: Return Amethryn Hoarder from your graveyard to the battlefield tapped.",
+     "toughness": "3",
+     "type": "Creature — Dragon",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Amethryn Hoarder_PRO_KRS"
+    },
+    {
      "artist": "Rachel Byler",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -107721,8 +107814,8 @@
      "uuid": "Variant Handler (Encounter)_PRO_KRS"
     }
    ],
-   "baseSetSize": 320,
-   "totalSetSize": 320,
+   "baseSetSize": 321,
+   "totalSetSize": 321,
    "cardsphereSetId": 8,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -164594,7 +164687,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 5191,
-      "multiverseId": 20251101
+      "multiverseId": 20251103
      },
      "name": "Emblazoned Hooligan_PRO_POP",
      "number": "296",
@@ -195977,6 +196070,50 @@
      "uuid": "Abominable Avalanche_PRO_OLD"
     },
     {
+     "artist": "Taissia Abdoullina",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Dodger",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "All That Remains_PRO_OLD",
+     "imageName": "all that remains_pro_old",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Legal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{B}",
+     "identifiers": {
+      "scryfallId": 6439,
+      "multiverseId": 20251103
+     },
+     "name": "All That Remains_PRO_OLD",
+     "number": "301",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.\nFlashback—{B}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "All That Remains_PRO_OLD"
+    },
+    {
      "artist": "Ma Ke",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -196679,8 +196816,8 @@
      "uuid": "Thunderous Avalanche_PRO_OLD"
     }
    ],
-   "baseSetSize": 299,
-   "totalSetSize": 299,
+   "baseSetSize": 300,
+   "totalSetSize": 300,
    "cardsphereSetId": 14,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -200893,7 +201030,7 @@
      "legalities": {
       "revolution": "Banned",
       "brawl": "Legal",
-      "eternal": "Legal",
+      "eternal": "Banned",
       "eternal-pauper": "Illegal",
       "planechase": "Banned"
      },
@@ -212312,7 +212449,7 @@
      "legalities": {
       "revolution": "Banned",
       "brawl": "Legal",
-      "eternal": "Legal",
+      "eternal": "Banned",
       "eternal-pauper": "Illegal",
       "planechase": "Banned"
      },
@@ -224017,7 +224154,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 4788,
-      "multiverseId": 0
+      "multiverseId": 20251103
      },
      "name": "Serve Again",
      "number": "91",
@@ -224025,7 +224162,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Whenever a nontoken creature you control dies, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
+     "text": "Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -227602,7 +227739,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 5923,
-      "multiverseId": 0
+      "multiverseId": 20251103
      },
      "name": "Serve Again_PRO_CNY",
      "number": "281",
@@ -227610,7 +227747,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Whenever a nontoken creature you control dies, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
+     "text": "Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -298689,7 +298826,7 @@
      "manaCost": "{G}{W}",
      "identifiers": {
       "scryfallId": 6322,
-      "multiverseId": 0
+      "multiverseId": 20251103
      },
      "name": "Crystal Lion_REV",
      "number": "96",
@@ -302878,7 +303015,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 6324,
-      "multiverseId": 0
+      "multiverseId": 20251103
      },
      "name": "Windbeaten Stones_REV",
      "number": "98",

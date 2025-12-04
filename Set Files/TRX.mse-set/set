@@ -10383,7 +10383,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-18 19:14:11
 	time_modified: 2025-11-28 23:25:20
 	name: Ephara, Hero-Maker
@@ -10426,7 +10426,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-18 19:14:12
 	time_modified: 2025-11-28 23:27:21
 	extra_data:
@@ -10478,7 +10478,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-24 13:57:13
 	time_modified: 2025-11-28 23:29:12
 	name: Omen of Slaughter
@@ -10518,7 +10518,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-24 13:57:13
 	time_modified: 2025-11-28 23:27:59
 	name: Elektes, First King of Akros
@@ -10561,7 +10561,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-24 13:54:16
 	time_modified: 2025-11-28 23:28:19
 	name: Pull of Tizerus
@@ -10607,7 +10607,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		!update
+		
 	time_created: 2023-08-18 19:14:12
 	time_modified: 2025-11-28 23:29:04
 	name: Shrine to Those Forgotten
@@ -10652,7 +10652,7 @@ card:
 	notes:
 		!promo Chikyu Foil
 		!design Zangy
-		!update
+		
 	time_created: 2023-01-16 18:50:24
 	time_modified: 2025-11-28 23:30:40
 	card_color: white
@@ -10696,7 +10696,7 @@ card:
 	notes:
 		!promo Chikyu Foil
 		!design Zangy
-		!update
+		
 	time_created: 2023-01-16 18:50:24
 	time_modified: 2025-11-28 23:34:12
 	extra_data:
@@ -10869,7 +10869,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
-		!update !secret !design Mako
+		 !secret !design Mako
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-11-29 13:48:34
 	name: Agent of Deception
@@ -10903,7 +10903,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Theros Fate
-		!update !secret !design Zangy
+		 !secret !design Zangy
 	time_created: 2025-11-19 16:32:07
 	time_modified: 2025-11-28 23:41:06
 	name: Omen of Deception
@@ -10946,7 +10946,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		!update !secret !design Zangy
+		 !secret !design Zangy
 	time_created: 2025-11-24 03:22:05
 	time_modified: 2025-11-28 23:41:02
 	extra_data:
@@ -10985,7 +10985,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
-		!update !secret !design Zangy
+		 !secret !design Zangy
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-11-29 13:48:45
 	extra_data:
@@ -11030,7 +11030,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		!update !secret !design Zangy
+		 !secret !design Zangy
 	time_created: 2025-11-19 20:51:17
 	time_modified: 2025-11-29 01:55:47
 	name: Walk the Dead’s Path
@@ -11074,7 +11074,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		!update !secret !design Zangy
+		 !secret !design Zangy
 	time_created: 2025-11-19 20:44:49
 	time_modified: 2025-12-01 15:41:57
 	name: Skola Nyxweaver

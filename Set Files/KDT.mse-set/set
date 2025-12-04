@@ -12295,7 +12295,7 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: false
 	notes:
-		!update !promo Twiltrie Decree
+		 !promo Twiltrie Decree
 		!design Provocative
 		Decree
 	time_created: 2025-08-11 17:54:48
@@ -12377,7 +12377,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		!update !secret
+		 !secret
 	time_created: 2025-11-24 10:23:20
 	time_modified: 2025-11-29 01:04:18
 	name: Forest

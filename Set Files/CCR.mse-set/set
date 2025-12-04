@@ -2576,7 +2576,7 @@ card:
 		overlay: 
 	notes:
 		CW01 !contest
-		!pack !update
+		!pack 
 	time_created: 2021-07-19 04:06:31
 	time_modified: 2025-12-01 15:56:39
 	name: Contest Spectators
@@ -4443,7 +4443,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		Grimer  !update nerfed: Now checks that the sacrificed permanent hits the graveyard.
+		Grimer   nerfed: Now checks that the sacrificed permanent hits the graveyard.
 		!tokens Berry1>;
 		!hasshiny
 		!rev
@@ -11042,7 +11042,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		Grimer  !update
+		Grimer  
 		!tokens Berry1>;
 		!unlocked
 		!design Fleur
@@ -14173,7 +14173,7 @@ card:
 	notes:
 		!surface beater Medium Surface Shiftry
 		 !hidetag ★
-		!update
+		
 	time_created: 2021-07-21 17:55:51
 	time_modified: 2025-12-01 16:21:16
 	name: Rejuvenating Kappa
@@ -14345,7 +14345,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		!update !secret !design Cajun
+		 !secret !design Cajun
 	time_created: 2025-11-19 21:48:46
 	time_modified: 2025-11-29 00:46:31
 	name: Contest Coordinator
@@ -14387,7 +14387,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		!update !secret !design Cajun
+		 !secret !design Cajun
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-29 00:48:33
 	card_color: land, multicolor

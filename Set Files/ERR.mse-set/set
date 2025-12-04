@@ -12634,7 +12634,7 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: false
 	notes:
-		!update !promo Twiltrie Decree
+		 !promo Twiltrie Decree
 		!design DrChipmunk
 	time_created: 2025-08-11 17:54:48
 	time_modified: 2025-12-01 15:22:50
@@ -12664,7 +12664,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Theros Fate
-		!update !secret !design DrChipmunk
+		 !secret !design DrChipmunk
 	time_created: 2025-11-19 16:33:58
 	time_modified: 2025-11-29 00:50:52
 	name: SYSCALL()
@@ -12705,7 +12705,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		!update !secret !design DrChipmunk
+		 !secret !design DrChipmunk
 		!replacetokens PorygonZ
 		!tokens Program A ERR;Program B ERR;Program C ERR;PorygonZ 44ERR
 	time_created: 2024-08-28 11:00:17
@@ -12745,7 +12745,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Vereaux Hero
-		!update !secret !design DrChipmunk
+		 !secret !design DrChipmunk
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-29 00:53:10
 	name: Hang
@@ -12782,7 +12782,7 @@ card:
 	notes:
 		!design Stasis
 		!promo Eternal Excursion;Weft Terminal
-		!update !secret
+		 !secret
 		!replacetoken TerminalPuzzle;1
 		!inpend > /replace/
 	time_created: 2025-04-28 15:11:45
@@ -12826,7 +12826,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		!update
+		
 		!tokentag TerminalPuzzle
 	time_created: 2025-04-28 15:43:23
 	time_modified: 2025-11-29 01:01:31
@@ -12863,7 +12863,7 @@ card:
 		!!exportname PorygonZ 44ERR
 		!hidetag PorygonZ
 		!tokentag PorygonZ
-		!update
+		
 	time_created: 2024-08-31 21:41:29
 	time_modified: 2025-11-29 02:00:58
 	card_color: red

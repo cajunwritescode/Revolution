@@ -6750,7 +6750,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update nerfed: Was flashback {2}{G}{G} and created Saprolings for each permanent card you owned in exile as well.
+	notes:  nerfed: Was flashback {2}{G}{G} and created Saprolings for each permanent card you owned in exile as well.
 	time_created: 2022-01-04 19:20:41
 	time_modified: 2025-10-29 22:01:35
 	name: Spore Spawning
@@ -9383,7 +9383,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
-		!update
+		
 	time_created: 2023-12-22 16:20:17
 	time_modified: 2025-11-28 23:49:40
 	name: Swelling Terror
@@ -9449,7 +9449,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		!update
+		
 	time_created: 2023-12-22 16:49:33
 	time_modified: 2025-11-28 23:51:47
 	name: Elder Eras
@@ -9535,7 +9535,7 @@ card:
 		overlay: 
 	notes:
 		!promo Chikyu Foil
-		!update
+		
 		!design Dodger
 	time_created: 2021-12-17 20:20:32
 	time_modified: 2025-11-28 23:57:25
@@ -9575,7 +9575,7 @@ card:
 	notes:
 		https://www.deviantart.com/ravenoath/art/snow-warning-542430431
 		!promo Chikyu Foil
-		!update
+		
 		!design Dodger
 		!replacetoken Abomasnow;1
 	time_created: 2022-05-09 18:34:23
@@ -9820,7 +9820,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		!update !secret !design Dodger
+		 !secret !design Dodger
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-29 00:02:47
 	name: Whitecliff Pilgrim
@@ -9863,9 +9863,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		!update !secret !design Dodger
+		!update !design Dodger
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 00:02:51
+	time_modified: 2025-12-02 14:08:54
 	name: All That Remains
 	casting_cost: 2B
 	image: image314
@@ -9889,7 +9889,7 @@ card:
 	toughness: 
 	illustrator: taissia-abdoullina
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Excursion Claimed by CovetedPeacock
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -9908,7 +9908,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		!update !secret !design Dodger
+		 !secret !design Dodger
 		!hidetag (KUT)
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-29 00:03:26
@@ -9954,7 +9954,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		!update !secret !design Dodger
+		 !secret !design Dodger
 		!hidetag (KUT)
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-11-29 00:04:23

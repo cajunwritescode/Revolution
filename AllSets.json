@@ -18429,6 +18429,50 @@
      "uuid": "Abominable Avalanche_PRO_OLD"
     },
     {
+     "artist": "Taissia Abdoullina",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Dodger",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "All That Remains_PRO_OLD",
+     "imageName": "all that remains_pro_old",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Legal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{B}",
+     "identifiers": {
+      "scryfallId": 6439,
+      "multiverseId": 20251103
+     },
+     "name": "All That Remains_PRO_OLD",
+     "number": "301",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.\nFlashback—{B}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "All That Remains_PRO_OLD"
+    },
+    {
      "artist": "Ma Ke",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -19131,8 +19175,8 @@
      "uuid": "Thunderous Avalanche_PRO_OLD"
     }
    ],
-   "baseSetSize": 299,
-   "totalSetSize": 299,
+   "baseSetSize": 300,
+   "totalSetSize": 300,
    "cardsphereSetId": 14,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -46335,7 +46379,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 4788,
-      "multiverseId": 0
+      "multiverseId": 20251103
      },
      "name": "Serve Again",
      "number": "91",
@@ -46343,7 +46387,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Whenever a nontoken creature you control dies, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
+     "text": "Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -49920,7 +49964,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 5923,
-      "multiverseId": 0
+      "multiverseId": 20251103
      },
      "name": "Serve Again_PRO_CNY",
      "number": "281",
@@ -49928,7 +49972,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Whenever a nontoken creature you control dies, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
+     "text": "Whenever a nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of it, except it's a Minion and has decayed. (It loses all other creature types. It can't block. When it attacks, sacrifice it at end of combat.)",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -118750,7 +118794,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 6324,
-      "multiverseId": 0
+      "multiverseId": 20251103
      },
      "name": "Windbeaten Stones_REV",
      "number": "98",
