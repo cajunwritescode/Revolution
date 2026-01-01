@@ -8940,7 +8940,7 @@ card:
 		overlay: 
 	notes:
 		!promo Chikyu Foil
-		!update !design platypeople
+		!design platypeople
 		twitter.com/oyasuminjyutsu/status/1566417619162320896
 	time_created: 2021-01-27 20:38:24
 	time_modified: 2025-12-02 01:53:29
@@ -8985,7 +8985,7 @@ card:
 		https://www.pixiv.net/en/artworks/118183705
 		!promo Chikyu Foil
 		!design platypeople
-		
+
 	time_created: 2021-05-13 01:03:34
 	time_modified: 2025-11-28 23:13:19
 	name: Top of the Charts
@@ -9072,9 +9072,9 @@ card:
 		overlay: 
 	notes:
 		!design platypeople
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
-	time_modified: 2025-11-28 23:17:48
+	time_modified: 2025-12-31 14:35:16
 	name: Rock On
 	casting_cost: R
 	image: image311
@@ -9094,7 +9094,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Peter Kovacs
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by kattalist
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -9142,11 +9142,11 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		 !secret !design platypeople
+		   !design platypeople
 		!prepend (This card is red. Spend a nonred color of mana on {Vp}.)\n
 		!inpend > /replace/
 	time_created: 2020-12-21 00:55:42
-	time_modified: 2025-12-01 15:32:23
+	time_modified: 2025-12-31 14:35:04
 	name: Lightvein Arrow
 	casting_cost: VR
 	image: image1.png
@@ -9163,7 +9163,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Scott Uminga
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by crushcastles23
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 

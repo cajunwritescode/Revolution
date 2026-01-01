@@ -7045,7 +7045,7 @@ card:
 	notes:
 		“A big silver mountain cuts the country in half, making a good landmark to work with when trying to map Chikyu.”
 		—Karina Oblay, field notes
-		
+
 	time_created: 2017-11-10 22:52:55
 	time_modified: 2025-11-28 17:48:33
 	card_color: red, land
@@ -7624,7 +7624,7 @@ card:
 	notes:
 		!exportname TerminalWurm
 		!tokentag TerminalWurm
-		
+
 	time_created: 2020-05-02 18:28:00
 	time_modified: 2025-11-28 21:15:59
 	card_color: green
@@ -9386,9 +9386,9 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
-		 !secret
+		
 	time_created: 2025-11-19 17:58:00
-	time_modified: 2025-11-28 17:44:32
+	time_modified: 2025-12-31 14:54:36
 	name: Ghastly Spirit
 	casting_cost: 2UB
 	image: image129
@@ -9412,7 +9412,7 @@ card:
 	toughness: 2
 	illustrator: Ognjen Sporin
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 

@@ -14173,7 +14173,6 @@ card:
 	notes:
 		!surface beater Medium Surface Shiftry
 		 !hidetag ★
-		
 	time_created: 2021-07-21 17:55:51
 	time_modified: 2025-12-01 16:21:16
 	name: Rejuvenating Kappa
@@ -14345,9 +14344,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		 !secret !design Cajun
+		  !design Cajun
 	time_created: 2025-11-19 21:48:46
-	time_modified: 2025-11-29 00:46:31
+	time_modified: 2025-12-31 14:28:54
 	name: Contest Coordinator
 	casting_cost: 1W
 	image: image395
@@ -14369,7 +14368,7 @@ card:
 	toughness: 3
 	illustrator: Eviratari
 	partition_select: after normal, main set D
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -14387,9 +14386,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		 !secret !design Cajun
+		  !design Cajun
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 00:48:33
+	time_modified: 2025-12-31 14:28:34
 	card_color: land, multicolor
 	name: Temple of Origins
 	casting_cost: 
@@ -14422,6 +14421,265 @@ card:
 	toughness: 
 	illustrator: te-hu
 	partition_select: after normal, main set D
+	card_code_text: Excursion Claimed by SilverParabellum
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,12,
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Cajun
+		CCR
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:25:47
+	name: Weather Elemental
+	casting_cost: 4
+	image: image397
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever Weather Elemental enters or attacks, it <kw-A><nospellcheck><key>acclimates</key></nospellcheck>.<atom-reminder-action> <i-auto>(You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on this.)</i-auto></atom-reminder-action></kw-A>
+		If a triggered ability of a Weather you control would trigger, it triggers an additional time.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Thomas Bourdon
+	partition_select: after normal, main set E
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Cajun
+		CCR
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:25:51
+	name: Avert Disaster
+	casting_cost: 1UU
+	image: image399
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast if there is a card named <atom-cardname><nospellcheck>Avert Disaster</nospellcheck></atom-cardname> or Imminent Disaster in your graveyard.
+		Counter target spell.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Burke
+	partition_select: after normal, main set E
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Cajun
+		CCR
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:25:58
+	name: Imminent Disaster
+	casting_cost: 3B
+	image: image400
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		This spell costs <sym>1</sym> less to cast if there is a card named Avert Disaster or <atom-cardname><nospellcheck>Imminent Disaster</nospellcheck></atom-cardname> in your graveyard.
+		Exile target creature or planeswalker.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Manuel Javier Noreña Castaño
+	partition_select: after normal, main set E
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Cajun
+		CCR
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:26:02
+	name: Crumbling Tower
+	casting_cost: 2R
+	image: image401
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, exile the top card of your library. You may play that card until the end of your next turn.
+		<sym-auto>1R</sym-auto>, Sacrifice Crumbling Tower: It deals damage equal to the number of cards exiled with it to target player.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Pedro Sena
+	partition_select: after normal, main set E
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Cajun
+		CCR !hidetag (Calamity)
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:26:39
+	name: Harvest Time
+	casting_cost: G
+	image: image402
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Search your graveyard and/or library for a basic land card, reveal it, put it into your hand, then shuffle.
+		<kw-A><nospellcheck><key>Surface <param-cost><sym>G</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: giantwood
+	partition_select: after normal, main set E
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Cajun
+		CCR
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:26:11
+	name: Warden of Wishes
+	casting_cost: 3WB
+	image: image403
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Faerie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When Warden of Wishes enters, put three wish counters on it, then you gain 7 life.
+		Whenever you lose life, you may remove a wish counter from Warden of Wishes. If you do, put a card you own from outside the game into your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Adam Burke
+	partition_select: after normal, main set E
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

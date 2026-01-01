@@ -11887,12 +11887,12 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		!secret  !design Matt
+		 !design Matt
 		!replacetoken TerminalZombie;1
 		!inpend  > /replace/• 
 		!inpend > /replace/
 	time_created: 2022-10-04 19:09:05
-	time_modified: 2025-11-28 22:46:24
+	time_modified: 2025-12-31 14:38:32
 	name: Field Test
 	casting_cost: XXB
 	image: image3.png
@@ -11914,7 +11914,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: TheBakaArts
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: © WotC, Matt, & Chumbeque
@@ -11970,7 +11970,7 @@ card:
 	notes:
 		!exportname TerminalZombie
 		!tokentag TerminalZombie
-		
+
 	time_created: 2022-07-31 22:25:33
 	time_modified: 2025-11-28 22:45:48
 	card_color: black
@@ -12055,9 +12055,9 @@ card:
 		overlay: 
 	notes:
 		!design Matt  & Chumbeque
-		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
+		 !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 20:13:39
-	time_modified: 2025-11-28 22:48:01
+	time_modified: 2025-12-31 14:37:46
 	name: The Love of a Lifetime
 	casting_cost: 1WW
 	image: image346
@@ -12079,7 +12079,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: ZiYin
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by CatInTree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12097,9 +12097,9 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
+		 !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 19:59:03
-	time_modified: 2025-11-28 22:48:57
+	time_modified: 2025-12-31 14:38:47
 	name: Glauna, Decadent Demon
 	casting_cost: 1BB
 	image: image348
@@ -12123,7 +12123,7 @@ card:
 	level_4_text: 
 	illustrator: YILONG0910
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: She/Her
@@ -12186,9 +12186,9 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret  !promo Eternal Excursion;Theros Fate
+		 !promo Eternal Excursion;Theros Fate
 	time_created: 2025-11-19 16:31:31
-	time_modified: 2025-11-28 22:56:57
+	time_modified: 2025-12-31 14:37:26
 	name: Banish to the Isle
 	casting_cost: 1WW
 	image: image351
@@ -12208,7 +12208,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12225,10 +12225,10 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret  !promo Eternal Excursion;Theros Fate
+		 !promo Eternal Excursion;Theros Fate
 		!replacetoken FateRogue;1
 	time_created: 2025-11-19 16:31:44
-	time_modified: 2025-11-28 22:57:33
+	time_modified: 2025-12-31 14:38:18
 	name: Feast of Whispered Knives
 	casting_cost: 1B
 	image: image352
@@ -12256,7 +12256,7 @@ card:
 	level_2_text: 
 	illustrator: Tyler Miles Lockett
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	special_text: 
@@ -12350,9 +12350,9 @@ card:
 		overlay: 
 	notes:
 		!design Matt & Chumbeque
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
-	time_modified: 2025-11-28 22:59:51
+	time_modified: 2025-12-31 14:37:55
 	name: Symbol of the Revolution
 	casting_cost: W
 	image: image355
@@ -12376,7 +12376,7 @@ card:
 	toughness: 1
 	illustrator: Aurelien Moriniere
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by Epid
 	card_code_text_2: 
 	card_code_text_3: 
 

@@ -7910,7 +7910,7 @@ card:
 	sub_type: <word-list-planeswalker>Jericho</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	rarity: mythic rare
 	rule_text:
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 		Until your next turn, up to two target creatures each get -4/-0.
 		You get an emblem with “Untap all permanents you control during each other player’s untap step.”
 	flavor_text: <i-flavor></i-flavor>
@@ -8220,10 +8220,10 @@ card:
 	has_styling: false
 	notes:
 		!design Zangy
-		!secret  !promo Eternal Excursion;Weft Terminal
+		 !promo Eternal Excursion;Weft Terminal
 		!inpend > /replace/
 	time_created: 2018-11-16 17:32:59
-	time_modified: 2025-11-28 18:30:05
+	time_modified: 2025-12-31 14:55:23
 	name: Memory Hostage
 	casting_cost: 1BB
 	image: image1.png
@@ -8240,7 +8240,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Scott Uminga
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by PTM
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
@@ -8254,11 +8254,11 @@ card:
 	notes:
 		!script "s>l>/spawn Clue/l>f>/spawn Clue 1 SRC/f>/s>","r"
 		!design Zangy
-		!secret  !promo Eternal Excursion;Weft Terminal
+		 !promo Eternal Excursion;Weft Terminal
 		!inpend investigate./add/ (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
 		!inpend > /replace/
 	time_created: 2018-12-25 13:38:42
-	time_modified: 2025-11-28 18:32:07
+	time_modified: 2025-12-31 14:55:38
 	name: Vicious Cleaner
 	casting_cost: 1B
 	image: image2.png
@@ -8279,7 +8279,7 @@ card:
 	toughness: 2
 	illustrator: Jori Bolton
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 

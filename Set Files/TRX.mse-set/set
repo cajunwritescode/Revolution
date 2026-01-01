@@ -3543,8 +3543,8 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		I — Exile up to one target permanent with mana value 4 or greater.
-		Create two 1/1 white Human creature tokens.
-		II — Each player gains control of all permanents they own. If you gained control of no permanents this way, draw a card.
+		II — Create two 1/1 white Human creature tokens.
+		III — Each player gains control of all permanents they own. If you gained control of no permanents this way, draw a card.
 
 card:
 	has_styling: false
@@ -3771,8 +3771,8 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		Draw two cards.
-		I — Return all nonland, nonenchantment permanents to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
-		II — You may cast a non-Saga spell with mana value 5 or less from your hand without paying its mana cost.
+		I, II — Return all nonland, nonenchantment permanents to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
+		III — You may cast a non-Saga spell with mana value 5 or less from your hand without paying its mana cost.
 
 card:
 	has_styling: false
@@ -3958,9 +3958,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Each opponent discards two cards, then <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		I — Each opponent loses 2 life and you gain 2 life.
-		II — For each opponent that has eight or more cards in their graveyard, exile a card from that player’s graveyard. You may cast cards exiled this way this turn, and mana of any type can be spent to cast it.
+		I — Each opponent discards two cards, then <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Each opponent loses 2 life and you gain 2 life.
+		II, III — For each opponent that has eight or more cards in their graveyard, exile a card from that player’s graveyard. You may cast cards exiled this way this turn, and mana of any type can be spent to cast it.
 
 card:
 	has_styling: false
@@ -4177,8 +4177,8 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		I — Destroy any number of target artifacts with total mana value 4 or less.
-		Discard up to two cards, then draw that many cards.
-		II — You may sacrifice a creature. If you do, <atom-cardname><nospellcheck>A God Divided</nospellcheck></atom-cardname> deals damage to any target equal to the sacrificed creature’s power.
+		II — Discard up to two cards, then draw that many cards.
+		III — You may sacrifice a creature. If you do, <atom-cardname><nospellcheck>A God Divided</nospellcheck></atom-cardname> deals damage to any target equal to the sacrificed creature’s power.
 
 card:
 	has_styling: false
@@ -4369,9 +4369,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — <atom-cardname><nospellcheck>Siphon the Divine</nospellcheck></atom-cardname> gains “Creatures your opponents control lose <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and can’t have or gain <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.”
-		II — Target creature you control fights up to one target creature.
-		Exile target player’s graveyard.
+		I, II — <atom-cardname><nospellcheck>Siphon the Divine</nospellcheck></atom-cardname> gains “Creatures your opponents control lose <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and can’t have or gain <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.”
+		Target creature you control fights up to one target creature.
+		III — Exile target player’s graveyard.
 
 card:
 	has_styling: false
@@ -10383,7 +10383,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		
+
 	time_created: 2023-08-18 19:14:11
 	time_modified: 2025-11-28 23:25:20
 	name: Ephara, Hero-Maker
@@ -10426,7 +10426,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		
+
 	time_created: 2023-08-18 19:14:12
 	time_modified: 2025-11-28 23:27:21
 	extra_data:
@@ -10478,7 +10478,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		
+
 	time_created: 2023-08-24 13:57:13
 	time_modified: 2025-11-28 23:29:12
 	name: Omen of Slaughter
@@ -10518,7 +10518,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		
+
 	time_created: 2023-08-24 13:57:13
 	time_modified: 2025-11-28 23:27:59
 	name: Elektes, First King of Akros
@@ -10561,7 +10561,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		
+
 	time_created: 2023-08-24 13:54:16
 	time_modified: 2025-11-28 23:28:19
 	name: Pull of Tizerus
@@ -10607,7 +10607,7 @@ card:
 	notes:
 		!design Zangy
 		!promo Theros Fate
-		
+
 	time_created: 2023-08-18 19:14:12
 	time_modified: 2025-11-28 23:29:04
 	name: Shrine to Those Forgotten
@@ -10652,7 +10652,7 @@ card:
 	notes:
 		!promo Chikyu Foil
 		!design Zangy
-		
+
 	time_created: 2023-01-16 18:50:24
 	time_modified: 2025-11-28 23:30:40
 	card_color: white
@@ -10696,7 +10696,7 @@ card:
 	notes:
 		!promo Chikyu Foil
 		!design Zangy
-		
+
 	time_created: 2023-01-16 18:50:24
 	time_modified: 2025-11-28 23:34:12
 	extra_data:
@@ -10869,9 +10869,9 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
-		 !secret !design Mako
+		  !design Mako
 	time_created: 2025-11-19 17:58:00
-	time_modified: 2025-11-29 13:48:34
+	time_modified: 2025-12-31 14:33:11
 	name: Agent of Deception
 	casting_cost: 1U
 	image: image15.png
@@ -10895,7 +10895,7 @@ card:
 	toughness: 1
 	illustrator: Ognjen Sporin
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -10903,9 +10903,9 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Theros Fate
-		 !secret !design Zangy
+		  !design Zangy
 	time_created: 2025-11-19 16:32:07
-	time_modified: 2025-11-28 23:41:06
+	time_modified: 2025-12-31 14:33:27
 	name: Omen of Deception
 	casting_cost: 1U
 	image: image325
@@ -10931,7 +10931,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -10946,9 +10946,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		 !secret !design Zangy
+		  !design Zangy
 	time_created: 2025-11-24 03:22:05
-	time_modified: 2025-11-28 23:41:02
+	time_modified: 2025-12-31 14:33:41
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -10975,7 +10975,7 @@ card:
 	toughness: 1
 	illustrator: Arthie Oliveira
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by kattalist
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11030,9 +11030,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		 !secret !design Zangy
+		  !design Zangy
 	time_created: 2025-11-19 20:51:17
-	time_modified: 2025-11-29 01:55:47
+	time_modified: 2025-12-31 14:32:52
 	name: Walk the Dead’s Path
 	casting_cost: 1W
 	image: image328
@@ -11055,7 +11055,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andrew Maleski
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 

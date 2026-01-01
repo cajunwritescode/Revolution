@@ -6370,7 +6370,6 @@ card:
 	notes:
 		Art Validated
 		!renameof Devoted Lackies
-
 	time_created: 2023-02-27 20:20:46
 	time_modified: 2025-12-01 16:00:05
 	name: Devoted Lackeys
@@ -8565,9 +8564,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-		!update
+	notes: Art Validated
 	time_created: 2023-02-27 20:37:10
 	time_modified: 2025-12-03 17:56:58
 	card_color: black
@@ -11023,9 +11020,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:
-		Art Validated
-
+	notes: Art Validated
 	time_created: 2023-02-27 20:49:25
 	time_modified: 2025-11-29 00:39:27
 	name: High Senator Talpa
@@ -12938,7 +12933,6 @@ card:
 	notes:
 		!promo Kitsuo Mythmaker
 		!design Stasis
-		!update
 	time_created: 2025-04-11 20:42:07
 	time_modified: 2025-12-03 17:57:33
 	name: Serve Again
@@ -13041,10 +13035,10 @@ card:
 		remove_from_autocount: no
 		promo: yes
 	notes:
-		!noexport !promo Twiltrie Decree
+		 !promo Twiltrie Decree
 		!design Stasis
 	time_created: 2025-08-26 01:54:14
-	time_modified: 2025-11-29 00:17:09
+	time_modified: 2025-12-31 14:17:21
 	name: Chittering Gargantua
 	casting_cost: 8UB
 	image: image145
@@ -13069,7 +13063,7 @@ card:
 	illustrator: Ognjen Sporin
 	partition_select: after main set R
 	custom_card_number: 
-	card_code_text: 
+	card_code_text: Twiltrie Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13222,10 +13216,10 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Theros Fate
-		 !secret !design Stasis
+		  !design Stasis
 		!replacetoken FateSoldier;2
 	time_created: 2025-11-19 16:34:03
-	time_modified: 2025-11-29 00:27:02
+	time_modified: 2025-12-31 14:17:51
 	name: Flags on High
 	casting_cost: 1R
 	image: image149
@@ -13247,7 +13241,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Excursion Claimed by crushcastles23
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13396,11 +13390,11 @@ card:
 	notes:
 		Art Validated
 		!promo Eternal Excursion;Vereaux Hero
-		 !secret !design Stasis
+		  !design Stasis
 		!hidetag (Hero)
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-11-29 00:35:28
+	time_modified: 2025-12-31 14:18:18
 	card_color: red
 	card_color_2: red
 	name: Sparks of a Revolution
@@ -13432,8 +13426,8 @@ card:
 	illustrator: YunaXD
 	illustrator_2: Sina Hayati
 	partition_select: after main set S
-	card_code_text: 
-	card_code_text_2: 
+	card_code_text: Excursion Claimed by crushcastles23
+	card_code_text_2: Excursion Claimed by crushcastles23
 	card_code_text_3: 
 	copyright: Stasis
 	copyright_2: Stasis
@@ -13443,6 +13437,259 @@ card:
 		When <atom-cardname><nospellcheck>Sparks of a Revolution</nospellcheck></atom-cardname> enters, create a 1/1 colorless Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 		Three or more sources you controlled dealt damage this turn.
 		A source you controlled dealt 3 or more damage this turn.
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Stasis
+		CNY
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:28:07
+	name: Planned Obsolescence
+	casting_cost: W
+	image: image152
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>artifact, creature, or planeswalker</param-name></key></nospellcheck></kw-a>
+		When you control a permanent with mana value greater than enchanted permanent’s mana value, exile enchanted permanent.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: stuz0r
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Stasis
+		CNY
+		!inpend on it./add/ (If a permanent with a stun counter would become untapped, remove one from it instead.)
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:28:11
+	name: Dormant Monstrosity
+	casting_cost: 1U
+	image: image153
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Squid</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Dormant Monstrosity enters tapped with three <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> on it.
+		<sym-auto>1U</sym-auto>, Remove a counter from Dormant Monstrosity: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Vladimir Rikowski
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Stasis
+		CNY
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:28:15
+	name: Martyrize
+	casting_cost: R
+	image: image154
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature.
+		Exile the top X cards of your library, where X is the sacrificed creature’s power. Until the end of your next turn, you may play those cards.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Cinemamind
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Stasis
+		CNY
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:28:20
+	name: Bulk Bioengineering
+	casting_cost: 2G
+	image: image155
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		You can’t cast noncreature spells.
+		Creature spells you cast cost <sym-auto>X</sym-auto> less to cast, where X is the greatest power among creatures you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Riccardo Gualdi
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Stasis
+		CNY
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:28:24
+	name: Axiomatic Shift
+	casting_cost: XGW
+	image: image156
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		As an additional cost to cast this spell, remove any number of counters from among creatures you control. This spell costs <sym-auto>1</sym-auto> less to cast for each counter removed this way.
+		Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mariusz Lewandowski
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Stasis
+		CNY
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:28:27
+	name: Redeveloped Cityscape
+	casting_cost: 
+	image: image157
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Redeveloped Cityscape</nospellcheck></atom-cardname>: Search your library for a basic land card and put it onto the battlefield tapped. Then you may exile a land card from your hand. If you do, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Craig Shoji
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 
 keyword:
 	keyword: Pledge

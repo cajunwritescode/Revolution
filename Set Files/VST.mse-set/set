@@ -4937,10 +4937,10 @@ card:
 		overlay: 
 	notes:
 		karn flavor text<soft-line>
-		<soft-line>
+		 nerfed: Target now restricted types.<soft-line>
 		Expeditioners never know if it will take days, weeks, or months to find something worth their trouble.</soft-line></soft-line>
 	time_created: 2017-10-16 23:16:40
-	time_modified: 2024-04-24 22:21:18
+	time_modified: 2025-12-31 14:59:12
 	name: Survey What’s Left
 	casting_cost: 2W
 	image: image247
@@ -4954,7 +4954,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Exile two target permanents you control, then return those cards to the battlefield under your control.
+	rule_text: Exile two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under your control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
@@ -9229,9 +9229,9 @@ card:
 		overlay: 
 	notes:
 		!design Reuben
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
-	time_modified: 2025-11-28 18:27:25
+	time_modified: 2025-12-31 14:57:49
 	name: Runic Sealer
 	casting_cost: 2W
 	image: image144
@@ -9256,7 +9256,7 @@ card:
 	toughness: 3
 	illustrator: Polina Graf
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excurson Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 
@@ -9265,9 +9265,9 @@ card:
 	has_styling: false
 	notes:
 		!design Reuben
-		!secret  !promo Eternal Excursion;Theros Fate
+		 !promo Eternal Excursion;Theros Fate
 	time_created: 2025-11-19 16:33:58
-	time_modified: 2025-11-28 18:27:19
+	time_modified: 2025-12-31 14:57:35
 	name: Render Inert
 	casting_cost: 1U
 	image: image148
@@ -9290,7 +9290,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 

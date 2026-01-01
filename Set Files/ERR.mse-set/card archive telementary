@@ -1,0 +1,59 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		frames: borderless art, leveler
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		font_cap: 11
+		level_offset: 13,5,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design DrChipmunk
+		ERR
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 18:54:18
+	card_color: blue, land
+	name: Archive Telementary
+	casting_cost: 
+	image: image234
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1: 1-2
+	level_2: 3+
+	level_1_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto><soft-line>
+		</soft-line>This land enters tapped.<soft-line>
+		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>UUU</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+	level_2_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a><soft-line>
+		</soft-line>This land is also a creature.
+	level_3_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a><soft-line>
+		</soft-line>This land is also a creature.
+	power_2: 1
+	power_3: 4
+	toughness_2: 6
+	toughness_3: 9
+	illustrator: Mariusz Lewandowski
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

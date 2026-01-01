@@ -6254,9 +6254,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: Now life payment instead of loss.
 	time_created: 2022-01-03 08:06:10
-	time_modified: 2023-12-31 19:18:48
+	time_modified: 2025-12-31 14:31:42
 	name: Marked Passage
 	casting_cost: BB
 	image: image209
@@ -6266,7 +6266,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: You lose life equal to the number of cards you’ve drawn this turn, then draw a card. You may repeat this process any number of times.
+	rule_text: Pay life equal to the number of cards you’ve drawn this turn, then draw a card. You may repeat this process any number of times.
 	flavor_text: <i-flavor><error-spelling:en_US>Narzi</error-spelling:en_US> knew she would likely never return to the <error-spelling:en_US>Mokar</error-spelling:en_US>, but she had a hunch that this <error-spelling:en_US>Thoveus</error-spelling:en_US> had something to do with the <error-spelling:en_US>Elders’</error-spelling:en_US> reawakening.</i-flavor>
 	illustrator: Ling Xiang
 	custom_card_number: 
@@ -6750,7 +6750,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: Was flashback {2}{G}{G} and created Saprolings for each permanent card you owned in exile as well.
+	notes: nerfed: Was flashback {2}{G}{G} and created Saprolings for each permanent card you owned in exile as well.
 	time_created: 2022-01-04 19:20:41
 	time_modified: 2025-10-29 22:01:35
 	name: Spore Spawning
@@ -9383,7 +9383,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
-		
+
 	time_created: 2023-12-22 16:20:17
 	time_modified: 2025-11-28 23:49:40
 	name: Swelling Terror
@@ -9449,7 +9449,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		
+
 	time_created: 2023-12-22 16:49:33
 	time_modified: 2025-11-28 23:51:47
 	name: Elder Eras
@@ -9863,7 +9863,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		!update !design Dodger
+		!design Dodger
 	time_created: 2025-11-28 21:39:56
 	time_modified: 2025-12-02 14:08:54
 	name: All That Remains
@@ -9954,10 +9954,10 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		 !secret !design Dodger
+		  !design Dodger
 		!hidetag (KUT)
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 00:04:23
+	time_modified: 2025-12-31 14:31:12
 	name: Abominable Avalanche
 	casting_cost: 1RG
 	image: image316
@@ -9981,7 +9981,7 @@ card:
 	toughness: 
 	illustrator: kerem-beyit
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Excursion Claimed by HSquid
 	card_code_text_2: 
 	card_code_text_3: 
 

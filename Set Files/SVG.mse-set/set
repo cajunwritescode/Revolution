@@ -7124,9 +7124,9 @@ card:
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text:
 		<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i>
-		Destroy all other creatures and enchantments.
+		I — Destroy all other creatures and enchantments.
 		<kw-a><nospellcheck><key><param-mill>M<kw-a>ill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile it instead.
+		II, III — Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile it instead.
 
 card:
 	stylesheet: m15-mainframe-tokens
@@ -7487,7 +7487,7 @@ card:
 		!design Occo
 		!secret  !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 16:47:08
-	time_modified: 2025-11-28 20:22:57
+	time_modified: 2025-12-31 14:50:33
 	name: Dawnglade Cultivator
 	casting_cost: G
 	image: image240
@@ -7509,7 +7509,7 @@ card:
 	toughness: 1
 	illustrator: XU Sheldon
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by CatInTree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -7555,7 +7555,7 @@ card:
 		!design Occo
 		!secret  !promo Eternal Excursion;Theros Fate
 	time_created: 2025-11-19 16:31:44
-	time_modified: 2025-11-28 20:23:45
+	time_modified: 2025-12-31 14:50:18
 	name: Dark Covenant
 	casting_cost: B
 	image: image243
@@ -7577,7 +7577,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -7622,8 +7622,8 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
-		Exile the top five cards of your library.
-		Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
+		I, II — Exile the top five cards of your library.
+		III, IV — Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
 		​
 
 card:
@@ -7640,9 +7640,9 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-28 20:27:28
+	time_modified: 2025-12-31 14:49:57
 	name: Banish to the Ice
 	casting_cost: 1W
 	image: image247
@@ -7668,7 +7668,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: john-park
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -7686,9 +7686,9 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-28 20:28:03
+	time_modified: 2025-12-31 14:51:04
 	name: Mistwreath Stones
 	casting_cost: 1
 	image: image248
@@ -7721,7 +7721,7 @@ card:
 	toughness: 
 	illustrator: maria-markiewicz
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -7739,9 +7739,9 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!secret  !promo Eternal Excursion;Chikyu Foil
+		 !promo Eternal Excursion;Chikyu Foil
 	time_created: 2020-10-24 15:58:10
-	time_modified: 2025-11-28 20:29:16
+	time_modified: 2025-12-31 14:50:48
 	name: Ferocious Flame
 	casting_cost: R
 	image: image245
@@ -7755,7 +7755,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: misica
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Epid
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: [Custom] ™&© Wizards of the Coast
@@ -7777,7 +7777,7 @@ card:
 		overlay: 
 	notes:
 		!design Occo
-		!update !promo Eternal Excursion;Chikyu Foil;Shiny Hunt
+		 !promo Eternal Excursion;Chikyu Foil;Shiny Hunt
 		!hidetag ★
 	time_created: 2020-10-24 15:58:10
 	time_modified: 2025-12-02 14:12:01

@@ -4638,9 +4638,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  eerfed: Can now only be activated as a sorcery.
 	time_created: 2019-08-29 22:21:13
-	time_modified: 2021-10-27 22:46:42
+	time_modified: 2025-12-31 14:46:58
 	name: Amethryn Hoarder
 	casting_cost: 4BB
 	image: image267
@@ -4657,7 +4657,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Amethryn Hoarder</nospellcheck></atom-cardname> enters, crystallize. <i-auto>(Put a +1/+1 counter on a creature you control or create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.)</i-auto>
-		Sacrifice three artifacts and/or creatures: Return <atom-cardname><nospellcheck>Amethryn Hoarder</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped.
+		Sacrifice three artifacts and/or creatures: Return <atom-cardname><nospellcheck>Amethryn Hoarder</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped. Activate only as a sorcery.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -10895,7 +10895,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 21:21:52
 	time_modified: 2025-11-28 21:30:06
 	name: Transgress Identity
@@ -10936,7 +10936,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 21:19:17
 	time_modified: 2025-11-28 21:30:48
 	name: Mystic Gladetender
@@ -10979,7 +10979,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Theros Fate
-		
+
 	time_created: 2023-08-18 19:14:11
 	time_modified: 2025-11-28 21:31:18
 	name: Kaleidoscape
@@ -11021,7 +11021,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 21:14:25
 	time_modified: 2025-11-28 21:31:27
 	name: Duplicats
@@ -11064,7 +11064,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 00:32:00
 	time_modified: 2025-11-28 21:28:19
 	name: Riftguard Knight
@@ -11107,7 +11107,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 21:36:59
 	time_modified: 2025-11-28 21:28:04
 	name: Tragic Performer
@@ -11148,7 +11148,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 00:27:41
 	time_modified: 2025-11-28 21:27:42
 	name: Draconic Aspirant
@@ -11189,7 +11189,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 21:17:10
 	time_modified: 2025-11-28 21:27:13
 	name: Elseworld Cryptid
@@ -11232,7 +11232,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 00:33:02
 	time_modified: 2025-11-28 21:26:56
 	name: Ukshu Task Mage
@@ -11275,7 +11275,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 21:34:21
 	time_modified: 2025-11-28 21:26:41
 	name: A World Forgotten
@@ -11316,7 +11316,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2020-09-08 00:09:21
 	time_modified: 2025-11-28 21:26:24
 	name: Doppelgang
@@ -11436,7 +11436,7 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-		
+
 	time_created: 2021-12-28 00:18:44
 	time_modified: 2024-04-29 22:11:59
 	name: Commune with Dragons
@@ -11462,10 +11462,10 @@ card:
 	has_styling: false
 	notes:
 		!design zarepath
-		!secret  !promo Eternal Excursion;Theros Fate
+		 !promo Eternal Excursion;Theros Fate
 		!replacetoken FateReflection;1
 	time_created: 2025-11-19 16:33:55
-	time_modified: 2025-12-01 15:54:30
+	time_modified: 2025-12-31 14:45:06
 	name: Course of Correction
 	casting_cost: 1W
 	image: image69
@@ -11487,7 +11487,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tyler Miles Lockett
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11534,9 +11534,9 @@ card:
 		overlay: 
 	notes:
 		!design zarepath
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
-	time_modified: 2025-11-28 21:35:10
+	time_modified: 2025-12-31 14:45:48
 	name: Fatal Flaw
 	casting_cost: 1B
 	image: image71
@@ -11556,7 +11556,7 @@ card:
 	flavor_text: <i-flavor>“When I break, is it my fault for being so fragile or the heaven’s fault for insisting that I must be unbreakable?”</i-flavor>
 	illustrator: WLOP
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11566,9 +11566,9 @@ card:
 	has_styling: false
 	notes:
 		!design zarepath
-		!secret  !promo Eternal Excursion;Twiltrie Decree
+		 !promo Eternal Excursion;Twiltrie Decree
 	time_created: 2025-11-19 17:58:00
-	time_modified: 2025-11-28 21:35:06
+	time_modified: 2025-12-31 14:44:54
 	name: Conjoined Irradiant
 	casting_cost: 2R
 	image: image73
@@ -11592,7 +11592,7 @@ card:
 	toughness: 1
 	illustrator: Ognjen Sporin
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by CatInTree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11639,9 +11639,9 @@ card:
 		overlay: 
 	notes:
 		!design zarepath
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
-	time_modified: 2025-11-28 21:34:52
+	time_modified: 2025-12-31 14:45:31
 	name: Dreamfall
 	casting_cost: 1WWU
 	image: image75
@@ -11664,7 +11664,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Schumpert
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11811,9 +11811,9 @@ card:
 		overlay: 
 	notes:
 		!design zarepath
-		!update !promo Eternal Excursion;Kitsuo Mythmaker
+		 !promo Eternal Excursion;Kitsuo Mythmaker
 	time_created: 2025-11-19 17:40:57
-	time_modified: 2025-12-02 14:10:52
+	time_modified: 2025-12-31 14:46:52
 	name: Amethryn Hoarder
 	casting_cost: 4BB
 	image: image80
@@ -11832,7 +11832,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Amethryn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Hoarder enters, crystallize. <i-auto>(Put a +1/+1 counter on a creature you control or create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.)</i-auto>
-		Sacrifice three artifacts and/or creatures: Return <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Amethryn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Hoarder from your graveyard to the battlefield tapped.
+		Sacrifice three artifacts and/or creatures: Return <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Amethryn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Hoarder from your graveyard to the battlefield tapped. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -11848,10 +11848,10 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		!secret  !design zarepath
+		 !design zarepath
 		!inpend > /replace/
 	time_created: 2020-05-26 11:25:14
-	time_modified: 2025-11-28 21:38:34
+	time_modified: 2025-12-31 14:44:41
 	name: Chromatic Shard
 	casting_cost: 2
 	image: image1.png
@@ -11870,7 +11870,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Almanegra
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Unofficial Fan Set, Not For Sale

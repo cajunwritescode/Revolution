@@ -10684,9 +10684,9 @@ card:
 	has_styling: false
 	notes:
 		!design Matt
-		!secret  !promo Eternal Excursion;Chikyu Foil
+		 !promo Eternal Excursion;Chikyu Foil
 	time_created: 2019-04-30 19:56:49
-	time_modified: 2025-12-01 15:26:20
+	time_modified: 2025-12-31 14:53:21
 	name: Serene Mediator
 	casting_cost: WU
 	image: image283
@@ -10709,7 +10709,7 @@ card:
 	illustrator: Sa-Dui
 	partition_select: after main set Q
 	custom_card_number: 
-	card_code_text: 
+	card_code_text: Excursion Claimed by Cajun
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Design — Matt
@@ -10764,12 +10764,12 @@ card:
 	stylesheet_version: 2024-05-26
 	has_styling: false
 	notes:
-		!secret  !promo Eternal Excursion;Weft Terminal<soft-line>
+		 !promo Eternal Excursion;Weft Terminal<soft-line>
 		!design Matt</soft-line>
 		!inpend > /replace/
 		!append (This creature can’t be the target of spells or abilities your opponents control with mana value 3 or less.)
 	time_created: 2020-04-26 18:31:34
-	time_modified: 2025-11-28 19:02:26
+	time_modified: 2025-12-31 14:53:38
 	name: Wilderkin Behemoth
 	casting_cost: 1RGW
 	image: image1.png
@@ -10791,7 +10791,7 @@ card:
 	toughness: 5
 	illustrator: Liiga Smilshkalne
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Epid
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: © Wizards of the Coast

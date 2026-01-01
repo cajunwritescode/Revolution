@@ -4120,7 +4120,6 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		
 	time_created: 2025-06-10 00:06:12
 	time_modified: 2025-12-01 15:55:56
 	name: Outlive Usefulness
@@ -5890,7 +5889,6 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
-		
 	time_created: 2025-06-10 00:06:12
 	time_modified: 2025-12-01 15:58:35
 	name: Huskforger Acolyte
@@ -6609,7 +6607,7 @@ card:
 		!tag Twiltrie
 		!tag Thistrel
 	time_created: 2025-06-10 00:40:45
-	time_modified: 2025-08-31 15:09:07
+	time_modified: 2025-12-12 19:32:40
 	name: Dance of the Three Courts
 	casting_cost: 1U
 	image: image58.png
@@ -6627,7 +6625,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Spells you cast cost <sym-auto>1</sym-auto> less to cast for each permanent you control and each card in your graveyard with the same name as that spell.
-		Permanents you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>X</sym-auto></param-cost></key></nospellcheck></kw-0>, where X is the number of permanents you control that share a name with them.
+		Permanents you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>X</sym-auto></param-cost></key></nospellcheck></kw-0>, where X is the number of permanents you control with the same name <i-auto>(including itself.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Agustin Marceillac
 	card_code_text: 
@@ -11770,15 +11768,13 @@ card:
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
-	notes: TWI !noexport !promo Twiltrie Decree
+	has_styling: false
+	notes: TWI  !promo Twiltrie Decree
 	time_created: 2025-08-11 17:53:58
-	time_modified: 2025-08-31 19:52:35
+	time_modified: 2025-12-31 20:00:01
 	name: Dreamswept Duelist
 	casting_cost: 2R
-	image: image4
+	image: image331.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -11790,7 +11786,7 @@ card:
 	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		Creatures you control becoming blocked causes abilities of that creature to trigger as if they dealt damage to the player or permanent it’s attacking.
+		Creatures you control becoming blocked causes abilities of that creature to trigger as if they dealt damage to the player or permanent they’re attacking.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -11802,7 +11798,7 @@ card:
 	toughness: 2
 	illustrator: Ognjen Sporin
 	partition_select: after main set P
-	card_code_text: 
+	card_code_text: Twiltrie Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11856,9 +11852,9 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		TWI !noexport !promo Twiltrie Decree
+		TWI  !promo Twiltrie Decree
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 19:52:11
+	time_modified: 2025-12-31 14:16:16
 	name: Angler of the Crushing Sea
 	casting_cost: 6U
 	image: image6
@@ -11889,7 +11885,7 @@ card:
 	toughness: 5
 	illustrator: Ognjen Sporin
 	partition_select: after main set P
-	card_code_text: 
+	card_code_text: Twiltrie Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12267,9 +12263,9 @@ card:
 		!tag Twiltrie
 		!tag Sunvrath
 		TribalCouple Cycle
-		TWI !noexport !promo Twiltrie Decree
+		TWI  !promo Twiltrie Decree
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-10-29 21:42:12
+	time_modified: 2025-12-31 14:19:25
 	name: Evangel of Severed Doubt
 	casting_cost: 1RR
 	image: image15
@@ -12300,7 +12296,7 @@ card:
 	toughness: 3
 	illustrator: Art of Li
 	partition_select: after main set P
-	card_code_text: 
+	card_code_text: Twiltrie Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12442,9 +12438,9 @@ card:
 	has_styling: true
 	styling_data:
 		promo: yes
-	notes: TWI !noexport !promo Twiltrie Decree
+	notes: TWI  !promo Twiltrie Decree
 	time_created: 2025-08-25 23:18:56
-	time_modified: 2025-08-31 19:52:49
+	time_modified: 2025-12-31 14:16:07
 	name: Commander of the Vow
 	casting_cost: 1GG
 	image: image19
@@ -12471,7 +12467,7 @@ card:
 	toughness: 1
 	illustrator: Art of Li
 	partition_select: after main set P
-	card_code_text: 
+	card_code_text: Twiltree Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12521,9 +12517,9 @@ card:
 	has_styling: true
 	styling_data:
 		promo: yes
-	notes: TWI !noexport !promo Twiltrie Decree
+	notes: TWI  !promo Twiltrie Decree
 	time_created: 2025-08-26 01:54:14
-	time_modified: 2025-08-31 19:53:22
+	time_modified: 2025-12-31 14:19:43
 	name: Cruxborn Tyrant
 	casting_cost: BG
 	image: image21
@@ -12550,7 +12546,7 @@ card:
 	toughness: 2
 	illustrator: Art of Li
 	partition_select: after main set P
-	card_code_text: 
+	card_code_text: Twiltrie Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12561,10 +12557,10 @@ card:
 	styling_data:
 		promo: yes
 	notes:
-		TWI !noexport !promo Twiltrie Decree
+		TWI  !promo Twiltrie Decree
 		!design Zangy
 	time_created: 2025-08-26 01:54:14
-	time_modified: 2025-10-29 21:43:05
+	time_modified: 2025-12-31 14:20:00
 	name: Vow to Conquer
 	casting_cost: 1RW
 	image: image22
@@ -12592,7 +12588,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Ognjen Sporin
 	partition_select: after main set P
-	card_code_text: 
+	card_code_text: Twiltrie Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12662,7 +12658,6 @@ card:
 	notes:
 		!exportname Weftserker
 		!tokentag Weftserker
-		
 	time_created: 2025-06-25 05:37:59
 	time_modified: 2025-11-29 01:53:44
 	card_color: red
@@ -12822,8 +12817,9 @@ card:
 	notes:
 		!promo Eternal Excursion;Chikyu Foil;Shiny Hunt
 		 !secret !design Zangy
+		!hidetag ★
 	time_created: 2025-06-09 23:36:58
-	time_modified: 2025-11-23 21:05:09
+	time_modified: 2025-12-31 14:20:56
 	name: Sanctum of Repression
 	casting_cost: 1W
 	image: image28
@@ -12844,7 +12840,7 @@ card:
 		When <atom-cardname><nospellcheck>Sanctum of Repression</nospellcheck></atom-cardname> enters, exile target nonland permanent you don’t control until <atom-cardname><nospellcheck>Sanctum of Repression</nospellcheck></atom-cardname> leaves the battlefield if it reprieved a creature or that permanent’s mana value is 3 or less.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: twarda8
-	custom_card_number: 
+	custom_card_number: 1336
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12853,10 +12849,9 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		 !secret !design Zangy
-		!hidetag ★
+		 t !design Zangy
 	time_created: 2025-06-09 23:36:58
-	time_modified: 2025-11-29 01:59:30
+	time_modified: 2025-12-31 14:20:23
 	name: Sanctum of Repression
 	casting_cost: 1W
 	image: image29
@@ -12878,7 +12873,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: twarda8
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12981,10 +12976,10 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Vereaux Hero
-		 !secret !design Zangy
+		  !design Zangy
 		!hidetag (Hero)
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 02:05:04
+	time_modified: 2025-12-31 14:21:38
 	name: Discern
 	casting_cost: U
 	image: image32
@@ -13008,7 +13003,7 @@ card:
 	toughness: 
 	illustrator: yami-no-kuni
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13025,9 +13020,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Vereaux Hero
-		 !secret !design Zangy
+		  !design Zangy
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 02:04:08
+	time_modified: 2025-12-31 14:22:10
 	name: Trauma Spike
 	casting_cost: 1UB
 	image: image33
@@ -13051,6 +13046,291 @@ card:
 	toughness: 
 	illustrator: kerem-beyit
 	partition_select: after main set Q
+	card_code_text: Excursion Claimed by Lih
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Zangy
+		TWI
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:09:24
+	name: Bleed for the Cause
+	casting_cost: B
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Create a 2/2 black Zombie creature token with “This creature can’t block.” You lose 1 life.
+		At the beginning of your end step, if you’ve lost 3 or more life this turn, return Bleed for the Cause from your graveyard to your hand.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: Adam Burke
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Zangy
+		TWI
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:09:29
+	name: Culling Ritual
+	casting_cost: 2BG
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Destroy each nonland permanent with mana value 2 or less. Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto> for each permanent destroyed this way.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: Sabrina Normani
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Zangy
+		TWI
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:09:33
+	name: Deafening Clarion
+	casting_cost: 1RW
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Choose one or both —
+		<li><bullet>• </bullet>Deafening Clarion deals 3 damage to each creature.
+		</li><li><bullet>• </bullet>Creatures you control gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</li>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Edwin Sablaya
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Pipsqueak
+		TWI
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:09:37
+	name: Destructive Ambition
+	casting_cost: UB
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Counter target monocolored spell. Its controller loses 2 life.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: Adam Burke
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Zangy
+		TWI
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:09:42
+	name: Uplifting Chorus
+	casting_cost: 1UR
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: You may discard your hand. If you do, exile the top X cards of your library, where X is the number of creatures you control. You may play those cards until the end of your next turn.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: CREADFECTUS
+	partition_select: after main set R
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Zangy
+		TWI
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:09:50
+	name: Crumbling Ruin
+	casting_cost: 
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Target nonbasic land you don’t control and Crumbling Ruin each lose all abilities and gain “<sym-auto>T</sym-auto>: Add one mana of any color.”
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: Logan Feliciano
+	partition_select: after main set R
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

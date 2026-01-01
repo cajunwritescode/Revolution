@@ -2857,11 +2857,13 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: CW 17
+	notes:
+		CW 17
+		 nerfed: Was {1}{W} and could flicker lands.
 	time_created: 2019-12-01 11:34:00
-	time_modified: 2021-05-22 00:45:37
+	time_modified: 2025-12-31 14:43:40
 	name: Redeploy
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image92
 	image_2: 
 	mainframe_image: 
@@ -2869,7 +2871,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Exile target permanent you control, then return it to the battlefield under its owner’s control.
+		Exile target nonland permanent you control, then return it to the battlefield under its owner’s control.
 		Draw a card.
 	flavor_text: <i-flavor>The Queen’s First are tasked with providing immediate relief across the front.</i-flavor>
 	illustrator: Piotr Arendzikowski
@@ -7356,8 +7358,8 @@ card:
 	special_text:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto> 
 		Whenever you attack, each defending player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		Each defending player loses 3 life unless they sacrifice a nonland permanent or discard a card.
-		Return a creature card from a graveyard to the battlefield tapped under your control. 
+		[f], [f] — Each defending player loses 3 life unless they sacrifice a nonland permanent or discard a card.
+		[f] — Return a creature card from a graveyard to the battlefield tapped under your control. 
 
 card:
 	stylesheet: m15-mainframe-planeswalker
@@ -7451,8 +7453,8 @@ card:
 	special_text:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto> 
 		Whenever you attack, exile the top two cards of your library. You may play a card exiled with <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> this turn.
-		Create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.
-		When you next cast a spell this turn, <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> deals damage equal to that spell’s mana value to any target.
+		[f], [f] — Create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.
+		[f] — When you next cast a spell this turn, <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> deals damage equal to that spell’s mana value to any target.
 
 card:
 	has_styling: true
@@ -7824,8 +7826,8 @@ card:
 	special_text:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto>
 		When <atom-cardname><nospellcheck>The Battle Beneath</nospellcheck></atom-cardname> enters, up to two target creatures can’t block or become blocked this turn.
-		Whenever one or more creatures you control deal damage to an opponent this turn, draw a card.
-		Whenever one or more creatures you control deal damage to an opponent this turn, that player discards a card.
+		[f] — Whenever one or more creatures you control deal damage to an opponent this turn, draw a card.
+		[f] — Whenever one or more creatures you control deal damage to an opponent this turn, that player discards a card.
 
 card:
 	stylesheet: m15-saga
@@ -8422,8 +8424,8 @@ card:
 	special_text:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto> 
 		Whenever you attack, create two tapped and attacking 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
-		Attacking creatures get +1/+1 until end of turn.
-		Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
+		[f] — Attacking creatures get +1/+1 until end of turn.
+		[f], [f] — Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
 
 card:
 	has_styling: false
@@ -9393,8 +9395,8 @@ card:
 	special_text:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto>
 		Whenever you attack, create two tapped and attacking 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
-		Attacking creatures get +1/+1 until end of turn.
-		Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
+		[f] — Attacking creatures get +1/+1 until end of turn.
+		[f], [f] — Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
 
 card:
 	stylesheet: fallout
@@ -9754,12 +9756,12 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		 !secret !design Bergland
+		  !design Bergland
 		!inpend > /replace/
 	time_created: 2019-12-01 11:34:00
-	time_modified: 2025-12-01 15:12:54
+	time_modified: 2025-12-31 14:43:31
 	name: Redeploy
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image1.png
 	image_2: 
 	mainframe_image: 
@@ -9771,12 +9773,12 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		> Exile target permanent you control, then return it to the battlefield under its owner’s control.
+		> Exile target nonland permanent you control, then return it to the battlefield under its owner’s control.
 		> Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Izabela Kasuba-Marczesak
 	custom_card_number: 288
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Design: Bergland

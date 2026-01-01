@@ -9991,9 +9991,9 @@ card:
 		overlay: 
 	notes:
 		!design CanterburyEgg
-		!secret  !promo Eternal Excursion
+		 !promo Eternal Excursion
 	time_created: 2025-11-24 03:22:05
-	time_modified: 2025-11-28 19:37:40
+	time_modified: 2025-12-31 14:52:27
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -10023,7 +10023,7 @@ card:
 	toughness: 2
 	illustrator: Dat Phan
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -10081,10 +10081,10 @@ card:
 	has_styling: false
 	notes:
 		!design Cajun
-		!secret  !promo Eternal Excursion;Weft Terminal
+		 !promo Eternal Excursion;Weft Terminal
 		!inpend > /replace/
 	time_created: 2020-08-10 23:57:49
-	time_modified: 2025-12-01 15:07:27
+	time_modified: 2025-12-31 14:52:04
 	name: Cursory Glance
 	casting_cost: 1U
 	image: image1.png
@@ -10108,7 +10108,7 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	illustrator: Marina Beldiman
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 

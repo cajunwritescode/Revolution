@@ -12228,11 +12228,11 @@ card:
 	styling_data:
 		promo: yes
 	notes:
-		!noexport !promo Twiltrie Decree
+		 !promo Twiltrie Decree
 		!design Provocative
 		!hidetag (Decree)
 	time_created: 2025-08-25 23:00:22
-	time_modified: 2025-08-31 20:43:18
+	time_modified: 2025-12-31 14:23:45
 	name: Kage, Cursed Conqueror
 	casting_cost: 4BBB
 	image: image257
@@ -12253,7 +12253,7 @@ card:
 	toughness: 7
 	illustrator: Art of Li
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Twiltrie Decree
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12377,9 +12377,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		 !secret
+		 
 	time_created: 2025-11-24 10:23:20
-	time_modified: 2025-11-29 01:04:18
+	time_modified: 2025-12-31 14:24:11
 	name: Forest
 	image: image278
 	image_2: 
@@ -12398,6 +12398,260 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sarah Janssen
 	partition_select: after main set R
+	card_code_text: Excursion Claimed by AllWhoWander
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Provocative
+		KDT
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:21:33
+	name: Welkin Eviction
+	casting_cost: 6W
+	image: image282
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		This spell costs <sym-auto>X</sym-auto> less to cast, where X is the number of Plains you control plus the number of cards with a cycling ability in your graveyard.
+		When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+		<kw-0><nospellcheck><key><param-one_word>Plains</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: VookaSheen
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Provocative
+		KDT
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:21:38
+	name: Path’s End
+	casting_cost: 2WWU
+	image: image283
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		This spell can’t be countered.
+		Destroy all permanents without activated abilities.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Burke
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Provocative
+		KDT
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:21:42
+	name: Ruinous Portents
+	casting_cost: 1BBRR
+	image: image284
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Sacrifice any number of permanents. Ruinous Portents deals X damage to each creature your opponents control and you draw X cards, where X is the number of permanents sacrificed this way.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ken Sarafin
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Provocative
+		KDT
+		!append  ({R/G}, Discard this card: Draw a card.)
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:21:47
+	name: Foreign Encounter
+	casting_cost: 1RG
+	image: image286
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Look at the top six cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield. It enters with an additional +1/+1 counter on it. Put the rest on the bottom of your library in a random order.
+		<kw-0><nospellcheck><key>Cycling <param-cost><sym-auto>R/G</sym-auto></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jason Engle
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Provocative
+		KDT
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:21:52
+	name: Assaulted by Shadows
+	casting_cost: GU
+	image: image290
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Choose target creature you control. When that creature leaves the battlefield this turn, choose one —
+		<li><bullet>• </bullet>Create a token that’s a copy of it.
+		</li><li><bullet>• </bullet>Search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: QAuZ
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!secret !update !promo Solastere Calamity
+		!design Stasis
+		KDT
+	time_created: 2025-12-26 09:51:59
+	time_modified: 2025-12-31 17:21:56
+	name: Faces of the Faceless
+	casting_cost: 2
+	image: image292
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Cards can’t leave graveyards. <i-auto>(Including by being cast.)</i-auto>
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Pär Olofsson
+	partition_select: after main set S
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
