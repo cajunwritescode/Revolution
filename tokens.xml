@@ -204,9 +204,9 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Skophos Conjuror_TRX</reverse-related>
  <reverse-related>Slighos the Body-Binder_TRX</reverse-related>
  <reverse-related>Stormscraper of Ketaphos_TRX</reverse-related>
- <reverse-related>Chronicle of Precedence</reverse-related>
- <reverse-related>Cradle of Rebirth</reverse-related>
- <reverse-related>Join the Forebears</reverse-related>
+ <reverse-related>Chronicle of Precedence_OLD</reverse-related>
+ <reverse-related>Cradle of Rebirth_OLD</reverse-related>
+ <reverse-related>Join the Forebears_OLD</reverse-related>
  <reverse-related>Alien Pledge</reverse-related>
  <reverse-related>Beguiling Stewards</reverse-related>
  <reverse-related>Cast Reflection</reverse-related>
@@ -263,6 +263,9 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Trickery</reverse-related>
  <reverse-related>Undertide Scout</reverse-related>
  <reverse-related>Whisperthorn Weaver</reverse-related>
+ <reverse-related>Cascade Channeller</reverse-related>
+ <reverse-related>Piscus Duosia</reverse-related>
+ <reverse-related>Sunweaver Lysele</reverse-related>
  <reverse-related>Yaeji, Resplendent Idol_REV</reverse-related>
  <reverse-related>Doppelgang_PRO_KRS</reverse-related>
  <reverse-related>Variant Handler (Mobius M. Mobius)_KRS</reverse-related>
@@ -274,6 +277,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Survivors of the New World_PRO_CNY</reverse-related>
  <reverse-related>Dustwing Butterfly_PRO_CCR</reverse-related>
  <reverse-related>Aonuma, Princely Traveler_PRO_KDT</reverse-related>
+ <reverse-related>Assaulted by Shadows_PRO_KDT</reverse-related>
  <reverse-related>Elder Tattooist_PRO_KDT</reverse-related>
  <reverse-related>Equanimity_PRO_KDT</reverse-related>
  <reverse-related>Thistrel Charm_PRO_TWI</reverse-related>
@@ -301,8 +305,8 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Kywon's Testing Grounds</reverse-related>
- <reverse-related>Lofty Frontiers</reverse-related>
- <reverse-related>Lofty Frontiers</reverse-related>
+ <reverse-related>Lofty Frontiers_OLD</reverse-related>
+ <reverse-related>Lofty Frontiers_OLD</reverse-related>
  <set num="PLANE5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/PLANE5.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -456,15 +460,15 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Shrine to Purphoros_TRX</reverse-related>
  <reverse-related>The Path of Phenax_TRX</reverse-related>
  <reverse-related>Zakros Stompers_TRX</reverse-related>
- <reverse-related>Crux, Chainer of Titans</reverse-related>
- <reverse-related>Face of the Phoenix</reverse-related>
- <reverse-related>Fumebloom</reverse-related>
- <reverse-related>Grasping Ancient</reverse-related>
- <reverse-related>Harvesting Blade</reverse-related>
- <reverse-related>Igneous Visions</reverse-related>
- <reverse-related>Rano's Slopeguard</reverse-related>
- <reverse-related>Sporeback Jargah</reverse-related>
- <reverse-related>Traverse the Ley-Runes</reverse-related>
+ <reverse-related>Crux, Chainer of Titans_OLD</reverse-related>
+ <reverse-related>Face of the Phoenix_OLD</reverse-related>
+ <reverse-related>Fumebloom_OLD</reverse-related>
+ <reverse-related>Grasping Ancient_OLD</reverse-related>
+ <reverse-related>Harvesting Blade_OLD</reverse-related>
+ <reverse-related>Igneous Visions_OLD</reverse-related>
+ <reverse-related>Rano's Slopeguard_OLD</reverse-related>
+ <reverse-related>Sporeback Jargah_OLD</reverse-related>
+ <reverse-related>Traverse the Ley-Runes_OLD</reverse-related>
  <reverse-related>Callisto, the Teqiarch</reverse-related>
  <reverse-related>Callisto's Confiscation</reverse-related>
  <reverse-related>Dawn of Peace</reverse-related>
@@ -530,6 +534,42 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Unmaker of Thought</reverse-related>
  <reverse-related>Uplifting Chorus</reverse-related>
  <reverse-related>Weaver of Brooding Threads</reverse-related>
+ <reverse-related>Alwanor, the Humbled Star</reverse-related>
+ <reverse-related>Aspus Venefir</reverse-related>
+ <reverse-related>Asulio, the Watchful Star</reverse-related>
+ <reverse-related>Balaenos Cresetis</reverse-related>
+ <reverse-related>Black Dawn Historian</reverse-related>
+ <reverse-related>Cereus Aegosa</reverse-related>
+ <reverse-related>Coria Portenus</reverse-related>
+ <reverse-related>Cornus Asarei</reverse-related>
+ <reverse-related>Daemos Letheus</reverse-related>
+ <reverse-related>Daemos Tormandus</reverse-related>
+ <reverse-related>Darksun Migrant</reverse-related>
+ <reverse-related>Draconos Magistus</reverse-related>
+ <reverse-related>Draconos Tyrannos</reverse-related>
+ <reverse-related>Eltanaan, the Silent Star</reverse-related>
+ <reverse-related>Ignavis Immatus</reverse-related>
+ <reverse-related>Inner Inferno</reverse-related>
+ <reverse-related>Leonis Concitare</reverse-related>
+ <reverse-related>Leonis Excirtus</reverse-related>
+ <reverse-related>Levicta Visio</reverse-related>
+ <reverse-related>Lupensi Tyrannos</reverse-related>
+ <reverse-related>Matauros Tyrannos</reverse-related>
+ <reverse-related>Niliscant Strider</reverse-related>
+ <reverse-related>Noctere Ascentus</reverse-related>
+ <reverse-related>Nuillae Exidus</reverse-related>
+ <reverse-related>Orbital Vacuum</reverse-related>
+ <reverse-related>Piscus Duosia</reverse-related>
+ <reverse-related>Psionic Sage</reverse-related>
+ <reverse-related>Realm Reap</reverse-related>
+ <reverse-related>Rift Partisan</reverse-related>
+ <reverse-related>Saureus Duplixi</reverse-related>
+ <reverse-related>Serpens Oblis</reverse-related>
+ <reverse-related>Thubaran, the Fervent Star</reverse-related>
+ <reverse-related>Tigros Purseus</reverse-related>
+ <reverse-related>Turintos Fulgeos</reverse-related>
+ <reverse-related>Twilight Firebird</reverse-related>
+ <reverse-related>Umbrus Surectus</reverse-related>
  <reverse-related>Alehana the Persuader_REV</reverse-related>
  <reverse-related>Crumbling Tower_REV</reverse-related>
  <reverse-related>Igneous Visions_REV</reverse-related>
@@ -548,13 +588,19 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Igneous Visions_PRO_OLD</reverse-related>
  <reverse-related>Gift of Inspiration_PRO_CYB</reverse-related>
  <reverse-related>Resign to Progress_PRO_CYB</reverse-related>
+ <reverse-related>Chittering Gargantua_PRO_CNY</reverse-related>
+ <reverse-related>Martyrize_PRO_CNY</reverse-related>
+ <reverse-related>Crumbling Tower_PRO_CCR</reverse-related>
  <reverse-related>Red-Hot Rider_PRO_ERR</reverse-related>
  <reverse-related>Ayeshi, Time's Jailer_PRO_KDT</reverse-related>
  <reverse-related>Giyama, Scion of Kage_PRO_KDT</reverse-related>
  <reverse-related>Koraja, the Broken Blade_PRO_KDT</reverse-related>
+ <reverse-related>Angler of the Crushing Sea_PRO_TWI</reverse-related>
+ <reverse-related>Uplifting Chorus_PRO_TWI</reverse-related>
  <reverse-related>Emblem KDT</reverse-related>
  <reverse-related>Evil Plan VRD</reverse-related>
  <reverse-related>On An Adventure KDT</reverse-related>
+ <reverse-related>On An Adventure SOL</reverse-related>
  <reverse-related>On an Adventure MSEMAR</reverse-related>
  <reverse-related>SAVE() ERR</reverse-related>
  <reverse-related>colorless Saga KDT</reverse-related>
@@ -636,10 +682,10 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Whitecliff</reverse-related>
- <reverse-related>Abominable Avalanche</reverse-related>
- <reverse-related>Rano, Yeti Sovereign</reverse-related>
+ <reverse-related>Abominable Avalanche_OLD</reverse-related>
+ <reverse-related>Rano, Yeti Sovereign_OLD</reverse-related>
  <reverse-related>Abominable Avalanche_PRO_OLD</reverse-related>
- <reverse-related>Abominable Avalanche (KUT)</reverse-related>
+ <reverse-related>Abominable Avalanche (KUT)_OLD</reverse-related>
  <set num="OLD13" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD13.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2787,19 +2833,19 @@ Equip {2}</text>
  <pt>1/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Alranta Patrol</reverse-related>
- <reverse-related>Alrantan Skywatch</reverse-related>
- <reverse-related>Avalanche Assault</reverse-related>
- <reverse-related>Bolster the Walls</reverse-related>
- <reverse-related count="3">Chronicle of Bequeathal</reverse-related>
- <reverse-related>Drawn to Grandeur</reverse-related>
- <reverse-related count="x">Lead and Follow</reverse-related>
- <reverse-related>Mokar Warband</reverse-related>
- <reverse-related>Rathomar Herder</reverse-related>
- <reverse-related>Renowned Roughrider</reverse-related>
- <reverse-related>Squallrunner Duo</reverse-related>
- <reverse-related>Valley Caravan</reverse-related>
- <reverse-related>Zenith Marshal</reverse-related>
+ <reverse-related>Alranta Patrol_OLD</reverse-related>
+ <reverse-related>Alrantan Skywatch_OLD</reverse-related>
+ <reverse-related>Avalanche Assault_OLD</reverse-related>
+ <reverse-related>Bolster the Walls_OLD</reverse-related>
+ <reverse-related count="3">Chronicle of Bequeathal_OLD</reverse-related>
+ <reverse-related>Drawn to Grandeur_OLD</reverse-related>
+ <reverse-related count="x">Lead and Follow_OLD</reverse-related>
+ <reverse-related>Mokar Warband_OLD</reverse-related>
+ <reverse-related>Rathomar Herder_OLD</reverse-related>
+ <reverse-related>Renowned Roughrider_OLD</reverse-related>
+ <reverse-related>Squallrunner Duo_OLD</reverse-related>
+ <reverse-related>Valley Caravan_OLD</reverse-related>
+ <reverse-related>Zenith Marshal_OLD</reverse-related>
  <reverse-related>Renowned Roughrider_PRO_OLD</reverse-related>
  <set num="OLD4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD4.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -2810,12 +2856,12 @@ Equip {2}</text>
  <type>Token Artifact — Treasure</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <reverse-related>Arduous Miners</reverse-related>
- <reverse-related>Audacious Roughrider</reverse-related>
- <reverse-related count="3">Forgemaster Dreadnought</reverse-related>
- <reverse-related count="2">Reduce to Ore</reverse-related>
+ <reverse-related>Arduous Miners_OLD</reverse-related>
+ <reverse-related>Audacious Roughrider_OLD</reverse-related>
+ <reverse-related count="3">Forgemaster Dreadnought_OLD</reverse-related>
+ <reverse-related count="2">Reduce to Ore_OLD</reverse-related>
  <reverse-related>Audacious Roughrider_PRO_OLD</reverse-related>
- <reverse-related>Audacious Roughrider (KUT)</reverse-related>
+ <reverse-related>Audacious Roughrider (KUT)_OLD</reverse-related>
  <set num="OLD15" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD15.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2826,7 +2872,7 @@ Equip {2}</text>
  <pt>2/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Aspirants as One</reverse-related>
+ <reverse-related>Aspirants as One_OLD</reverse-related>
  <set num="OLD8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD8.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2837,7 +2883,7 @@ Equip {2}</text>
  <pt>10/10</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Awakening in Oldun</reverse-related>
+ <reverse-related>Awakening in Oldun_OLD</reverse-related>
  <set num="OLD10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD10.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2848,9 +2894,9 @@ Equip {2}</text>
  <pt>1/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Cassia the Carefree</reverse-related>
- <reverse-related>Opal-Eye Allseer</reverse-related>
- <reverse-related count="2">Rugged Endurance</reverse-related>
+ <reverse-related>Cassia the Carefree_OLD</reverse-related>
+ <reverse-related>Opal-Eye Allseer_OLD</reverse-related>
+ <reverse-related count="2">Rugged Endurance_OLD</reverse-related>
  <set num="OLD2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD2.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2861,8 +2907,8 @@ Equip {2}</text>
  <pt>2/2</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Cassia the Carefree</reverse-related>
- <reverse-related>Cassia the Carefree</reverse-related>
+ <reverse-related>Cassia the Carefree_OLD</reverse-related>
+ <reverse-related>Cassia the Carefree_OLD</reverse-related>
  <set num="OLD7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD7.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2873,10 +2919,10 @@ Equip {2}</text>
  <pt>1/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Everpresent Rot</reverse-related>
- <reverse-related count="2">Fumebloom</reverse-related>
- <reverse-related>Spore Spawning</reverse-related>
- <reverse-related>Thornlasher Mortis</reverse-related>
+ <reverse-related>Everpresent Rot_OLD</reverse-related>
+ <reverse-related count="2">Fumebloom_OLD</reverse-related>
+ <reverse-related>Spore Spawning_OLD</reverse-related>
+ <reverse-related>Thornlasher Mortis_OLD</reverse-related>
  <set num="OLD11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD11.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2887,8 +2933,8 @@ Equip {2}</text>
  <pt>X/X</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Raboorah's Appetite</reverse-related>
- <reverse-related>Swelling Terror</reverse-related>
+ <reverse-related>Raboorah's Appetite_OLD</reverse-related>
+ <reverse-related>Swelling Terror_OLD</reverse-related>
  <reverse-related>Raboorah's Appetite_PRO_OLD</reverse-related>
  <reverse-related>Swelling Terror_PRO_OLD</reverse-related>
  <set num="OLD14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD14.jpg?v=0" rarity="token">tokens</set>
@@ -2901,7 +2947,7 @@ Equip {2}</text>
  <pt>2/2</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Rathomar Harrier</reverse-related>
+ <reverse-related>Rathomar Harrier_OLD</reverse-related>
  <set num="OLD12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2912,7 +2958,7 @@ Equip {2}</text>
  <pt>0/0</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Shaman of Rime's Fury</reverse-related>
+ <reverse-related>Shaman of Rime's Fury_OLD</reverse-related>
  <set num="OLD1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD1.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2923,7 +2969,7 @@ Equip {2}</text>
  <pt>2/2</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Ursine Advocate</reverse-related>
+ <reverse-related>Ursine Advocate_OLD</reverse-related>
  <set num="OLD9" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD9.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2934,7 +2980,7 @@ Equip {2}</text>
  <pt>1/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related count="x">Whitewing Migration</reverse-related>
+ <reverse-related count="x">Whitewing Migration_OLD</reverse-related>
  <set num="OLD5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD5.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2999,6 +3045,7 @@ Equip {2}</text>
  <reverse-related>Sharesh, Leader of the Lost</reverse-related>
  <reverse-related>Vanguard Recruit</reverse-related>
  <reverse-related>Vukoroq Defector</reverse-related>
+ <reverse-related>Ragecloak Shifter_PRO_CYB</reverse-related>
  <set num="CYB2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/CYB2.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -3052,6 +3099,7 @@ Equip {2}</text>
  <tablerow>2</tablerow>
  <reverse-related>Festered Effluvium</reverse-related>
  <reverse-related>Tithe to the Machine</reverse-related>
+ <reverse-related>Festered Effluvium_PRO_CYB</reverse-related>
  <set num="CYB8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/CYB8.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -3826,7 +3874,6 @@ When enchanted permanent dies, you draw two cards.</text>
  <reverse-related>Olis Mars, Final Archivist</reverse-related>
  <reverse-related>Reprieve from Mortality</reverse-related>
  <reverse-related>Rogue Daemon</reverse-related>
- <reverse-related>Soulspace Refit</reverse-related>
  <reverse-related>Superuser</reverse-related>
  <reverse-related>Tapestry Guard</reverse-related>
  <reverse-related>Task Triage</reverse-related>
@@ -4039,7 +4086,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <pt>1/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related count="2">BORROW()</reverse-related>
+ <reverse-related count="x">BORROW()</reverse-related>
  <set num="ERR13" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/ERR13.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4063,6 +4110,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related count="3">Reified Borough</reverse-related>
  <reverse-related count="2">UNDO()</reverse-related>
  <reverse-related count="x">Complementarity_PRO_ERR</reverse-related>
+ <reverse-related count="3">Reified Borough_PRO_ERR</reverse-related>
  <reverse-related>ALARM() ERR</reverse-related>
  <set num="ERR8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/ERR8.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -4078,6 +4126,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Piroia, Perennial Sacrifice</reverse-related>
  <reverse-related>Regrowing Outlands</reverse-related>
  <reverse-related>Undefined_Behavior</reverse-related>
+ <reverse-related>Regrowing Outlands_PRO_ERR</reverse-related>
  <set num="ERR1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/ERR1.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4293,6 +4342,46 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Sunset Warrior</reverse-related>
  <reverse-related>Uiki Cloudchaser</reverse-related>
  <reverse-related>Vengeful Artificer</reverse-related>
+ <reverse-related>Alwanor, the Humbled Star</reverse-related>
+ <reverse-related>Aspus Venefir</reverse-related>
+ <reverse-related>Asulio, the Watchful Star</reverse-related>
+ <reverse-related>Aureola Crusaris</reverse-related>
+ <reverse-related>Balaenos Cresetis</reverse-related>
+ <reverse-related>Cancri Asellos</reverse-related>
+ <reverse-related>Cepheos Delugo</reverse-related>
+ <reverse-related>Cereus Aegosa</reverse-related>
+ <reverse-related>Coria Portenus</reverse-related>
+ <reverse-related>Cornus Asarei</reverse-related>
+ <reverse-related>Daemos Letheus</reverse-related>
+ <reverse-related>Daemos Tormandus</reverse-related>
+ <reverse-related>Draconos Iracus</reverse-related>
+ <reverse-related>Draconos Magistus</reverse-related>
+ <reverse-related>Draconos Tyrannos</reverse-related>
+ <reverse-related>Eltanaan, the Silent Star</reverse-related>
+ <reverse-related>Gomada Lumenos</reverse-related>
+ <reverse-related>Ignavis Immatus</reverse-related>
+ <reverse-related>Leonis Concitare</reverse-related>
+ <reverse-related>Leonis Excirtus</reverse-related>
+ <reverse-related>Levicta Visio</reverse-related>
+ <reverse-related>Lupensi Purseus</reverse-related>
+ <reverse-related>Lupensi Tyrannos</reverse-related>
+ <reverse-related>Lutra Inquisos</reverse-related>
+ <reverse-related>Manticos Expurgis</reverse-related>
+ <reverse-related>Matauros Tyrannos</reverse-related>
+ <reverse-related>Noctere Ascentus</reverse-related>
+ <reverse-related>Nuillae Exidus</reverse-related>
+ <reverse-related>Piscus Duosia</reverse-related>
+ <reverse-related>Rastabahl, the Enduring Star</reverse-related>
+ <reverse-related>Rex Tyrannos</reverse-related>
+ <reverse-related>Saureus Duplixi</reverse-related>
+ <reverse-related>Serpens Oblis</reverse-related>
+ <reverse-related>Serpens Surectus</reverse-related>
+ <reverse-related>Thubaran, the Fervent Star</reverse-related>
+ <reverse-related>Tigros Purseus</reverse-related>
+ <reverse-related>Turintos Fulgeos</reverse-related>
+ <reverse-related>Umbrus Surectus</reverse-related>
+ <reverse-related>Uquus Crusaris</reverse-related>
+ <reverse-related>Ursus Majora</reverse-related>
  <reverse-related>Emperor Tzuhan_REV</reverse-related>
  <set num="MSEMAR17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/MSEMAR17.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -4489,6 +4578,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Fort Ravellan</reverse-related>
  <reverse-related>Redeemer of Hollowed Flesh</reverse-related>
  <reverse-related>Resolute Reinforcements</reverse-related>
+ <reverse-related count="2">Commander of the Vow_PRO_TWI</reverse-related>
  <set num="TWI3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI3.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4508,6 +4598,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Guardian of Ashen Oaths</reverse-related>
  <reverse-related>Scour the Crownlands</reverse-related>
  <reverse-related count="2">Stride Once More</reverse-related>
+ <reverse-related>Bleed for the Cause_PRO_TWI</reverse-related>
  <set num="TWI11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI11.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4593,6 +4684,8 @@ If you control a Subroutine, move to your next program as your first main phase 
  <tablerow>2</tablerow>
  <reverse-related>Cruxborn Tyrant</reverse-related>
  <reverse-related>Grasp of the Drowned</reverse-related>
+ <reverse-related>Blightseer</reverse-related>
+ <reverse-related>Cruxborn Tyrant_PRO_TWI</reverse-related>
  <set num="TWI6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI6.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4679,6 +4772,352 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Witchery</reverse-related>
  <reverse-related>Witchery_PRO_TWI</reverse-related>
  <set num="TWI5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI5.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Elf 13SOL</name>
+ <text>{T}: Add {G}.</text>
+ <colors>G</colors>
+ <type>Token Creature — Elf</type>
+ <pt>1/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Alwanor, the Humbled Star</reverse-related>
+ <set num="SOL25" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL25.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Spirit 11SOL</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Creature — Spirit</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Anhamei, Star Sower</reverse-related>
+ <reverse-related count="4">Aureola Crusaris</reverse-related>
+ <reverse-related>Celestial Insight</reverse-related>
+ <reverse-related count="x">Cereus Aegosa</reverse-related>
+ <reverse-related count="4">Foreign Frontiers</reverse-related>
+ <reverse-related>Glimmermare</reverse-related>
+ <reverse-related count="2">Guiding Gladehart</reverse-related>
+ <reverse-related>Lacufae Observatory</reverse-related>
+ <reverse-related count="3">Leonis Excirtus</reverse-related>
+ <reverse-related>Oblivion's Escort</reverse-related>
+ <reverse-related>Skyfall Sunderer</reverse-related>
+ <reverse-related>Skyfall Sunderer</reverse-related>
+ <reverse-related>Stalking Delver</reverse-related>
+ <reverse-related count="3">Starcrossed Vessel</reverse-related>
+ <reverse-related>Waypoint Armillary</reverse-related>
+ <reverse-related>Zymith Skyguide</reverse-related>
+ <set num="SOL5" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL5.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Bird 11SOL</name>
+ <text>Flying
+This creature can't block</text>
+ <colors>W</colors>
+ <type>Token Creature — Bird</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Aureleth the Sun Shard</reverse-related>
+ <reverse-related>Dire Visionary</reverse-related>
+ <reverse-related count="2">Lightless Vigil</reverse-related>
+ <reverse-related>Zymith Windreader</reverse-related>
+ <set num="SOL2" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL2.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Spirit 11SOL</name>
+ <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+This creature can't block.</text>
+ <colors>B</colors>
+ <type>Token Creature — Spirit</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Blightseer</reverse-related>
+ <set num="SOL18" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL18.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Weapon SOL</name>
+ <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+ <colors></colors>
+ <type>Token Artifact — Equipment Weapon</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Blinded Herald</reverse-related>
+ <reverse-related>Light-Pierced Envoy</reverse-related>
+ <set num="SOL33" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL33.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Lotus Spring SOL</name>
+ <text>{T}: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Land</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related count="2">Budding Mire</reverse-related>
+ <reverse-related>Manticos Expurgis</reverse-related>
+ <reverse-related>Plaguebane Hulk</reverse-related>
+ <set num="SOL34" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL34.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Spirit 11SOL</name>
+ <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+ <colors>R</colors>
+ <type>Token Creature — Spirit</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Caphella, Endlight Catalyst</reverse-related>
+ <reverse-related>Radiant Pilgrim</reverse-related>
+ <reverse-related>Star-Touched Devout</reverse-related>
+ <reverse-related>Star-Touched Host</reverse-related>
+ <set num="SOL23" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL23.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Bear 44SOL</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Bear</type>
+ <pt>4/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Chasing Stars</reverse-related>
+ <reverse-related>Wildermoon Compulsion</reverse-related>
+ <set num="SOL24" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL24.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Treasure SOL</name>
+ <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Treasure</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Comet Conduit</reverse-related>
+ <reverse-related>Cornus Asarei</reverse-related>
+ <reverse-related>Cosmic Bounty</reverse-related>
+ <set num="SOL31" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL31.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Elemental 31SOL</name>
+ <text>Trample, haste</text>
+ <colors>R</colors>
+ <type>Token Creature — Elemental</type>
+ <pt>3/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Darkstar Severance</reverse-related>
+ <reverse-related>Helia Extinguisher</reverse-related>
+ <set num="SOL20" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL20.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Spirit 21SOL</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Spirit</type>
+ <pt>2/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Ecosa of the Old Blood</reverse-related>
+ <set num="SOL22" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL22.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Elemental 11SOL</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Elemental</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Elemental Advent</reverse-related>
+ <reverse-related count="x">Endlight Crusade</reverse-related>
+ <reverse-related count="x">Endlight Crusade</reverse-related>
+ <set num="SOL21" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL21.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Elf 11SOL</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Creature — Elf</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Elorys the Pathfinder</reverse-related>
+ <reverse-related count="3">One Night of Serenity</reverse-related>
+ <reverse-related count="x">One Night of Serenity</reverse-related>
+ <set num="SOL4" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL4.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Spirit SOL</name>
+ <text>This creature's power and toughness are each equal to the number of creatures you control.</text>
+ <colors>G</colors>
+ <type>Token Creature — Spirit</type>
+ <pt>★/★</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Elorys the Pathfinder</reverse-related>
+ <set num="SOL28" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL28.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Jellyfish 11SOL</name>
+ <text>Flying</text>
+ <colors>U</colors>
+ <type>Token Creature — Jellyfish</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Ethereal Exodus</reverse-related>
+ <reverse-related>Olfven Ley-Tower</reverse-related>
+ <reverse-related>Olfven Ley-Tower</reverse-related>
+ <reverse-related count="2">Rift Tracing</reverse-related>
+ <reverse-related count="2">Turelion Ley-Pillar</reverse-related>
+ <set num="SOL10" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL10.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Dragon 44SOL</name>
+ <text>Flying</text>
+ <colors>B</colors>
+ <type>Token Creature — Dragon</type>
+ <pt>4/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="x">Evangel of the Long Night</reverse-related>
+ <reverse-related>Nightfall</reverse-related>
+ <reverse-related>Nightfall_REV</reverse-related>
+ <set num="SOL12" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL12.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Wolf Spirit 96SOL</name>
+ <text>Trample</text>
+ <colors>G</colors>
+ <type>Token Creature — Wolf Spirit</type>
+ <pt>9/6</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Horizon Vassal</reverse-related>
+ <set num="SOL29" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL29.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Beast 32SOL</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Beast</type>
+ <pt>3/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Humbled Invoker</reverse-related>
+ <reverse-related>Nascent Vessel</reverse-related>
+ <set num="SOL6" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL6.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Elemental 32SOL</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Elemental</type>
+ <pt>3/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Invasion Campaign</reverse-related>
+ <reverse-related>Lightless Conquest</reverse-related>
+ <set num="SOL14" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL14.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Beast 33SOL</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Beast</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="x">Invasive Progenitor</reverse-related>
+ <set num="SOL19" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL19.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Elemental 11SOL</name>
+ <text>This creature can't block.</text>
+ <colors>W</colors>
+ <type>Token Creature — Elemental</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Lightless Conquest</reverse-related>
+ <set num="SOL3" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL3.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Orb 10SOL</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Orb</type>
+ <pt>1/0</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Master of Null</reverse-related>
+ <set num="SOL17" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL17.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Wall 04SOL</name>
+ <text>Defender</text>
+ <colors></colors>
+ <type>Token Artifact Creature — Wall</type>
+ <pt>0/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Noctere Ascentus</reverse-related>
+ <set num="SOL32" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL32.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Dog 22SOL</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Dog</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Relentless Huntmaster</reverse-related>
+ <set num="SOL11" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL11.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Fish 21SOL</name>
+ <text>Flying</text>
+ <colors>U</colors>
+ <type>Token Creature — Fish</type>
+ <pt>2/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Skyray Tender</reverse-related>
+ <set num="SOL8" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL8.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Elemental 11SOL</name>
+ <text>This creature can't block or be tapped for syzygy.</text>
+ <colors>B</colors>
+ <type>Token Creature — Elemental</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Stardust Behemoth</reverse-related>
+ <set num="SOL13" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL13.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Oblivion SOL</name>
+ <text>At the beginning of your end step, discard a card.</text>
+ <colors>B</colors>
+ <type>Token Enchantment</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Zukar, Null Champion</reverse-related>
+ <set num="SOL16" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL16.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Entropy SOL</name>
+ <text>At the beginning of your end step, you lose 1 life.</text>
+ <colors>B</colors>
+ <type>Token Enchantment</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Zukar, Null Champion</reverse-related>
+ <set num="SOL15" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL15.jpg?v=20251131" rarity="token">tokens</set>
 </card>
 <card>
  <name>red and white Cleric 11REV</name>
@@ -4872,6 +5311,25 @@ Enchanted creature gains all activated and triggered abilities of the exiled car
  <set num="DOV20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/DOV20.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Cascade Channeller SOL</name>
+ <text>Prowess</text>
+ <colors>U</colors>
+ <type>Token Creature — Human Wizard</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="SOL7" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL7.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Chart SOL</name>
+ <text>{2}, Sacrifice this artifact: Reveal cards from the top of your library until you reveal a land card. Put it into your hand and the rest on the bottom in a random order.</text>
+ <colors></colors>
+ <type>Token Artifact — Chart</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="SOL30" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL30.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
  <name>Clue SRC 2</name>
  <text>{2}, Sacrifice this artifact: Draw a card.</text>
  <colors></colors>
@@ -4984,6 +5442,26 @@ Equip {2}</text>
  <set num="VST5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VST5.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>green Elf Druid 22SOL</name>
+ <text>{T}: Add {G}{G}.</text>
+ <colors>G</colors>
+ <type>Token Creature — Elf Druid</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="SOL26" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL26.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Elf Horror 33SOL</name>
+ <text>{T}: Add {G}{G}{G}.</text>
+ <colors>G</colors>
+ <type>Token Creature — Elf Horror</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="SOL27" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL27.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
  <name>As'Ahai Trample Emblem KSV</name>
  <text>Creatures you control get +1/+1 and have trample.</text>
  <colors></colors>
@@ -5085,6 +5563,16 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>1</tablerow>
  <set num="VRD14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VRD14.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Fish Spirit 66SOL</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Fish Spirit</type>
+ <pt>6/6</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="SOL9" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL9.jpg?v=20251131" rarity="token">tokens</set>
 </card>
 <card>
  <name>Flying Gadget VRD</name>
@@ -5259,6 +5747,15 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>1</tablerow>
  <set num="KDT14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/KDT14.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>On An Adventure SOL</name>
+ <text>(After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.)</text>
+ <colors></colors>
+ <type>Reminder</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="SOL1" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL1.jpg?v=20251131" rarity="token">tokens</set>
 </card>
 <card>
  <name>Prowess Gadget VRD</name>
@@ -5476,1332 +5973,11 @@ Wastes have “{T}: Add {C}” and lose other names, types, supertypes, and abil
  <set num="OLD16" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD16.jpg?v=0" rarity="token">tokens</set>
 </card>
 		<card>
-			<name>A Journey Begins ★_MON</name>
-			<text>Look at the top five cards of your library. You may reveal a permanent card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="1182" muid="0" picURL="https://lackeybot.com/revolution/front/1182/MON" rarity="common">MON</set>
-		</card>
-		<card>
-			<name>Curious Cubs ★_MON</name>
-			<text>Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
-Curious Cubs has first strike as long as its attacking.
-When Curious Cubs has three or more +1/+1 counters on it, remove them all and transform it.
----
-Transforms into Mauling Mother</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>transform</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Bear</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Mauling Mother ★_MON</related>
-			<set num="1007a" muid="0" picURL="https://lackeybot.com/revolution/front/1007/MON" rarity="uncommon">MON</set>
-		</card>
-		<card>
-			<name>Mauling Mother ★_MON</name>
-			<text>First strike
-Mauling Mother gets +1/+1 for each other creature you control.
----
-Transforms from Curious Cubs</text>
-			<prop>
-				<side>back</side>
-				<manacost></manacost>
-				<cmc>undefined</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<layout>transform</layout>
-				<type>Creature — Bear</type>
-				<maintype>Creature</maintype>
-				<pt>5/5</pt>
-				<defense>undefined</defense>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Curious Cubs ★_MON</related>
-			<set num="1007b" rarity="uncommon" muid="0" picURL="https://lackeybot.com/revolution/back/1007/MON">MON</set>
-		</card>
-		<card>
-			<name>Elemental of Surprise ★_MON</name>
-			<text>Flash
-Creatures you control that have entered this turn get +1/+1 and have haste and first strike.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Elemental Beast</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="1124" muid="0" picURL="https://lackeybot.com/revolution/front/1124/MON" rarity="rare">MON</set>
-		</card>
-		<card>
-			<name>Luna, the Lost ★_MON</name>
-			<text>Whenever Luna enters or phases in, each player loses 1 life.
-Whenever a player casts a spell or a creature attacks, Luna phases out.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Legendary Creature — Fox</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="1092" muid="0" picURL="https://lackeybot.com/revolution/front/1092/MON" rarity="rare">MON</set>
-		</card>
-		<card>
-			<name>Titanic Fossil ★_MON</name>
-			<text>{3}, Sacrifice Titanic Fossil: Mill three cards, then you may exile a card from your graveyard. You may cast a copy of the exiled card without paying its mana cost if the spell's mana value is 3 or less. Activate only as a sorcery.
-{3}{U}{B}: Return Titanic Fossil from your graveyard to the battlefield transformed. Activate only during your turn.
----
-Transforms into Arisen Tyrant</text>
-			<prop>
-				<side>front</side>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
-				<layout>transform</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>UB</coloridentity>
-				<colors></colors>
-				<type>Artifact</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<related attach="transform">Arisen Tyrant ★_MON</related>
-			<set num="1237a" muid="0" picURL="https://lackeybot.com/revolution/front/1237/MON" rarity="rare">MON</set>
-		</card>
-		<card>
-			<name>Arisen Tyrant ★_MON</name>
-			<text>Trample
-Whenever Arisen Tyrant attacks, mill three cards, then you may exile a card from your graveyard. You may cast a copy of the exiled card without paying its mana cost if the spell's mana value is 3 or less.
-If Arisen Tyrant would die, exile it instead.
----
-Transforms from Titanic Fossil</text>
-			<prop>
-				<side>back</side>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<layout>transform</layout>
-				<type>Creature — Nautilus</type>
-				<maintype>Creature</maintype>
-				<pt>5/5</pt>
-				<defense>undefined</defense>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Titanic Fossil ★_MON</related>
-			<set num="1237b" rarity="rare" muid="0" picURL="https://lackeybot.com/revolution/back/1237/MON">MON</set>
-		</card>
-		<card>
-			<name>Worried Vulpine ★_MON</name>
-			<text>Experience (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
-When Worried Vulpine has three or more +1/+1 counters on it, remove them all and transform it.
----
-Transforms into Worthy Vulpine</text>
-			<prop>
-				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>transform</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Fox</type>
-				<pt>0/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Worthy Vulpine ★_MON</related>
-			<set num="1159a" muid="0" picURL="https://lackeybot.com/revolution/front/1159/MON" rarity="uncommon">MON</set>
-		</card>
-		<card>
-			<name>Worthy Vulpine ★_MON</name>
-			<text>When this permanent transforms into Worthy Vulpine or at the beginning of combat on your turn, creatures you control gain haste and trample until end of turn.
----
-Transforms from Worried Vulpine</text>
-			<prop>
-				<side>back</side>
-				<manacost></manacost>
-				<cmc>undefined</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<layout>transform</layout>
-				<type>Creature — Fox</type>
-				<maintype>Creature</maintype>
-				<pt>5/5</pt>
-				<defense>undefined</defense>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Worried Vulpine ★_MON</related>
-			<set num="1159b" rarity="uncommon" muid="0" picURL="https://lackeybot.com/revolution/back/1159/MON">MON</set>
-		</card>
-		<card>
-			<name>Biramous Entity_PRO_VST</name>
-			<text>When Biramous Entity enters, search your library for a permanent card with the same name as another target nontoken permanent you control. Reveal it and put that card into your hand. Then shuffle.</text>
-			<prop>
-				<side>front</side>
-				<manacost>GU</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>GU</coloridentity>
-				<colors>GU</colors>
-				<type>Creature — Mutant</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="264" muid="0" picURL="https://lackeybot.com/revolution/front/264/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Eternal Wanderer_PRO_VST</name>
-			<text>When Eternal Wanderer enters, journey. (Exile the top card of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)
-Whenever you put a journeyed card into your hand, you may pay {2}. If you do, journey.</text>
-			<prop>
-				<side>front</side>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Creature — Human Nomad</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="262" muid="0" picURL="https://lackeybot.com/revolution/front/262/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Karn, Heart of Guilt_PRO_VST</name>
-			<text>[+2]: Until your next turn, creatures can't attack you or planeswalkers you control unless their controller pays {4} for each of those creatures.
-[-1]: Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.
-[-4]: For each other nonland permanent, its owner puts it on the top or bottom of their library.
-[-10]: Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control. </text>
-			<prop>
-				<side>front</side>
-				<manacost>4CCCC</manacost>
-				<cmc>8</cmc>
-				<layout>normal</layout>
-				<maintype>Planeswalker</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Legendary Planeswalker — Karn</type>
-				<loyalty>6</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="259" muid="0" picURL="https://lackeybot.com/revolution/front/259/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Karn, Heart of Guilt ★_VST</name>
-			<text>[+2]: Until your next turn, creatures can't attack you or planeswalkers you control unless their controller pays {4} for each of those creatures.
-[-1]: Each opponent exiles a card from their hand, a permanent they control, and the top card of their library.
-[-4]: For each other nonland permanent, its owner puts it on the top or bottom of their library.
-[-10]: Put any number of non-Karn permanent cards from your hand, graveyard, or exiled with Karn onto the battlefield under your control. </text>
-			<prop>
-				<side>front</side>
-				<manacost>4CCCC</manacost>
-				<cmc>8</cmc>
-				<layout>normal</layout>
-				<maintype>Planeswalker</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Legendary Planeswalker — Karn</type>
-				<loyalty>6</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="1259" muid="0" picURL="https://lackeybot.com/revolution/front/1259/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Liminal Observer_PRO_VST</name>
-			<text>At the beginning of your end step, draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2CC</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Artifact Creature — Construct</type>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="265" muid="0" picURL="https://lackeybot.com/revolution/front/265/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Render Inert_PRO_VST</name>
-			<text>Flash
-Enchant creature or artifact
-Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Enchantment — Aura</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="263" muid="0" picURL="https://lackeybot.com/revolution/front/263/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Runic Sealer_PRO_VST</name>
-			<text>As Runic Sealer enters, choose a noncreature, nonland card name.
-Spells with the chosen name can't be cast.
-Activated abilities of sources with the chosen name can't be activated.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Human Cleric</type>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="260" muid="0" picURL="https://lackeybot.com/revolution/front/260/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Saviour of the Lost_PRO_VST</name>
-			<text>Flying, lifelink
-Whenever Saviour of the Lost attacks, you may waste two nonwastes lands you control. If you do, return up to two target creature cards with total mana value 2 or less from your graveyard to the battlefield. (It becomes Wastes, a basic land with “{T}: Add {C}” and no other abilities or types.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Angel</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="261" muid="0" picURL="https://lackeybot.com/revolution/front/261/VST" rarity="special">VST</set>
-		</card>
-		<card>
-			<name>Liturgy of Liliana_PRO_SRC</name>
-			<text>Whenever an opponent discards one or more cards, that player loses 2 life.
-At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, they lose 2 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>BB</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="262" muid="0" picURL="https://lackeybot.com/revolution/front/262/SRC" rarity="special">SRC</set>
-		</card>
-		<card>
-			<name>Memory Hostage_PRO_SRC</name>
-			<text>Choose a nonland card name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1BB</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="263" muid="0" picURL="https://lackeybot.com/revolution/front/263/SRC" rarity="special">SRC</set>
-		</card>
-		<card>
-			<name>Uncanny Woodghast_PRO_SRC</name>
-			<text>Uncanny Woodghast has all activated abilities of all lands you control.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Spirit Plant</type>
-				<pt>1/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="265" muid="0" picURL="https://lackeybot.com/revolution/front/265/SRC" rarity="special">SRC</set>
-		</card>
-		<card>
-			<name>Vicious Cleaner_PRO_SRC</name>
-			<text>{1}{B}: Exile target card from a graveyard. If it's a creature card, investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
-Whenever you sacrifice a Clue, each opponent loses 1 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Human Advisor</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="264" muid="0" picURL="https://lackeybot.com/revolution/front/264/SRC" rarity="special">SRC</set>
-		</card>
-		<card>
-			<name>Brutality_PRO_MON</name>
-			<text>Whenever one or more creatures you control deal combat damage to a player, you may destroy target artifact or enchantment that player controls.
-Whenever you cast a green creature spell, create a 3/3 green Wurm creature token with trample.</text>
-			<prop>
-				<side>front</side>
-				<manacost>GGG</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="269" muid="0" picURL="https://lackeybot.com/revolution/front/269/MON" rarity="special">MON</set>
-		</card>
-		<card>
-			<name>Ever-Gnawing Rat_PRO_MON</name>
-			<text> At the beginning of combat on your turn, if you control a creature with power greater than Ever-Gnawing Rat's, put a +1/+1 counter on Ever-Gnawing Rat.</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Rat</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="270" muid="0" picURL="https://lackeybot.com/revolution/front/270/MON" rarity="special">MON</set>
-		</card>
-		<card>
-			<name>Ghastly Spirit_PRO_MON</name>
-			<text>Flying
-When Ghastly Spirit enters, mill four cards, then return a nonland card from your graveyard to your hand.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2UB</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>UB</coloridentity>
-				<colors>UB</colors>
-				<type>Creature — Spirit</type>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="271" muid="0" picURL="https://lackeybot.com/revolution/front/271/MON" rarity="special">MON</set>
-		</card>
-		<card>
-			<name>Bloodstitched Tupilaq_PRO_KUT</name>
-			<text>You may have Bloodstitched Tupilaq enter as a copy of any creature card in a graveyard with mana value 4 or less.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Zombie Construct</type>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="303" muid="0" picURL="https://lackeybot.com/revolution/front/303/KUT" rarity="special">KUT</set>
-		</card>
-		<card>
-			<name>Prophet of the Veil_PRO_KUT</name>
-			<text>While you're looking at one or more cards on top of your library except while searching, you may put Prophet of the Veil from among them into your graveyard. When you do, each opponent loses 2 life and you gain 2 life.
-{2}{G}: Return Prophet of the Veil from your graveyard to your hand.</text>
-			<prop>
-				<side>front</side>
-				<manacost>BGU</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>BGU</coloridentity>
-				<colors>BGU</colors>
-				<type>Creature — Elf Shaman</type>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="305" muid="0" picURL="https://lackeybot.com/revolution/front/305/KUT" rarity="special">KUT</set>
-		</card>
-		<card>
-			<name>Serene Mediator_PRO_KUT</name>
-			<text>Flash
-Flying
-When Serene Mediator enters, counter target noncreature spell unless its controller pays {1}.</text>
-			<prop>
-				<side>front</side>
-				<manacost>WU</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>WU</coloridentity>
-				<colors>WU</colors>
-				<type>Creature — Human Monk</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="306" muid="0" picURL="https://lackeybot.com/revolution/front/306/KUT" rarity="special">KUT</set>
-		</card>
-		<card>
-			<name>Thin the Veil_PRO_KUT</name>
-			<text>Search your library for a nonland card not named Thin the Veil, exile it, then shuffle. If it has mana value less than or equal to the number of card types among cards in your graveyard, you may cast it without paying its mana cost. If you don't, put it into your hand.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2BB</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="304" muid="0" picURL="https://lackeybot.com/revolution/front/304/KUT" rarity="special">KUT</set>
-		</card>
-		<card>
-			<name>Wilderkin Behemoth_PRO_KUT</name>
-			<text>This spell can't be countered.
-Trample
-Hexproof from mana value 3 or less(This creature can't be the target of spells or abilities your opponents control with mana value 3 or less.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1RGW</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RGW</coloridentity>
-				<colors>RGW</colors>
-				<type>Creature — Beast</type>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="307" muid="0" picURL="https://lackeybot.com/revolution/front/307/KUT" rarity="special">KUT</set>
-		</card>
-		<card>
-			<name>Cursory Glance_PRO_GQC</name>
-			<text>Counter target spell with mana value 3 or less.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="262" muid="0" picURL="https://lackeybot.com/revolution/front/262/GQC" rarity="special">GQC</set>
-		</card>
-		<card>
-			<name>Flourish in Calamity_PRO_GQC</name>
-			<text>Devoid (This card has no color.)
-Draw a card. You may put a basic land card from your hand onto the battlefield tapped.
-Coalesce {5}{G}{G} (You may cast this for {5}{G}{G} from your graveyard. If you do, put it onto the battlefield as an Eldrazi Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Kindred Sorcery — Eldrazi Revelation</type>
-				<pt>6/4</pt>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="265" muid="0" picURL="https://lackeybot.com/revolution/front/265/GQC" rarity="special">GQC</set>
-		</card>
-		<card>
-			<name>Grind Vacant Husks_PRO_GQC</name>
-			<text>Devoid (This card has no color.)
-Whenever a creature you control enters this turn, it fights target creature you don't control.
-Coalesce {4}{G}{G}{G} (You may cast this for {4}{G}{G}{G} from your graveyard. If you do, put it onto the battlefield as an Eldrazi Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Kindred Sorcery — Eldrazi Revelation</type>
-				<pt>7/6</pt>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="266" muid="0" picURL="https://lackeybot.com/revolution/front/266/GQC" rarity="special">GQC</set>
-		</card>
-		<card>
-			<name>Merciless Shieldbreaker_PRO_GQC</name>
-			<text>Whenever Merciless Shieldbreaker enters or attacks, target opponent puts three rust counters on a permanent they control with no rust counters on it. That permanent gains “At the beginning of your upkeep, remove a rust counter from this permanent. Then if there are no rust counters on this permanent, sacrifice it and it deals 4 damage to you.”</text>
-			<prop>
-				<side>front</side>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Orc Warrior</type>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="264" muid="0" picURL="https://lackeybot.com/revolution/front/264/GQC" rarity="special">GQC</set>
-		</card>
-		<card>
-			<name>Threzak, the Heinous_PRO_GQC</name>
-			<text>Flying
-When Threzak, the Heinous enters, choose up to three. You lose 3 life for each mode you choose.
-• Put three +1/+1 counters on Threzak.
-• Target creature gets -3/-3 until end of turn.
-• Draw three cards.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1BBB</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Legendary Creature — Demon</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="263" muid="0" picURL="https://lackeybot.com/revolution/front/263/GQC" rarity="special">GQC</set>
-		</card>
-		<card>
-			<name>Banish to the Ice_PRO_SVG</name>
-			<text>Exile target creature. Its controller creates a tapped colorless land token named Far-Off Lands with “{T}: Add one mana of any color.”</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="209" muid="0" picURL="https://lackeybot.com/revolution/front/209/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Climb to the Peak_PRO_SVG</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-I — Exile the top five cards of your library.
-II, III, IV — Choose a card exiled with Climb to the Peak. You may play it until end of turn.​</text>
-			<prop>
-				<side>front</side>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Enchantment — Saga</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="213" muid="0" picURL="https://lackeybot.com/revolution/front/213/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Dark Covenant_PRO_SVG</name>
-			<text>When Dark Covenant enters, you draw a card and you lose 1 life.
-{1}{B}, Sacrifice Dark Covenant: You draw a card and you lose 1 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="212" muid="0" picURL="https://lackeybot.com/revolution/front/212/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Dawnglade Cultivator_PRO_SVG</name>
-			<text>When Dawnglade Cultivator enters, you may put a land card from your hand onto the battlefield tapped.</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Elf</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="215" muid="0" picURL="https://lackeybot.com/revolution/front/215/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Explore_PRO_SVG</name>
-			<text>You may play an additional land this turn.
-Draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="216" muid="0" picURL="https://lackeybot.com/revolution/front/216/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Ferocious Flame_PRO_SVG</name>
-			<text>Ferocious Flame deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.</text>
-			<prop>
-				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="214" muid="0" picURL="https://lackeybot.com/revolution/front/214/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Mistwreath Stones_PRO_SVG</name>
-			<text>When Mistwreath Stones enters, scry 1.
-{1}, Sacrifice Mistwreath Stones: Scry 1.
-{1}, Exile Mistwreath Stones from your graveyard: Exile all cards from all graveyards. Draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Artifact — Glyph</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="217" muid="0" picURL="https://lackeybot.com/revolution/front/217/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Silverarm Spellblade_PRO_SVG</name>
-			<text>Spells your opponents cast that target Silverarm Spellblade cost {2} more to cast.
-Whenever Silverarm Spellblade deals damage to a player, draw a card.
-Discard a card: Silverarm Spellblade can't be blocked this turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Creature — Human Warrior</type>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="211" muid="0" picURL="https://lackeybot.com/revolution/front/211/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Winterholm Hersir_PRO_SVG</name>
-			<text>Lifelink
-Abilities your opponents activate cost {1} more to activate unless they're mana abilities.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Dwarf Warrior Advisor</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="210" muid="0" picURL="https://lackeybot.com/revolution/front/210/SVG" rarity="special">SVG</set>
-		</card>
-		<card>
-			<name>Freezefire Corps_PRO_VRD</name>
-			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever Freezefire Corps attacks, exile the top card of your library. You may play that card this turn. It costs {2} less to cast.</text>
-			<prop>
-				<side>front</side>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>UR</coloridentity>
-				<colors>UR</colors>
-				<type>Creature — Human Wizard</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Granite Harbinger_PRO_VRD</name>
-			<text>Flying
-When Granite Harbinger dies, you may search your library for a Nightmare card, reveal it, put it into your hand, then shuffle.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Artifact Creature — Nightmare Gargoyle</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Iroshi's Devotee_PRO_VRD</name>
-			<text>Flash
-As an additional cost to cast this spell, you may return any number of creatures you control to their owners' hands. This spell costs {2} less to cast for each creature returned to its owner's hand this way.</text>
-			<prop>
-				<side>front</side>
-				<manacost>6G</manacost>
-				<cmc>7</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Cat Ninja</type>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="289" muid="0" picURL="https://lackeybot.com/revolution/front/289/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Luxurious Estate_PRO_VRD</name>
-			<text>As Luxurious Estate enters, you may pay 2 life. If you don't, it enters tapped.
-{T}: Add {C}.
-{T}, Pay 1 life: Add one mana of any color.</text>
-			<prop>
-				<side>front</side>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<layout>normal</layout>
-				<maintype>Land</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Land</type>
-			</prop>
-			<tablerow>0</tablerow>
-			<set num="294" muid="0" picURL="https://lackeybot.com/revolution/front/294/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Monument to Vanity_PRO_VRD</name>
-			<text>Endgame (If you control eight or more tapped permanents, enter your endgame for the rest of the game.)
-{T}: Add {C}.
-{T}: Exile the top card of your library. You may play that card this turn. Active only if you're in your endgame.</text>
-			<prop>
-				<side>front</side>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>BR</coloridentity>
-				<colors>BR</colors>
-				<type>Artifact</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="291" muid="0" picURL="https://lackeybot.com/revolution/front/291/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Rogue's Palace Cardshark_PRO_VRD</name>
-			<text>When Rogue's Palace Cardshark enters, an opponent looks at the top four cards of your library and separates them into a face-down pile and a face-up pile. Reveal one of those piles, then put all permanent cards with mana value 3 or less from that pile onto the battlefield under your control. Put the rest and the other pile into your graveyard.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2RG</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RG</coloridentity>
-				<colors>RG</colors>
-				<type>Creature — Dog Noble</type>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="292" muid="0" picURL="https://lackeybot.com/revolution/front/292/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Smirk, Darkhand's Favored ★_VRD</name>
-			<text>When Smirk enters, add the top two cards of your library to your evil plan. (Look at them, then exile them face-down. You may pay {7} once a turn as a sorcery to cast any number of cards in your evil plan without paying their mana costs.)
-Whenever you cast your second spell each turn, you draw a card and you lose 2 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>BB</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Legendary Creature — Cat</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="1288" muid="0" picURL="https://lackeybot.com/revolution/front/1288/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Smirk, Darkhand's Favored_PRO_VRD</name>
-			<text>When Smirk enters, add the top two cards of your library to your evil plan. (Look at them, then exile them face-down. You may pay {7} once a turn as a sorcery to cast any number of cards in your evil plan without paying their mana costs.)
-Whenever you cast your second spell each turn, you draw a card and you lose 2 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>BB</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Legendary Creature — Cat</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="288" muid="0" picURL="https://lackeybot.com/revolution/front/288/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Smuggling Kingpin_PRO_VRD</name>
-			<text>Whenever you attack, you may put a contraband counter on Smuggling Kingpin.
-Once each turn, you may cast a spell with mana value X from your hand without paying its mana cost, where X is the number of contraband counters on Smuggling Kingpin.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Creature — Human Noble</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="287" muid="0" picURL="https://lackeybot.com/revolution/front/287/VRD" rarity="special">VRD</set>
-		</card>
-		<card>
-			<name>Chromatic Shard_PRO_KRS</name>
-			<text>When Chromatic Shard enters, draw a card.
-{T}, Sacrifice Chromatic Shard: Add one mana of any color.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Artifact — Treasure</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="299" muid="0" picURL="https://lackeybot.com/revolution/front/299/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Conjoined Irradiant_PRO_KRS</name>
-			<text>Trample
-When Conjoined Irradiant enters, you may discard up to two cards. If you discard one or more cards, draw that many cards, then crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Mutant</type>
-				<pt>3/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="295" muid="0" picURL="https://lackeybot.com/revolution/front/295/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Course of Correction_PRO_KRS</name>
-			<text>When this Rift enters or is traversed, you gain 3 life if you have less life than an opponent. If you control fewer creatures than an opponent, create two tapped 1/1 colorless Reflection creature tokens. If you have fewer cards in hand than an opponent, draw a card.
-Traverse 3 (Tap any number of creatures you control with total power 3 or more: Traverse this Rift, then sacrifice it. Traverse only as a sorcery.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Enchantment — Rift</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Dazzling Frontiers_PRO_KRS</name>
-			<text>When Dazzling Frontiers enters, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)
-Whenever you cast a spell, if four or more colors of mana were spent to cast it, draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="296" muid="0" picURL="https://lackeybot.com/revolution/front/296/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Dooming Door_PRO_KRS</name>
-			<text>When this Rift enters or is traversed, target player sacrifices a creature.
-Traverse 5 (Tap any number of creatures you control with total power 5 or more: Traverse this Rift, then sacrifice it. Traverse only as a sorcery.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Enchantment — Rift</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Dreamfall_PRO_KRS</name>
-			<text>Choose one —
-• Destroy all creatures.
-• Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1WWU</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>WU</coloridentity>
-				<colors>WU</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Fatal Flaw_PRO_KRS</name>
-			<text>Destroy target creature whose power, toughness, and mana value aren't all equal.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="294" muid="0" picURL="https://lackeybot.com/revolution/front/294/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Nesting Hellkite_PRO_KRS</name>
-			<text>Flying
-When Nesting Hellkite enters, create an 0/1 green Egg creature token with defender and “When this creature dies, reveal cards from the top of your library until you reveal a Dragon creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.”</text>
-			<prop>
-				<side>front</side>
-				<manacost>4RG</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RG</coloridentity>
-				<colors>RG</colors>
-				<type>Creature — Dragon</type>
-				<pt>5/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="298" muid="0" picURL="https://lackeybot.com/revolution/front/298/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Nesting Hellkite ★_KRS</name>
-			<text>Flying
-When Nesting Hellkite enters, create an 0/1 green Egg creature token with defender and “When this creature dies, reveal cards from the top of your library until you reveal a Dragon creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.”</text>
-			<prop>
-				<side>front</side>
-				<manacost>4RG</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RG</coloridentity>
-				<colors>RG</colors>
-				<type>Creature — Dragon</type>
-				<pt>5/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="1298" muid="0" picURL="https://lackeybot.com/revolution/front/1298/KRS" rarity="special">KRS</set>
-		</card>
-		<card>
-			<name>Ancestral Secrets_PRO_KSV</name>
-			<text>Draw three cards.</text>
-			<prop>
-				<side>front</side>
-				<manacost>UUU</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="283" muid="0" picURL="https://lackeybot.com/revolution/front/283/KSV" rarity="special">KSV</set>
-		</card>
-		<card>
-			<name>Ardent Ascetic_PRO_KSV</name>
-			<text>When Ardent Ascetic enters, draw a card.
-You may play an additional land on each of your turns.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Human Druid</type>
-				<pt>1/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="284" muid="0" picURL="https://lackeybot.com/revolution/front/284/KSV" rarity="special">KSV</set>
-		</card>
-		<card>
-			<name>Canopy Culling_PRO_KSV</name>
-			<text>You may cast creature spells as though they had flash.
-At the beginning of your end step, you may shuffle a creature you control into its owner's library. If you do, draw a card, then untap up to two lands.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="287" muid="0" picURL="https://lackeybot.com/revolution/front/287/KSV" rarity="special">KSV</set>
-		</card>
-		<card>
-			<name>Military_PRO_KSV</name>
-			<text>Whenever you attack with creatures with total power 6 or more, Military deals 2 damage to target opponent or planeswalker.
-Whenever you cast a red creature spell, it gets +2/+0 and gains haste until end of turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>RRR</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="286" muid="0" picURL="https://lackeybot.com/revolution/front/286/KSV" rarity="special">KSV</set>
-		</card>
-		<card>
-			<name>New Growth_PRO_KSV</name>
-			<text>Exile target noncreature permanent. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="282" muid="0" picURL="https://lackeybot.com/revolution/front/282/KSV" rarity="special">KSV</set>
-		</card>
-		<card>
-			<name>Not This Day_PRO_KSV</name>
-			<text>Whenever you attack, return target creature card with mana value 1 or less from your graveyard to the battlefield tapped and attacking.</text>
-			<prop>
-				<side>front</side>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="285" muid="0" picURL="https://lackeybot.com/revolution/front/285/KSV" rarity="special">KSV</set>
-		</card>
-		<card>
-			<name>Redeploy_PRO_KSV</name>
-			<text>Exile target permanent you control, then return it to the battlefield under its owner's control.
-Draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="288" muid="0" picURL="https://lackeybot.com/revolution/front/288/KSV" rarity="special">KSV</set>
-		</card>
-		<card>
-			<name>Gilded Court_PRO_BLR</name>
-			<text>{T}: Add {C}.
-{T}: Choose a basic land type. Gilded Court gains that type. (This effect lasts indefinitely.)</text>
-			<prop>
-				<side>front</side>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<layout>normal</layout>
-				<maintype>Land</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Land</type>
-			</prop>
-			<tablerow>0</tablerow>
-			<set num="307" muid="0" picURL="https://lackeybot.com/revolution/front/307/BLR" rarity="special">BLR</set>
-		</card>
-		<card>
-			<name>In Search of Peace_PRO_BLR</name>
-			<text>Whenever you cast a spell, exile up to one other target permanent you control. Return that card to the battlefield under your control at the beginning of the next end step.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1WU</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>WU</coloridentity>
-				<colors>WU</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="304" muid="0" picURL="https://lackeybot.com/revolution/front/304/BLR" rarity="special">BLR</set>
-		</card>
-		<card>
-			<name>Keening Belltower_PRO_BLR</name>
-			<text>Whenever you draw a card, each opponent loses 1 life and you gain 1 life.
-{T}: Each player draws a card.
-{2}, {T}: Draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Artifact</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="306" muid="0" picURL="https://lackeybot.com/revolution/front/306/BLR" rarity="special">BLR</set>
-		</card>
-		<card>
-			<name>Lichbane Wardwielder_PRO_BLR</name>
-			<text>Flash
-When Lichbane Wardwielder enters, choose one —
-• Copy target activated or triggered ability from a nonland source. You may choose new targets for the copy.
-• You may choose new targets for target spell or ability.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RW</coloridentity>
-				<colors>RW</colors>
-				<type>Creature — Human Cleric Rogue</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="305" muid="0" picURL="https://lackeybot.com/revolution/front/305/BLR" rarity="special">BLR</set>
-		</card>
-		<card>
-			<name>Reinstated Reaper_PRO_BLR</name>
-			<text>Menace
-Whenever an opponent loses life for the first time each turn, put a +1/+1 counter on Reinstated Reaper. If you're ancient, put two on it instead. (You're ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>BB</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Demon</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="302" muid="0" picURL="https://lackeybot.com/revolution/front/302/BLR" rarity="special">BLR</set>
-		</card>
-		<card>
-			<name>Twilight Ambush_PRO_BLR</name>
-			<text>Destroy target creature with power or toughness 2 or less.</text>
-			<prop>
-				<side>front</side>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="303" muid="0" picURL="https://lackeybot.com/revolution/front/303/BLR" rarity="special">BLR</set>
-		</card>
-		<card>
-			<name>Banish to the Isle_PRO_DOV</name>
-			<text>When Banish to the Isle enters, exile up to one target nonland permanent you don't control until Banish to the Isle leaves the battlefield. You gain 3 life.</text>
+			<name>Assured Destruction (Calamity)</name>
+			<text>Choose any number —
+• Each player sacrifices an enchantment.
+• Each player sacrifices an artifact.
+• Each player sacrifices a creature.</text>
 			<prop>
 				<side>front</side>
 				<manacost>1WW</manacost>
@@ -6810,59 +5986,17 @@ Whenever an opponent loses life for the first time each turn, put a +1/+1 counte
 				<maintype>undefined</maintype>
 				<coloridentity>W</coloridentity>
 				<colors>W</colors>
-				<type>Enchantment</type>
+				<type>Sorcery</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="313" muid="0" picURL="https://lackeybot.com/revolution/front/313/DOV" rarity="special">DOV</set>
+			<set num="325" muid="0" picURL="https://lackeybot.com/revolution/front/325/CYB" rarity="special">CYB</set>
 		</card>
 		<card>
-			<name>Feast of Whispered Knives_PRO_DOV</name>
-			<text>Indulgence (You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)
-Whenever you indulge, choose one —
-• Scry 2. Each opponent loses 2 life.
-• Create a tapped 2/1 black Rogue creature token with menace.
-• Target creature gets -2/-2 until end of turn.</text>
+			<name>Festered Effluvium_PRO_CYB</name>
+			<text>Mill X cards. For each land card milled this way, add {B}{B}. For each creature card milled this way, create a 2/2 black Zombie artifact creature token. For each noncreature, nonland card milled this way, draw a card.</text>
 			<prop>
 				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Legendary Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="318" muid="0" picURL="https://lackeybot.com/revolution/front/318/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Fencing Master_PRO_DOV</name>
-			<text>Whenever Fencing Master attacks, you may pay {R}. If you do, put a double strike counter on another target attacking creature.
-{1}{R}: Target creature you control gets +1/+0 until end of turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Cat Warrior</type>
-				<pt>1/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Field Test_PRO_DOV</name>
-			<text>Choose up to two —
-• Each creature gets -X/-X until end of turn.
-• Each opponent discards X cards.
-• You draw X cards and you lose X life.
-• Create an X/X black Zombie Horror creature token with menace.</text>
-			<prop>
-				<side>front</side>
-				<manacost>XXB</manacost>
+				<manacost>XB</manacost>
 				<cmc>1</cmc>
 				<layout>normal</layout>
 				<maintype>undefined</maintype>
@@ -6871,193 +6005,28 @@ Whenever you indulge, choose one —
 				<type>Sorcery</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="319" muid="0" picURL="https://lackeybot.com/revolution/front/319/DOV" rarity="special">DOV</set>
+			<set num="327" muid="0" picURL="https://lackeybot.com/revolution/front/327/CYB" rarity="special">CYB</set>
 		</card>
 		<card>
-			<name>Gallant Fancypaw_PRO_DOV</name>
-			<text> Ward {1}
-Gallant Fancypaw can't be blocked by creatures with power 3 or greater.
-Whenever you cast an Aura or Equipment spell, you may pay {W}. If you do, draw a card.</text>
+			<name>Gilded Font (Calamity)</name>
+			<text>Whenever you play a card with mana value equal to the number of charge counters on Gilded Font, put a charge counter on it.
+{2}, Sacrifice Gilded Font: You draw X cards and gain twice X life, where X is the number of charge counters on Gilded Font.</text>
 			<prop>
 				<side>front</side>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Cat Warrior</type>
-				<pt>1/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="314" muid="0" picURL="https://lackeybot.com/revolution/front/314/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Glauna, Decadent Demon_PRO_DOV</name>
-			<text>Indulgence (You indulge at the beginning of your end step if you gained 3 or more life and/or drew two or more cards this turn.)
-Whenever you indulge, put a loyalty counter on Glauna, Decadent Demon.
-[-1]: Create a 2/1 black Imp creature token with flying and “This creature can't block.”
-[-2]: Destroy target creature or planeswalker. Its controller loses 2 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1BB</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Planeswalker</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Legendary Planeswalker — Glauna</type>
-				<loyalty>3</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="320" muid="0" picURL="https://lackeybot.com/revolution/front/320/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Spellbane Sentinel_PRO_DOV</name>
-			<text>Flying
-Sacrifice Spellbane Sentinel: Counter target noncreature spell unless its controller pays {1}.</text>
-			<prop>
-				<side>front</side>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Artifact Creature — Gargoyle</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="317" muid="0" picURL="https://lackeybot.com/revolution/front/317/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Symbol of the Revolution_PRO_DOV</name>
-			<text>{X}: Symbol of the Revolution dares X. X can't be 0. (It becomes a legendary Rebel with base power and toughness X/X in addition to its other types until end of turn.)
-As long as Symbol of the Revolution is a Rebel, it has flying, lifelink, and vigilance.</text>
-			<prop>
-				<side>front</side>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Angel Warrior</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="316" muid="0" picURL="https://lackeybot.com/revolution/front/316/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>The Love of a Lifetime_PRO_DOV</name>
-			<text>When The Love of a Lifetime enters, you may search your library for a legendary creature card that doesn't share a name with a creature you control, reveal it, put it into your hand, then shuffle.
-Creatures you control get +1/+1.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1WW</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Legendary Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="315" muid="0" picURL="https://lackeybot.com/revolution/front/315/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Thorngrafter_PRO_DOV</name>
-			<text>Thorngrafter enters with a +1/+1 counter and your choice of counter from among deathtouch, reach, trample, or vigilance on it.
-{1}, {T}: Put a +1/+1 counter on Thorngrafter.
-{T}: You may move a counter from Thorngrafter to another creature you control. Activate only as a sorcery.</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Human Plant Druid</type>
-				<pt>0/0</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="322" muid="0" picURL="https://lackeybot.com/revolution/front/322/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Treasury Pilferer_PRO_DOV</name>
-			<text>Whenever Treasury Pilferer becomes the target of a spell you control, you may have it dare 4. (It becomes a legendary Rebel with base power and toughness 4/4 in addition to its other types until end of turn.)
-Whenever a Rebel you control deals combat damage to a player, you draw a card and create a Treasure token.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Cat Rogue</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="323" muid="0" picURL="https://lackeybot.com/revolution/front/323/DOV" rarity="special">DOV</set>
-		</card>
-		<card>
-			<name>Ensconce_PRO_POP</name>
-			<text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/POP" rarity="special">POP</set>
-		</card>
-		<card>
-			<name>Lightvein Arrow_PRO_POP</name>
-			<text>(This card is red. Spend a nonred color of mana on {Vp}.)
-Lightvein Arrow deals 3 damage to any target. Scry 1.</text>
-			<prop>
-				<side>front</side>
-				<manacost>VpR</manacost>
+				<manacost>2</manacost>
 				<cmc>2</cmc>
 				<layout>normal</layout>
 				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Instant</type>
+				<coloridentity></coloridentity>
+				<colors></colors>
+				<type>Artifact</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/POP" rarity="special">POP</set>
+			<set num="330" muid="0" picURL="https://lackeybot.com/revolution/front/330/CYB" rarity="special">CYB</set>
 		</card>
 		<card>
-			<name>Ozzen Enquirer_PRO_POP</name>
-			<text>Lifelink
-Whenever you gain life, noncreature spells your opponents cast cost {1} more to cast until your next turn. This ability triggers only once each turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Artifact Creature — Advisor</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="294" muid="0" picURL="https://lackeybot.com/revolution/front/294/POP" rarity="special">POP</set>
-		</card>
-		<card>
-			<name>Real Virtuality_PRO_POP</name>
-			<text>Draw three cards, then discard a card.
-If it's not an extra turn and you've amped it up twice this turn, take an extra turn after this one. (You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)
-Exile Real Virtuality.</text>
+			<name>Invasion's End_PRO_CYB</name>
+			<text>Put a defender counter on each creature.</text>
 			<prop>
 				<side>front</side>
 				<manacost>2UU</manacost>
@@ -7069,139 +6038,573 @@ Exile Real Virtuality.</text>
 				<type>Sorcery</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="295" muid="0" picURL="https://lackeybot.com/revolution/front/295/POP" rarity="special">POP</set>
+			<set num="326" muid="0" picURL="https://lackeybot.com/revolution/front/326/CYB" rarity="special">CYB</set>
 		</card>
 		<card>
-			<name>Rock On_PRO_POP</name>
-			<text>Target creature gets +2/+0 and gains first strike until end of turn. It gets an additional +1/+0 until end of turn for each time you've amped it up this turn. (You amp it up by casting your second spell each turn and/or by attacking with three or more creatures.)</text>
+			<name>Lagoroth, Century's Apex_PRO_CYB</name>
+			<text>Vigilance, trample
+As long as there are three or more instant and/or sorcery cards in your graveyard, Lagoroth, Century's Apex has haste.
+As long as there are six or more instant and/or sorcery cards in your graveyard, Lagoroth gets +6/+6.</text>
 			<prop>
 				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="298" muid="0" picURL="https://lackeybot.com/revolution/front/298/POP" rarity="special">POP</set>
-		</card>
-		<card>
-			<name>Agent of Deception_PRO_TRX</name>
-			<text>Flash
-When Agent of Deception enters, counter target creature or planeswalker spell unless its controller pays {X}, where X is your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Creature — Merfolk Rogue</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="318" muid="0" picURL="https://lackeybot.com/revolution/front/318/TRX" rarity="special">TRX</set>
-		</card>
-		<card>
-			<name>Efimia of the Horse_PRO_TRX</name>
-			<text>Haste
-Whenever you cast a spell that targets Efimia of the Horse, create a 1/1 white Human creature token if this is the first time this ability has resolved this turn. If it's the second time, creatures you control get +1/+0 and gain haste until end of turn. If it's the third time, creatures you control gain menace until end of turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Legendary Creature — Human Soldier</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="320" muid="0" picURL="https://lackeybot.com/revolution/front/320/TRX" rarity="special">TRX</set>
-		</card>
-		<card>
-			<name>Omen of Deception_PRO_TRX</name>
-			<text>Flash
-When Omen of Deception enters, counter target spell unless its controller pays {2}.
-{2}{U}, Sacrifice Omen of Deception: Scry 2.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="319" muid="0" picURL="https://lackeybot.com/revolution/front/319/TRX" rarity="special">TRX</set>
-		</card>
-		<card>
-			<name>Skola Nyxweaver_PRO_TRX</name>
-			<text>Whenever you cast a green spell, choose up to X, where X is the number of green mana symbols in that spell's mana cost —
-• Create a 1/1 white Human creature token.
-• Put a +1/+1 counter on a creature you control.
-• Put a trample counter, vigilance counter, or a reach counter on a creature you control.
-• Untap target land.</text>
-			<prop>
-				<side>front</side>
-				<manacost>GGG</manacost>
-				<cmc>3</cmc>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<layout>normal</layout>
 				<maintype>Creature</maintype>
 				<coloridentity>G</coloridentity>
 				<colors>G</colors>
-				<type>Creature — Satyr Soldier Scout</type>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/TRX" rarity="special">TRX</set>
-		</card>
-		<card>
-			<name>Skotha, Titan of Eternal Dusk_TRX</name>
-			<text>Whenever Skotha enters or attacks, each opponent discards a card. Then you may return a permanent card with mana value 3 or less from your graveyard to the battlefield.
-{B}{B}{G}{G}: Return Skotha from your graveyard to the battlefield, then put it on the bottom of its owner's library. Activate only as a sorcery.</text>
-			<prop>
-				<side>front</side>
-				<manacost>4BG</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>BG</coloridentity>
-				<colors>BG</colors>
-				<type>Legendary Creature — Elder Giant</type>
+				<type>Legendary Creature — Elemental Beast</type>
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="322" muid="0" picURL="https://lackeybot.com/revolution/front/322/TRX" rarity="special">TRX</set>
+			<set num="329" muid="0" picURL="https://lackeybot.com/revolution/front/329/CYB" rarity="special">CYB</set>
 		</card>
 		<card>
-			<name>Walk the Dead's Path_PRO_TRX</name>
-			<text>Choose one —
-• Walk the Dead's Path deals 3 damage to target attacking or blocking creature.
-• Destroy target enchantment.</text>
+			<name>Ragecloak Shifter_PRO_CYB</name>
+			<text>Solidarity (Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven't this turn.) (Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven't this turn.)
+{R}: Choose a creature type. Ragecloak Shifter gets +1/+0 and becomes that type in addition to its other types until end of turn.</text>
 			<prop>
 				<side>front</side>
-				<manacost>1W</manacost>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>R</coloridentity>
+				<colors>R</colors>
+				<type>Creature — Shapeshifter Shaman</type>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="328" muid="0" picURL="https://lackeybot.com/revolution/front/328/CYB" rarity="special">CYB</set>
+		</card>
+		<card>
+			<name>Axiomatic Shift_PRO_CNY</name>
+			<text>As an additional cost to cast this spell, remove any number of counters from among creatures you control. This spell costs {1} less to cast for each counter removed this way.
+Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.</text>
+			<prop>
+				<side>front</side>
+				<manacost>XGW</manacost>
 				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>GW</coloridentity>
+				<colors>GW</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="295" muid="0" picURL="https://lackeybot.com/revolution/front/295/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
+			<name>Bulk Bioengineering_PRO_CNY</name>
+			<text>You can't cast noncreature spells.
+Creature spells you cast cost {X} less to cast, where X is the greatest power among creatures you control.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>G</coloridentity>
+				<colors>G</colors>
+				<type>Enchantment</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="294" muid="0" picURL="https://lackeybot.com/revolution/front/294/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
+			<name>Dormant Monstrosity_PRO_CNY</name>
+			<text>Dormant Monstrosity enters tapped with three stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+{1}{U}, Remove a counter from Dormant Monstrosity: Draw a card.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>U</coloridentity>
+				<colors>U</colors>
+				<type>Creature — Squid Horror</type>
+				<pt>4/4</pt>
+			</prop>
+			<cipt>1</cipt>
+			<tablerow>2</tablerow>
+			<set num="292" muid="0" picURL="https://lackeybot.com/revolution/front/292/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
+			<name>Martyrize_PRO_CNY</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Exile the top X cards of your library, where X is the sacrificed creature's power. Until the end of your next turn, you may play those cards.</text>
+			<prop>
+				<side>front</side>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>R</coloridentity>
+				<colors>R</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
+			<name>Planned Obsolescence_PRO_CNY</name>
+			<text>Enchant artifact, creature, or planeswalker
+When you control a permanent with mana value greater than enchanted permanent's mana value, exile enchanted permanent.</text>
+			<prop>
+				<side>front</side>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<layout>normal</layout>
 				<maintype>undefined</maintype>
 				<coloridentity>W</coloridentity>
 				<colors>W</colors>
+				<type>Enchantment — Aura</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="291" muid="0" picURL="https://lackeybot.com/revolution/front/291/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
+			<name>Redeveloped Cityscape_PRO_CNY</name>
+			<text>{T}, Sacrifice Redeveloped Cityscape: Search your library for a basic land card and put it onto the battlefield tapped. Then you may exile a land card from your hand. If you do, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity></coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="296" muid="20251131" picURL="https://lackeybot.com/revolution/front/296/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
+			<name>Avert Disaster_PRO_CCR</name>
+			<text>This spell costs {1} less to cast if there is a card named Avert Disaster or Imminent Disaster in your graveyard.
+Counter target spell.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>U</coloridentity>
+				<colors>U</colors>
 				<type>Instant</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="317" muid="0" picURL="https://lackeybot.com/revolution/front/317/TRX" rarity="special">TRX</set>
+			<set num="291" muid="0" picURL="https://lackeybot.com/revolution/front/291/CCR" rarity="special">CCR</set>
 		</card>
 		<card>
-			<name>Abominable Avalanche (KUT)</name>
-			<text>Abominable Avalanche deals 3 damage divided as you choose among one, two, or three targets.
-At the beginning of your end step, if you've spent at least five mana to cast spells this turn, you may exile Abominable Avalanche from your graveyard. If you do, create a 3/3 green Yeti creature token with trample.</text>
+			<name>Crumbling Tower_PRO_CCR</name>
+			<text>Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}, Sacrifice Crumbling Tower: It deals damage equal to the number of cards exiled with it to target player.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>R</coloridentity>
+				<colors>R</colors>
+				<type>Enchantment</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/CCR" rarity="special">CCR</set>
+		</card>
+		<card>
+			<name>Harvest Time (Calamity)</name>
+			<text>Search your graveyard and/or library for a basic land card, reveal it, put it into your hand, then shuffle.
+Surface {G} (You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</text>
+			<prop>
+				<side>front</side>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>G</coloridentity>
+				<colors>G</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="294" muid="0" picURL="https://lackeybot.com/revolution/front/294/CCR" rarity="special">CCR</set>
+		</card>
+		<card>
+			<name>Imminent Disaster_PRO_CCR</name>
+			<text>This spell costs {1} less to cast if there is a card named Avert Disaster or Imminent Disaster in your graveyard.
+Exile target creature or planeswalker.</text>
+			<prop>
+				<side>front</side>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="292" muid="0" picURL="https://lackeybot.com/revolution/front/292/CCR" rarity="special">CCR</set>
+		</card>
+		<card>
+			<name>Warden of Wishes_PRO_CCR</name>
+			<text>Flying
+When Warden of Wishes enters, put three wish counters on it, then you gain 7 life.
+Whenever you lose life, you may remove a wish counter from Warden of Wishes. If you do, put a card you own from outside the game into your hand.</text>
+			<prop>
+				<side>front</side>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>WB</coloridentity>
+				<colors>WB</colors>
+				<type>Legendary Creature — Faerie Avatar</type>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="295" muid="0" picURL="https://lackeybot.com/revolution/front/295/CCR" rarity="special">CCR</set>
+		</card>
+		<card>
+			<name>Weather Elemental_PRO_CCR</name>
+			<text>Flying
+Whenever Weather Elemental enters or attacks, it acclimates. (You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on this.)
+If a triggered ability of a Weather you control would trigger, it triggers an additional time.</text>
+			<prop>
+				<side>front</side>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity></coloridentity>
+				<colors></colors>
+				<type>Creature — Elemental</type>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/CCR" rarity="special">CCR</set>
+		</card>
+		<card>
+			<name>Archive Telemetrary_PRO_ERR</name>
+			<text>({T}: Add {U}.)
+This land enters tapped.
+Level up {U}{U}{U} ({U}{U}{U}: Put a level counter on this as a sorcery.)
+[level 1-2] Vigilance
+This land is also a creature. [1/6]
+[level 3+] Vigilance
+This land is also a creature. [4/9]</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>U</coloridentity>
+				<colors></colors>
+				<type>Land — Island</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="312" muid="0" picURL="https://lackeybot.com/revolution/front/312/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Ardent Rise_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Mountain or Forest card, put it onto the battlefield tapped, then shuffle.
+{1}{R}{R}{G}{G}, Discard this card: Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to up to one target creature you don't control.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>RG</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="313" muid="0" picURL="https://lackeybot.com/revolution/front/313/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Buffer Reconservatory_PRO_ERR</name>
+			<text>({T}: Add {G}.)
+This land enters tapped.
+Level up {G}{G}{G} ({G}{G}{G}: Put a level counter on this as a sorcery.)
+[level 1-2] Ward {2}
+This land is also a creature. [3/2]
+[level 3+] Ward {2}
+This land is also a creature. [7/6]</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>G</coloridentity>
+				<colors></colors>
+				<type>Land — Forest</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="314" muid="0" picURL="https://lackeybot.com/revolution/front/314/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Faulty Server_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Swamp or Mountain card, put it onto the battlefield tapped, then shuffle.
+{2}{B}{B}{R}{R}, Discard this card: Create a 4/4 red Error creature token with menace.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>BR</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="315" muid="0" picURL="https://lackeybot.com/revolution/front/315/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Forgotten Junkyard_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Swamp or Forest card, put it onto the battlefield tapped, then shuffle.
+{2}{B}{B}{G}{G}, Discard this card: Return up to one target creature card and up to one target enchantment card from your graveyard to your hand.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>BG</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="316" muid="0" picURL="https://lackeybot.com/revolution/front/316/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Glittering Club_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Mountain or Plains card, put it onto the battlefield tapped, then shuffle.
+{1}{R}{R}{W}{W}, Discard this card: Creatures you control get +2/+1 until end of turn.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>RW</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="317" muid="0" picURL="https://lackeybot.com/revolution/front/317/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Grip Festivarium_PRO_ERR</name>
+			<text>({T}: Add {R}.)
+This land enters tapped.
+Level up {R}{R}{R} ({R}{R}{R}: Put a level counter on this as a sorcery.)
+[level 1-2] Menace
+This land is also a creature. [3/1]
+[level 3+] Menace
+This land is also a creature. [6/4/]</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>R</coloridentity>
+				<colors></colors>
+				<type>Land — Mountain</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="318" muid="0" picURL="https://lackeybot.com/revolution/front/318/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Heap Ludicon_PRO_ERR</name>
+			<text>({T}: Add {B}.)
+This land enters tapped.
+Level up {B}{B}{B} ({B}{B}{B}: Put a level counter on this as a sorcery.)
+[level 1-2] Deathtouch
+This land is also a creature. [2/4]
+[level 3+] Deathtouch
+This land is also a creature. [6/8]</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>B</coloridentity>
+				<colors></colors>
+				<type>Land — Swamp</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="319" muid="0" picURL="https://lackeybot.com/revolution/front/319/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Isolated Tower_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Plains or Swamp card, put it onto the battlefield tapped, then shuffle.
+{2}{W}{W}{B}{B}, Discard this card: Exile target nonland permanent.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>WB</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="320" muid="0" picURL="https://lackeybot.com/revolution/front/320/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Lost and Found_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Island or Swamp card, put it onto the battlefield tapped, then shuffle.
+{2}{U}{U}{B}{B}, Discard this card: Surveil 2, then draw two cards.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>UB</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Meteoric Facade_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Island or Mountain card, put it onto the battlefield tapped, then shuffle.
+{2}{U}{U}{R}{R}, Discard this card: It deals 3 damage to any target. Draw two cards, then discard a card.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>UR</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="322" muid="0" picURL="https://lackeybot.com/revolution/front/322/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Regrowing Outlands_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Forest or Island card, put it onto the battlefield tapped, then shuffle.
+{1}{G}{G}{U}{U}, Discard this card: Create two tapped tokens that are copies of target land.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>GU</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="323" muid="0" picURL="https://lackeybot.com/revolution/front/323/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Reified Borough_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Forest or Plains card, put it onto the battlefield tapped, then shuffle.
+{1}{G}{G}{W}{W}, Discard this card: Create three tapped 1/1 white Citizen creature tokens.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>GW</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="324" muid="0" picURL="https://lackeybot.com/revolution/front/324/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Silent Lakefront_PRO_ERR</name>
+			<text>When this land enters, sacrifice it. If you do, search your library for a basic Plains or Island card, put it onto the battlefield tapped, then shuffle.
+{1}{W}{W}{U}{U}, Discard this card: Counter target spell. You gain 3 life.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>WU</coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="325" muid="0" picURL="https://lackeybot.com/revolution/front/325/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Stack Conviviplex_PRO_ERR</name>
+			<text>({T}: Add {W}.)
+This land enters tapped.
+Level up {W}{W}{W} ({W}{W}{W}: Put a level counter on this as a sorcery.)
+[level 1-2] Lifelink
+This land is also a creature. [2/3]
+[level 3+] Lifelink
+This land is also a creature. [5/6]</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity>W</coloridentity>
+				<colors></colors>
+				<type>Land — Plains</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="326" muid="0" picURL="https://lackeybot.com/revolution/front/326/ERR" rarity="special">ERR</set>
+		</card>
+		<card>
+			<name>Assaulted by Shadows_PRO_KDT</name>
+			<text>Choose target creature you control. When that creature leaves the battlefield this turn, choose one —
+• Create a token that's a copy of it.
+• Search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.</text>
+			<prop>
+				<side>front</side>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>GU</coloridentity>
+				<colors>GU</colors>
+				<type>Instant</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="331" muid="0" picURL="https://lackeybot.com/revolution/front/331/KDT" rarity="special">KDT</set>
+		</card>
+		<card>
+			<name>Faces of the Faceless_PRO_KDT</name>
+			<text>Cards can't leave graveyards. (Including by being cast.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<prop>
+				<side>front</side>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity></coloridentity>
+				<colors></colors>
+				<type>Artifact</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="335" muid="0" picURL="https://lackeybot.com/revolution/front/335/KDT" rarity="special">KDT</set>
+		</card>
+		<card>
+			<name>Foreign Encounter_PRO_KDT</name>
+			<text>Look at the top six cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield. It enters with an additional +1/+1 counter on it. Put the rest on the bottom of your library in a random order.
+Cycling {R/G} ({R/G}, Discard this card: Draw a card.)</text>
 			<prop>
 				<side>front</side>
 				<manacost>1RG</manacost>
@@ -7213,161 +6616,81 @@ At the beginning of your end step, if you've spent at least five mana to cast sp
 				<type>Sorcery</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="303" muid="0" picURL="https://lackeybot.com/revolution/front/303/OLD" rarity="special">OLD</set>
+			<set num="332" muid="0" picURL="https://lackeybot.com/revolution/front/332/KDT" rarity="special">KDT</set>
 		</card>
 		<card>
-			<name>Audacious Roughrider (KUT)</name>
-			<text>When Audacious Roughrider enters or leaves the battlefield, exile the top card of your library. Then you may discard a card. If you do, put the exiled card into your hand. If you don't, create a Treasure token.
-Wander {4}{R}{R} (You may cast this from the battlefield for its wander cost.)</text>
+			<name>Path's End_PRO_KDT</name>
+			<text>This spell can't be countered.
+Destroy all permanents without activated abilities.</text>
 			<prop>
 				<side>front</side>
-				<manacost>1RR</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Human Knight</type>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="302" muid="0" picURL="https://lackeybot.com/revolution/front/302/OLD" rarity="special">OLD</set>
-		</card>
-		<card>
-			<name>Whitecliff Pilgrim_PRO_OLD</name>
-			<text>Whenever a creature entering the battlefield under your control causes an ability of a permanent you control to trigger, draw a card. This ability triggers only once each turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Creature — Human Scout</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/OLD" rarity="special">OLD</set>
-		</card>
-		<card>
-			<name>Aspiring Anarchist_PRO_CNY</name>
-			<text>Trample
-Whenever Aspiring Anarchist attacks, you may have its base power and toughness become equal to the power and toughness of another target attacking creature until end of turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Crocodile Rebel</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="289" muid="0" picURL="https://lackeybot.com/revolution/front/289/CNY" rarity="special">CNY</set>
-		</card>
-		<card>
-			<name>Flags on High_PRO_CNY</name>
-			<text>When Flags on High enters, create two 1/1 colorless Soldier creature tokens.
-{1}{R}, Sacrifice Flags on High: Target creature you control gets +1/+0 and gains haste until end of turn. Activate only as a sorcery.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>2WWU</manacost>
+				<cmc>5</cmc>
 				<layout>normal</layout>
 				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
+				<coloridentity>WU</coloridentity>
+				<colors>WU</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="333" muid="0" picURL="https://lackeybot.com/revolution/front/333/KDT" rarity="special">KDT</set>
+		</card>
+		<card>
+			<name>Ruinous Portents_PRO_KDT</name>
+			<text>Sacrifice any number of permanents. Ruinous Portents deals X damage to each creature your opponents control and you draw X cards, where X is the number of permanents sacrificed this way.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1BBRR</manacost>
+				<cmc>5</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>BR</coloridentity>
+				<colors>BR</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="334" muid="0" picURL="https://lackeybot.com/revolution/front/334/KDT" rarity="special">KDT</set>
+		</card>
+		<card>
+			<name>Welkin Eviction_PRO_KDT</name>
+			<text>Flash
+This spell costs {X} less to cast, where X is the number of Plains you control plus the number of cards with a cycling ability in your graveyard.
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+Plainscycling {2}</text>
+			<prop>
+				<side>front</side>
+				<manacost>6W</manacost>
+				<cmc>7</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>W</coloridentity>
+				<colors>W</colors>
 				<type>Enchantment</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="287" muid="0" picURL="https://lackeybot.com/revolution/front/287/CNY" rarity="special">CNY</set>
+			<set num="330" muid="0" picURL="https://lackeybot.com/revolution/front/330/KDT" rarity="special">KDT</set>
 		</card>
 		<card>
-			<name>Sparks of a Revolution (Hero)</name>
-			<text>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)
-When Sparks of a Revolution enters, create a 1/1 colorless Soldier creature token. It gains haste until end of turn.
-{ql} — Three or more sources you controlled dealt damage this turn.
-{ql} — A source you controlled dealt 3 or more damage this turn.
----
-Transforms into Freedom</text>
+			<name>Bleed for the Cause_PRO_TWI</name>
+			<text>Create a 2/2 black Zombie creature token with “This creature can't block.” You lose 1 life.
+At the beginning of your end step, if you've lost 3 or more life this turn, return Bleed for the Cause from your graveyard to your hand.</text>
 			<prop>
 				<side>front</side>
-				<manacost>R</manacost>
+				<manacost>B</manacost>
 				<cmc>1</cmc>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Enchantment — Policy</type>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Sorcery</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<related attach="transform">Freedom (Hero)</related>
-			<set num="288a" muid="0" picURL="https://lackeybot.com/revolution/front/288/CNY" rarity="special">CNY</set>
+			<set num="342" muid="0" picURL="https://lackeybot.com/revolution/front/342/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
-			<name>Freedom (Hero)</name>
-			<text>Whenever you attack, create a 1/1 colorless Soldier creature token that's tapped and attacking.
----
-Transforms from Sparks of a Revolution</text>
-			<prop>
-				<side>back</side>
-				<manacost></manacost>
-				<cmc>undefined</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<layout>transform</layout>
-				<type>Legendary Enchantment</type>
-				<maintype>undefined</maintype>
-				<defense>undefined</defense>
-			</prop>
-			<tablerow>1</tablerow>
-			<related attach="transform">Sparks of a Revolution (Hero)</related>
-			<set num="288b" rarity="special" muid="0" picURL="https://lackeybot.com/revolution/back/288/CNY">CNY</set>
-		</card>
-		<card>
-			<name>Survivors of the New World_PRO_CNY</name>
-			<text>When Survivors of the New World enters, if it isn't a token, create two tokens that are copies of it.
-When Survivors of the New World dies, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2GW</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>GW</coloridentity>
-				<colors>GW</colors>
-				<type>Creature — Mutant Survivor</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/CNY" rarity="special">CNY</set>
-		</card>
-		<card>
-			<name>Contest Coordinator_PRO_CCR</name>
-			<text>When Contest Coordinator enters, look at the top five cards of your library. You may reveal a Plains card or a nonland card with an activated ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Human Performer</type>
-				<pt>1/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="288" muid="0" picURL="https://lackeybot.com/revolution/front/288/CCR" rarity="special">CCR</set>
-		</card>
-		<card>
-			<name>Temple of Origins_PRO_CCR</name>
-			<text>Temple of Origins enters tapped unless you control two or fewer other lands.
-As Temple of Origins enters, choose two colors.
-{T}: Add one mana of one of the chosen colors.
-If you would add mana of a color that wasn't chosen, add {C} instead.</text>
+			<name>Crumbling Ruin_PRO_TWI</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Target nonbasic land you don't control and Crumbling Ruin each lose all abilities and gain “{T}: Add one mana of any color.”</text>
 			<prop>
 				<side>front</side>
 				<manacost></manacost>
@@ -7378,266 +6701,74 @@ If you would add mana of a color that wasn't chosen, add {C} instead.</text>
 				<colors></colors>
 				<type>Land</type>
 			</prop>
-			<cipt>1</cipt>
 			<tablerow>0</tablerow>
-			<set num="289" muid="0" picURL="https://lackeybot.com/revolution/front/289/CCR" rarity="special">CCR</set>
+			<set num="347" muid="0" picURL="https://lackeybot.com/revolution/front/347/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
-			<name>Fabricated Anomaly_PRO_ERR</name>
-			<text>When this creature enters, create The Puzzlebox, a legendary colorless artifact token with “{T}, Discard a card: Draw a card.”
-Whenever a creature you control attacks, you may exile a number of cards from your graveyard equal to its power. If you do, put a +1/+1 counter on it.</text>
+			<name>Culling Ritual_PRO_TWI</name>
+			<text>Destroy each nonland permanent with mana value 2 or less. Add {B} or {G} for each permanent destroyed this way.</text>
 			<prop>
 				<side>front</side>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Enchantment Creature — Elemental</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="310" muid="0" picURL="https://lackeybot.com/revolution/front/310/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Hang_PRO_ERR</name>
-			<text>Corrupt — Destroy target creature if it has power 3 or less or if you control a permanent with greater mana value than this spell.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="309" muid="0" picURL="https://lackeybot.com/revolution/front/309/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>PANIC()_PRO_ERR</name>
-			<text>(As this enters, insert it into one of your three programs. At your first main phase each turn, the next program runs all its Subroutines.)
-When this Subroutine enters, you may discard a card. When you do, it deals 4 damage to target creature or planeswalker.
-Whenever this Subroutine runs, create a 4/4 red Error creature token with menace.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2RR</manacost>
+				<manacost>2BG</manacost>
 				<cmc>4</cmc>
 				<layout>normal</layout>
 				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Enchantment — Subroutine</type>
+				<coloridentity>BG</coloridentity>
+				<colors>BG</colors>
+				<type>Sorcery</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="311" muid="0" picURL="https://lackeybot.com/revolution/front/311/ERR" rarity="special">ERR</set>
+			<set num="345" muid="0" picURL="https://lackeybot.com/revolution/front/345/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
-			<name>SYSCALL()_PRO_ERR</name>
-			<text>(As this enters, insert it into one of your three programs. At your first main phase each turn, the next program runs all its Subroutines.)
-{X}{U}: Draw X cards. Activate only if this Subroutine ran this turn.</text>
+			<name>Deafening Clarion_PRO_TWI</name>
+			<text>Choose one or both —
+• Deafening Clarion deals 3 damage to each creature.
+• Creatures you control gain lifelink until end of turn.</text>
 			<prop>
 				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Enchantment — Subroutine</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="308" muid="0" picURL="https://lackeybot.com/revolution/front/308/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Forest_PRO_KDT</name>
-			<text>({T}: Add {G}.)</text>
-			<prop>
-				<side>front</side>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<layout>normal</layout>
-				<maintype>Land</maintype>
-				<coloridentity>G</coloridentity>
-				<colors></colors>
-				<type>Basic Land — Forest</type>
-			</prop>
-			<tablerow>0</tablerow>
-			<set num="329" muid="0" picURL="https://lackeybot.com/revolution/front/329/KDT" rarity="special">KDT</set>
-		</card>
-		<card>
-			<name>Advance of the Sainted March_PRO_TWI</name>
-			<text>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)
-When Advance of the Sainted March enters, create two 1/1 red Berserker creature tokens.
-Defeated — Whenever you attack, create a 1/1 red Berserker creature token that's tapped and attacking.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Battle — Operation</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="333" muid="0" picURL="https://lackeybot.com/revolution/front/333/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Aegis of Grace_PRO_TWI</name>
-			<text>Flying, lifelink
-Prevent all damage that would be dealt to battles you protect.
-You, battles you control, and other creatures you control have hexproof.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Angel Knight</type>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="334" muid="0" picURL="https://lackeybot.com/revolution/front/334/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Consume the Divine_PRO_TWI</name>
-			<text>Whenever a creature you control attacks, put a +1/+1 counter on it.
-Whenever a creature you control dies, if it had three or more counters on it, draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>WWW</manacost>
+				<manacost>1RW</manacost>
 				<cmc>3</cmc>
 				<layout>normal</layout>
 				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Enchantment</type>
+				<coloridentity>RW</coloridentity>
+				<colors>RW</colors>
+				<type>Sorcery</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="335" muid="0" picURL="https://lackeybot.com/revolution/front/335/TWI" rarity="special">TWI</set>
+			<set num="346" muid="0" picURL="https://lackeybot.com/revolution/front/346/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
-			<name>Discern (Hero)</name>
-			<text>Draw a card.
-Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<name>Destructive Ambition_PRO_TWI</name>
+			<text>Counter target monocolored spell. Its controller loses 2 life.</text>
 			<prop>
 				<side>front</side>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="337" muid="0" picURL="https://lackeybot.com/revolution/front/337/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Omnipresence_PRO_TWI</name>
-			<text>Creatures you control have base power and toughness X/X, where X is your life total.</text>
-			<prop>
-				<side>front</side>
-				<manacost>6GGG</manacost>
-				<cmc>9</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="338" muid="0" picURL="https://lackeybot.com/revolution/front/338/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Reaper of Blossoms (KUT)</name>
-			<text>Whenever Reaper of Blossoms attacks, mill three cards. Then you may pay {G}. If you do, return a land card from your graveyard to your hand. Otherwise, you gain 1 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
+				<manacost>UB</manacost>
 				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Spirit Druid</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="339" muid="0" picURL="https://lackeybot.com/revolution/front/339/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Sanctum of Repression_PRO_TWI</name>
-			<text>Reprieve (As this permanent enters, you may return a creature you control without reprieve to its owner's hand.)
-When Sanctum of Repression enters, exile target nonland permanent you don't control until Sanctum of Repression leaves the battlefield if it reprieved a creature or that permanent's mana value is 3 or less.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="336" muid="0" picURL="https://lackeybot.com/revolution/front/336/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Sanctum of Repression ★</name>
-			<text>Reprieve (As this permanent enters, you may return a creature you control without reprieve to its owner's hand.)
-When Sanctum of Repression enters, exile target nonland permanent you don't control until Sanctum of Repression leaves the battlefield if it reprieved a creature or that permanent's mana value is 3 or less.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="1336" muid="0" picURL="https://lackeybot.com/revolution/front/1336/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>The Throne of House Ravellan_PRO_TWI</name>
-			<text>As long as you control a legendary creature, creatures you control get +1/+1.
-At the beginning of your end step, if you control a legendary creature, draw a card.
-{3}, Sacrifice The Throne of House Ravellan: Return target legendary card from your graveyard to your hand.</text>
-			<prop>
-				<side>front</side>
-				<manacost>3</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Legendary Artifact</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="341" muid="0" picURL="https://lackeybot.com/revolution/front/341/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Trauma Spike_PRO_TWI</name>
-			<text>Choose a nonland card name. Search target player's graveyard, hand, and/or library for any number of cards with that name and exile them. That player shuffles. Discard a card for each card exiled from that player's hand this way.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1UB</manacost>
-				<cmc>3</cmc>
 				<layout>normal</layout>
 				<maintype>undefined</maintype>
 				<coloridentity>UB</coloridentity>
 				<colors>UB</colors>
-				<type>Sorcery</type>
+				<type>Instant</type>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="340" muid="0" picURL="https://lackeybot.com/revolution/front/340/TWI" rarity="special">TWI</set>
+			<set num="343" muid="0" picURL="https://lackeybot.com/revolution/front/343/TWI" rarity="special">TWI</set>
+		</card>
+		<card>
+			<name>Uplifting Chorus_PRO_TWI</name>
+			<text>You may discard your hand. If you do, exile the top X cards of your library, where X is the number of creatures you control. You may play those cards until the end of your next turn.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>UR</coloridentity>
+				<colors>UR</colors>
+				<type>Instant</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="344" muid="0" picURL="https://lackeybot.com/revolution/front/344/TWI" rarity="special">TWI</set>
 		</card>
 </cards>
 </cockatrice_carddatabase>
