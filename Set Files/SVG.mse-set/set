@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Svergard Rework
 	copyright: 
@@ -1361,7 +1361,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2019-11-17 12:14:24
@@ -1391,7 +1391,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2019-11-17 13:01:14
@@ -1446,7 +1446,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 33
@@ -1572,7 +1572,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2019-11-17 19:08:11
@@ -1599,7 +1599,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2020-03-28 09:10:59
@@ -1667,7 +1667,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: [The Scaravi capital, Hasittgammel, is home to the Great Edda, the plane’s largest collection of tales and tapestries.]
 	time_created: 2019-11-17 19:06:10
@@ -1694,7 +1694,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		[People avoid certain areas because of strong magical influences. Also, the creatures that result from that ambient magical influence.]
@@ -1776,7 +1776,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2020-06-17 21:30:43
@@ -1881,7 +1881,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1916,7 +1916,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -2033,7 +2033,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 13
@@ -2122,7 +2122,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2183,7 +2183,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2020-08-05 17:45:57
@@ -2247,7 +2247,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2286,7 +2286,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -2392,7 +2392,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -2430,7 +2430,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -2557,7 +2557,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2627,7 +2627,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2020-07-01 12:09:35
@@ -2657,7 +2657,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3111,7 +3111,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -3347,7 +3347,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Reprint (Wizards of the Coast)
 	time_created: 2019-11-17 12:14:24
@@ -3419,9 +3419,11 @@ card:
 
 card:
 	has_styling: false
-	notes: https://www.artstation.com/artwork/vq3Xd
+	notes:
+		https://www.artstation.com/artwork/vq3Xd
+		 nerfed: Added targeting restriction
 	time_created: 2020-05-30 15:14:45
-	time_modified: 2021-04-04 22:22:00
+	time_modified: 2026-01-31 22:52:05
 	name: Travel to the Otherworlds
 	casting_cost: 2W
 	image: image94
@@ -3430,7 +3432,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Exile up to two target permanents you control, then return those cards to the battlefield under their owner’s control.
+	rule_text: Exile up to two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under their owner’s control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Benjamin Goutte
 	card_code_text: 
@@ -3596,7 +3598,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -3634,7 +3636,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -3801,7 +3803,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -3839,7 +3841,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2020-05-12 08:46:46
@@ -3867,7 +3869,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3952,7 +3954,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -3998,7 +4000,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2019-11-17 13:01:14
@@ -4027,7 +4029,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -4276,7 +4278,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -4385,7 +4387,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: [Dwarves’ willingness to defend their homeland / clan / god.]
 	time_created: 2019-11-17 19:08:11
@@ -4488,7 +4490,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -4783,7 +4785,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -4818,7 +4820,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -5022,7 +5024,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2019-11-17 21:30:13
@@ -5126,7 +5128,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -5194,7 +5196,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -5487,7 +5489,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -5756,7 +5758,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2020-07-02 12:38:20
@@ -5808,7 +5810,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -5844,7 +5846,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -5984,7 +5986,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6076,7 +6078,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -6434,7 +6436,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -6473,7 +6475,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: rarityU
 	time_created: 2020-05-09 20:07:09
@@ -6499,7 +6501,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6540,7 +6542,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2020-05-09 20:07:09
@@ -6574,7 +6576,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 14
@@ -7124,9 +7126,9 @@ card:
 	copyright_3: [Custom] ™&© Wizards of the Coast
 	special_text:
 		<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i>
-		I — Destroy all other creatures and enchantments.
+		Destroy all other creatures and enchantments.
 		<kw-a><nospellcheck><key><param-mill>M<kw-a>ill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		II, III — Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile it instead.
+		Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile it instead.
 
 card:
 	stylesheet: m15-mainframe-tokens
@@ -7301,7 +7303,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 13
@@ -7390,7 +7392,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -7430,7 +7432,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -7474,7 +7476,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -7622,13 +7624,13 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
-		I, II — Exile the top five cards of your library.
-		III, IV — Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
+		Exile the top five cards of your library.
+		Choose a card exiled with <atom-cardname><nospellcheck>Climb to the Peak</nospellcheck></atom-cardname>. You may play it until end of turn.
 		​
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -7674,7 +7676,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -7727,7 +7729,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -7764,7 +7766,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12

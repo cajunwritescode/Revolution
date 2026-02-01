@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Errors in the Weft
 	set_code: ERR
@@ -3589,7 +3589,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3737,7 +3737,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3915,7 +3915,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4001,7 +4001,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: leveler
@@ -4153,7 +4153,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: leveler
@@ -4546,7 +4546,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4753,7 +4753,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4825,7 +4825,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -4941,7 +4941,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5012,7 +5012,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5050,7 +5050,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5088,7 +5088,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5196,7 +5196,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5270,7 +5270,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: leveler
@@ -5381,7 +5381,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -5577,7 +5577,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5619,7 +5619,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -5656,7 +5656,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5906,7 +5906,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!tokens Treasure ERR
@@ -5948,7 +5948,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6094,7 +6094,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6129,7 +6129,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6167,7 +6167,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6245,7 +6245,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6287,7 +6287,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -6393,7 +6393,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -6446,7 +6446,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6685,7 +6685,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6776,7 +6776,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6816,7 +6816,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7754,7 +7754,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7843,7 +7843,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7892,7 +7892,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8031,7 +8031,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8115,7 +8115,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8259,7 +8259,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8302,7 +8302,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8396,7 +8396,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!tag promo
@@ -8616,7 +8616,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8662,7 +8662,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8932,7 +8932,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8973,7 +8973,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9100,7 +9100,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9232,7 +9232,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9572,7 +9572,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9625,7 +9625,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9673,7 +9673,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9725,7 +9725,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9779,7 +9779,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9828,7 +9828,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9927,7 +9927,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9970,7 +9970,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10051,7 +10051,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10144,7 +10144,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10420,7 +10420,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10508,7 +10508,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10822,9 +10822,8 @@ card:
 	stylesheet_version: 2025-01-11
 	has_styling: false
 	notes:
-		!!exportname red Error 44ERR
-		!hidetag red
-		!
+		!exportname red Error 44ERR
+		
 		art4
 	time_created: 2024-08-31 21:41:29
 	time_modified: 2025-03-06 15:44:55
@@ -11689,16 +11688,18 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !design Stasis
+	notes:
+		!design Stasis
+		 nerfed: No longer an enchantment.
 	time_created: 2025-04-28 15:11:45
-	time_modified: 2025-09-30 01:55:38
+	time_modified: 2026-01-31 16:20:12
 	name: Fabricated Anomaly
 	casting_cost: 2R
 	image: image33.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -11825,7 +11826,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -11866,7 +11867,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -11909,7 +11910,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -11950,7 +11951,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -11995,7 +11996,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -12084,7 +12085,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12182,7 +12183,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12236,7 +12237,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12282,7 +12283,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12328,7 +12329,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -12392,7 +12393,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12439,7 +12440,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12693,7 +12694,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12780,18 +12781,19 @@ card:
 	has_styling: false
 	notes:
 		!design Stasis
+		
 		!promo Eternal Excursion;Weft Terminal
 		  !replacetoken TerminalPuzzle;1
 		!inpend > /replace/
 	time_created: 2025-04-28 15:11:45
-	time_modified: 2025-12-31 14:26:08
+	time_modified: 2026-01-31 16:20:16
 	name: Fabricated Anomaly
 	casting_cost: 2R
 	image: image37.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -12887,7 +12889,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -12899,11 +12901,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 19:54:15
+	time_modified: 2026-01-31 16:36:24
 	card_color: blue, land
 	name: Archive Telemetrary
 	casting_cost: 
@@ -12940,13 +12942,13 @@ card:
 	toughness_3: 9
 	illustrator: Mariusz Lewandowski
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Silver
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -12956,11 +12958,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:23:12
+	time_modified: 2026-01-31 16:36:37
 	card_color: red, green, land, horizontal
 	name: Ardent Rise
 	casting_cost: 
@@ -12983,13 +12985,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: MiHoYo
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -13001,7 +13003,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
@@ -13048,7 +13050,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13058,7 +13060,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
@@ -13091,7 +13093,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13101,7 +13103,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
@@ -13134,7 +13136,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13144,11 +13146,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:23:28
+	time_modified: 2026-01-31 16:37:11
 	card_color: white, red, land, horizontal
 	name: Glittering Club
 	casting_cost: 
@@ -13171,13 +13173,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pedro Sena
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Silver
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -13189,11 +13191,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 19:55:46
+	time_modified: 2026-01-31 16:37:33
 	card_color: red, land
 	name: Grip Festivarium
 	casting_cost: 
@@ -13230,13 +13232,13 @@ card:
 	toughness_3: 
 	illustrator: Eiji Tsuburaya
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Silver
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
@@ -13248,11 +13250,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 18:54:29
+	time_modified: 2026-01-31 16:37:47
 	card_color: black, land
 	name: Heap Ludicon
 	casting_cost: 
@@ -13289,13 +13291,13 @@ card:
 	toughness_3: 8
 	illustrator: Alexander Muscat
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by kumrac
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13305,7 +13307,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
@@ -13344,7 +13346,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13354,7 +13356,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
@@ -13387,7 +13389,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13397,11 +13399,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:23:49
+	time_modified: 2026-01-31 16:38:17
 	card_color: blue, red, land, horizontal
 	name: Meteoric Facade
 	casting_cost: 
@@ -13424,13 +13426,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Paolo Barbieri
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Silver
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13440,7 +13442,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
@@ -13473,7 +13475,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13483,11 +13485,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:23:58
+	time_modified: 2026-01-31 16:38:40
 	card_color: white, green, land, horizontal
 	name: Reified Borough
 	casting_cost: 
@@ -13510,13 +13512,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Celestial Fang
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13526,11 +13528,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:24:02
+	time_modified: 2026-01-31 16:38:51
 	card_color: white, blue, land, horizontal
 	name: Silent Lakefront
 	casting_cost: 
@@ -13553,13 +13555,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pedro Sena
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -13572,11 +13574,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 18:54:24
+	time_modified: 2026-01-31 16:39:03
 	card_color: white, land
 	name: Stack Conviviplex
 	casting_cost: 
@@ -13613,7 +13615,7 @@ card:
 	toughness_3: 6
 	illustrator: Mariusz Lewandowski
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Silver
 	card_code_text_2: 
 	card_code_text_3: 
 

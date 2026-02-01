@@ -10565,7 +10565,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 222,
-      "multiverseId": 20251131
+      "multiverseId": 20260031
      },
      "name": "Survey What's Left_VST",
      "number": "35",
@@ -10573,7 +10573,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Exile two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under your control.",
+     "text": "Exile two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under their owner's control.",
      "type": "Instant",
      "types": [
       "Instant"
@@ -49096,7 +49096,7 @@
      "legalities": {
       "revolution": "Rotated",
       "brawl": "Rotated",
-      "eternal": "Legal",
+      "eternal": "Banned",
       "eternal-pauper": "Illegal",
       "planechase": "Rotated"
      },
@@ -77190,7 +77190,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 1485,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Travel to the Otherworlds_SVG",
      "number": "24",
@@ -77198,7 +77198,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Exile up to two target permanents you control, then return those cards to the battlefield under their owner's control.",
+     "text": "Exile up to two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under their owner's control.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -105051,7 +105051,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 2234,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Start Anew_KRS",
      "number": "37",
@@ -105059,7 +105059,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Exile target nonland permanent, then return it to the battlefield under its owner's control.\nCrystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)",
+     "text": "Exile target creature or enchantment, then return it to the battlefield under its owner's control. If a creature entered the battlefield under your control this way, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)",
      "type": "Instant",
      "types": [
       "Instant"
@@ -141710,7 +141710,7 @@
      "legalities": {
       "revolution": "Rotated",
       "brawl": "Rotated",
-      "eternal": "Legal",
+      "eternal": "Banned",
       "eternal-pauper": "Illegal",
       "planechase": "Rotated"
      },
@@ -191022,7 +191022,7 @@
      "manaCost": "{B}{B}",
      "identifiers": {
       "scryfallId": 4131,
-      "multiverseId": 20251131
+      "multiverseId": 20260031
      },
      "name": "Marked Passage_OLD",
      "number": "116",
@@ -191030,7 +191030,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Pay life equal to the number of cards you've drawn this turn, then draw a card. You may repeat this process any number of times.",
+     "text": "Pay life equal to the number of cards you've drawn this turn. If you do, draw a card. You may repeat that process any number of times.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -206023,7 +206023,7 @@
       "W"
      ],
      "designer": "Splitmoon",
-     "flavor": "“I missed when the only wild animals were the fleshy kind.”\n—Tolgi, Edgeland scout\n",
+     "flavor": "“I miss when the only wild animals were the fleshy kind.”\n—Tolgi, Edgeland scout\n",
      "frameType": "normal",
      "frameVersion": "2015",
      "id": "Looming Cyhawk_CYB",
@@ -206039,7 +206039,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 4375,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Looming Cyhawk",
      "number": "46",
@@ -214059,6 +214059,50 @@
      "uuid": "Assured Destruction_PRO_CYB"
     },
     {
+     "artist": "Kuro Games",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Splitmoon",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Assured Destruction (Calamity)_PRO_CYB",
+     "imageName": "assured destruction (calamity)",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{1}{W}{W}",
+     "identifiers": {
+      "scryfallId": 6774,
+      "multiverseId": 20260031
+     },
+     "name": "Assured Destruction (Calamity)",
+     "number": "325",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Choose any number —\n• Each player sacrifices an enchantment.\n• Each player sacrifices an artifact.\n• Each player sacrifices a creature.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Assured Destruction (Calamity)_PRO_CYB"
+    },
+    {
      "artist": "Jon Gerung",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -214508,6 +214552,50 @@
       "Sorcery"
      ],
      "uuid": "Industrialize_PRO_CYB"
+    },
+    {
+     "artist": "Mariusz Lewandowski",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Splitmoon",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Invasion's End_PRO_CYB",
+     "imageName": "invasion's end_pro_cyb",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{U}{U}",
+     "identifiers": {
+      "scryfallId": 6777,
+      "multiverseId": 20260031
+     },
+     "name": "Invasion's End_PRO_CYB",
+     "number": "326",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Put a defender counter on each creature.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Invasion's End_PRO_CYB"
     },
     {
      "artist": "mati",
@@ -215171,8 +215259,8 @@
      "uuid": "Terminal Impact_PRO_CYB"
     }
    ],
-   "baseSetSize": 343,
-   "totalSetSize": 343,
+   "baseSetSize": 345,
+   "totalSetSize": 345,
    "cardsphereSetId": 15,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -218927,7 +219015,7 @@
      "manaCost": "{1}{U}{B}{R}",
      "identifiers": {
       "scryfallId": 4659,
-      "multiverseId": 20251101
+      "multiverseId": 20260031
      },
      "name": "Envoy of the Fallen",
      "number": "178",
@@ -218941,7 +219029,7 @@
       "Soldier"
      ],
      "text": "Lifelink\nWhen Envoy of the Fallen enters, if it was cast, return any number of target creature cards with total mana value 3 or less from your graveyard to the battlefield.\nSacrifice another creature: Envoy of the Fallen deals 1 damage to each opponent.",
-     "toughness": "3",
+     "toughness": "2",
      "type": "Creature — Human Soldier",
      "types": [
       "Creature"
@@ -229056,6 +229144,56 @@
      "uuid": "Defect_PRO_CNY"
     },
     {
+     "artist": "Vladimir Rikowski",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Stasis",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Dormant Monstrosity_PRO_CNY",
+     "imageName": "dormant monstrosity_pro_cny",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{1}{U}",
+     "identifiers": {
+      "scryfallId": 6782,
+      "multiverseId": 20260031
+     },
+     "name": "Dormant Monstrosity_PRO_CNY",
+     "number": "292",
+     "power": "4",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Squid",
+      "Horror"
+     ],
+     "text": "Dormant Monstrosity enters tapped with three stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\n{1}{U}, Remove a counter from Dormant Monstrosity: Draw a card.",
+     "toughness": "4",
+     "type": "Creature — Squid Horror",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Dormant Monstrosity_PRO_CNY"
+    },
+    {
      "artist": "Maxim Dadin",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -229378,6 +229516,53 @@
       "Instant"
      ],
      "uuid": "Liquidate_PRO_CNY"
+    },
+    {
+     "artist": "stuz0r",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Stasis",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Planned Obsolescence_PRO_CNY",
+     "imageName": "planned obsolescence_pro_cny",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{W}",
+     "identifiers": {
+      "scryfallId": 6784,
+      "multiverseId": 20260031
+     },
+     "name": "Planned Obsolescence_PRO_CNY",
+     "number": "291",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Aura"
+     ],
+     "text": "Enchant artifact, creature, or planeswalker\nWhen you control a permanent with mana value greater than enchanted permanent's mana value, exile enchanted permanent.",
+     "type": "Enchantment — Aura",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Planned Obsolescence_PRO_CNY"
     },
     {
      "artist": "Leon Tukker",
@@ -230049,8 +230234,8 @@
      "uuid": "Work Safety Violation_PRO_CNY"
     }
    ],
-   "baseSetSize": 300,
-   "totalSetSize": 300,
+   "baseSetSize": 302,
+   "totalSetSize": 302,
    "cardsphereSetId": 16,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -231605,10 +231790,10 @@
     },
     {
      "artist": "pippi913",
-     "convertedManaCost": 2,
-     "faceConvertedManaCost": 2,
-     "manaValue": 2,
-     "faceManaValue": 2,
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
      "colors": [
       "W"
      ],
@@ -231629,10 +231814,10 @@
       "eternal-pauper": "Legal",
       "planechase": "Legal"
      },
-     "manaCost": "{1}{W}",
+     "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 4890,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Brief Stop",
      "number": "3",
@@ -231640,7 +231825,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Exile target permanent you control. Return that card to the battlefield under its owner's control now or at the beginning of the next end step.",
+     "text": "Exile up to two target creatures, enchantments, and/or lands you control, then return them to the battlefield under their owner's control.",
      "type": "Instant",
      "types": [
       "Instant"
@@ -249537,6 +249722,50 @@
      "uuid": "Contest Coordinator_PRO_CCR"
     },
     {
+     "artist": "Pedro Sena",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Cajun",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Crumbling Tower_PRO_CCR",
+     "imageName": "crumbling tower_pro_ccr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{R}",
+     "identifiers": {
+      "scryfallId": 6786,
+      "multiverseId": 20260031
+     },
+     "name": "Crumbling Tower_PRO_CCR",
+     "number": "293",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card until the end of your next turn.\n{1}{R}, Sacrifice Crumbling Tower: It deals damage equal to the number of cards exiled with it to target player.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Crumbling Tower_PRO_CCR"
+    },
+    {
      "artist": "Frostwindz",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -249718,8 +249947,8 @@
      "uuid": "Temple of Origins_PRO_CCR"
     }
    ],
-   "baseSetSize": 394,
-   "totalSetSize": 394,
+   "baseSetSize": 395,
+   "totalSetSize": 395,
    "cardsphereSetId": 17,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -254271,7 +254500,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 5907,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Fabricated Anomaly",
      "number": "287",
@@ -254285,9 +254514,8 @@
      ],
      "text": "When this creature enters, create The Puzzlebox, a legendary colorless artifact token with “{T}, Discard a card: Draw a card.”\nWhenever a creature you control attacks, you may exile a number of cards from your graveyard equal to its power. If you do, put a +1/+1 counter on it.",
      "toughness": "3",
-     "type": "Enchantment Creature — Elemental",
+     "type": "Creature — Elemental",
      "types": [
-      "Enchantment",
       "Creature"
      ],
      "uuid": "Fabricated Anomaly_ERR"
@@ -264119,6 +264347,94 @@
      "uuid": "Architect of the Intangible_PRO_ERR"
     },
     {
+     "artist": "Mariusz Lewandowski",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Archive Telemetrary_PRO_ERR",
+     "imageName": "archive telemetrary_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6791,
+      "multiverseId": 20260031
+     },
+     "name": "Archive Telemetrary_PRO_ERR",
+     "number": "312",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Island"
+     ],
+     "text": "({T}: Add {U}.)\nThis land enters the battlefield tapped.\nLevel up {U}{U}{U} ({U}{U}{U}: Put a level counter on this as a sorcery.)\n[level 1-2] Vigilance\nThis land is also a creature. [1/6]\n[level 3+] Vigilance\nThis land is also a creature. [4/9]",
+     "type": "Land — Island",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Archive Telemetrary_PRO_ERR"
+    },
+    {
+     "artist": "MiHoYo",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "R",
+      "G"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Ardent Rise_PRO_ERR",
+     "imageName": "ardent rise_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6792,
+      "multiverseId": 20260031
+     },
+     "name": "Ardent Rise_PRO_ERR",
+     "number": "313",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this land enters, sacrifice it. If you do, search your library for a basic Mountain or Forest card, put it onto the battlefield tapped, then shuffle.\n{1}{R}{R}{G}{G}, Discard this card: Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to up to one target creature you don't control.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Ardent Rise_PRO_ERR"
+    },
+    {
      "artist": "Jajang Sopandi",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -264478,7 +264794,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 6417,
-      "multiverseId": 20251131
+      "multiverseId": 20260031
      },
      "name": "Fabricated Anomaly_PRO_ERR",
      "number": "310",
@@ -264492,9 +264808,8 @@
      ],
      "text": "When this creature enters, create The Puzzlebox, a legendary colorless artifact token with “{T}, Discard a card: Draw a card.”\nWhenever a creature you control attacks, you may exile a number of cards from your graveyard equal to its power. If you do, put a +1/+1 counter on it.",
      "toughness": "3",
-     "type": "Enchantment Creature — Elemental",
+     "type": "Creature — Elemental",
      "types": [
-      "Enchantment",
       "Creature"
      ],
      "uuid": "Fabricated Anomaly_PRO_ERR"
@@ -264544,6 +264859,94 @@
      "uuid": "Futurist Ideal_PRO_ERR"
     },
     {
+     "artist": "Pedro Sena",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "R",
+      "W"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Glittering Club_PRO_ERR",
+     "imageName": "glittering club_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6796,
+      "multiverseId": 20260031
+     },
+     "name": "Glittering Club_PRO_ERR",
+     "number": "317",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this land enters, sacrifice it. If you do, search your library for a basic Mountain or Plains card, put it onto the battlefield tapped, then shuffle.\n{1}{R}{R}{W}{W}, Discard this card: Creatures you control get +2/+1 until end of turn.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Glittering Club_PRO_ERR"
+    },
+    {
+     "artist": "Eiji Tsuburaya",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Grip Festivarium_PRO_ERR",
+     "imageName": "grip festivarium_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6797,
+      "multiverseId": 20260031
+     },
+     "name": "Grip Festivarium_PRO_ERR",
+     "number": "318",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Mountain"
+     ],
+     "text": "({T}: Add {R}.)\nThis land enters the battlefield tapped.\nLevel up {R}{R}{R} ({R}{R}{R}: Put a level counter on this as a sorcery.)\n[level 1-2] Menace\nThis land is also a creature. [3/1]\n[level 3+] Menace\nThis land is also a creature. [6/4/]",
+     "type": "Land — Mountain",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Grip Festivarium_PRO_ERR"
+    },
+    {
      "artist": "Gavin Manners",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -264586,6 +264989,51 @@
       "Instant"
      ],
      "uuid": "Hang_PRO_ERR"
+    },
+    {
+     "artist": "Alexander Muscat",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Heap Ludicon_PRO_ERR",
+     "imageName": "heap ludicon_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6798,
+      "multiverseId": 20260031
+     },
+     "name": "Heap Ludicon_PRO_ERR",
+     "number": "319",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Swamp"
+     ],
+     "text": "({T}: Add {B}.)\nThis land enters the battlefield tapped.\nLevel up {B}{B}{B} ({B}{B}{B}: Put a level counter on this as a sorcery.)\n[level 1-2] Deathtouch\nThis land is also a creature. [2/4]\n[level 3+] Deathtouch\nThis land is also a creature. [6/8]",
+     "type": "Land — Swamp",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Heap Ludicon_PRO_ERR"
     },
     {
      "artist": "Ross Tran",
@@ -264686,6 +265134,49 @@
       "Creature"
      ],
      "uuid": "Masksmith_PRO_ERR"
+    },
+    {
+     "artist": "Paolo Barbieri",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "U",
+      "R"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Meteoric Facade_PRO_ERR",
+     "imageName": "meteoric facade_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6801,
+      "multiverseId": 20260031
+     },
+     "name": "Meteoric Facade_PRO_ERR",
+     "number": "322",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this land enters, sacrifice it. If you do, search your library for a basic Island or Mountain card, put it onto the battlefield tapped, then shuffle.\n{2}{U}{U}{R}{R}, Discard this card: It deals 3 damage to any target. Draw two cards, then discard a card.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Meteoric Facade_PRO_ERR"
     },
     {
      "artist": "Art of Li",
@@ -264887,6 +265378,137 @@
      "uuid": "Red-Hot Rider_PRO_ERR"
     },
     {
+     "artist": "Celestial Fang",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "G",
+      "W"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Reified Borough_PRO_ERR",
+     "imageName": "reified borough_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6803,
+      "multiverseId": 20260031
+     },
+     "name": "Reified Borough_PRO_ERR",
+     "number": "324",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this land enters, sacrifice it. If you do, search your library for a basic Forest or Plains card, put it onto the battlefield tapped, then shuffle.\n{1}{G}{G}{W}{W}, Discard this card: Create three tapped 1/1 white Citizen creature tokens.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Reified Borough_PRO_ERR"
+    },
+    {
+     "artist": "Pedro Sena",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "W",
+      "U"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Silent Lakefront_PRO_ERR",
+     "imageName": "silent lakefront_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6804,
+      "multiverseId": 20260031
+     },
+     "name": "Silent Lakefront_PRO_ERR",
+     "number": "325",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this land enters, sacrifice it. If you do, search your library for a basic Plains or Island card, put it onto the battlefield tapped, then shuffle.\n{1}{W}{W}{U}{U}, Discard this card: Counter target spell. You gain 3 life.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Silent Lakefront_PRO_ERR"
+    },
+    {
+     "artist": "Mariusz Lewandowski",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Stack Conviviplex_PRO_ERR",
+     "imageName": "stack conviviplex_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6805,
+      "multiverseId": 20260031
+     },
+     "name": "Stack Conviviplex_PRO_ERR",
+     "number": "326",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Plains"
+     ],
+     "text": "({T}: Add {W}.)\nThis land enters the battlefield tapped.\nLevel up {W}{W}{W} ({W}{W}{W}: Put a level counter on this as a sorcery.)\n[level 1-2] Lifelink\nThis land is also a creature. [2/3]\n[level 3+] Lifelink\nThis land is also a creature. [5/6]",
+     "type": "Land — Plains",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Stack Conviviplex_PRO_ERR"
+    },
+    {
      "artist": "Ognjen Sporin",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -265034,8 +265656,8 @@
      "uuid": "Weft Dancer_PRO_ERR"
     }
    ],
-   "baseSetSize": 316,
-   "totalSetSize": 316,
+   "baseSetSize": 325,
+   "totalSetSize": 325,
    "cardsphereSetId": 18,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -277642,7 +278264,7 @@
       "U"
      ],
      "designer": "Provocative",
-     "flavor": "“A storm is the pinnacle of of balance. Within the eye is calm, and the rest is fury.”\n—Hyomon\n",
+     "flavor": "“A storm is the pinnacle of balance. Within the eye is calm, and the rest is fury.”\n—Hyomon\n",
      "frameType": "normal",
      "frameVersion": "2015",
      "id": "Stratostorm_KDT",
@@ -277658,7 +278280,7 @@
      "manaCost": "{3}{W}{U}",
      "identifiers": {
       "scryfallId": 5817,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Stratostorm",
      "number": "231",
@@ -280136,6 +280758,92 @@
      "uuid": "Equanimity_PRO_KDT"
     },
     {
+     "artist": "Pär Olofsson",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [],
+     "colorIdentity": [],
+     "designer": "Stasis",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Faces of the Faceless_PRO_KDT",
+     "imageName": "faces of the faceless_pro_kdt",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Banned",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}",
+     "identifiers": {
+      "scryfallId": 6807,
+      "multiverseId": 20260031
+     },
+     "name": "Faces of the Faceless_PRO_KDT",
+     "number": "335",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Cards can't leave graveyards. (Including by being cast.)\nCycling {2} ({2}, Discard this card: Draw a card.)",
+     "type": "Artifact",
+     "types": [
+      "Artifact"
+     ],
+     "uuid": "Faces of the Faceless_PRO_KDT"
+    },
+    {
+     "artist": "Jason Engle",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R",
+      "G"
+     ],
+     "colorIdentity": [
+      "R",
+      "G"
+     ],
+     "designer": "Provocative",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Foreign Encounter_PRO_KDT",
+     "imageName": "foreign encounter_pro_kdt",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{1}{R}{G}",
+     "identifiers": {
+      "scryfallId": 6808,
+      "multiverseId": 20260031
+     },
+     "name": "Foreign Encounter_PRO_KDT",
+     "number": "332",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Look at the top six cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield. It enters with an additional +1/+1 counter on it. Put the rest on the bottom of your library in a random order.\nCycling {R/G} ({R/G}, Discard this card: Draw a card.)",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Foreign Encounter_PRO_KDT"
+    },
+    {
      "artist": "Sarah Janssen",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -280639,6 +281347,52 @@
       "Creature"
      ],
      "uuid": "Omen Skulker_PRO_KDT"
+    },
+    {
+     "artist": "Adam Burke",
+     "convertedManaCost": 5,
+     "faceConvertedManaCost": 5,
+     "manaValue": 5,
+     "faceManaValue": 5,
+     "colors": [
+      "W",
+      "U"
+     ],
+     "colorIdentity": [
+      "W",
+      "U"
+     ],
+     "designer": "Provocative",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Path's End_PRO_KDT",
+     "imageName": "path's end_pro_kdt",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{W}{W}{U}",
+     "identifiers": {
+      "scryfallId": 6809,
+      "multiverseId": 20260031
+     },
+     "name": "Path's End_PRO_KDT",
+     "number": "333",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "This spell can't be countered.\nDestroy all permanents without activated abilities.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Path's End_PRO_KDT"
     },
     {
      "artist": "Theos Zhang",
@@ -281181,10 +281935,54 @@
       "Planeswalker"
      ],
      "uuid": "Tsubasa Shigane_PRO_KDT"
+    },
+    {
+     "artist": "VookaSheen",
+     "convertedManaCost": 7,
+     "faceConvertedManaCost": 7,
+     "manaValue": 7,
+     "faceManaValue": 7,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Provocative",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Welkin Eviction_PRO_KDT",
+     "imageName": "welkin eviction_pro_kdt",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{6}{W}",
+     "identifiers": {
+      "scryfallId": 6811,
+      "multiverseId": 20260031
+     },
+     "name": "Welkin Eviction_PRO_KDT",
+     "number": "330",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Flash\nThis spell costs {X} less to cast, where X is the number of Plains you control plus the number of cards with a cycling ability in your graveyard.\nWhen this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nPlainscycling {2}",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Welkin Eviction_PRO_KDT"
     }
    ],
-   "baseSetSize": 330,
-   "totalSetSize": 330,
+   "baseSetSize": 334,
+   "totalSetSize": 334,
    "cardsphereSetId": 19,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -281264,10 +282062,10 @@
     },
     {
      "artist": "Pedro Sena",
-     "convertedManaCost": 3,
-     "faceConvertedManaCost": 3,
-     "manaValue": 3,
-     "faceManaValue": 3,
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
      "colors": [
       "R"
      ],
@@ -281288,10 +282086,10 @@
       "eternal-pauper": "Illegal",
       "planechase": "Legal"
      },
-     "manaCost": "{2}{R}",
+     "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 5951,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Advance of Fire and Faith",
      "number": "124",
@@ -281302,7 +282100,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Fire and Faith enters, it deals 2 damage to each creature you don't control.\nDefeated — Creatures you control have haste.",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Fire and Faith enters, it deals 2 damage to any nonbattle target and 1 damage to up to one other nonbattle target.\nDefeated — Creatures you control have haste.\n— ​",
      "type": "Battle — Operation",
      "types": [
       "Battle"
@@ -287460,7 +288258,7 @@
       "B"
      ],
      "designer": "Zangy",
-     "flavor": "Sevrith's magic flowed through the her lover's body, expanding her powers and threatening the entire grove. Cyra knew only one way halt the corruption.\n",
+     "flavor": "Sevrith's magic flowed through her lover's body, expanding her powers and threatening the entire grove. Cyra knew only one way to halt the corruption.\n",
      "frameType": "normal",
      "frameVersion": "2015",
      "id": "Go Blank_TWI",
@@ -287476,7 +288274,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 6078,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Go Blank",
      "number": "94",
@@ -289466,7 +290264,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 6118,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Mistwrit Archivist",
      "number": "62",
@@ -289480,7 +290278,7 @@
       "Wizard"
      ],
      "text": "Decoy (Whenever this creature attacks, create a tapped and attacking 1/1 Illusion token that's a copy of it. Exile the token at the beginning of the next end step.)\nWhen this creature enters, draw a card.",
-     "toughness": "5",
+     "toughness": "4",
      "type": "Creature — Faerie Wizard",
      "types": [
       "Creature"
@@ -290087,7 +290885,7 @@
      "manaCost": "{2}{U}{U}",
      "identifiers": {
       "scryfallId": 6131,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Path of Scales",
      "number": "65",
@@ -290098,7 +290896,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Path of Scales enters, draw three cards.\n3 Defense — Creatures you don't control get -1/-0.\nDefeated — Whenever you cast a noncreature spell, copy it. You may choose new targets for the copy.",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Path of Scales enters, draw three cards.\n3 Defense — Creatures you don't control get -1/-0.\nDefeated — Whenever you cast a noncreature, nonbattle spell, copy it. You may choose new targets for the copy.",
      "type": "Battle — Operation",
      "types": [
       "Battle"
@@ -296664,6 +297462,144 @@
      "uuid": "Cruxborn Tyrant_PRO_TWI"
     },
     {
+     "artist": "Sabrina Normani",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "B",
+      "G"
+     ],
+     "colorIdentity": [
+      "B",
+      "G"
+     ],
+     "designer": "Zangy",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Culling Ritual_PRO_TWI",
+     "imageName": "culling ritual_pro_twi",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{B}{G}",
+     "identifiers": {
+      "scryfallId": 6814,
+      "multiverseId": 20260031
+     },
+     "name": "Culling Ritual_PRO_TWI",
+     "number": "345",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Destroy each nonland permanent with mana value 2 or less. Add {B} or {G} for each permanent destroyed this way.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Culling Ritual_PRO_TWI"
+    },
+    {
+     "artist": "Edwin Sablaya",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R",
+      "W"
+     ],
+     "colorIdentity": [
+      "R",
+      "W"
+     ],
+     "designer": "Zangy",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Deafening Clarion_PRO_TWI",
+     "imageName": "deafening clarion_pro_twi",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{1}{R}{W}",
+     "identifiers": {
+      "scryfallId": 6815,
+      "multiverseId": 20260031
+     },
+     "name": "Deafening Clarion_PRO_TWI",
+     "number": "346",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Choose one or both —\n• Deafening Clarion deals 3 damage to each creature.\n• Creatures you control gain lifelink until end of turn.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Deafening Clarion_PRO_TWI"
+    },
+    {
+     "artist": "Adam Burke",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "U",
+      "B"
+     ],
+     "colorIdentity": [
+      "U",
+      "B"
+     ],
+     "designer": "Pipsqueak",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Destructive Ambition_PRO_TWI",
+     "imageName": "destructive ambition_pro_twi",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Legal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{U}{B}",
+     "identifiers": {
+      "scryfallId": 6816,
+      "multiverseId": 20260031
+     },
+     "name": "Destructive Ambition_PRO_TWI",
+     "number": "343",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Counter target monocolored spell. Its controller loses 2 life.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Destructive Ambition_PRO_TWI"
+    },
+    {
      "artist": "Ognjen Sporin",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -297406,8 +298342,8 @@
      "uuid": "Witchery_PRO_TWI"
     }
    ],
-   "baseSetSize": 337,
-   "totalSetSize": 337,
+   "baseSetSize": 340,
+   "totalSetSize": 340,
    "cardsphereSetId": 20,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -301306,10 +302242,10 @@
     },
     {
      "artist": "Nino Vecia",
-     "convertedManaCost": 1,
-     "faceConvertedManaCost": 1,
-     "manaValue": 1,
-     "faceManaValue": 1,
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
      "colors": [
       "R"
      ],
@@ -301330,14 +302266,14 @@
       "eternal-pauper": "Illegal",
       "planechase": "Legal"
      },
-     "manaCost": "{R}",
+     "manaCost": "{R}{R}",
      "identifiers": {
       "scryfallId": 6522,
       "multiverseId": 0
      },
      "name": "Darksun Migrant",
      "number": "126",
-     "power": "1",
+     "power": "3",
      "rarity": "rare",
      "relatedCards": {
       "spellbook": []
@@ -301346,8 +302282,8 @@
       "Human",
       "Nomad"
      ],
-     "text": "Whenever Darksun Migrant attacks, you may discard a card. If you do, Darksun Migrant gains double strike until end of turn, then exile the top card of your library. You may play it this turn.\nDarksun Migrant gets +1/+0 if you have one or fewer cards in hand.",
-     "toughness": "1",
+     "text": "Whenever you attack, you may discard a card. If you do, exile the top card of your library. You may play it this turn.\nOnce during each of your turns, when a player discards a card, you may choose up to one target creature. That creature can't block this turn.",
+     "toughness": "2",
      "type": "Creature — Human Nomad",
      "types": [
       "Creature"
@@ -302947,10 +303883,10 @@
     },
     {
      "artist": "John Silva",
-     "convertedManaCost": 4,
-     "faceConvertedManaCost": 4,
-     "manaValue": 4,
-     "faceManaValue": 4,
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
      "colors": [
       "G"
      ],
@@ -302971,7 +303907,7 @@
       "eternal-pauper": "Illegal",
       "planechase": "Legal"
      },
-     "manaCost": "{3}{G}",
+     "manaCost": "{X}{G}{G}",
      "identifiers": {
       "scryfallId": 6676,
       "multiverseId": 0
@@ -302982,7 +303918,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Search your library for up to four creature cards with mana value 3 or less that each have different names and reveal them. Target opponent chooses two of those cards. Shuffle the chosen cards into your library, and put the rest onto the battlefield.",
+     "text": "Search your library for up to four creature cards with mana value X or less that each have different names and reveal them. Target opponent chooses two of those cards. Shuffle the chosen cards into your library, and put the rest onto the battlefield.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -305353,50 +306289,6 @@
     },
     {
      "artist": "Mark Erskine",
-     "convertedManaCost": 2,
-     "faceConvertedManaCost": 2,
-     "manaValue": 2,
-     "faceManaValue": 2,
-     "colors": [
-      "B"
-     ],
-     "colorIdentity": [
-      "B"
-     ],
-     "designer": "Scribbl",
-     "flavor": "",
-     "frameType": "normal",
-     "frameVersion": "2015",
-     "id": "Lightless Conquest_SOL",
-     "imageName": "lightless conquest",
-     "layout": "normal",
-     "legalities": {
-      "revolution": "Legal",
-      "brawl": "Legal",
-      "eternal": "Legal",
-      "eternal-pauper": "Illegal",
-      "planechase": "Legal"
-     },
-     "manaCost": "{1}{B}",
-     "identifiers": {
-      "scryfallId": 6603,
-      "multiverseId": 0
-     },
-     "name": "Lightless Conquest",
-     "number": "91",
-     "rarity": "rare",
-     "relatedCards": {
-      "spellbook": []
-     },
-     "text": "Whenever Lightless Conquest or another enchantment you control enters, create a 1/1 white Elemental creature token with “This creature can't block.”\nWhenever an artifact you control enters, you may sacrifice a creature. If you do, create a 3/2 black Elemental creature token.",
-     "type": "Enchantment",
-     "types": [
-      "Enchantment"
-     ],
-     "uuid": "Lightless Conquest_SOL"
-    },
-    {
-     "artist": "Mark Erskine",
      "convertedManaCost": 4,
      "faceConvertedManaCost": 4,
      "manaValue": 4,
@@ -305427,7 +306319,7 @@
       "multiverseId": 0
      },
      "name": "Lightless Diviner",
-     "number": "92",
+     "number": "91",
      "power": "2",
      "rarity": "common",
      "relatedCards": {
@@ -305833,7 +306725,7 @@
       "multiverseId": 0
      },
      "name": "Manifest Naught",
-     "number": "93",
+     "number": "92",
      "rarity": "uncommon",
      "relatedCards": {
       "spellbook": []
@@ -305933,7 +306825,7 @@
       "multiverseId": 0
      },
      "name": "Mantle of Dusk",
-     "number": "94",
+     "number": "93",
      "rarity": "common",
      "relatedCards": {
       "spellbook": []
@@ -305980,12 +306872,12 @@
       "multiverseId": 0
      },
      "name": "March of the Long Night",
-     "number": "95",
+     "number": "94",
      "rarity": "common",
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Return target creature card with mana value 3 or less from your graveyard to the battlefield.\nEach opponent loses 3 life.",
+     "text": "Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains deathtouch and haste until end of turn.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -306233,7 +307125,7 @@
       "multiverseId": 0
      },
      "name": "Mercenary of Dusk",
-     "number": "96",
+     "number": "95",
      "power": "3",
      "rarity": "uncommon",
      "relatedCards": {
@@ -306908,7 +307800,7 @@
       "multiverseId": 0
      },
      "name": "Nether Ponderings",
-     "number": "97",
+     "number": "96",
      "rarity": "common",
      "relatedCards": {
       "spellbook": []
@@ -306952,7 +307844,7 @@
       "multiverseId": 0
      },
      "name": "Nightfall",
-     "number": "98",
+     "number": "97",
      "rarity": "rare",
      "relatedCards": {
       "spellbook": []
@@ -306996,7 +307888,7 @@
       "multiverseId": 0
      },
      "name": "Nightshade Extricator",
-     "number": "99",
+     "number": "98",
      "power": "2",
      "rarity": "uncommon",
      "relatedCards": {
@@ -307046,7 +307938,7 @@
       "multiverseId": 0
      },
      "name": "Nihilmonger",
-     "number": "100",
+     "number": "99",
      "power": "4",
      "rarity": "rare",
      "relatedCards": {
@@ -307354,7 +308246,7 @@
       "multiverseId": 0
      },
      "name": "Nuillae Exidus",
-     "number": "101",
+     "number": "100",
      "pageData": {
       "name": "Path of Hunger",
       "manaCost": "{1}{B}",
@@ -307612,7 +308504,7 @@
       "multiverseId": 0
      },
      "name": "Oblivion Surveyor",
-     "number": "102",
+     "number": "101",
      "power": "2",
      "rarity": "common",
      "relatedCards": {
@@ -307949,7 +308841,7 @@
       "multiverseId": 0
      },
      "name": "Phemeros Ley-Pillar",
-     "number": "103",
+     "number": "102",
      "power": "1",
      "rarity": "common",
      "relatedCards": {
@@ -307998,7 +308890,7 @@
       "multiverseId": 0
      },
      "name": "Phemeros Redeemer",
-     "number": "104",
+     "number": "103",
      "power": "2",
      "rarity": "rare",
      "relatedCards": {
@@ -308586,7 +309478,7 @@
       "multiverseId": 0
      },
      "name": "Qaraz Ley-Spire",
-     "number": "105",
+     "number": "104",
      "power": "2",
      "rarity": "rare",
      "relatedCards": {
@@ -308635,7 +309527,7 @@
       "multiverseId": 0
      },
      "name": "Qaraz Martyr",
-     "number": "106",
+     "number": "105",
      "power": "1",
      "rarity": "uncommon",
      "relatedCards": {
@@ -308874,7 +309766,7 @@
       "multiverseId": 0
      },
      "name": "Rastabahl, the Enduring Star",
-     "number": "107",
+     "number": "106",
      "pageData": {
       "name": "Path of Oblivion",
       "manaCost": "{B}",
@@ -309029,7 +309921,7 @@
       "multiverseId": 0
      },
      "name": "Relentless Huntmaster",
-     "number": "108",
+     "number": "107",
      "power": "1",
      "rarity": "common",
      "relatedCards": {
@@ -309281,6 +310173,50 @@
       "Instant"
      ],
      "uuid": "Rift Tracing_SOL"
+    },
+    {
+     "artist": "Armeid I",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Scribbl",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Rites of the Dying Sun_SOL",
+     "imageName": "rites of the dying sun",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{B}",
+     "identifiers": {
+      "scryfallId": 6603,
+      "multiverseId": 0
+     },
+     "name": "Rites of the Dying Sun",
+     "number": "108",
+     "rarity": "rare",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When Rites of the Dying Sun enters, create two 1/1 white Spirit creature tokens.\nOnce each turn, when an artifact you control enters, you may sacrifice a creature. If you do, create an X/X red Spirit creature token, where X is the number of enchantments you control.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Rites of the Dying Sun_SOL"
     },
     {
      "artist": "Ioannis Fiore",
@@ -310456,7 +311392,7 @@
       "Elf",
       "Shaman"
      ],
-     "text": "Star-Touched Host enters with three -1/-1 counters on it.\nAt the beginning of your end step, if player sacrificed a permanent this turn, you may remove a -1/-1 counter from Star-Touched Host. If you do, create a 1/1 red Spirit creature token with wither. (It deals damage to creatures in the form of -1/-1 counters.)",
+     "text": "Star-Touched Host enters with three -1/-1 counters on it.\nAt the beginning of your end step, if a player sacrificed a permanent this turn, you may remove a -1/-1 counter from Star-Touched Host. If you do, create a 1/1 red Spirit creature token with wither. (It deals damage to creatures in the form of -1/-1 counters.)",
      "toughness": "5",
      "type": "Creature — Elf Shaman",
      "types": [
@@ -317380,6 +318316,50 @@
      "uuid": "Drift Off_REV"
     },
     {
+     "artist": "kankan33333",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Cajun",
+     "flavor": "",
+     "frameType": "normal-renegade",
+     "frameVersion": "2015",
+     "id": "Duress_REV",
+     "imageName": "duress_rev",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Legal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 6818,
+      "multiverseId": 20260031
+     },
+     "name": "Duress_REV",
+     "number": "103",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Duress_REV"
+    },
+    {
      "artist": "SillyJellie",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -317778,7 +318758,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 5910,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Fabricated Anomaly_REV",
      "number": "86",
@@ -317792,9 +318772,8 @@
      ],
      "text": "When this creature enters, create The Puzzlebox, a legendary colorless artifact token with “{T}, Discard a card: Draw a card.”\nWhenever a creature you control attacks, you may exile a number of cards from your graveyard equal to its power. If you do, put a +1/+1 counter on it.",
      "toughness": "3",
-     "type": "Enchantment Creature — Elemental",
+     "type": "Creature — Elemental",
      "types": [
-      "Enchantment",
       "Creature"
      ],
      "uuid": "Fabricated Anomaly_REV"
@@ -320620,7 +321599,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 3921,
-      "multiverseId": 0
+      "multiverseId": 20260031
      },
      "name": "Start Anew_REV",
      "number": "52",
@@ -320628,7 +321607,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Exile target nonland permanent, then return it to the battlefield under its owner's control.\nCrystallize.",
+     "text": "Exile target creature or enchantment, then return it to the battlefield under its owner's control. If a creature entered the battlefield under your control this way, crystallize. (Put a +1/+1 counter on a creature you control or create a Treasure token.)",
      "type": "Instant",
      "types": [
       "Instant"
@@ -321608,8 +322587,8 @@
      "uuid": "Yaeji, Resplendent Idol_REV"
     }
    ],
-   "baseSetSize": 108,
-   "totalSetSize": 108,
+   "baseSetSize": 109,
+   "totalSetSize": 109,
    "cardsphereSetId": 0,
    "isFoilOnly": false,
    "isOnlineOnly": false,

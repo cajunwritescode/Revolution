@@ -4113,9 +4113,11 @@ card:
 
 card:
 	has_styling: false
-	notes: *FT
+	notes:
+		*FT
+		 nerfed: Previously flickered any nonland and always crystallized.
 	time_created: 2020-01-15 13:20:11
-	time_modified: 2021-07-30 10:45:34
+	time_modified: 2026-01-31 17:06:18
 	name: Start Anew
 	casting_cost: 1W
 	image: image206
@@ -4129,9 +4131,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text:
-		Exile target nonland permanent, then return it to the battlefield under its owner’s control.
-		Crystallize. <i-auto>(Put a +1/+1 counter on a creature you control or create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.)</i-auto>
+	rule_text: Exile target creature or enchantment, then return it to the battlefield under its owner’s control. If a creature entered the battlefield under your control this way, crystallize. <i-auto>(Put a +1/+1 counter on a creature you control or create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.)</i-auto>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>For some, the <error-spelling:en_US>Elseworlds</error-spelling:en_US> are an opportunity for a second chance.</i-flavor>
@@ -4638,7 +4638,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  eerfed: Can now only be activated as a sorcery.
+	notes: eerfed: Can now only be activated as a sorcery.
 	time_created: 2019-08-29 22:21:13
 	time_modified: 2025-12-31 14:46:58
 	name: Amethryn Hoarder
@@ -10895,7 +10895,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 21:21:52
 	time_modified: 2025-11-28 21:30:06
 	name: Transgress Identity
@@ -10936,7 +10935,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 21:19:17
 	time_modified: 2025-11-28 21:30:48
 	name: Mystic Gladetender
@@ -10979,7 +10977,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Theros Fate
-
 	time_created: 2023-08-18 19:14:11
 	time_modified: 2025-11-28 21:31:18
 	name: Kaleidoscape
@@ -11021,7 +11018,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 21:14:25
 	time_modified: 2025-11-28 21:31:27
 	name: Duplicats
@@ -11064,7 +11060,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 00:32:00
 	time_modified: 2025-11-28 21:28:19
 	name: Riftguard Knight
@@ -11107,7 +11102,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 21:36:59
 	time_modified: 2025-11-28 21:28:04
 	name: Tragic Performer
@@ -11148,7 +11142,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 00:27:41
 	time_modified: 2025-11-28 21:27:42
 	name: Draconic Aspirant
@@ -11189,7 +11182,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 21:17:10
 	time_modified: 2025-11-28 21:27:13
 	name: Elseworld Cryptid
@@ -11232,7 +11224,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 00:33:02
 	time_modified: 2025-11-28 21:26:56
 	name: Ukshu Task Mage
@@ -11275,7 +11266,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 21:34:21
 	time_modified: 2025-11-28 21:26:41
 	name: A World Forgotten
@@ -11316,7 +11306,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2020-09-08 00:09:21
 	time_modified: 2025-11-28 21:26:24
 	name: Doppelgang
@@ -11436,7 +11425,6 @@ card:
 	notes:
 		!design zarepath
 		!promo Karsus Encounter
-
 	time_created: 2021-12-28 00:18:44
 	time_modified: 2024-04-29 22:11:59
 	name: Commune with Dragons

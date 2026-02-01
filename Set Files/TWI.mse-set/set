@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Exalts of Twiltrie
 	set_code: TWI
@@ -4155,13 +4155,14 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Was {2}{R} with etb deal 2 to each creature you don’t control.
 		!tag Twiltrie
 		!tag Sunvrath
 		3
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:23:42
+	time_modified: 2026-01-31 16:12:13
 	name: Advance of Fire and Faith
-	casting_cost: 2R
+	casting_cost: 1R
 	image: image174.png
 	image_2: 
 	mainframe_image: 
@@ -4179,7 +4180,7 @@ card:
 	rule_text_3: 
 	flavor_text_3: <i-flavor></i-flavor>
 	loyalty: 3
-	level_1_text: When <atom-cardname><nospellcheck>Advance of Fire and Faith</nospellcheck></atom-cardname> enters, it deals 2 damage to each creature you don’t control.
+	level_1_text: When <atom-cardname><nospellcheck>Advance of Fire and Faith</nospellcheck></atom-cardname> enters, it deals 2 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target and 1 damage to up to one other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
 	level_2_text: <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:0:0:30>
 	level_3_text: ​
 	level_4_text: 
@@ -4192,7 +4193,7 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
-		When <atom-cardname><nospellcheck>Advance of Fire and Faith</nospellcheck></atom-cardname> enters, it deals 2 damage to each creature you don’t control.
+		When <atom-cardname><nospellcheck>Advance of Fire and Faith</nospellcheck></atom-cardname> enters, it deals 2 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target and 1 damage to up to one other <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.
 		<b>Defeated</b> — <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:0:0:30>
 		 — ​
 
@@ -5611,8 +5612,9 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
+		 nerfed: Was 0/5.
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-07-01 20:55:36
+	time_modified: 2026-01-31 16:29:15
 	name: Mistwrit Archivist
 	casting_cost: 2U
 	image: image73.png
@@ -5633,7 +5635,7 @@ card:
 		When this creature enters, draw a card.
 	flavor_text: <i-flavor>“I can feel what the Vale once was, just beneath the surface. It mourns. I will give its grief a name.”</i-flavor>
 	power: 0
-	toughness: 5
+	toughness: 4
 	illustrator: Monkae
 	card_code_text: 
 	card_code_text_2: 
@@ -6930,8 +6932,9 @@ card:
 		!tag Twiltrie
 		!tag Aldegar
 		5
+		 nerfed: No longer copies battle spells.
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2025-08-31 22:10:22
+	time_modified: 2026-01-31 16:29:54
 	card_color: blue
 	name: Path of Scales
 	casting_cost: 2UU
@@ -6954,7 +6957,7 @@ card:
 	loyalty: 5
 	level_1_text: When <atom-cardname><nospellcheck>Path of Scales</nospellcheck></atom-cardname> enters, draw three cards.
 	level_2_text: <margin:0:0:30>Creatures you don’t control get -1/-0.</margin:0:0:30>
-	level_3_text: <margin:0:0:30>Whenever you cast a noncreature spell, copy it. You may choose new targets for the copy.</margin:0:0:30>
+	level_3_text: <margin:0:0:30>Whenever you cast a noncreature, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spell, copy it. You may choose new targets for the copy.</margin:0:0:30>
 	level_4_text: 
 	level_9_text: <b>3 Defense</b>
 	level_10_text: <b>Defeated</b>
@@ -6968,7 +6971,7 @@ card:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
 		When <atom-cardname><nospellcheck>Path of Scales</nospellcheck></atom-cardname> enters, draw three cards.
 		<b>3 Defense</b> — <margin:0:0:30>Creatures you don’t control get -1/-0.</margin:0:0:30>
-		<b>Defeated</b> — <margin:0:0:30>Whenever you cast a noncreature spell, copy it. You may choose new targets for the copy.</margin:0:0:30>
+		<b>Defeated</b> — <margin:0:0:30>Whenever you cast a noncreature, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spell, copy it. You may choose new targets for the copy.</margin:0:0:30>
 
 card:
 	stylesheet: m15-saga-operation
@@ -10290,7 +10293,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -11514,14 +11517,14 @@ card:
 card:
 	has_styling: false
 	notes:
-		!tag Twiltrie
+		!tag Twiltrie 
 		!tag Devika
 		!tag Dolcairn
 		!tag Cyra
 		!tag Yuri
 		!tag CanonReprint
 	time_created: 2025-06-26 01:47:46
-	time_modified: 2025-08-19 20:31:01
+	time_modified: 2026-01-31 23:21:54
 	name: Go Blank
 	casting_cost: 2B
 	image: image219.png
@@ -11537,7 +11540,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text: Target player discards two cards. Then exile that player’s graveyard.
-	flavor_text: <i-flavor><error-spelling:en_US>Sevrith’s</error-spelling:en_US> magic flowed through the her lover’s body, expanding her powers and threatening the entire grove. <error-spelling:en_US>Cyra</error-spelling:en_US> knew only one way halt the corruption.</i-flavor>
+	flavor_text: <i-flavor><error-spelling:en_US>Sevrith’s</error-spelling:en_US> magic flowed through her lover’s body, expanding her powers and threatening the entire grove. <error-spelling:en_US>Cyra</error-spelling:en_US> knew only one way to halt the corruption.</i-flavor>
 	illustrator: Chace-12
 	card_code_text: 
 	card_code_text_2: 
@@ -11723,7 +11726,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12684,7 +12687,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -12725,7 +12728,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -12767,7 +12770,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12807,7 +12810,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		remove_from_autocount: yes
@@ -12921,7 +12924,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -12965,7 +12968,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -13009,7 +13012,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -13052,7 +13055,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13062,7 +13065,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59
@@ -13100,7 +13103,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13110,11 +13113,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:09:29
+	time_modified: 2026-01-31 16:31:07
 	name: Culling Ritual
 	casting_cost: 2BG
 	image: image35
@@ -13140,13 +13143,13 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Sabrina Normani
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Calamity Unleashed by kumrac
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13156,11 +13159,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:09:33
+	time_modified: 2026-01-31 16:31:33
 	name: Deafening Clarion
 	casting_cost: 1RW
 	image: image36
@@ -13191,13 +13194,13 @@ card:
 	toughness: 
 	illustrator: Edwin Sablaya
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Calamity Unleashed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13207,11 +13210,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Pipsqueak
 		TWI
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:09:37
+	time_modified: 2026-01-31 16:31:42
 	name: Destructive Ambition
 	casting_cost: UB
 	image: image37
@@ -13237,13 +13240,13 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Adam Burke
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13253,7 +13256,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret  !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59
@@ -13289,7 +13292,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -13299,7 +13302,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59

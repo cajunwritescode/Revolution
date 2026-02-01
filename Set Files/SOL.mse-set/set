@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Solastere
 	set_code: SOL
@@ -725,7 +725,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2024-08-20 21:50:43
@@ -762,7 +762,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -884,7 +884,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -957,7 +957,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1002,7 +1002,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1080,7 +1080,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 1
@@ -1280,7 +1280,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1554,7 +1554,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1622,7 +1622,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1700,7 +1700,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1846,7 +1846,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2048,7 +2048,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2025-04-13 12:50:42
@@ -2372,7 +2372,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2471,35 +2471,8 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes: 
-	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-07-03 10:47:17
-	card_color: black
-	name: March of the Long Night
-	casting_cost: BB
-	image: image115
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: common
-	rule_text:
-		Return target creature card with mana value 3 or less from your graveyard to the battlefield.
-		Each opponent loses 3 life.
-	flavor_text: <i-flavor><error-spelling:en_US>Rastabahl’s</error-spelling:en_US> night is not one for rest.</i-flavor>
-	illustrator: Ava’s Demon
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2024-08-20 21:50:43
@@ -2633,7 +2606,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2779,7 +2752,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2855,7 +2828,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2898,7 +2871,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -2943,7 +2916,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -3225,39 +3198,6 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes: 
-	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-06-15 12:59:09
-	card_color: black
-	name: Lightless Conquest
-	casting_cost: 1B
-	image: image138
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rarity: rare
-	rule_text:
-		Whenever <atom-cardname><nospellcheck>Lightless Conquest</nospellcheck></atom-cardname> or another enchantment you control enters, create a 1/1 white Elemental creature token with “This creature can’t block.”
-		Whenever an artifact you control enters, you may sacrifice a creature. If you do, create a 3/2 black Elemental creature token.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: Mark Erskine
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
 	has_styling: false
@@ -3376,7 +3316,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3559,7 +3499,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3666,7 +3606,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2024-08-20 21:50:43
@@ -3780,7 +3720,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -3823,7 +3763,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3897,7 +3837,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4006,7 +3946,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4151,7 +4091,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4231,7 +4171,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4431,7 +4371,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4465,51 +4405,6 @@ card:
 		Whenever you cast a spell, you may exile <atom-cardname><nospellcheck>Endlight Crusade</nospellcheck></atom-cardname> and that spell. If you do, create X 1/1 red Elemental creature tokens, where X is that spell’s mana value.
 	flavor_text: <i-flavor>Rallying the spirits to unify their light seemed to only strengthen the dark <error-spelling:en_US>ones’</error-spelling:en_US> resolve.</i-flavor>
 	illustrator: Mark Erskine
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		font_cap: 12.2
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		inverted_common_symbol: no
-		overlay: 
-	notes: Re-art?
-	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-10-14 00:44:15
-	card_color: red
-	name: Darksun Migrant
-	casting_cost: R
-	image: image262
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nomad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rarity: rare
-	rule_text:
-		Whenever <atom-cardname><nospellcheck>Darksun Migrant</nospellcheck></atom-cardname> attacks, you may discard a card. If you do, <atom-cardname><nospellcheck>Darksun Migrant</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn, then exile the top card of your library. You may play it this turn.
-		<atom-cardname><nospellcheck>Darksun Migrant</nospellcheck></atom-cardname> gets +1/+0 if you have one or fewer cards in hand.
-	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
-	illustrator: Nino Vecia
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4558,7 +4453,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4604,7 +4499,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4871,7 +4766,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -5088,7 +4983,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5133,7 +5028,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5244,7 +5139,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5324,7 +5219,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5369,7 +5264,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5458,7 +5353,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -5504,7 +5399,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2024-08-20 21:50:43
@@ -5622,7 +5517,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -5701,7 +5596,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5853,7 +5748,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5960,7 +5855,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6034,7 +5929,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6216,7 +6111,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6328,7 +6223,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6373,7 +6268,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6417,7 +6312,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6464,7 +6359,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2024-08-22 15:50:59
@@ -6891,7 +6786,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7004,7 +6899,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7346,7 +7241,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 1
@@ -7536,7 +7431,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7584,7 +7479,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7712,7 +7607,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -7920,7 +7815,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8053,7 +7948,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2024-08-20 21:50:43
@@ -8265,7 +8160,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8370,7 +8265,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8537,7 +8432,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8798,7 +8693,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8954,7 +8849,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9372,7 +9267,10 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Blinded Herald;Light-Pierced Envoy
+	notes:
+		!related Blinded Herald;Light-Pierced Envoy
+		
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-12-31 01:26:50
 	name: Weapon
@@ -9405,7 +9303,9 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !related Acolyte of the Beyond;Starlit Sanctuary;Astral Prison;Renounce the Worldly;Evangel of the Void;Chart the Cosmos;Unveil;Tune of the Multiverse;Rift Tracing;Master of Null;Oblivion Surveyor;Caress of the Stars;Starless Night;Dwindling Light;Darkstar Envoy2>;Fateful Ascent;Caersol Valiant;Frenetic Astronomer;Nova Ravager;Starsquall;Perilous Sojourn;Glimmermare;Scintillating Vista;Vista Chronicler;Chasing Stars;Anhamei, Star Sower;Gorion Refuge
+	notes:
+		
+		!related Acolyte of the Beyond;Starlit Sanctuary;Astral Prison;Renounce the Worldly;Evangel of the Void;Chart the Cosmos;Unveil;Tune of the Multiverse;Rift Tracing;Master of Null;Oblivion Surveyor;Caress of the Stars;Starless Night;Dwindling Light;Darkstar Envoy2>;Fateful Ascent;Caersol Valiant;Frenetic Astronomer;Nova Ravager;Starsquall;Perilous Sojourn;Glimmermare;Scintillating Vista;Vista Chronicler;Chasing Stars;Anhamei, Star Sower;Gorion Refuge
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-07-15 10:18:07
 	name: Chart
@@ -9460,7 +9360,10 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Scintillation Scion;Cosmic Bounty;Comet Conduit;Rex Cerveste;Heaven’s Reach
+	notes:
+		!related Scintillation Scion;Cosmic Bounty;Comet Conduit;Rex Cerveste;Heaven’s Reach
+		
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-06-27 16:15:43
 	name: Treasure
@@ -9515,7 +9418,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Moonsworn Vassal;Heaven’s Reach
+	notes:
+		!related Moonsworn Vassal;Heaven’s Reach
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-07-04 21:45:18
 	card_color: green
@@ -9548,6 +9453,7 @@ card:
 	notes:
 		!related Radiant Pilgrim;Caphella, Endlight Catalyst2>;Star-Touched Devout;Awakened Aberration;Star-Touched Host
 		!exportname wither Spirit
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-07-08 17:42:58
 	card_color: red
@@ -9577,7 +9483,10 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Oberys, Ley-Pilgrim;Noctere Ascentus;Ley-Tower Convergence
+	notes:
+		
+		
+		!related Oberys, Ley-Pilgrim;Noctere Ascentus;Ley-Tower Convergence
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-07-05 20:39:53
 	name: Wall
@@ -10034,7 +9943,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Manticos Expurgis;Loam-Treader Titan;Blooming Scar2>
+	notes:
+		!related Manticos Expurgis;Loam-Treader Titan;Blooming Scar2>
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-06-19 12:18:02
 	card_color: land, multicolor
@@ -10128,7 +10039,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Chasing Stars;Wildermoon Compulsion
+	notes:
+		!related Chasing Stars;Wildermoon Compulsion
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-07-04 22:39:57
 	card_color: green
@@ -10159,6 +10072,7 @@ card:
 	notes:
 		!related Elorys, the Pathfinder
 		!exportname green Spirit
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-07-04 22:01:01
 	card_color: green
@@ -10188,7 +10102,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Reclaimed Cultivator
+	notes:
+		!related Reclaimed Cultivator
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-06-27 17:24:44
 	card_color: green
@@ -10218,7 +10134,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: !related Reclaimed Cultivator;2/2 Green Elf Druid
+	notes:
+		!related Reclaimed Cultivator;2/2 Green Elf Druid
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-06-27 17:30:05
 	card_color: green
@@ -10251,6 +10169,7 @@ card:
 	notes:
 		!related Ecosa of the Old Blood
 		!exportname red Spirit
+
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-07-04 11:42:14
 	card_color: red
@@ -10288,8 +10207,8 @@ card:
 		overlay: 
 	notes: !related Serpens Orbis;Leonis Excirtus;Aureola Crusaris;Eltanaan, the Silent Star;Balaenos Cresetis;Piscus Duosia;Draconos Magistus;Asulio, the Watchful Star;Aspus Venefir;Daemos Letheus;Nuillae Exidus;Rastabahl, the Enduring Star;Cancri Asellos;Draconos Tyrannos;Manticos Expurgis;Thubaran, the Fervent Star;Lupensi Purseus;Ursus Majora;Rex Tyrannos;Alwanor, the Humbled Star;Cepheos Delugo;Coria Portenus;Daemos Tormandus;Cornus Asarei;Leonis Concitare;Noctere Ascentus;Serpens Surectus;Turintos Fulgeos;Gomada Lumenos;Tigros Purseus;Levicta Visio;Lutra Inquisos;Ignavis ImmatusMatauros Tyrannos;Cereus Aegosa;Umbrus Surectus;Lupensi Tyrannos;Saureus Duplixi;Draconos Iracus;Uquus Crusaris
 	time_created: 2025-08-13 15:15:24
-	time_modified: 2025-08-13 15:23:59
-	name: On An Adventure
+	time_modified: 2026-01-31 23:27:07
+	name: On an Adventure
 	image: image531
 	image_2: 
 	mainframe_image: 
@@ -10512,7 +10431,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10809,7 +10728,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10851,7 +10770,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -10903,7 +10822,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10990,7 +10909,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		Mechanical change and rename
@@ -11029,7 +10948,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11073,7 +10992,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11083,7 +11002,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: Reword
+	notes: Reword 
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2025-12-18 17:15:48
 	card_color: black
@@ -11118,7 +11037,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11128,7 +11047,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: Mechanical change
+	notes: Mechanical change 
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2025-12-18 17:16:00
 	card_color: black
@@ -11157,7 +11076,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11167,7 +11086,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: Mechanical change
+	notes: Mechanical change 
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2025-12-24 09:57:04
 	card_color: black
@@ -11207,7 +11126,9 @@ card:
 		shrink_name_text: 2.5,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: Mechanical change
+	notes:
+		Mechanical change
+
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2025-12-16 20:26:40
 	card_color: black
@@ -11384,7 +11305,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11629,7 +11550,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11675,37 +11596,8 @@ card:
 	secondary_copyright: He/Him
 
 card:
-	has_styling: false
-	notes:
-		Rename
-		!renameof Ravenous Stirrings
-	time_created: 2025-11-01 11:54:30
-	time_modified: 2025-12-19 15:20:13
-	name: Foes Unfed
-	casting_cost: 3G
-	image: image80
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	super_type_2: <word-list-type-en></word-list-type-en>
-	super_type_3: <word-list-type-en></word-list-type-en>
-	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	sub_type_2: 
-	sub_type_3: 
-	sub_type_4: 
-	rarity: rare
-	rule_text: Search your library for up to four creature cards with mana value 3 or less that each have different names and reveal them. Target opponent chooses two of those cards. Shuffle the chosen cards into your library, and put the rest onto the battlefield.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: John Silva
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-
-card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11785,7 +11677,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11829,7 +11721,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12046,7 +11938,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12155,7 +12047,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12273,7 +12165,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12317,9 +12209,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Re-art
+	notes:
+		Re-art
+		
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-12-11 20:03:07
+	time_modified: 2026-01-31 23:20:46
 	name: Star-Touched Host
 	casting_cost: 1RG
 	image: image169
@@ -12337,7 +12231,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<atom-cardname><nospellcheck>Star-Touched Host</nospellcheck></atom-cardname> enters with three -1/-1 counters on it.
-		At the beginning of your end step, if player sacrificed a permanent this turn, you may remove a -1/-1 counter from <atom-cardname><nospellcheck>Star-Touched Host</nospellcheck></atom-cardname>. If you do, create a 1/1 red Spirit creature token with <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>. <i-auto>(It deals damage to creatures in the form of -1/-1 counters.)</i-auto>
+		At the beginning of your end step, if a player sacrificed a permanent this turn, you may remove a -1/-1 counter from <atom-cardname><nospellcheck>Star-Touched Host</nospellcheck></atom-cardname>. If you do, create a 1/1 red Spirit creature token with <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>. <i-auto>(It deals damage to creatures in the form of -1/-1 counters.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
@@ -12429,7 +12323,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Mechanical change
 	time_created: 2024-08-22 15:50:59
@@ -12498,7 +12392,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12543,7 +12437,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Mechanical change
 	time_created: 2024-08-22 15:50:59
@@ -12579,7 +12473,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12623,7 +12517,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Mechanical change
 	time_created: 2024-08-22 15:50:59
@@ -12693,7 +12587,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12802,7 +12696,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12919,6 +12813,7 @@ card:
 	notes:
 		!related Alwanor, the Humbled Star
 		
+		
 		Mechanical change
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-12-16 21:59:33
@@ -12971,6 +12866,208 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Lourdes Saraiva
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: false
+	notes: reworked: Was 1/1 for {R}, triggered on its own attack, also gaining double strike, and its static gave it +1/+0 while heckbent.
+	time_created: 2024-08-20 21:50:43
+	time_modified: 2026-01-21 16:43:46
+	card_color: red
+	name: Darksun Migrant
+	casting_cost: RR
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nomad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever you attack, you may discard a card. If you do, exile the top card of your library. You may play it this turn.
+		Once during each of your turns, when a player discards a card, you may choose up to one target creature. That creature can’t block this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Nino Vecia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes: nerfed: Was {3}{G} and tutored mv3 or less.
+	time_created: 2025-11-01 11:54:30
+	time_modified: 2026-01-16 11:23:20
+	name: Foes Unfed
+	casting_cost: XGG
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Search your library for up to four creature cards with mana value X or less that each have different names and reveal them. Target opponent chooses two of those cards. Shuffle the chosen cards into your library, and put the rest onto the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: John Silva
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes:
+		 reworked: Was Lightless Conquest, {1}{B}. Created a 1/1 Elemental that can’t block on when an enchantment you control entered. When an artifact you control entered, you could sacrifice an artifact to create a 3/2.
+		!renameof Lightless Conquest
+	time_created: 2024-08-20 21:50:43
+	time_modified: 2026-01-23 12:53:51
+	card_color: black
+	name: Rites of the Dying Sun
+	casting_cost: 2B
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Rites of the Dying Sun</nospellcheck></atom-cardname> enters, create two 1/1 white Spirit creature tokens.
+		Once each turn, when an artifact you control enters, you may sacrifice a creature. If you do, create an X/X red Spirit creature token, where X is the number of enchantments you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Armeid I
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		font_cap: 13.6
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: adjusted: No longer has Each opponent loses 3 life. Creature now has deathtouch and haste.
+	time_created: 2024-08-20 21:50:43
+	time_modified: 2026-01-17 23:29:31
+	card_color: black
+	name: March of the Long Night
+	casting_cost: BB
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Rastabahl’s</error-spelling:en_US> night is not one for rest.</i-flavor>
+	illustrator: Ava’s Demon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!related Alwanor, the Humbled Star
+		!exportname big Spirit
+		2026.02: Added to file
+
+	time_created: 2024-10-22 14:48:51
+	time_modified: 2026-01-04 10:16:33
+	card_color: green
+	name: Spirit
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 10
+	toughness: 10
+	illustrator: deadpool_yuchan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!related Rites of the Dying Sun;Roeseaun Firebrand;Sunsower
+		!exportname XX Spirit
+		
+		2026.02: Added to file
+	time_created: 2024-10-22 14:48:51
+	time_modified: 2026-01-23 12:46:27
+	card_color: red
+	name: Spirit
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: X
+	toughness: X
+	illustrator: sleepysymphonia
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

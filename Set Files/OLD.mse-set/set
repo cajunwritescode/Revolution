@@ -6253,10 +6253,18 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes:  nerfed: Now life payment instead of loss.
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		remove_from_autocount: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
 	time_created: 2022-01-03 08:06:10
-	time_modified: 2025-12-31 14:31:42
+	time_modified: 2026-01-01 03:40:50
 	name: Marked Passage
 	casting_cost: BB
 	image: image209
@@ -6266,7 +6274,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Pay life equal to the number of cards you’ve drawn this turn, then draw a card. You may repeat this process any number of times.
+	rule_text: Pay life equal to the number of cards you’ve drawn this turn. If you do, draw a card. You may repeat that process any number of times.
 	flavor_text: <i-flavor><error-spelling:en_US>Narzi</error-spelling:en_US> knew she would likely never return to the <error-spelling:en_US>Mokar</error-spelling:en_US>, but she had a hunch that this <error-spelling:en_US>Thoveus</error-spelling:en_US> had something to do with the <error-spelling:en_US>Elders’</error-spelling:en_US> reawakening.</i-flavor>
 	illustrator: Ling Xiang
 	custom_card_number: 
@@ -9383,7 +9391,6 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
-
 	time_created: 2023-12-22 16:20:17
 	time_modified: 2025-11-28 23:49:40
 	name: Swelling Terror
@@ -9449,7 +9456,6 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-
 	time_created: 2023-12-22 16:49:33
 	time_modified: 2025-11-28 23:51:47
 	name: Elder Eras

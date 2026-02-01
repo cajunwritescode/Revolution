@@ -4936,11 +4936,10 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		karn flavor text<soft-line>
-		 nerfed: Target now restricted types.<soft-line>
+		<soft-line><soft-line>
 		Expeditioners never know if it will take days, weeks, or months to find something worth their trouble.</soft-line></soft-line>
 	time_created: 2017-10-16 23:16:40
-	time_modified: 2025-12-31 14:59:12
+	time_modified: 2026-01-31 17:04:35
 	name: Survey What’s Left
 	casting_cost: 2W
 	image: image247
@@ -4954,7 +4953,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: common
-	rule_text: Exile two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under your control.
+	rule_text: Exile two target creatures, enchantments, and/or lands you control, then return those cards to the battlefield under their owner’s control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:

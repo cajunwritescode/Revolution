@@ -5751,18 +5751,18 @@ card:
 	has_styling: false
 	notes:
 		flicker Mightyena
-		 adjusted: Now returns to its owner’s control, but lets you choose to return it at the end step instead.
+		 reworked: Was {1}{W} and let you fast or slow flicker target permanent you control.
 	time_created: 2024-06-11 20:22:57
-	time_modified: 2025-01-30 20:55:34
+	time_modified: 2026-01-31 16:14:38
 	name: Brief Stop
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image250
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Exile target permanent you control. Return that card to the battlefield under its owner’s control now or at the beginning of the next end step.
+	rule_text: Exile up to two target creatures, enchantments, and/or lands you control, then return them to the battlefield under their owner’s control.
 	flavor_text: <i-flavor>An important skill for adventurers is knowing where to catch your breath.</i-flavor>
 	illustrator: pippi913
 	custom_card_number: 
@@ -14438,7 +14438,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
@@ -14483,7 +14483,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
@@ -14525,7 +14525,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
@@ -14567,11 +14567,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:26:02
+	time_modified: 2026-01-31 16:33:02
 	name: Crumbling Tower
 	casting_cost: 2R
 	image: image401
@@ -14593,7 +14593,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pedro Sena
 	partition_select: after normal, main set E
-	card_code_text: 
+	card_code_text: Calamity Unleashed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -14609,7 +14609,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Cajun
 		CCR !hidetag (Calamity)
 	time_created: 2025-12-26 09:51:59
@@ -14651,7 +14651,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59

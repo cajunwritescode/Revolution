@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Kitsuo: Dusk of Time
 	copyright: Provocative
@@ -9909,9 +9909,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-10-03 13:31:12
-	time_modified: 2024-10-03 17:54:58
+	time_modified: 2026-01-31 23:30:02
 	card_color: multicolor
-	name: On An Adventure
+	name: On an Adventure
 	image: image9
 	image_2: 
 	mainframe_image: 
@@ -10432,9 +10432,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: nerfed: Was {2}{W}{U}.
+	notes: 
 	time_created: 2024-12-26 12:06:07
-	time_modified: 2025-05-31 14:26:15
+	time_modified: 2026-01-31 23:20:01
 	name: Stratostorm
 	casting_cost: 3WU
 	image: image54.png
@@ -10454,7 +10454,7 @@ card:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
 		As long as this creature is on the battlefield, it has all activated abilities of cards in your graveyard. You may activate each of those abilities only once each turn.
 	flavor_text:
-		<i-flavor>“A storm is the pinnacle of of balance. Within the eye is calm, and the rest is fury.”<soft-line>
+		<i-flavor>“A storm is the pinnacle of balance. Within the eye is calm, and the rest is fury.”<soft-line>
 		—<error-spelling:en_US>Hyomon</soft-line></i-flavor></error-spelling:en_US>
 	power: 4
 	toughness: 4
@@ -11024,7 +11024,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11072,7 +11072,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11123,7 +11123,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11175,7 +11175,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11228,7 +11228,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -11280,7 +11280,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11328,7 +11328,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11489,7 +11489,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11542,7 +11542,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11596,7 +11596,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11704,7 +11704,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11752,7 +11752,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11800,7 +11800,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11848,7 +11848,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11897,7 +11897,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11945,7 +11945,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11995,7 +11995,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12038,7 +12038,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12091,7 +12091,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12404,7 +12404,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -12414,11 +12414,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Provocative
 		KDT
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:21:33
+	time_modified: 2026-01-31 16:40:41
 	name: Welkin Eviction
 	casting_cost: 6W
 	image: image282
@@ -12442,13 +12442,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: VookaSheen
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -12458,11 +12458,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Provocative
 		KDT
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:21:38
+	time_modified: 2026-01-31 16:40:20
 	name: Path’s End
 	casting_cost: 2WWU
 	image: image283
@@ -12484,13 +12484,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Burke
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Silver
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -12500,7 +12500,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Provocative
 		KDT
 	time_created: 2025-12-26 09:51:59
@@ -12530,7 +12530,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -12540,12 +12540,12 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Provocative
 		KDT
 		!append  ({R/G}, Discard this card: Draw a card.)
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:21:47
+	time_modified: 2026-01-31 16:40:06
 	name: Foreign Encounter
 	casting_cost: 1RG
 	image: image286
@@ -12567,13 +12567,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jason Engle
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Provocative
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -12583,7 +12583,7 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		!secret !promo Solastere Calamity
 		!design Provocative
 		KDT
 	time_created: 2025-12-26 09:51:59
@@ -12616,7 +12616,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -12626,11 +12626,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !update !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Stasis
 		KDT
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:21:56
+	time_modified: 2026-01-31 16:39:50
 	name: Faces of the Faceless
 	casting_cost: 2
 	image: image292
@@ -12652,7 +12652,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pär Olofsson
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Calamity Unleashed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
