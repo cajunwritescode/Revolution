@@ -312584,7 +312584,7 @@
      },
      "name": "Transcendent Council",
      "number": "269",
-     "power": "6",
+     "power": "4",
      "rarity": "rare",
      "relatedCards": {
       "spellbook": []
@@ -312593,8 +312593,8 @@
       "Moonfolk",
       "Cleric"
      ],
-     "text": "Flying\nAt the beginning of combat on your turn, each opponent sacrifices a nonland, nontoken permanent. If a player does, tap Transcendent Council.",
-     "toughness": "6",
+     "text": "Flying\nAt the beginning of combat on your turn, you may sacrifice another nonland, nontoken permanent. When you do, target opponent sacrifices a nonland, nontoken permanent. Then you draw a card unless the sacrificed permanents share a card type.",
+     "toughness": "4",
      "type": "Creature — Moonfolk Cleric",
      "types": [
       "Creature"
