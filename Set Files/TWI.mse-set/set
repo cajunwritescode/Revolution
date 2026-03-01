@@ -3608,6 +3608,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		
 		!renameof Overrule Thought
 	time_created: 2025-06-10 00:06:12
 	time_modified: 2026-02-28 17:45:29
@@ -8399,6 +8400,7 @@ card:
 	has_styling: false
 	notes:
 		!tag Twiltrie
+		
 		5
 		!tag Thistrel
 		!tag Cidraeth
@@ -8406,7 +8408,7 @@ card:
 		OperationCycle
 		 nerfed: Was 5 defense. Passive used to create a Soldier for each noncreature spell. First level returned an instant or sorcery card from grave to hand the first time it reached 3 defense.
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2026-02-28 18:00:11
+	time_modified: 2026-03-01 14:18:43
 	name: Clash at Mistwrit Vale
 	casting_cost: 1UU
 	image: image87.png
@@ -8426,7 +8428,7 @@ card:
 	rule_text_3: 
 	flavor_text_3: <i-flavor></i-flavor>
 	loyalty: 4
-	level_1_text: Whenever you cast a noncreature spell, create a 1/1 white Soldier creature token.
+	level_1_text: At the beginning of each end step, create a 1/1 white Soldier creature token if you’ve cast a noncreature spell this turn.
 	level_2_text: <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. <i-auto>(If a creature has multiple instances of <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>, each triggers separately.)</i-auto></margin:0:0:30>
 	level_3_text: <margin:0:0:30>Noncreature spells you cast cost <sym-auto>2</sym-auto> less to cast.</margin:0:0:30>
 	level_4_text: 
@@ -8440,7 +8442,7 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
-		Whenever you cast a noncreature spell, create a 1/1 white Soldier creature token.
+		At the beginning of each end step, create a 1/1 white Soldier creature token if you’ve cast a noncreature spell this turn.
 		<b>2 Defense</b> — <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. <i-auto>(If a creature has multiple instances of <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>, each triggers separately.)</i-auto></margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Noncreature spells you cast cost <sym-auto>2</sym-auto> less to cast.</margin:0:0:30>
 

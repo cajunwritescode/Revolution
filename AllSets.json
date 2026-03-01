@@ -91790,7 +91790,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhenever you cast a noncreature spell, create a 1/1 white Soldier creature token.\n2 Defense — Creatures you control have prowess. (If a creature has multiple instances of prowess, each triggers separately.)\nDefeated — Noncreature spells you cast cost {2} less to cast.",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nAt the beginning of each end step, create a 1/1 white Soldier creature token if you've cast a noncreature spell this turn.\n2 Defense — Creatures you control have prowess. (If a creature has multiple instances of prowess, each triggers separately.)\nDefeated — Noncreature spells you cast cost {2} less to cast.",
      "type": "Battle — Operation",
      "types": [
       "Battle"
@@ -97761,8 +97761,8 @@
      "flavor": "“Worry not, dear. Thy thoughts were burdensome. I have relieved thee of their weight.”\n",
      "frameType": "normal",
      "frameVersion": "2015",
-     "id": "Overrule Thought_TWI",
-     "imageName": "overrule thought",
+     "id": "Overrule Will_TWI",
+     "imageName": "overrule will",
      "layout": "normal",
      "legalities": {
       "revolution": "Legal",
@@ -97774,9 +97774,9 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 6127,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
-     "name": "Overrule Thought",
+     "name": "Overrule Will",
      "number": "63",
      "rarity": "uncommon",
      "relatedCards": {
@@ -97787,7 +97787,7 @@
      "types": [
       "Instant"
      ],
-     "uuid": "Overrule Thought_TWI"
+     "uuid": "Overrule Will_TWI"
     },
     {
      "artist": "Yuchen Wang",
