@@ -21934,6 +21934,56 @@
      "uuid": "Qimis, Central Intelligence_PRO_CYB"
     },
     {
+     "artist": "Riccardo Gualdi",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Splitmoon",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Ragecloak Shifter_PRO_CYB",
+     "imageName": "ragecloak shifter_pro_cyb",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{R}",
+     "identifiers": {
+      "scryfallId": 6779,
+      "multiverseId": 20260201
+     },
+     "name": "Ragecloak Shifter_PRO_CYB",
+     "number": "328",
+     "power": "1",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Shapeshifter",
+      "Shaman"
+     ],
+     "text": "Solidarity (Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven't this turn.)\n{R}: Choose a creature type. Ragecloak Shifter gets +1/+0 and becomes that type in addition to its other types until end of turn.",
+     "toughness": "1",
+     "type": "Creature — Shapeshifter Shaman",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Ragecloak Shifter_PRO_CYB"
+    },
+    {
      "artist": "Christina Myrvold",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -22152,8 +22202,8 @@
      "uuid": "Terminal Impact_PRO_CYB"
     }
    ],
-   "baseSetSize": 343,
-   "totalSetSize": 343,
+   "baseSetSize": 344,
+   "totalSetSize": 344,
    "cardsphereSetId": 15,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -36883,6 +36933,58 @@
      ]
     },
     {
+     "artist": "Ognjen Sporin",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "G",
+      "W"
+     ],
+     "colorIdentity": [
+      "G",
+      "W"
+     ],
+     "designer": "Stasis",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Survivors of the New World_PRO_CNY",
+     "imageName": "survivors of the new world_pro_cny",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{G}{W}",
+     "identifiers": {
+      "scryfallId": 6414,
+      "multiverseId": 20260201
+     },
+     "name": "Survivors of the New World_PRO_CNY",
+     "number": "290",
+     "power": "1",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Mutant",
+      "Survivor"
+     ],
+     "text": "When Survivors of the New World enters, if it isn't a token, create two tokens that are copies of it.\nWhen Survivors of the New World dies, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+     "toughness": "1",
+     "type": "Creature — Mutant Survivor",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Survivors of the New World_PRO_CNY"
+    },
+    {
      "artist": "zerochan923600",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -37081,8 +37183,8 @@
      "uuid": "Work Safety Violation_PRO_CNY"
     }
    ],
-   "baseSetSize": 301,
-   "totalSetSize": 301,
+   "baseSetSize": 302,
+   "totalSetSize": 302,
    "cardsphereSetId": 16,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -37781,7 +37883,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 4877,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Aroma Spinner",
      "number": "155",
@@ -37793,7 +37895,7 @@
      "subtypes": [
       "Plant"
      ],
-     "text": "Reach\nAt the beginning of your upkeep, create a Berry token. You may attach it to Aroma Spinner. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Reach\nAt the beginning of your upkeep, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "2",
      "type": "Creature — Plant",
      "types": [
@@ -37830,7 +37932,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 5862,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Aroma Spinner ★",
      "number": "1155",
@@ -37842,7 +37944,7 @@
      "subtypes": [
       "Plant"
      ],
-     "text": "Reach\nAt the beginning of your upkeep, create a Berry token. You may attach it to Aroma Spinner. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Reach\nAt the beginning of your upkeep, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "2",
      "type": "Creature — Plant",
      "types": [
@@ -38085,7 +38187,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 4880,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Berry Fermenter",
      "number": "156",
@@ -38097,7 +38199,7 @@
      "subtypes": [
       "Turtle"
      ],
-     "text": "When Berry Fermenter enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\n{2}, Sacrifice a Berry: You gain 3 life.\n{T}, Sacrifice a Berry: Add one mana of any color.",
+     "text": "When Berry Fermenter enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\n{2}, Sacrifice a Berry: You gain 3 life.\n{T}, Sacrifice a Berry: Add one mana of any color.",
      "toughness": "4",
      "type": "Creature — Turtle",
      "types": [
@@ -38134,7 +38236,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 5155,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Berry Fermenter ★",
      "number": "1156",
@@ -38146,7 +38248,7 @@
      "subtypes": [
       "Turtle"
      ],
-     "text": "When Berry Fermenter enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\n{2}, Sacrifice a Berry: You gain 3 life.\n{T}, Sacrifice a Berry: Add one mana of any color.",
+     "text": "When Berry Fermenter enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\n{2}, Sacrifice a Berry: You gain 3 life.\n{T}, Sacrifice a Berry: Add one mana of any color.",
      "toughness": "4",
      "type": "Creature — Turtle",
      "types": [
@@ -38185,7 +38287,7 @@
      "manaCost": "{2}{G}{W}",
      "identifiers": {
       "scryfallId": 4881,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Berry Harvester",
      "number": "193",
@@ -38198,7 +38300,7 @@
       "Human",
       "Ranger"
      ],
-     "text": "Whenever Berry Harvester enters or attacks, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nThe first time you would create one or more Berry tokens each turn, create an additional Berry token.",
+     "text": "Whenever Berry Harvester enters or attacks, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nThe first time you would create one or more Berry tokens each turn, create an additional Berry token.",
      "toughness": "3",
      "type": "Creature — Human Ranger",
      "types": [
@@ -38279,7 +38381,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 4883,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Bloom Brute",
      "number": "158",
@@ -38292,7 +38394,7 @@
       "Plant",
       "Kangaroo"
      ],
-     "text": "Whenever Bloom Brute deals combat damage to a player, create two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Whenever Bloom Brute deals combat damage to a player, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "2",
      "type": "Creature — Plant Kangaroo",
      "types": [
@@ -38329,7 +38431,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 5863,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Bloom Brute ★",
      "number": "1158",
@@ -38342,7 +38444,7 @@
       "Plant",
       "Kangaroo"
      ],
-     "text": "Whenever Bloom Brute deals combat damage to a player, create two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Whenever Bloom Brute deals combat damage to a player, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "2",
      "type": "Creature — Plant Kangaroo",
      "types": [
@@ -38383,7 +38485,7 @@
      "manaCost": "{2}{W}{B}{G}",
      "identifiers": {
       "scryfallId": 4884,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Blooming Sauropod",
      "number": "195",
@@ -38396,7 +38498,7 @@
       "Plant",
       "Dinosaur"
      ],
-     "text": "Flying\nWhen Blooming Sauropod enters, create two Berry tokens, then sacrifice any number of Berries. For each Berry sacrificed this way, put a +1/+1 counter on another creature you control. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Flying\nWhen Blooming Sauropod enters, create two Berry tokens, then sacrifice any number of Berries. For each Berry sacrificed this way, put a +1/+1 counter on another creature you control. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "3",
      "type": "Creature — Plant Dinosaur",
      "types": [
@@ -39139,7 +39241,7 @@
      "manaCost": "{3}{G}",
      "identifiers": {
       "scryfallId": 4899,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Canopy Creeper",
      "number": "163",
@@ -39151,7 +39253,7 @@
      "subtypes": [
       "Plant"
      ],
-     "text": "Trample\nWhen Canopy Creeper enters, create two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Trample\nWhen Canopy Creeper enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "3",
      "type": "Creature — Plant",
      "types": [
@@ -40663,7 +40765,7 @@
      "manaCost": "{3}{B}{B}",
      "identifiers": {
       "scryfallId": 4922,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Crunch",
      "number": "80",
@@ -40671,7 +40773,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Destroy target creature. Create two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Destroy target creature. Create two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -41772,7 +41874,7 @@
      "manaCost": "{3}{R}{R}{R}",
      "identifiers": {
       "scryfallId": 4942,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "End of Mutations",
      "number": "129",
@@ -41788,8 +41890,8 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "This spell can't be countered.\nFirst strike, haste\nWhenever an opponent casts a spell during your turn, End of Mutations deals 5 damage to them.",
-     "toughness": "3",
+     "text": "This spell can't be countered.\nFirst strike, haste\nWhenever an opponent casts a noncreature spell, if they haven't attacked this turn, End of Mutations deals 5 damage to them.",
+     "toughness": "5",
      "type": "Legendary Creature — Alien Mutant",
      "types": [
       "Creature"
@@ -41825,7 +41927,7 @@
      "manaCost": "{3}{R}{R}{R}",
      "identifiers": {
       "scryfallId": 5157,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "End of Mutations ★",
      "number": "1129",
@@ -41841,8 +41943,8 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "This spell can't be countered.\nFirst strike, haste\nWhenever an opponent casts a spell during your turn, End of Mutations deals 5 damage to them.",
-     "toughness": "3",
+     "text": "This spell can't be countered.\nFirst strike, haste\nWhenever an opponent casts a noncreature spell, if they haven't attacked this turn, End of Mutations deals 5 damage to them.",
+     "toughness": "5",
      "type": "Legendary Creature — Alien Mutant",
      "types": [
       "Creature"
@@ -42377,7 +42479,7 @@
      "manaCost": "{W}{B}{G}",
      "identifiers": {
       "scryfallId": 4949,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Feasting Predator",
      "number": "203",
@@ -42389,7 +42491,7 @@
      "subtypes": [
       "Snake"
      ],
-     "text": "Deathtouch\nWhenever one or more creatures die, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nWhenever Feasting Predator attacks, you may sacrifice a Berry. If you do, up to one target creature gets -1/-1 until end of turn and blocks this combat if able.",
+     "text": "Whenever one or more creatures die, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nSacrifice a Berry: Feasting Predator gets +1/+1 and gains trample until end of turn. Up to one target creature blocks each combat this turn if able.",
      "toughness": "3",
      "type": "Creature — Snake",
      "types": [
@@ -42430,7 +42532,7 @@
      "manaCost": "{W}{B}{G}",
      "identifiers": {
       "scryfallId": 5874,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Feasting Predator ★",
      "number": "1203",
@@ -42442,7 +42544,7 @@
      "subtypes": [
       "Snake"
      ],
-     "text": "Deathtouch\nWhenever one or more creatures die, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nWhenever Feasting Predator attacks, you may sacrifice a Berry. If you do, up to one target creature gets -1/-1 until end of turn and blocks this combat if able.",
+     "text": "Whenever one or more creatures die, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nSacrifice a Berry: Feasting Predator gets +1/+1 and gains trample until end of turn. Up to one target creature blocks each combat this turn if able.",
      "toughness": "3",
      "type": "Creature — Snake",
      "types": [
@@ -42479,7 +42581,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 4950,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Feasting Sloth",
      "number": "85",
@@ -42491,7 +42593,7 @@
      "subtypes": [
       "Sloth"
      ],
-     "text": "Defender\nWhen Feasting Sloth enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nFeasting Sloth can attack as though it didn't have defender if it's enchanted, equipped, or has a counter on it.",
+     "text": "Defender\nWhen Feasting Sloth enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nFeasting Sloth can attack as though it didn't have defender if it's enchanted, equipped, or has a counter on it.",
      "toughness": "2",
      "type": "Creature — Sloth",
      "types": [
@@ -42882,7 +42984,7 @@
      "manaCost": "{G}",
      "identifiers": {
       "scryfallId": 4957,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Foraging Grub",
      "number": "168",
@@ -42894,7 +42996,7 @@
      "subtypes": [
       "Insect"
      ],
-     "text": "Deathtouch\n{1}{W}, {T}: Create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\n{2}{B}, Sacrifice a Berry: Put a +1/+1 counter on Foraging Grub.",
+     "text": "Deathtouch\n{1}{W}, {T}: Create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\n{2}{B}, Sacrifice a Berry: Put a +1/+1 counter on Foraging Grub.",
      "toughness": "1",
      "type": "Creature — Insect",
      "types": [
@@ -43190,7 +43292,7 @@
      "manaCost": "{3}{G}{G}",
      "identifiers": {
       "scryfallId": 4963,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Frenzy Plant",
      "number": "169",
@@ -43198,7 +43300,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Create three Berry tokens, then sacrifice any number of Berries. For each Berry sacrificed this way, creatures you control get +1/+1 until end of turn. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Create three Berry tokens, then sacrifice any number of Berries. For each Berry sacrificed this way, creatures you control get +1/+1 until end of turn. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -43377,7 +43479,7 @@
      "manaCost": "{3}{W}",
      "identifiers": {
       "scryfallId": 4966,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Generous Farmer",
      "number": "17",
@@ -43390,7 +43492,7 @@
       "Human",
       "Ranger"
      ],
-     "text": "When Generous Farmer enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nWhenever you sacrifice a Berry, create a 1/1 green Plant creature token.",
+     "text": "When Generous Farmer enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nWhenever you sacrifice a Berry, create a 1/1 green Plant creature token.",
      "toughness": "2",
      "type": "Creature — Human Ranger",
      "types": [
@@ -43556,7 +43658,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 4970,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Gold Berry",
      "number": "247",
@@ -43568,7 +43670,7 @@
       "Berry",
       "Equipment"
      ],
-     "text": "Before equipped creature would assign, deal, or be dealt damage, sacrifice Gold Berry. If you do, equipped creature gets +2/+2 until end of turn.\nWhen you sacrifice Gold Berry, create a Berry token and a Treasure token.\nEquip {1}",
+     "text": "Before equipped creature would assign, deal, or be dealt damage, sacrifice Gold Berry. If you do, equipped creature gets +3/+3 until end of turn.\nWhen you sacrifice Gold Berry, create a Berry token and a Treasure token.\nEquip {1}",
      "type": "Artifact — Berry Equipment",
      "types": [
       "Artifact"
@@ -43604,7 +43706,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 4971,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Gone Pickin'",
      "number": "18",
@@ -43612,7 +43714,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "When Gone Pickin' enters, exile up to one target nonland permanent an opponent controls until Gone Pickin' leaves the battlefield. Then create a Berry token. You may attach it to a creature you control. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "When Gone Pickin' enters, exile up to one target nonland permanent an opponent controls until Gone Pickin' leaves the battlefield. Then create a Berry token. You may attach it to a creature you control. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -43648,7 +43750,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 5158,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Gone Pickin' ★",
      "number": "1018",
@@ -43656,7 +43758,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "When Gone Pickin' enters, exile up to one target nonland permanent an opponent controls until Gone Pickin' leaves the battlefield. Then create a Berry token. You may attach it to a creature you control. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "When Gone Pickin' enters, exile up to one target nonland permanent an opponent controls until Gone Pickin' leaves the battlefield. Then create a Berry token. You may attach it to a creature you control. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -44878,7 +44980,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 4988,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Hungry Songbird",
      "number": "21",
@@ -44890,8 +44992,8 @@
      "subtypes": [
       "Bird"
      ],
-     "text": "Flying\nWhen Hungry Songbird enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
-     "toughness": "2",
+     "text": "Flying\nWhen Hungry Songbird enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
+     "toughness": "1",
      "type": "Creature — Bird",
      "types": [
       "Creature"
@@ -46513,7 +46615,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 5012,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Magical Leaves",
      "number": "175",
@@ -46521,7 +46623,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Choose two —\n• Create two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\n• Create two 1/1 green Plant creature tokens.\n• You gain 1 life for each token you control.",
+     "text": "Choose two —\n• Create two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\n• Create two 1/1 green Plant creature tokens.\n• You gain 1 life for each token you control.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -47840,7 +47942,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 5033,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Padpole",
      "number": "178",
@@ -47853,7 +47955,7 @@
       "Plant",
       "Frog"
      ],
-     "text": "When Padpole enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nSurface {3}{G} (You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)",
+     "text": "When Padpole enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nSurface {3}{G} (You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)",
      "toughness": "2",
      "type": "Creature — Plant Frog",
      "types": [
@@ -47983,7 +48085,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 5036,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Pathetic Cocoon",
      "number": "97",
@@ -47995,8 +48097,8 @@
      "subtypes": [
       "Insect"
      ],
-     "text": "When Pathetic Cocoon enters or dies, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
-     "toughness": "3",
+     "text": "When Pathetic Cocoon enters or dies, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
+     "toughness": "2",
      "type": "Creature — Insect",
      "types": [
       "Creature"
@@ -48076,7 +48178,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 5037,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Pick Up",
      "number": "24",
@@ -48084,7 +48186,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Return up to one target artifact, enchantment, or land card from your graveyard to your hand.\nCreate two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Return up to one target artifact, enchantment, or land card from your graveyard to your hand.\nCreate two Berry tokens. (They're Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -48551,7 +48653,7 @@
      "manaCost": "{1}{B}{G}",
      "identifiers": {
       "scryfallId": 5045,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Poisoned Rose",
      "number": "220",
@@ -48563,7 +48665,7 @@
      "subtypes": [
       "Plant"
      ],
-     "text": "When Poisoned Rose enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\n{B}, Sacrifice a Berry: Target creature gets -1/-1 until end of turn. You can't activate this ability during combat.",
+     "text": "Deathtouch\nWhen Poisoned Rose enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\n{B}, Sacrifice a Berry: Target creature gets -1/-1 until end of turn. You can't activate this ability during combat.",
      "toughness": "3",
      "type": "Creature — Plant",
      "types": [
@@ -48602,7 +48704,7 @@
      "manaCost": "{1}{B}{G}",
      "identifiers": {
       "scryfallId": 5887,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Poisoned Rose ★",
      "number": "1220",
@@ -48614,7 +48716,7 @@
      "subtypes": [
       "Plant"
      ],
-     "text": "When Poisoned Rose enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\n{B}, Sacrifice a Berry: Target creature gets -1/-1 until end of turn. You can't activate this ability during combat.",
+     "text": "Deathtouch\nWhen Poisoned Rose enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\n{B}, Sacrifice a Berry: Target creature gets -1/-1 until end of turn. You can't activate this ability during combat.",
      "toughness": "3",
      "type": "Creature — Plant",
      "types": [
@@ -48698,7 +48800,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 5047,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Practicing Guru",
      "number": "26",
@@ -48710,7 +48812,7 @@
      "subtypes": [
       "Ape"
      ],
-     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nPracticing Guru gets +1/+1 as long as you've sacrificed a Berry that was attached to it this turn.\nSacrifice a Berry attached to Practicing Guru: It gains indestructible until end of turn.",
+     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nPracticing Guru gets +1/+1 and had indestructible as long as it's eaten a Berry this turn.",
      "toughness": "2",
      "type": "Creature — Ape",
      "types": [
@@ -48747,7 +48849,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 5888,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Practicing Guru ★",
      "number": "1026",
@@ -48759,7 +48861,7 @@
      "subtypes": [
       "Ape"
      ],
-     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nPracticing Guru gets +1/+1 as long as you've sacrificed a Berry that was attached to it this turn.\nSacrifice a Berry attached to Practicing Guru: It gains indestructible until end of turn.",
+     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nPracticing Guru gets +1/+1 and had indestructible as long as it's eaten a Berry this turn.",
      "toughness": "2",
      "type": "Creature — Ape",
      "types": [
@@ -49660,7 +49762,7 @@
      "manaCost": "{3}{W}",
      "identifiers": {
       "scryfallId": 5060,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Restless Sloth",
      "number": "27",
@@ -49672,7 +49774,7 @@
      "subtypes": [
       "Sloth"
      ],
-     "text": "Vigilance\n{2}{W}: Create a Berry token and attach it to Restless Sloth. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Vigilance\n{2}{W}: Create a Berry token and attach it to Restless Sloth. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "3",
      "type": "Creature — Sloth",
      "types": [
@@ -49991,7 +50093,7 @@
      "manaCost": "{1}{W}{B}",
      "identifiers": {
       "scryfallId": 5064,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Rooting Raccoon",
      "number": "223",
@@ -50003,7 +50105,7 @@
      "subtypes": [
       "Raccoon"
      ],
-     "text": "Lifelink\nLandfall — Whenever a land you control enters, create a Berry token. You may attach it to Rooting Raccoon. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Lifelink\nLandfall — Whenever a land you control enters, create a Berry token. You may attach it to Rooting Raccoon. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "3",
      "type": "Creature — Raccoon",
      "types": [
@@ -51644,7 +51746,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 5088,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Smart Shopper",
      "number": "30",
@@ -51657,7 +51759,7 @@
       "Human",
       "Ranger"
      ],
-     "text": "Once each turn, when Smart Shopper enters or you cast a creature spell, you may create a Berry token. If three or more types of mana were spent to cast it, create two of those tokens instead. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Once each turn, when Smart Shopper enters or you cast a creature spell, you may create a Berry token. If three or more types of mana were spent to cast it, create two of those tokens instead. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "2",
      "type": "Creature — Human Ranger",
      "types": [
@@ -51694,7 +51796,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 5089,
-      "multiverseId": 20251101
+      "multiverseId": 20260201
      },
      "name": "Smiling Sludge",
      "number": "107",
@@ -51706,8 +51808,8 @@
      "subtypes": [
       "Ooze"
      ],
-     "text": "When Smiling Sludge enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nWhenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.",
-     "toughness": "3",
+     "text": "When Smiling Sludge enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nWhenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.",
+     "toughness": "2",
      "type": "Creature — Ooze",
      "types": [
       "Creature"
@@ -51743,7 +51845,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 5168,
-      "multiverseId": 20251101
+      "multiverseId": 20260201
      },
      "name": "Smiling Sludge ★",
      "number": "1107",
@@ -51755,8 +51857,8 @@
      "subtypes": [
       "Ooze"
      ],
-     "text": "When Smiling Sludge enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nWhenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.",
-     "toughness": "3",
+     "text": "When Smiling Sludge enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nWhenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.",
+     "toughness": "2",
      "type": "Creature — Ooze",
      "types": [
       "Creature"
@@ -52969,7 +53071,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 5101,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Stockpile",
      "number": "184",
@@ -52977,7 +53079,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Create a Berry token, then sacrifice any number of Berry tokens. Target creature you control gets +1/+1 until end of turn for each Berry sacrificed this way. Then it fights target creature you don't control. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Create a Berry token, then sacrifice any number of Berry tokens. Target creature you control gets +1/+1 until end of turn for each Berry sacrificed this way. Then it fights target creature you don't control. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -53547,7 +53649,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 5110,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Swooping Hunter",
      "number": "35",
@@ -53559,7 +53661,7 @@
      "subtypes": [
       "Bird"
      ],
-     "text": "Flash\nFlying\nWhen Swooping Hunter enters, create a Berry token, then you may return another creature you control to its owner's hand. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Flash\nFlying\nWhen Swooping Hunter enters, create a Berry token, then you may return another creature you control to its owner's hand. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "toughness": "2",
      "type": "Creature — Bird",
      "types": [
@@ -54171,7 +54273,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 5117,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Tenki, Storm Chaser",
      "number": "71",
@@ -54187,7 +54289,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "When Tenki enters, it acclimates. (You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on this.)\nYou can't sacrifice Weather enchantments.\n{W}{U}{B}{R}{G}, {T}: Tenki acclimates. This ability costs one mana of any color less to activate for each Weather you control.",
+     "text": "When Tenki enters, it acclimates. (You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on this.)\nYou can't sacrifice Weather enchantments.\nAs long as you've spent {W}{U}{B}{R}{G} this turn, Weather spells you cast gain storm as you cast them. (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)",
      "toughness": "1",
      "type": "Legendary Creature — Human Ranger",
      "types": [
@@ -54224,7 +54326,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 5118,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Territory Dispute",
      "number": "110",
@@ -54232,7 +54334,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Destroy target non-Human creature. If it has Berries attached to it, gain control of them. Otherwise, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)",
+     "text": "Destroy target non-Human creature. If it has Berries attached to it, gain control of them. Otherwise, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)",
      "type": "Instant",
      "types": [
       "Instant"
@@ -54329,7 +54431,7 @@
      "manaCost": "{1}{W}{B}{G}",
      "identifiers": {
       "scryfallId": 5120,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "The Berry Master",
      "number": "194",
@@ -54345,7 +54447,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "When The Berry Master enters, create a Berry token.\nIf you would create one or more tokens, also create that many Berry tokens.\n{2}, Sacrifice two Berries: Up to one target creature gets +2/+2 until end of turn. Up to one target creature gets -2/-2 until end of turn. You gain 4 life. Activate only as a sorcery.",
+     "text": "When The Berry Master enters, create a Berry token.\nIf you would create one or more tokens, also create that many Berry tokens.\n{2}, Sacrifice two Berries: Up to one target creature gets -2/-2 until end of turn. Up to one target creature gets +3/+3 until end of turn. You gain 4 life. Activate only as a sorcery.",
      "toughness": "4",
      "type": "Legendary Creature — Human Druid",
      "types": [
@@ -56792,10 +56894,55 @@
       "Land"
      ],
      "uuid": "Temple of Origins_PRO_CCR"
+    },
+    {
+     "artist": "Thomas Bourdon",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [],
+     "colorIdentity": [],
+     "designer": "Cajun",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Weather Elemental_PRO_CCR",
+     "imageName": "weather elemental_pro_ccr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{4}",
+     "identifiers": {
+      "scryfallId": 6790,
+      "multiverseId": 20260201
+     },
+     "name": "Weather Elemental_PRO_CCR",
+     "number": "290",
+     "power": "2",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Elemental"
+     ],
+     "text": "Flying\nWhenever Weather Elemental enters or attacks, it acclimates. (You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on this.)\nIf a triggered ability of a Weather you control would trigger, it triggers an additional time.",
+     "toughness": "2",
+     "type": "Creature — Elemental",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Weather Elemental_PRO_CCR"
     }
    ],
-   "baseSetSize": 395,
-   "totalSetSize": 395,
+   "baseSetSize": 396,
+   "totalSetSize": 396,
    "cardsphereSetId": 17,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -60712,7 +60859,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 5353,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Electronic Countermeasures",
      "number": "133",
@@ -60720,7 +60867,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Corrupt — Electronic Countermeasures deals 5 damage to target battle, creature, or planeswalker. If you control a permanent with greater mana value than this spell, exile the top X cards of your library, where X is the excess damage dealt this way. You may play one of those cards until your next end step.",
+     "text": "Corrupt — Electronic Countermeasures deals 5 damage to target creature or planeswalker. If you control a permanent with greater mana value than this spell, exile the top X cards of your library, where X is the excess damage dealt this way. You may play one of those cards until your next end step.",
      "type": "Instant",
      "types": [
       "Instant"
@@ -71662,6 +71809,49 @@
      "uuid": "Fabricated Anomaly_PRO_ERR"
     },
     {
+     "artist": "Matthew Attard",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "B",
+      "R"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Faulty Server_PRO_ERR",
+     "imageName": "faulty server_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6794,
+      "multiverseId": 20260201
+     },
+     "name": "Faulty Server_PRO_ERR",
+     "number": "315",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this land enters, sacrifice it. If you do, search your library for a basic Swamp or Mountain card, put it onto the battlefield tapped, then shuffle.\n{2}{B}{B}{R}{R}, Discard this card: Create a 4/4 red Error creature token with menace.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Faulty Server_PRO_ERR"
+    },
+    {
      "artist": "Joao Querioz",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -71931,6 +72121,49 @@
       "Creature"
      ],
      "uuid": "Lifehacker_PRO_ERR"
+    },
+    {
+     "artist": "Stephen Somers",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "U",
+      "B"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Lost and Found_PRO_ERR",
+     "imageName": "lost and found_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 6800,
+      "multiverseId": 20260201
+     },
+     "name": "Lost and Found_PRO_ERR",
+     "number": "321",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this land enters, sacrifice it. If you do, search your library for a basic Island or Swamp card, put it onto the battlefield tapped, then shuffle.\n{2}{U}{U}{B}{B}, Discard this card: Surveil 2, then draw two cards.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Lost and Found_PRO_ERR"
     },
     {
      "artist": "Gaudi Buendia",
@@ -72503,8 +72736,8 @@
      "uuid": "Weft Dancer_PRO_ERR"
     }
    ],
-   "baseSetSize": 325,
-   "totalSetSize": 325,
+   "baseSetSize": 327,
+   "totalSetSize": 327,
    "cardsphereSetId": 18,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -89412,7 +89645,7 @@
      "manaCost": "{1}{U}{R}",
      "identifiers": {
       "scryfallId": 5961,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Aldegar of Path Unwoven",
      "number": "233",
@@ -89426,7 +89659,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "[+1]: Discard a card, then draw a card. \n[-2]: Aldegar deals 3 damage to any target.\n[0]: If Aldegar has six or more loyalty counters on him, he becomes a 5/5 blue and red Dragon creature with indestructible and flying. (This effect lasts indefinitely. Damage no longer causes him to lose loyalty.)",
+     "text": "[+1]: Discard a card, then draw a card. \n[-2]: Aldegar deals 3 damage to any target.\n[0]: If Aldegar has six or more loyalty counters on him, he becomes a 6/6 blue and red Dragon creature with indestructible and flying. (This effect lasts indefinitely. Damage no longer causes him to lose loyalty.)",
      "type": "Legendary Planeswalker — Aldegar",
      "types": [
       "Planeswalker"
@@ -91452,7 +91685,7 @@
      "manaCost": "{3}{W}{W}",
      "identifiers": {
       "scryfallId": 6001,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Clash at Aureth Cross",
      "number": "11",
@@ -91463,7 +91696,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Clash at Aureth Cross enters, if you cast it from your hand, destroy all creatures.\n2 Defense — At the beginning of your end step, create a 1/1 white Soldier creature token.\nDefeated — Creature tokens you control get +1/+1 and have vigilance.",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Clash at Aureth Cross enters, if you cast it from your hand, destroy all creatures.\n3 Defense — When Clash at Aureth Cross first reaches this stage, create two 2/2 white Knight creature tokens with vigilance.\nDefeated — Whenever you attack, you gain life equal to the number of attacking creatures.",
      "type": "Battle — Operation",
      "types": [
       "Battle"
@@ -91546,7 +91779,7 @@
      "manaCost": "{1}{U}{U}",
      "identifiers": {
       "scryfallId": 6003,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Clash at Mistwrit Vale",
      "number": "46",
@@ -91557,7 +91790,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhenever you cast a noncreature spell, create a 1/1 white Soldier creature token.\n3 Defense — When Clash at Mistwrit Vale first reaches this stage, return target instant or sorcery card from your graveyard to your hand.\nDefeated — Noncreature spells you cast cost {2} less to cast.",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhenever you cast a noncreature spell, create a 1/1 white Soldier creature token.\n2 Defense — Creatures you control have prowess. (If a creature has multiple instances of prowess, each triggers separately.)\nDefeated — Noncreature spells you cast cost {2} less to cast.",
      "type": "Battle — Operation",
      "types": [
       "Battle"
@@ -92231,7 +92464,7 @@
      "colors": [],
      "colorIdentity": [],
      "designer": "Zangy",
-     "flavor": "",
+     "flavor": "“The Cidraeth call this blasphemy. They say that divinity is sacred purely because it exists. The divine is only sacred if it serves mortals. If these so-called gods will not serve freely, they swill serve in chains.”\n—Annan, Thief of the Sun\n",
      "frameType": "normal",
      "frameVersion": "2015",
      "id": "Crucible of the Burning Sun_TWI",
@@ -92247,7 +92480,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 6018,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Crucible of the Burning Sun",
      "number": "276",
@@ -92255,7 +92488,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "If a card or token would be put into a graveyard from anywhere, exile it instead.\nAt the beginning of your end step, target player exiles a card from their graveyard. If they can't, you scry 1.",
+     "text": "If a card or token would be put into a graveyard from anywhere, exile it instead.",
      "type": "Artifact",
      "types": [
       "Artifact"
@@ -97732,7 +97965,7 @@
      "manaCost": "{2}{U}{U}",
      "identifiers": {
       "scryfallId": 6131,
-      "multiverseId": 20260031
+      "multiverseId": 20260201
      },
      "name": "Path of Scales",
      "number": "65",
@@ -97743,7 +97976,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Path of Scales enters, draw three cards.\n3 Defense — Creatures you don't control get -1/-0.\nDefeated — Whenever you cast a noncreature, nonbattle spell, copy it. You may choose new targets for the copy.",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Path of Scales enters, look at the top five cards of your library. Put two of those cards into your hand and the rest on the bottom in a random order.\n3 Defense — Creatures you don't control get -1/-0.\nDefeated — Whenever you cast a noncreature, nonbattle spell, copy it. You may choose new targets for the copy.",
      "type": "Battle — Operation",
      "types": [
       "Battle"
@@ -104109,6 +104342,50 @@
      "uuid": "Anthropomancy_PRO_TWI"
     },
     {
+     "artist": "Adam Burke",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Zangy",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Bleed for the Cause_PRO_TWI",
+     "imageName": "bleed for the cause_pro_twi",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 6812,
+      "multiverseId": 20260201
+     },
+     "name": "Bleed for the Cause_PRO_TWI",
+     "number": "342",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Create a 2/2 black Zombie creature token with “This creature can't block.” You lose 1 life.\nAt the beginning of your end step, if you've lost 3 or more life this turn, return Bleed for the Cause from your graveyard to your hand.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Bleed for the Cause_PRO_TWI"
+    },
+    {
      "artist": "Art of Li",
      "convertedManaCost": 6,
      "faceConvertedManaCost": 6,
@@ -105189,8 +105466,8 @@
      "uuid": "Witchery_PRO_TWI"
     }
    ],
-   "baseSetSize": 340,
-   "totalSetSize": 340,
+   "baseSetSize": 341,
+   "totalSetSize": 341,
    "cardsphereSetId": 20,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -107969,10 +108246,10 @@
     },
     {
      "artist": "Andrew Silver & Kat Chan",
-     "convertedManaCost": 3,
-     "faceConvertedManaCost": 3,
-     "manaValue": 3,
-     "faceManaValue": 3,
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
      "colors": [
       "R",
       "W"
@@ -107995,7 +108272,7 @@
       "eternal-pauper": "Illegal",
       "planechase": "Legal"
      },
-     "manaCost": "{1}{R}{W}",
+     "manaCost": "{2}{R}{W}",
      "identifiers": {
       "scryfallId": 6499,
       "multiverseId": 0
@@ -108006,7 +108283,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhen Cleansing Starfire enters, if you cast it, it deals 3 damage to any target.\nOnce each turn, when you put one or more counters on a permanent, you may gain that much life.",
+     "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhen Cleansing Starfire enters, if you cast it, it deals 4 damage to any target.\nOnce each turn, when you put one or more counters on a permanent, you may gain that much life.",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -108729,7 +109006,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "When Creation Mythos enters, search your graveyard and/or library for an artifact card, reveal it, and put it into your hand. If you search your library this way, shuffle it.\nThe first artifact spell you cast during each of your turns costs {1} less to cast for each enchantment you control.",
+     "text": "When Creation Mythos enters, search your library for an artifact card, reveal it, and put it into your hand. If you search your library this way, shuffle it.\nThe first artifact or enchantment spell you cast during each of your turns costs {1} less to cast for each enchantment you control.",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -109317,7 +109594,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Exile target creature. Its controller reveals cards from the top of their library until they reveal a creature card, puts that card onto the battlefield, then shuffles. If it's your turn, end the turn.\nFlashback {4}{R}{R}",
+     "text": "Exile target creature. It controller reveals cards from the top of their library until they reveal a creature card. They put that card onto the battlefield. It loses all abilities until end of turn. Then they shuffle.\nFlashback {4}{R}{R}",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -109962,9 +110239,9 @@
      "number": "7",
      "pageData": {
       "name": "Path of Stillness",
-      "manaCost": "{X}{W}{W}",
+      "manaCost": "{2}{W}{W}",
       "type": "Sorcery — Adventure",
-      "text": "Exile all nonland permanents with mana value X or less. *(Then exile this card. You may cast the creature later from exile.)*"
+      "text": "Exile all nonland permanents with mana value 2 or less. *(Then exile this card. You may cast the creature later from exile.)*"
      },
      "power": "10",
      "rarity": "mythic",
@@ -109978,7 +110255,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "Flying\nWhen you cast this spell, your opponents can't cast spells until your next turn.\n-----\nPath of Stillness {X}{W}{W}\nSorcery — Adventure\nExile all nonland permanents with mana value X or less. *(Then exile this card. You may cast the creature later from exile.)*",
+     "text": "Flying\nWhen you cast this spell, your opponents can't cast spells until your next turn.\n-----\nPath of Stillness {2}{W}{W}\nSorcery — Adventure\nExile all nonland permanents with mana value 2 or less. *(Then exile this card. You may cast the creature later from exile.)*",
      "toughness": "10",
      "type": "Legendary Creature — Dragon Spirit",
      "types": [
@@ -111456,10 +111733,10 @@
     },
     {
      "artist": "exellero",
-     "convertedManaCost": 2,
-     "faceConvertedManaCost": 2,
-     "manaValue": 2,
-     "faceManaValue": 2,
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
      "colors": [
       "G",
       "W"
@@ -111482,14 +111759,14 @@
       "eternal-pauper": "Illegal",
       "planechase": "Legal"
      },
-     "manaCost": "{G}{W}",
+     "manaCost": "{1}{G}{W}",
      "identifiers": {
       "scryfallId": 6569,
       "multiverseId": 0
      },
      "name": "Halo Tracer",
      "number": "213",
-     "power": "2",
+     "power": "3",
      "rarity": "uncommon",
      "relatedCards": {
       "spellbook": []
@@ -117888,7 +118165,7 @@
      },
      "name": "Skyray Tender",
      "number": "30",
-     "power": "1",
+     "power": "0",
      "rarity": "uncommon",
      "relatedCards": {
       "spellbook": []
@@ -120081,9 +120358,9 @@
      "number": "242",
      "pageData": {
       "name": "Path of Exoneration",
-      "manaCost": "{R}{W}",
+      "manaCost": "{1}{R}{W}",
       "type": "Instant — Adventure",
-      "text": "Path of Exoneration deals 3 damage to any nonplayer target and you gain 3 life."
+      "text": "Path of Exoneration deals 3 damage to any target and you gain 3 life."
      },
      "power": "7",
      "rarity": "rare",
@@ -120094,7 +120371,7 @@
       "Unicorn",
       "Spirit"
      ],
-     "text": "Whenever Uquus Crusaris is dealt damage, it deals that much damage to any other target and you gain that much life.\n-----\nPath of Exoneration {R}{W}\nInstant — Adventure\nPath of Exoneration deals 3 damage to any nonplayer target and you gain 3 life.",
+     "text": "Whenever Uquus Crusaris is dealt damage, it deals that much damage to any other target and you gain that much life.\n-----\nPath of Exoneration {1}{R}{W}\nInstant — Adventure\nPath of Exoneration deals 3 damage to any target and you gain 3 life.",
      "toughness": "9",
      "type": "Creature — Unicorn Spirit",
      "types": [
@@ -121570,6 +121847,53 @@
      "uuid": "Pact Beyond Death_REV"
     },
     {
+     "artist": "brbarou",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Zangy",
+     "flavor": "",
+     "frameType": "normal-renegade",
+     "frameVersion": "2015",
+     "id": "Path of Scales_REV",
+     "imageName": "path of scales_rev",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal"
+     },
+     "manaCost": "{2}{U}{U}",
+     "identifiers": {
+      "scryfallId": 6819,
+      "multiverseId": 20260201
+     },
+     "name": "Path of Scales_REV",
+     "number": "104",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Operation"
+     ],
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Path of Scales enters, look at the top five cards of your library. Put two of those cards into your hand and the rest on the bottom in a random order.\n3 Defense \nCreatures you don't control get -1/-0.\nDefeated \nWhenever you cast a noncreature, nonbattle spell, copy it. You may choose new targets for the copy.",
+     "type": "Battle — Operation",
+     "types": [
+      "Battle"
+     ],
+     "uuid": "Path of Scales_REV"
+    },
+    {
      "artist": "Shane-D-Solomon",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -122250,7 +122574,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 6323,
-      "multiverseId": 0
+      "multiverseId": 20260201
      },
      "name": "Smiling Sludge_REV",
      "number": "99",
@@ -122262,8 +122586,8 @@
      "subtypes": [
       "Ooze"
      ],
-     "text": "When Smiling Sludge enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)\nWhenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.",
-     "toughness": "3",
+     "text": "When Smiling Sludge enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nWhenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.",
+     "toughness": "2",
      "type": "Creature — Ooze",
      "types": [
       "Creature"
@@ -122648,8 +122972,8 @@
      "uuid": "Windbeaten Stones_REV"
     }
    ],
-   "baseSetSize": 35,
-   "totalSetSize": 35,
+   "baseSetSize": 36,
+   "totalSetSize": 36,
    "cardsphereSetId": 0,
    "isFoilOnly": false,
    "isOnlineOnly": false,

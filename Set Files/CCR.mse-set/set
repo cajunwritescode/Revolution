@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Chikyu: Chaos Rains
 	description:
@@ -273,6 +273,7 @@ card:
 		Lotad
 		CG01 !surface / !berry
 		!tokens Berry1>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-01-13 02:50:59
 	time_modified: 2024-06-30 07:45:38
 	name: Padpole
@@ -284,7 +285,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Plant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Frog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Padpole</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Padpole</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		<kw-A><nospellcheck><key>Surface <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -856,8 +857,9 @@ card:
 		https://www.pixiv.net/en/artworks/85501717
 		Breloom !tokens Berry2>;
 		!hasshiny
+		 buffed: Berries give +2/+2 now. Only makes one Berry.
 	time_created: 2021-05-06 21:10:35
-	time_modified: 2025-01-30 20:54:04
+	time_modified: 2026-02-28 17:23:00
 	name: Bloom Brute
 	casting_cost: 1G
 	image: image52
@@ -873,7 +875,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Bloom Brute</nospellcheck></atom-cardname> deals combat damage to a player, create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever <atom-cardname><nospellcheck>Bloom Brute</nospellcheck></atom-cardname> deals combat damage to a player, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -954,7 +956,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !reslot Nonbasic
 	time_created: 2020-08-28 22:21:05
@@ -982,7 +984,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !reslot Nonbasic
 	time_created: 2020-08-28 22:21:06
@@ -1010,7 +1012,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !reslot Nonbasic
 	time_created: 2020-08-28 22:21:06
@@ -1039,7 +1041,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !reslot Nonbasic
 	time_created: 2020-08-28 22:21:07
@@ -1067,7 +1069,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !reslot Nonbasic
 	time_created: 2020-08-28 22:21:08
@@ -1095,7 +1097,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1304,6 +1306,7 @@ card:
 	notes:
 		Tropius !berry
 		!tokens Berry2>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-05-06 23:52:57
 	time_modified: 2024-06-14 22:58:04
 	name: Blooming Sauropod
@@ -1317,7 +1320,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Blooming Sauropod</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>, then sacrifice any number of Berries. For each Berry sacrificed this way, put a +1/+1 counter on another creature you control.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Blooming Sauropod</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>, then sacrifice any number of Berries. For each Berry sacrificed this way, put a +1/+1 counter on another creature you control.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -1647,7 +1650,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Ludicolo
 	time_created: 2021-01-12 01:00:47
@@ -2047,6 +2050,7 @@ card:
 	notes:
 		https://twitter.com/017_75/status/1733493966644064618
 		!tokens Berry1>;Berry2>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-19 03:14:05
 	time_modified: 2024-12-19 10:50:26
 	name: Berry Harvester
@@ -2059,7 +2063,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Berry Harvester</nospellcheck></atom-cardname> enters or attacks, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>Berry Harvester</nospellcheck></atom-cardname> enters or attacks, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		The first time you would create one or more <kw-0><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck></kw-0> each turn, create an additional <kw-0><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -2089,6 +2093,7 @@ card:
 		Linoone
 		!tokens Berry1>;
 		!change now optional attach
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-19 03:18:35
 	time_modified: 2024-12-19 21:10:06
 	name: Rooting Raccoon
@@ -2102,7 +2107,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to <atom-cardname><nospellcheck>Rooting Raccoon</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to <atom-cardname><nospellcheck>Rooting Raccoon</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -2298,6 +2303,7 @@ card:
 	notes:
 		!art
 		!tokens Plant1>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-19 03:41:52
 	time_modified: 2024-07-05 05:33:31
 	name: Generous Farmer
@@ -2310,7 +2316,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Generous Farmer</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Generous Farmer</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		Whenever you sacrifice a Berry, create a 1/1 green Plant creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -2356,8 +2362,9 @@ card:
 		!berry
 		Shiftry
 		!tokens Berry2>;
+		 buffed: Berries give +2/+2 now. Creates one Berry.
 	time_created: 2021-07-19 03:48:50
-	time_modified: 2024-06-15 18:58:50
+	time_modified: 2026-02-28 17:23:47
 	name: Canopy Creeper
 	casting_cost: 3G
 	image: image246
@@ -2368,7 +2375,7 @@ card:
 	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Canopy Creeper</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Canopy Creeper</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
@@ -2411,14 +2418,23 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: ,5
+		chop_bottom: 
+		frames: 
+		custom_symbol: 
+		remove_from_autocount: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes:
 		Roselia
 		!tokens Berry1>;
 		!hasshiny
-		!change now optional attach
+		 adjusted: Berries give +2/+2, no longer auto-attaches.
 	time_created: 2021-07-19 03:50:47
-	time_modified: 2024-12-19 21:09:52
+	time_modified: 2026-02-28 17:05:56
 	name: Aroma Spinner
 	casting_cost: 2G
 	image: image268
@@ -2430,7 +2446,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to <atom-cardname><nospellcheck>Aroma Spinner</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -2512,6 +2528,7 @@ card:
 		Nuzleaf
 		!tokens Berry1>;
 		!changed Rename Bulk Up
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-19 03:57:30
 	time_modified: 2024-12-19 08:42:16
 	name: Stockpile
@@ -2522,7 +2539,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>, then sacrifice any number of <kw-0><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck></kw-0>. Target creature you control gets +1/+1 until end of turn for each Berry sacrificed this way. Then it fights target creature you don’t control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>, then sacrifice any number of <kw-0><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck></kw-0>. Target creature you control gets +1/+1 until end of turn for each Berry sacrificed this way. Then it fights target creature you don’t control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: pokeno255
 	custom_card_number: 
@@ -2637,6 +2654,7 @@ card:
 	notes:
 		Roselia
 		!tokens Berry2>;Plant2>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-19 04:09:03
 	time_modified: 2024-10-03 16:14:27
 	name: Magical Leaves
@@ -2650,7 +2668,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Choose two —
-		<li><bullet>• </bullet>Create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		<li><bullet>• </bullet>Create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		</li><li><bullet>• </bullet>Create two 1/1 green Plant creature tokens.
 		</li><li><bullet>• </bullet>You gain 1 life for each token you control.</li>
 	flavor_text: <i-flavor></i-flavor>
@@ -2827,8 +2845,9 @@ card:
 		!berry
 		Tailow
 		!tokens Berry1>;
+		 adjusted: Was 1/2. Berries now give +2/+2.
 	time_created: 2021-07-21 17:42:58
-	time_modified: 2024-06-30 07:37:05
+	time_modified: 2026-02-28 17:25:25
 	name: Hungry Songbird
 	casting_cost: 1W
 	image: image135
@@ -2839,10 +2858,10 @@ card:
 	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Hungry Songbird</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Hungry Songbird</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>Some of the birds have learned people will bribe them with food, and all they have to do in return is be cuter than all the others.</i-flavor>
 	power: 1
-	toughness: 2
+	toughness: 1
 	illustrator: uairt
 	custom_card_number: 
 	card_code_text: 
@@ -2889,6 +2908,7 @@ card:
 	notes:
 		Swellow
 		!tokens Berry1>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2024-06-15 15:17:33
 	name: Swooping Hunter
@@ -2902,7 +2922,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Swooping Hunter</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>, then you may return another creature you control to its owner’s hand.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Swooping Hunter</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>, then you may return another creature you control to its owner’s hand.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -2922,6 +2942,7 @@ card:
 		
 		Vigoroth
 		!tokens Berry1>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2024-07-07 08:07:35
 	name: Restless Sloth
@@ -2934,7 +2955,7 @@ card:
 	sub_type: <word-list-race-en>Sloth</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<sym-auto>2W</sym-auto>: Create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck> and attach it to <atom-cardname><nospellcheck>Restless Sloth</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>2W</sym-auto>: Create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck> and attach it to <atom-cardname><nospellcheck>Restless Sloth</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“It spends most of its life lying around and eating. The rest is spent fighting anything that gets too close.”<soft-line>
 		—Trainee Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
@@ -3013,6 +3034,7 @@ card:
 		Breloom!tokens Berry1>;
 		!change now banishing light
 		!hasshiny
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2024-12-19 21:10:26
 	name: Gone Pickin’
@@ -3023,7 +3045,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: When <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> enters, exile up to one target nonland permanent an opponent controls until <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> leaves the battlefield. Then create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to a creature you control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> enters, exile up to one target nonland permanent an opponent controls until <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> leaves the battlefield. Then create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to a creature you control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: かもなべ
 	custom_card_number: 
@@ -3067,6 +3089,7 @@ card:
 		
 		Zigzagoon
 		!tokens Berry2>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2024-06-13 02:14:21
 	name: Pick Up
@@ -3080,7 +3103,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Return up to one target artifact, enchantment, or land card from your graveyard to your hand.
-		Create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		Create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Riley Kitty
 	custom_card_number: 
@@ -3134,8 +3157,9 @@ card:
 	notes:
 		Silcoon
 		!tokens Berry1>;
+		 adjusted: Was 0/3. Berries give +2/+2 now.
 	time_created: 2021-07-21 17:49:34
-	time_modified: 2024-06-30 07:46:23
+	time_modified: 2026-02-28 17:25:51
 	name: Pathetic Cocoon
 	casting_cost: B
 	image: image199
@@ -3144,10 +3168,10 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Pathetic Cocoon</nospellcheck></atom-cardname> enters or dies, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Pathetic Cocoon</nospellcheck></atom-cardname> enters or dies, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>It doesn’t do much of anything, and nothing will deter it from that task.</i-flavor>
 	power: 0
-	toughness: 3
+	toughness: 2
 	illustrator: high-tsuba
 	custom_card_number: 
 	card_code_text: 
@@ -3162,6 +3186,7 @@ card:
 	notes:
 		!berry
 		Slakoth !tokens Berry1>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-21 17:49:34
 	time_modified: 2024-11-26 07:44:08
 	name: Feasting Sloth
@@ -3175,7 +3200,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Feasting Sloth</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Feasting Sloth</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		<atom-cardname><nospellcheck>Feasting Sloth</nospellcheck></atom-cardname> can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> if it’s enchanted, equipped, or has a counter on it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -3977,6 +4002,7 @@ card:
 		!berry
 		Wurmple
 		!tokens Berry1>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-21 18:52:01
 	time_modified: 2024-06-30 07:45:41
 	name: Foraging Grub
@@ -3989,7 +4015,7 @@ card:
 	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>2B</sym-auto>, Sacrifice a Berry: Put a +1/+1 counter on <atom-cardname><nospellcheck>Foraging Grub</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -4175,10 +4201,9 @@ card:
 	notes:
 		Seviper!tokens Berry1>;
 		!hasshiny
-		!changed limited the trigger and AA
-		Sacrifice a Berry: Target creature gets -1/-0 until end of turn and blocks each combat this turn if able. You can’t activate this ability during combat.
+		 reworked: No longer has deathtouch. Last ability was "Whenever ~ attacks, you may sacrifice a Berry. If you do, target creature gets -1/-1 until end of turn and blocks this combat if able."
 	time_created: 2021-07-21 19:24:04
-	time_modified: 2024-12-22 12:58:13
+	time_modified: 2026-02-28 17:36:07
 	name: Feasting Predator
 	casting_cost: WBG
 	image: image40
@@ -4189,9 +4214,8 @@ card:
 	sub_type: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever one or more creatures die, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-cardname><nospellcheck>Feasting Predator</nospellcheck></atom-cardname> attacks, you may sacrifice a Berry. If you do, up to one target creature gets -1/-1 until end of turn and blocks this combat if able.
+		Whenever one or more creatures die, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		Sacrifice a Berry: <atom-cardname><nospellcheck>Feasting Predator</nospellcheck></atom-cardname> gets +1/+1 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Up to one target creature blocks each combat this turn if able.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -4252,8 +4276,9 @@ card:
 	notes:
 		!tokens Berry1>;
 		!hasshiny
+		 adjusted: Berries give +2/+2 now. Used to have an AA that sacrificed a Berry attached to it to gain indes.
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2024-11-26 07:28:39
+	time_modified: 2026-02-28 17:27:24
 	name: Practicing Guru
 	casting_cost: 1W
 	card_symbol: none
@@ -4265,9 +4290,8 @@ card:
 	sub_type: <word-list-race-en>Ape</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		<atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> gets +1/+1 as long as you’ve sacrificed a Berry that was attached to it this turn.
-		Sacrifice a Berry attached to <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname>: It gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		<atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> gets +1/+1 and had <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -4447,8 +4471,9 @@ card:
 		!tokens Berry1>;
 		!hasshiny
 		!rev
+		 adjusted: Was 1/3. Berries give +2/+2 now.
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2025-12-01 15:37:59
+	time_modified: 2026-02-28 17:28:16
 	name: Smiling Sludge
 	casting_cost: 1B
 	image: image194
@@ -4459,11 +4484,11 @@ card:
 	sub_type: <word-list-race-en>Ooze</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Smiling Sludge</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Smiling Sludge</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		Whenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 3
+	toughness: 2
 	illustrator: Ryota Murayama
 	custom_card_number: 
 	card_code_text: Fleur
@@ -4511,6 +4536,7 @@ card:
 		!art
 		Heracross Pinsir
 		!tokens BerryX>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-21 21:01:09
 	time_modified: 2024-08-01 01:53:55
 	name: Territory Dispute
@@ -4522,7 +4548,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Destroy target non-Human creature. If it has Berries attached to it, gain control of them. Otherwise, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Destroy target non-Human creature. If it has Berries attached to it, gain control of them. Otherwise, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andri Evaris
 	custom_card_number: 
@@ -4535,7 +4561,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -4574,7 +4600,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -5161,7 +5187,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5376,6 +5402,7 @@ card:
 		CB16 !berry
 		Mawile
 		!tokens Berry2>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-19 03:36:48
 	time_modified: 2024-06-11 18:54:18
 	name: Crunch
@@ -5386,7 +5413,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Destroy target creature. Create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Destroy target creature. Create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text:
 		<i-flavor>“Hey, Smiley, I found something for you to eat.”<soft-line>
 		—Jack, Monster Mentor</soft-line></i-flavor>
@@ -5800,9 +5827,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !tokens Berry1>;Treasure1>;
+	notes:
+		!tokens Berry1>;Treasure1>;
+		 buffed: Now gives +3/+3.
 	time_created: 2024-06-12 05:29:14
-	time_modified: 2024-06-30 07:45:14
+	time_modified: 2026-02-28 17:24:57
 	name: Gold Berry
 	casting_cost: 2
 	image: image252
@@ -5812,7 +5841,7 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact>Berry</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rule_text:
-		Before equipped creature would assign, deal, or be dealt damage, sacrifice <atom-cardname><nospellcheck>Gold Berry</nospellcheck></atom-cardname>. If you do, equipped creature gets +2/+2 until end of turn.
+		Before equipped creature would assign, deal, or be dealt damage, sacrifice <atom-cardname><nospellcheck>Gold Berry</nospellcheck></atom-cardname>. If you do, equipped creature gets +3/+3 until end of turn.
 		When you sacrifice <atom-cardname><nospellcheck>Gold Berry</nospellcheck></atom-cardname>, create a <kw-0><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck></kw-0> and a <kw-0><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -6110,7 +6139,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-06-13 22:01:12
-	time_modified: 2024-06-30 07:54:24
+	time_modified: 2026-02-28 17:21:12
 	name: Berry
 	image: image149
 	image_2: 
@@ -6123,7 +6152,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		Before equipped creature would assign, deal, or be dealt damage, sacrifice this. If you do, equipped creature gets +1/+1 until end of turn.
+		Before equipped creature would assign, deal, or be dealt damage, sacrifice this. If you do, equipped creature gets +2/+2 until end of turn.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: zenmai hizu
@@ -6640,7 +6669,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2021-01-12 01:00:47
@@ -6674,7 +6703,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -6716,7 +6745,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: https://safebooru.org/index.php?page=post&s=view&id=4326545
 	time_created: 2021-01-12 01:00:47
@@ -6748,7 +6777,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		https://safebooru.org/index.php?page=post&s=view&id=3458997
@@ -7353,7 +7382,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		Deoxys
@@ -7389,7 +7418,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -7669,7 +7698,7 @@ card:
 		!token Berry1>; 
 		!hasshiny
 		Shuckle
-		 nerfed: Used to give Berries the Treasure and Food abilities themselves.
+		 buffed: Berries give +2/+2 now.
 	time_created: 2024-06-18 03:50:25
 	time_modified: 2025-01-30 20:52:27
 	name: Berry Fermenter
@@ -7682,7 +7711,7 @@ card:
 	sub_type: <word-list-race-en>Turtle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Berry Fermenter</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Berry Fermenter</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>2</sym-auto>, Sacrifice a Berry: You gain 3 life.
 		<sym-auto>T</sym-auto>, Sacrifice a Berry: Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
@@ -7696,7 +7725,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		Mega Kagaskhan
@@ -7730,7 +7759,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -7788,6 +7817,7 @@ card:
 	notes:
 		Sceptile
 		!tokens Berry2>;
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-07-19 04:10:39
 	time_modified: 2024-06-16 21:19:35
 	name: Frenzy Plant
@@ -7799,7 +7829,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Create three <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>, then sacrifice any number of Berries. For each Berry sacrificed this way, creatures you control get +1/+1 until end of turn.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Create three <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>, then sacrifice any number of Berries. For each Berry sacrificed this way, creatures you control get +1/+1 until end of turn.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 雨宮アキラ
 	custom_card_number: 
@@ -7883,7 +7913,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!changed mana cost to 2g
@@ -7929,9 +7959,9 @@ card:
 	notes:
 		https://nami--kawa.lofter.com/post/1d4c86cd_2ba33fe19
 		!token BerryX>;
-		 nerfed: Can only activate as a sorcery.
+		 buffed: AA gives an extra +1/+1. Berries give +2/+2 now.
 	time_created: 2021-07-21 21:54:12
-	time_modified: 2025-01-30 21:06:54
+	time_modified: 2026-02-28 17:29:06
 	name: The Berry Master
 	casting_cost: 1WBG
 	image: image104
@@ -7944,7 +7974,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>The Berry Master</nospellcheck></atom-cardname> enters, create a <kw-0><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.
 		If you would create one or more tokens, also create that many <kw-0><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck></kw-0>.
-		<sym-auto>2</sym-auto>, Sacrifice two Berries: Up to one target creature gets +2/+2 until end of turn. Up to one target creature gets -2/-2 until end of turn. You gain 4 life. Activate only as a sorcery.
+		<sym-auto>2</sym-auto>, Sacrifice two Berries: Up to one target creature gets -2/-2 until end of turn. Up to one target creature gets +3/+3 until end of turn. You gain 4 life. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
@@ -8049,7 +8079,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		 nerfed: Trigger is now once each turn and can’t hit lands
@@ -8538,7 +8568,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -8630,7 +8660,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9076,7 +9106,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		Plusle Minun
@@ -9110,8 +9140,9 @@ card:
 	notes:
 		!token Berry1>;
 		!hasshiny
+		 buffed: Gained deathtouch. Berries give +2/+2 now.
 	time_created: 2021-07-19 03:23:46
-	time_modified: 2024-12-19 10:54:25
+	time_modified: 2026-02-28 17:26:10
 	name: Poisoned Rose
 	casting_cost: 1BG
 	card_symbol: none
@@ -9123,7 +9154,8 @@ card:
 	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Poisoned Rose</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Poisoned Rose</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>B</sym-auto>, Sacrifice a Berry: Target creature gets -1/-1 until end of turn. You can’t activate this ability during combat.
 	rule_text_2: 
 	rule_text_3: 
@@ -9216,7 +9248,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9325,7 +9357,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,6,
@@ -9439,12 +9471,13 @@ card:
 	notes:
 		Deoxys 
 		!hasshiny
+		 buffed: Was 5/3 and triggered whenever an opponent cast a spell during your turn.
 		!change replaced below with punisher
 		Each player can’t cast noncreature spells unless they’ve attacked this turn.
 		The first spell cast each turn costs X less to cast, where X is the amount of damage dealt to players this turn.
 		Whenever an opponent casts a spell during your turn, End of Mutations deals 5 damage to them.
 	time_created: 2021-05-06 22:07:17
-	time_modified: 2024-12-22 20:31:24
+	time_modified: 2026-02-28 17:30:33
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -9460,10 +9493,10 @@ card:
 	rule_text:
 		This spell can’t be countered.
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever an opponent casts a spell during your turn, <atom-cardname><nospellcheck>End of Mutations</nospellcheck></atom-cardname> deals 5 damage to them.
+		Whenever an opponent casts a noncreature spell, if they haven’t attacked this turn, <atom-cardname><nospellcheck>End of Mutations</nospellcheck></atom-cardname> deals 5 damage to them.
 	flavor_text: <i-flavor>Forged of the stars, what of this earth could hope to rival its speed or fury?</i-flavor>
 	power: 5
-	toughness: 3
+	toughness: 5
 	illustrator: Chris Hohl
 	custom_card_number: 
 	card_code_text: 
@@ -9575,7 +9608,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		
@@ -9678,11 +9711,14 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
-	notes: CU01 !weather / !contest !rev
+	notes:
+		CU01 !weather / !contest !rev
+		 adjusted: Last ability changed from "{W}{U}{B}{R}{G}, {T}: Tenki acclimates. This ability costs one mana of any color less to activate for each Weather you control."
+		!append  (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)
 	time_created: 2021-07-19 03:51:42
-	time_modified: 2025-01-04 23:46:16
+	time_modified: 2026-02-28 17:32:31
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -9698,7 +9734,7 @@ card:
 	rule_text:
 		When <atom-legname><nospellcheck>Tenki</nospellcheck></atom-legname> enters, it <kw-1><nospellcheck><key>acclimates</key></nospellcheck>.<atom-reminder-action> <i-auto>(You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on this.)</i-auto></atom-reminder-action></kw-1>
 		You can’t sacrifice Weather enchantments.
-		<sym-auto>WUBRG</sym-auto>, <sym-auto>T</sym-auto>: <atom-legname><nospellcheck>Tenki</nospellcheck></atom-legname> <kw-0><nospellcheck><key>acclimates</key></nospellcheck></kw-0>. This ability costs one mana of any color less to activate for each Weather you control.
+		As long as you’ve spent <sym>WUBRG</sym> this turn, Weather spells you cast gain <kw-0><nospellcheck><key>storm</key></nospellcheck></kw-0> as you cast them.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -9714,7 +9750,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: ,5,
@@ -9756,7 +9792,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !token Human Pirate1>;
 	time_created: 2021-07-21 19:24:04
@@ -9933,7 +9969,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		The clouds are dark and endless like an ocean trench, as their rain drags us into the abyss.
@@ -9967,7 +10003,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10019,6 +10055,7 @@ card:
 		
 		!token BerryX>;
 		 Used to make three Berries.
+		 buffed: Berries give +2/+2 now.
 	time_created: 2021-05-06 21:52:43
 	time_modified: 2025-01-30 20:58:43
 	name: Smart Shopper
@@ -10031,7 +10068,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Once each turn, when <atom-cardname><nospellcheck>Smart Shopper</nospellcheck></atom-cardname> enters or you cast a creature spell, you may create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. If three or more types of mana were spent to cast it, create two of those tokens instead.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Once each turn, when <atom-cardname><nospellcheck>Smart Shopper</nospellcheck></atom-cardname> enters or you cast a creature spell, you may create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. If three or more types of mana were spent to cast it, create two of those tokens instead.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -10046,7 +10083,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		Mega Altaria
@@ -10124,7 +10161,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10202,7 +10239,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		
@@ -10575,7 +10612,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10714,7 +10751,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10727,6 +10764,7 @@ card:
 		Breloom!tokens Berry1>;
 		!design Matt
 		 !hidetag ★
+
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2025-12-01 16:14:38
 	name: Gone Pickin’
@@ -10737,7 +10775,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: When <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> enters, exile up to one target nonland permanent an opponent controls until <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> leaves the battlefield. Then create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to a creature you control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> enters, exile up to one target nonland permanent an opponent controls until <atom-cardname><nospellcheck>Gone Pickin’</nospellcheck></atom-cardname> leaves the battlefield. Then create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to a creature you control.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: かもなべ
 	custom_card_number: 1018
@@ -10750,7 +10788,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10791,7 +10829,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10833,7 +10871,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -10877,7 +10915,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -10921,7 +10959,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11032,7 +11070,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11042,13 +11080,14 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		Grimer  
+		Grimer   
 		!tokens Berry1>;
 		!unlocked
 		!design Fleur
 		 !hidetag ★
+
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2025-12-01 16:17:21
+	time_modified: 2026-03-01 13:33:08
 	name: Smiling Sludge
 	casting_cost: 1B
 	image: image322
@@ -11059,11 +11098,11 @@ card:
 	sub_type: <word-list-race-en>Ooze</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Smiling Sludge</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Smiling Sludge</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		Whenever a nonland permanent you control is put into a graveyard, if it was sacrificed, target opponent loses 1 life and you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 3
+	toughness: 2
 	illustrator: Ryota Murayama
 	custom_card_number: 1107
 	card_code_text: Shiny Hunted by Fran6
@@ -11075,7 +11114,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -11118,7 +11157,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11161,7 +11200,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11171,11 +11210,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		Deoxys
+		Deoxys 
 		!design Cajun
 		 !hidetag ★
 	time_created: 2021-05-06 22:07:17
-	time_modified: 2025-12-01 16:18:09
+	time_modified: 2026-03-01 13:32:59
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -11191,10 +11230,10 @@ card:
 	rule_text:
 		This spell can’t be countered.
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever an opponent casts a spell during your turn, <atom-cardname><nospellcheck>End of Mutations</nospellcheck></atom-cardname> deals 5 damage to them.
+		Whenever an opponent casts a noncreature spell, if they haven’t attacked this turn, End of Mutations deals 5 damage to them.
 	flavor_text: <i-flavor>Forged of the stars, what of this earth could hope to rival its speed or fury?</i-flavor>
 	power: 5
-	toughness: 3
+	toughness: 5
 	illustrator: Chris Hohl
 	custom_card_number: 1129
 	card_code_text: Shiny Hunted by Voltswitch
@@ -11349,7 +11388,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11363,6 +11402,7 @@ card:
 		!unlocked
 		!design Cajun
 		 !hidetag ★
+
 	time_created: 2024-06-18 03:50:25
 	time_modified: 2025-12-01 16:19:41
 	name: Berry Fermenter
@@ -11375,7 +11415,7 @@ card:
 	sub_type: <word-list-race-en>Turtle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Berry Fermenter</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Berry Fermenter</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>2</sym-auto>, Sacrifice a Berry: You gain 3 life.
 		<sym-auto>T</sym-auto>, Sacrifice a Berry: Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
@@ -11389,7 +11429,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -11431,7 +11471,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11473,7 +11513,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -11518,7 +11558,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11692,7 +11732,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11734,7 +11774,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11777,7 +11817,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -11821,7 +11861,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11868,7 +11908,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -11917,7 +11957,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8,8,
@@ -12010,7 +12050,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: rework: Replaced Snoring Stone.
 	time_created: 2025-02-12 17:19:32
@@ -12040,7 +12080,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12267,8 +12307,8 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 5
-		chop_bottom: 
+		chop_top: 
+		chop_bottom: 5
 		frames: 
 		custom_symbol: 
 		remove_from_autocount: yes
@@ -12278,8 +12318,9 @@ card:
 	notes:
 		!design Timespiraled
 		 !hidetag ★
+
 	time_created: 2021-07-19 03:50:47
-	time_modified: 2025-12-01 16:19:15
+	time_modified: 2026-02-28 17:06:02
 	name: Aroma Spinner
 	casting_cost: 2G
 	image: image342
@@ -12291,7 +12332,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>. You may attach it to <atom-cardname><nospellcheck>Aroma Spinner</nospellcheck></atom-cardname>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -12315,9 +12356,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag ★
+	notes:
+		!hidetag ★
+
 	time_created: 2021-05-06 21:10:35
-	time_modified: 2025-12-01 16:19:50
+	time_modified: 2026-02-28 17:23:10
 	name: Bloom Brute
 	casting_cost: 1G
 	image: image343
@@ -12333,7 +12376,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Bloom Brute</nospellcheck></atom-cardname> deals combat damage to a player, create two <kw-A><nospellcheck><key>Berry toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+	rule_text: Whenever <atom-cardname><nospellcheck>Bloom Brute</nospellcheck></atom-cardname> deals combat damage to a player, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -12348,7 +12391,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12390,7 +12433,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12543,7 +12586,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12586,7 +12629,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12627,7 +12670,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12819,7 +12862,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12830,9 +12873,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag ★
+	notes:
+		!hidetag ★
+
 	time_created: 2021-07-21 19:24:04
-	time_modified: 2025-12-01 16:22:00
+	time_modified: 2026-02-28 17:36:24
 	name: Feasting Predator
 	casting_cost: WBG
 	image: image358
@@ -12843,9 +12888,8 @@ card:
 	sub_type: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever one or more creatures die, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-cardname><nospellcheck>Feasting Predator</nospellcheck></atom-cardname> attacks, you may sacrifice a Berry. If you do, up to one target creature gets -1/-1 until end of turn and blocks this combat if able.
+		Whenever one or more creatures die, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		Sacrifice a Berry: Feasting Predator gets +1/+1 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Up to one target creature blocks each combat this turn if able.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -12935,7 +12979,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13053,7 +13097,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13093,7 +13137,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9,9,
@@ -13136,7 +13180,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13308,8 +13352,9 @@ card:
 		!token Berry1>;
 		 !hidetag ★
 		!design Splashcat
+
 	time_created: 2021-07-19 03:23:46
-	time_modified: 2025-12-01 16:22:59
+	time_modified: 2026-02-28 17:26:23
 	name: Poisoned Rose
 	casting_cost: 1BG
 	card_symbol: none
@@ -13321,7 +13366,8 @@ card:
 	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Poisoned Rose</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Poisoned Rose</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>B</sym-auto>, Sacrifice a Berry: Target creature gets -1/-1 until end of turn. You can’t activate this ability during combat.
 	rule_text_2: 
 	rule_text_3: 
@@ -13343,7 +13389,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13354,9 +13400,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag ★
+	notes:
+		!hidetag ★
+
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2025-12-01 16:15:02
+	time_modified: 2026-02-28 17:27:40
 	name: Practicing Guru
 	casting_cost: 1W
 	card_symbol: none
@@ -13368,9 +13416,8 @@ card:
 	sub_type: <word-list-race-en>Ape</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		<atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> gets +1/+1 as long as you’ve sacrificed a Berry that was attached to it this turn.
-		Sacrifice a Berry attached to <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname>: It gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
+		Practicing Guru gets +1/+1 and had <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -13429,7 +13476,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13471,7 +13518,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13588,7 +13635,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13750,7 +13797,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13791,7 +13838,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13836,7 +13883,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -13885,7 +13932,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -14124,7 +14171,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -14201,7 +14248,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -14333,7 +14380,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -14374,7 +14421,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -14427,7 +14474,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,12,
@@ -14438,11 +14485,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:25:47
+	time_modified: 2026-02-28 18:09:51
 	name: Weather Elemental
 	casting_cost: 4
 	image: image397
@@ -14467,13 +14514,13 @@ card:
 	toughness: 2
 	illustrator: Thomas Bourdon
 	partition_select: after normal, main set E
-	card_code_text: 
+	card_code_text: Calamity Unleashed by magmadragon3
 	card_code_text_2: 
 	card_code_text_3: 
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -14515,7 +14562,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -14557,7 +14604,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -14599,7 +14646,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -14641,7 +14688,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -14687,7 +14734,7 @@ card:
 keyword:
 	keyword: 
 	match: Berry toke<atom-param>*s</atom-param>
-	reminder: {if param1.value == "ns" then "They’re" else "It’s an"} Equipment with equip <sym>1</sym> and "Before damage, sacrifice this to give equipped creature +1/+1 until end of turn."
+	reminder: {if param1.value == "ns" then "They’re" else "It’s an"} Equipment with equip <sym>1</sym> and "Before damage, sacrifice this to give equipped creature +2/+2 until end of turn."
 	rules:
 		Before damage, sacrifice this to give equipped creature +1/+1 until end of turn.
 		If equipped creature would deal or be dealt damage, sacrifice this to give it +1/+1 until end of turn.

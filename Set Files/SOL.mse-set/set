@@ -772,9 +772,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: 
+	notes:  nerfed: Was 1/1.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-07-13 13:41:08
+	time_modified: 2026-02-28 17:45:53
 	card_color: white
 	name: Skyray Tender
 	casting_cost: WW
@@ -793,7 +793,7 @@ card:
 	rarity: uncommon
 	rule_text: When <atom-cardname><nospellcheck>Skyray Tender</nospellcheck></atom-cardname> enters, create a 2/1 blue Fish creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>The union of sun and moon was long ago sundered by the stars, staking out their claim to the sky. This sent a message for those below to set their sights on worlds above.</i-flavor>
-	power: 1
+	power: 0
 	toughness: 1
 	illustrator: Evi-gilatio
 	card_code_text: 
@@ -1012,9 +1012,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: 
+	notes:  nerfed: Can no longer search graveyards. Discount now applies to enchantments too.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-06-23 15:50:03
+	time_modified: 2026-02-28 17:51:54
 	card_color: white
 	name: Creation Mythos
 	casting_cost: 2WW
@@ -1032,8 +1032,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Creation Mythos</nospellcheck></atom-cardname> enters, search your graveyard and/or library for an artifact card, reveal it, and put it into your hand. If you search your library this way, shuffle it.
-		The first artifact spell you cast during each of your turns costs <sym-auto>1</sym-auto> less to cast for each enchantment you control.
+		When <atom-cardname><nospellcheck>Creation Mythos</nospellcheck></atom-cardname> enters, search your library for an artifact card, reveal it, and put it into your hand. If you search your library this way, shuffle it.
+		The first artifact or enchantment spell you cast during each of your turns costs <sym-auto>1</sym-auto> less to cast for each enchantment you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
@@ -7044,11 +7044,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  adjusted: Was 2/2 for {G}{W}.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-03-31 14:39:50
+	time_modified: 2026-02-28 17:52:58
 	name: Halo Tracer
-	casting_cost: GW
+	casting_cost: 1GW
 	image: image400
 	image_2: 
 	mainframe_image: 
@@ -7067,7 +7067,7 @@ card:
 		<li><bullet>• </bullet>Draw a card if you have more life than an opponent. 
 		</li><li><bullet>• </bullet>You gain 2 life.</li>
 	flavor_text: <i-flavor>“The world is never finished healing.”</i-flavor>
-	power: 2
+	power: 3
 	toughness: 2
 	illustrator: Exellero
 	card_code_text: 
@@ -9267,9 +9267,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Blinded Herald;Light-Pierced Envoy
-
+	notes: !related Blinded Herald;Light-Pierced Envoy
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-12-31 01:26:50
 	name: Weapon
@@ -9359,9 +9357,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!related Scintillation Scion;Cosmic Bounty;Comet Conduit;Rex Cerveste;Heaven’s Reach
-
+	notes: !related Scintillation Scion;Cosmic Bounty;Comet Conduit;Rex Cerveste;Heaven’s Reach
 	time_created: 2024-10-22 14:48:51
 	time_modified: 2025-06-27 16:15:43
 	name: Treasure
@@ -10274,14 +10270,16 @@ card:
 		shrink_typeline_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: Mechanical change
+	notes:
+		Mechanical change
+		 nerfed: Path of Stillness is no longer an X spell.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-12-16 21:48:11
+	time_modified: 2026-02-28 17:43:51
 	card_color: white
 	name: Eltanaan, the Silent Star
 	name_2: Path of Stillness
 	casting_cost: 7WWW
-	casting_cost_2: XWW
+	casting_cost_2: 2WW
 	image: image18
 	image_2: 
 	mainframe_image: 
@@ -10298,7 +10296,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		When you cast this spell, your opponents can’t cast spells until your next turn.
-	rule_text_2: Exile all nonland permanents with mana value X or less. <i-auto>(Then exile this card. You may cast the creature later from exile.)</i-auto>
+	rule_text_2: Exile all nonland permanents with mana value 2 or less. <i-auto>(Then exile this card. You may cast the creature later from exile.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 10
@@ -11227,9 +11225,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Mechanical change
+	notes:
+		Mechanical change
+		 adjusted: The creature now enters with no abilities rather than ending your turn.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-12-18 17:16:50
+	time_modified: 2026-02-28 17:41:43
 	card_color: red
 	name: Divine Repurposing
 	casting_cost: 3R
@@ -11247,7 +11247,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Exile target creature. Its controller reveals cards from the top of their library until they reveal a creature card, puts that card onto the battlefield, then shuffles. If it’s your turn, end the turn.
+		Exile target creature. It controller reveals cards from the top of their library until they reveal a creature card. They put that card onto the battlefield. It loses all abilities until end of turn. Then they shuffle.
 		<kw-0><nospellcheck><key>Flashback <param-cost><sym-auto>4RR</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ayrton leux
@@ -11931,11 +11931,13 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: Mechanical change
+	notes:
+		Mechanical change
+		 nerfed: Was {1}{R}{W} and dealt 3 damage.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-12-16 16:12:35
+	time_modified: 2026-02-28 17:38:55
 	name: Cleansing Starfire
-	casting_cost: 1RW
+	casting_cost: 2RW
 	image: image161
 	image_2: 
 	mainframe_image: 
@@ -11951,7 +11953,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck><key>Wither</key></nospellcheck><atom-reminder-expert> <i-auto>(This deals damage to creatures in the form of -1/-1 counters.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Cleansing Starfire</nospellcheck></atom-cardname> enters, if you cast it, it deals 3 damage to any target.
+		When <atom-cardname><nospellcheck>Cleansing Starfire</nospellcheck></atom-cardname> enters, if you cast it, it deals 4 damage to any target.
 		Once each turn, when you put one or more counters on a permanent, you may gain that much life.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andrew Silver & Kat Chan
@@ -12192,9 +12194,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		Re-art
-
+	notes: Re-art
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2026-01-31 23:20:46
 	name: Star-Touched Host
@@ -12234,13 +12234,15 @@ card:
 		shrink_name_text: 0,2,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: Mechanical change
+	notes:
+		Mechanical change
+		 nerfed: Path of Exoneration now costs {1} more and can target players.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-12-16 22:10:08
+	time_modified: 2026-02-28 17:46:41
 	name: Uquus Crusaris
 	name_2: Path of Exoneration
 	casting_cost: 6RW
-	casting_cost_2: RW
+	casting_cost_2: 1RW
 	image: image170
 	image_2: 
 	mainframe_image: 
@@ -12255,7 +12257,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text: Whenever <atom-cardname><nospellcheck>Uquus Crusaris</nospellcheck></atom-cardname> is dealt damage, it deals that much damage to any other target and you gain that much life.
-	rule_text_2: <atom-cardname><nospellcheck>Path of Exoneration</nospellcheck></atom-cardname> deals 3 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target and you gain 3 life.
+	rule_text_2: <atom-cardname><nospellcheck>Path of Exoneration</nospellcheck></atom-cardname> deals 3 damage to any target and you gain 3 life.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 7

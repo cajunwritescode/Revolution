@@ -8253,16 +8253,7 @@ card:
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
-	has_styling: true
-	styling_data:
-		chop_top: 9
-		chop_bottom: 9
-		shrink_name_text: 
-		frames: 
-		other_options: 
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes: !canoncard Bellows Lizard
 	time_created: 2021-08-28 11:08:53
 	time_modified: 2025-06-29 22:52:50
@@ -8840,7 +8831,7 @@ card:
 		overlay: 
 	notes:
 		!canoncard Aether Snap
-		
+
 	time_created: 2021-08-21 12:04:14
 	time_modified: 2026-01-31 23:31:06
 	name: Looming Cyhawk
@@ -13522,6 +13513,7 @@ card:
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
+		chop_top: 5,5,
 		frames: borderless art
 		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
 		remove_from_autocount: yes
@@ -13530,11 +13522,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Splitmoon
 		CYB
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:32:29
+	time_modified: 2026-02-28 18:07:43
 	name: Ragecloak Shifter
 	casting_cost: R
 	image: image345
@@ -13551,14 +13543,14 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		<kw-A><nospellcheck><key>Solidarity</key></nospellcheck> <i-auto>(Whenever you attack with six or more different creature types, create a <kw-A><nospellcheck><key>Solidarity</key></nospellcheck> enchantment with “Attacking creatures you control get +1/+0” if you haven’t this turn.)</i-auto><blob></kw-A><moved><atom-reminder-custom> <i-auto>(Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven’t this turn.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Solidarity</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven’t this turn.)</i-auto></atom-reminder-custom></kw-A>
 		<sym-auto>R</sym-auto>: Choose a creature type. <atom-cardname><nospellcheck>Ragecloak Shifter</nospellcheck></atom-cardname> gets +1/+0 and becomes that type in addition to its other types until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Riccardo Gualdi
 	custom_card_number: 328
-	card_code_text: 
+	card_code_text: Calamity Unleashed by Matt
 	card_code_text_2: 
 	card_code_text_3: 
 

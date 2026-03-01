@@ -490,6 +490,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Exotic Transformer</reverse-related>
  <reverse-related>Harbor Mail</reverse-related>
  <reverse-related>Streaking Sunrise</reverse-related>
+ <reverse-related>Tenki, Storm Chaser</reverse-related>
  <reverse-related>Warden of Tremors</reverse-related>
  <reverse-related>Warden of Tremors ★</reverse-related>
  <reverse-related>Weaver of Fates</reverse-related>
@@ -3556,7 +3557,7 @@ Equip {2}</text>
 </card>
 <card>
  <name>Berry</name>
- <text>Before equipped creature would assign, deal, or be dealt damage, sacrifice this. If you do, equipped creature gets +1/+1 until end of turn.
+ <text>Before equipped creature would assign, deal, or be dealt damage, sacrifice this. If you do, equipped creature gets +2/+2 until end of turn.
 Equip {1}</text>
  <colors></colors>
  <type>Token Artifact — Berry Equipment</type>
@@ -3567,10 +3568,10 @@ Equip {1}</text>
  <reverse-related>Berry Fermenter</reverse-related>
  <reverse-related>Berry Fermenter ★</reverse-related>
  <reverse-related>Berry Harvester</reverse-related>
- <reverse-related count="2">Bloom Brute</reverse-related>
- <reverse-related count="2">Bloom Brute ★</reverse-related>
+ <reverse-related>Bloom Brute</reverse-related>
+ <reverse-related>Bloom Brute ★</reverse-related>
  <reverse-related count="2">Blooming Sauropod</reverse-related>
- <reverse-related count="2">Canopy Creeper</reverse-related>
+ <reverse-related>Canopy Creeper</reverse-related>
  <reverse-related count="2">Crunch</reverse-related>
  <reverse-related>Feasting Predator</reverse-related>
  <reverse-related>Feasting Predator ★</reverse-related>
@@ -3601,8 +3602,7 @@ Equip {1}</text>
  <reverse-related>Territory Dispute</reverse-related>
  <reverse-related>The Berry Master</reverse-related>
  <reverse-related count="x">The Berry Master</reverse-related>
- <reverse-related>Smiling Sludge_REV</reverse-related>
- <set num="CCR17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/CCR17.jpg?v=0" rarity="token">tokens</set>
+ <set num="CCR17" muid="20260201" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/CCR17.jpg?v=20260201" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Plant 11CCR</name>
@@ -4545,7 +4545,6 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Advance of the Quiet Moon</reverse-related>
  <reverse-related count="2">Architect of Resolve</reverse-related>
  <reverse-related>Bastion of Aureth</reverse-related>
- <reverse-related>Clash at Aureth Cross</reverse-related>
  <reverse-related>Clash at Mistwrit Vale</reverse-related>
  <reverse-related count="2">Commander of the Vow</reverse-related>
  <reverse-related count="2">Dawnhymn Herald</reverse-related>
@@ -4639,6 +4638,21 @@ If you control a Subroutine, move to your next program as your first main phase 
  <set num="TWI4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI4.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>white Knight 22TWI</name>
+ <text>Vigilance</text>
+ <colors>W</colors>
+ <type>Token Creature — Knight</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Clash at Aureth Cross</reverse-related>
+ <reverse-related>Diviner of the Sun</reverse-related>
+ <reverse-related count="2">Sentinel of Dawnbloom Grove</reverse-related>
+ <reverse-related>Sentinel of Dawnbloom Grove</reverse-related>
+ <reverse-related>Shaper of Luminous Will</reverse-related>
+ <set num="TWI2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI2.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>red Faerie 11TWI</name>
  <text></text>
  <colors>R</colors>
@@ -4662,20 +4676,6 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Blightseer</reverse-related>
  <reverse-related>Cruxborn Tyrant_PRO_TWI</reverse-related>
  <set num="TWI6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI6.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>white Knight 22TWI</name>
- <text>Vigilance</text>
- <colors>W</colors>
- <type>Token Creature — Knight</type>
- <pt>2/2</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <reverse-related>Diviner of the Sun</reverse-related>
- <reverse-related count="2">Sentinel of Dawnbloom Grove</reverse-related>
- <reverse-related>Sentinel of Dawnbloom Grove</reverse-related>
- <reverse-related>Shaper of Luminous Will</reverse-related>
- <set num="TWI2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI2.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Everywhere</name>
@@ -5238,6 +5238,17 @@ Equip {2}</text>
  <tablerow>1</tablerow>
  <reverse-related>Fabricated Anomaly_REV</reverse-related>
  <set num="REV12" muid="20251101" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/REV12.jpg?v=20251101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Berry REV</name>
+ <text>Before equipped creature would assign, deal, or be dealt damage, sacrifice this. If you do, equipped creature gets +2/+2 until end of turn.
+Equip {1}</text>
+ <colors></colors>
+ <type>Token Artifact — Berry Equipment</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Smiling Sludge_REV</reverse-related>
+ <set num="REV14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/REV14.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>white Warrior 11REV</name>
@@ -6081,24 +6092,6 @@ As long as there are six or more instant and/or sorcery cards in your graveyard,
 			<set num="329" muid="0" picURL="https://lackeybot.com/revolution/front/329/CYB" rarity="special">CYB</set>
 		</card>
 		<card>
-			<name>Ragecloak Shifter_PRO_CYB</name>
-			<text>Solidarity (Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven't this turn.) (Whenever you attack with six or more different creature types, create a Solidarity enchantment with “Attacking creatures you control get +1/+0” if you haven't this turn.)
-{R}: Choose a creature type. Ragecloak Shifter gets +1/+0 and becomes that type in addition to its other types until end of turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Shapeshifter Shaman</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="328" muid="0" picURL="https://lackeybot.com/revolution/front/328/CYB" rarity="special">CYB</set>
-		</card>
-		<card>
 			<name>Axiomatic Shift_PRO_CNY</name>
 			<text>As an additional cost to cast this spell, remove any number of counters from among creatures you control. This spell costs {1} less to cast for each counter removed this way.
 Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.</text>
@@ -6236,25 +6229,6 @@ Whenever you lose life, you may remove a wish counter from Warden of Wishes. If 
 			<set num="295" muid="0" picURL="https://lackeybot.com/revolution/front/295/CCR" rarity="special">CCR</set>
 		</card>
 		<card>
-			<name>Weather Elemental_PRO_CCR</name>
-			<text>Flying
-Whenever Weather Elemental enters or attacks, it acclimates. (You may put a Weather card from your graveyard or outside the game into your hand, or put a +1/+1 counter on this.)
-If a triggered ability of a Weather you control would trigger, it triggers an additional time.</text>
-			<prop>
-				<side>front</side>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Creature — Elemental</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/CCR" rarity="special">CCR</set>
-		</card>
-		<card>
 			<name>Buffer Reconservatory_PRO_ERR</name>
 			<text>({T}: Add {G}.)
 This land enters tapped.
@@ -6275,23 +6249,6 @@ This land is also a creature. [7/6]</text>
 			</prop>
 			<tablerow>0</tablerow>
 			<set num="314" muid="0" picURL="https://lackeybot.com/revolution/front/314/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Faulty Server_PRO_ERR</name>
-			<text>When this land enters, sacrifice it. If you do, search your library for a basic Swamp or Mountain card, put it onto the battlefield tapped, then shuffle.
-{2}{B}{B}{R}{R}, Discard this card: Create a 4/4 red Error creature token with menace.</text>
-			<prop>
-				<side>front</side>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<layout>normal</layout>
-				<maintype>Land</maintype>
-				<coloridentity>BR</coloridentity>
-				<colors></colors>
-				<type>Land</type>
-			</prop>
-			<tablerow>0</tablerow>
-			<set num="315" muid="0" picURL="https://lackeybot.com/revolution/front/315/ERR" rarity="special">ERR</set>
 		</card>
 		<card>
 			<name>Forgotten Junkyard_PRO_ERR</name>
@@ -6326,23 +6283,6 @@ This land is also a creature. [7/6]</text>
 			</prop>
 			<tablerow>0</tablerow>
 			<set num="320" muid="0" picURL="https://lackeybot.com/revolution/front/320/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Lost and Found_PRO_ERR</name>
-			<text>When this land enters, sacrifice it. If you do, search your library for a basic Island or Swamp card, put it onto the battlefield tapped, then shuffle.
-{2}{U}{U}{B}{B}, Discard this card: Surveil 2, then draw two cards.</text>
-			<prop>
-				<side>front</side>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<layout>normal</layout>
-				<maintype>Land</maintype>
-				<coloridentity>UB</coloridentity>
-				<colors></colors>
-				<type>Land</type>
-			</prop>
-			<tablerow>0</tablerow>
-			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/ERR" rarity="special">ERR</set>
 		</card>
 		<card>
 			<name>Regrowing Outlands_PRO_ERR</name>
@@ -6394,23 +6334,6 @@ This land is also a creature. [7/6]</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="334" muid="0" picURL="https://lackeybot.com/revolution/front/334/KDT" rarity="special">KDT</set>
-		</card>
-		<card>
-			<name>Bleed for the Cause_PRO_TWI</name>
-			<text>Create a 2/2 black Zombie creature token with “This creature can't block.” You lose 1 life.
-At the beginning of your end step, if you've lost 3 or more life this turn, return Bleed for the Cause from your graveyard to your hand.</text>
-			<prop>
-				<side>front</side>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="342" muid="0" picURL="https://lackeybot.com/revolution/front/342/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
 			<name>Crumbling Ruin_PRO_TWI</name>

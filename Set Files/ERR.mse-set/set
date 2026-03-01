@@ -8749,7 +8749,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		
+		 nerfed: Can no longer target battles.
 		art3
 		
 		This spell deals 5 damage to target creature. Create a number of red Subroutine enchantment tokens named BOOST() with “Whenever this Subroutine runs, add R.” equal to the excess damage dealt this way. (Put each of them into one of your programs.)
@@ -8759,7 +8759,7 @@ card:
 		Supererogation deals X damage to target creature or planeswalker. Draw X plus one cards.
 		flagged (maybe)
 	time_created: 2024-08-28 11:00:17
-	time_modified: 2025-08-31 21:09:04
+	time_modified: 2026-02-28 17:43:21
 	name: Electronic Countermeasures
 	casting_cost: 2R
 	image: image32.png
@@ -8775,7 +8775,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Corrupt</key></nospellcheck></i-auto></kw-A> — Electronic Countermeasures deals 5 damage to target battle, creature, or planeswalker. If you control a permanent with greater mana value than this spell, exile the top X cards of your library, where X is the excess damage dealt this way. You may play one of those cards until your next end step.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Corrupt</key></nospellcheck></i-auto></kw-A> — Electronic Countermeasures deals 5 damage to target creature or planeswalker. If you control a permanent with greater mana value than this spell, exile the top X cards of your library, where X is the excess damage dealt this way. You may play one of those cards until your next end step.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aleaandr Elichev
 	card_code_text: 
@@ -13060,11 +13060,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:23:20
+	time_modified: 2026-02-28 18:09:06
 	card_color: black, red, land, horizontal
 	name: Faulty Server
 	casting_cost: 
@@ -13087,7 +13087,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Matthew Attard
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13356,11 +13356,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design DrChipmunk
 		ERR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:23:45
+	time_modified: 2026-02-28 18:09:24
 	card_color: blue, black, land, horizontal
 	name: Lost and Found
 	casting_cost: 
@@ -13383,7 +13383,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Stephen Somers
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Calamity Unleashed by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 

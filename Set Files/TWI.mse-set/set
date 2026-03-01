@@ -3608,9 +3608,10 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!renameof Overrule Thought
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-25 13:04:24
-	name: Overrule Thought
+	time_modified: 2026-02-28 17:45:29
+	name: Overrule Will
 	casting_cost: 1U
 	image: image117.png
 	image_2: 
@@ -6932,9 +6933,9 @@ card:
 		!tag Twiltrie
 		!tag Aldegar
 		5
-		 nerfed: No longer copies battle spells.
+		 nerfed: Was 5 defense and etb draw three cards.
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2026-01-31 16:29:54
+	time_modified: 2026-02-28 18:03:45
 	card_color: blue
 	name: Path of Scales
 	casting_cost: 2UU
@@ -6954,8 +6955,8 @@ card:
 	chapter_text: <i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
 	rule_text_3: 
 	flavor_text_3: <i-flavor></i-flavor>
-	loyalty: 5
-	level_1_text: When <atom-cardname><nospellcheck>Path of Scales</nospellcheck></atom-cardname> enters, draw three cards.
+	loyalty: 6
+	level_1_text: When <atom-cardname><nospellcheck>Path of Scales</nospellcheck></atom-cardname> enters, look at the top five cards of your library. Put two of those cards into your hand and the rest on the bottom in a random order.
 	level_2_text: <margin:0:0:30>Creatures you don’t control get -1/-0.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Whenever you cast a noncreature, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spell, copy it. You may choose new targets for the copy.</margin:0:0:30>
 	level_4_text: 
@@ -6969,7 +6970,7 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
-		When <atom-cardname><nospellcheck>Path of Scales</nospellcheck></atom-cardname> enters, draw three cards.
+		When <atom-cardname><nospellcheck>Path of Scales</nospellcheck></atom-cardname> enters, look at the top five cards of your library. Put two of those cards into your hand and the rest on the bottom in a random order.
 		<b>3 Defense</b> — <margin:0:0:30>Creatures you don’t control get -1/-0.</margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Whenever you cast a noncreature, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonbattle</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spell, copy it. You may choose new targets for the copy.</margin:0:0:30>
 
@@ -7495,8 +7496,9 @@ card:
 		!tag Lunate
 		Winner: Sunvrath
 		OperationCycle
+		 reworked: Was 4 defense, @2 Defense "At the beginning of your end step, create a 1/1 white Soldier creature token.", @Defeated "Creature tokens you control get +1/+1 and have vigilance."
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 22:09:57
+	time_modified: 2026-02-28 18:47:43
 	name: Clash at Aureth Cross
 	casting_cost: 3WW
 	image: image6.png
@@ -7517,12 +7519,12 @@ card:
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	loyalty: 4
+	loyalty: 5
 	level_1_text: When <atom-cardname><nospellcheck>Clash at Aureth Cross</nospellcheck></atom-cardname> enters, if you cast it from your hand, destroy all creatures.
-	level_2_text: <margin:0:0:30>At the beginning of your end step, create a 1/1 white Soldier creature token.</margin:0:0:30>
-	level_3_text: <margin:0:0:30>Creature tokens you control get +1/+1 and have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>When <atom-cardname><nospellcheck>Clash at Aureth Cross</nospellcheck></atom-cardname> first reaches this stage, create two 2/2 white Knight creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.</margin:0:0:30>
+	level_3_text: <margin:0:0:30>Whenever you attack, you gain life equal to the number of attacking creatures.</margin:0:0:30>
 	level_4_text: 
-	level_9_text: <b>2 Defense</b>
+	level_9_text: <b>3 Defense</b>
 	level_10_text: <b>Defeated</b>
 	power: 
 	toughness: 
@@ -7533,8 +7535,8 @@ card:
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
 		When <atom-cardname><nospellcheck>Clash at Aureth Cross</nospellcheck></atom-cardname> enters, if you cast it from your hand, destroy all creatures.
-		<b>2 Defense</b> — <margin:0:0:30>At the beginning of your end step, create a 1/1 white Soldier creature token.</margin:0:0:30>
-		<b>Defeated</b> — <margin:0:0:30>Creature tokens you control get +1/+1 and have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.</margin:0:0:30>
+		<b>3 Defense</b> — <margin:0:0:30>When <atom-cardname><nospellcheck>Clash at Aureth Cross</nospellcheck></atom-cardname> first reaches this stage, create two 2/2 white Knight creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.</margin:0:0:30>
+		<b>Defeated</b> — <margin:0:0:30>Whenever you attack, you gain life equal to the number of attacking creatures.</margin:0:0:30>
 
 card:
 	has_styling: false
@@ -8402,8 +8404,9 @@ card:
 		!tag Cidraeth
 		Winner: Cidraeth
 		OperationCycle
+		 nerfed: Was 5 defense. Passive used to create a Soldier for each noncreature spell. First level returned an instant or sorcery card from grave to hand the first time it reached 3 defense.
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 22:10:03
+	time_modified: 2026-02-28 18:00:11
 	name: Clash at Mistwrit Vale
 	casting_cost: 1UU
 	image: image87.png
@@ -8422,12 +8425,12 @@ card:
 	chapter_text: <i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
 	rule_text_3: 
 	flavor_text_3: <i-flavor></i-flavor>
-	loyalty: 5
+	loyalty: 4
 	level_1_text: Whenever you cast a noncreature spell, create a 1/1 white Soldier creature token.
-	level_2_text: <margin:0:0:30>When <atom-cardname><nospellcheck>Clash at Mistwrit Vale</nospellcheck></atom-cardname> first reaches this stage, return target instant or sorcery card from your graveyard to your hand.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. <i-auto>(If a creature has multiple instances of <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>, each triggers separately.)</i-auto></margin:0:0:30>
 	level_3_text: <margin:0:0:30>Noncreature spells you cast cost <sym-auto>2</sym-auto> less to cast.</margin:0:0:30>
 	level_4_text: 
-	level_9_text: <b>3 Defense</b>
+	level_9_text: <b>2 Defense</b>
 	level_10_text: <b>Defeated</b>
 	power: 
 	toughness: 
@@ -8438,7 +8441,7 @@ card:
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
 		Whenever you cast a noncreature spell, create a 1/1 white Soldier creature token.
-		<b>3 Defense</b> — <margin:0:0:30>When <atom-cardname><nospellcheck>Clash at Mistwrit Vale</nospellcheck></atom-cardname> first reaches this stage, return target instant or sorcery card from your graveyard to your hand.</margin:0:0:30>
+		<b>2 Defense</b> — <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. <i-auto>(If a creature has multiple instances of <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>, each triggers separately.)</i-auto></margin:0:0:30>
 		<b>Defeated</b> — <margin:0:0:30>Noncreature spells you cast cost <sym-auto>2</sym-auto> less to cast.</margin:0:0:30>
 
 card:
@@ -10077,8 +10080,9 @@ card:
 		!tag Thistrel
 		!tag Anzalan
 		!tag Aldegar
+		 buffed: Used to become 5/5.
 	time_created: 2025-06-10 03:13:23
-	time_modified: 2025-08-31 18:04:46
+	time_modified: 2026-02-28 17:38:22
 	name: Aldegar of Path Unwoven
 	casting_cost: 1UR
 	image: image51.png
@@ -10100,7 +10104,7 @@ card:
 	loyalty: 3
 	level_1_text: <margin:130:0:0>Discard a card, then draw a card. </margin:130:0:0>
 	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> deals 3 damage to any target.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>If <atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> has six or more loyalty counters on him, he becomes a 5/5 blue and red Dragon creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely. Damage no longer causes him to lose loyalty.)</i-auto></margin:130:0:0>
+	level_3_text: <margin:130:0:0>If <atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> has six or more loyalty counters on him, he becomes a 6/6 blue and red Dragon creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely. Damage no longer causes him to lose loyalty.)</i-auto></margin:130:0:0>
 	level_4_text: 
 	illustrator: Vagelio Kaliva
 	card_code_text: 
@@ -10110,7 +10114,7 @@ card:
 	special_text:
 		[+1]: <margin:130:0:0>Discard a card, then draw a card. </margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> deals 3 damage to any target.</margin:130:0:0>
-		[0]: <margin:130:0:0>If <atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> has six or more loyalty counters on him, he becomes a 5/5 blue and red Dragon creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely. Damage no longer causes him to lose loyalty.)</i-auto></margin:130:0:0>
+		[0]: <margin:130:0:0>If <atom-legname><nospellcheck>Aldegar</nospellcheck></atom-legname> has six or more loyalty counters on him, he becomes a 6/6 blue and red Dragon creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely. Damage no longer causes him to lose loyalty.)</i-auto></margin:130:0:0>
 
 card:
 	stylesheet: m15-mainframe-planeswalker
@@ -11671,8 +11675,9 @@ card:
 	notes:
 		!tag Sunvrath
 		!tag Twiltrie
+		 nerfed: No longer has "At the beginning of your end step, target player exiles a card from their graveyard. If they can’t, you scry 1."
 	time_created: 2025-07-09 18:02:51
-	time_modified: 2025-08-31 18:26:17
+	time_modified: 2026-02-28 18:11:36
 	name: Crucible of the Burning Sun
 	casting_cost: 2
 	image: image168.png
@@ -11688,10 +11693,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		If a card or token would be put into a graveyard from anywhere, exile it instead.
-		At the beginning of your end step, target player exiles a card from their graveyard. If they can’t, you <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
-	flavor_text: <i-flavor></i-flavor>
+	rule_text: If a card or token would be put into a graveyard from anywhere, exile it instead.
+	flavor_text:
+		<i-flavor>“The <error-spelling:en_US>Cidraeth</error-spelling:en_US> call this blasphemy. They say that divinity is sacred purely because it exists. The divine is only sacred if it serves mortals. If these so-called gods will not serve freely, they swill serve in chains.”<soft-line>
+		—<error-spelling:en_US>Annan</error-spelling:en_US>, Thief of the Sun</soft-line></i-flavor>
 	illustrator: Halybs
 	card_code_text: 
 	card_code_text_2: 
@@ -13065,11 +13070,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:09:24
+	time_modified: 2026-02-28 18:07:11
 	name: Bleed for the Cause
 	casting_cost: B
 	image: image34
@@ -13097,7 +13102,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Adam Burke
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Calamity Unleashed by kayiu
 	card_code_text_2: 
 	card_code_text_3: 
 
