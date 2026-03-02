@@ -4275,10 +4275,10 @@ card:
 		overlay: 
 	notes:
 		!tokens Berry1>;
-		!hasshiny
-		 adjusted: Berries give +2/+2 now. Used to have an AA that sacrificed a Berry attached to it to gain indes.
+		!hasshiny 
+		!update
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2026-02-28 17:27:24
+	time_modified: 2026-03-01 18:13:11
 	name: Practicing Guru
 	casting_cost: 1W
 	card_symbol: none
@@ -4291,7 +4291,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		<atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> gets +1/+1 and had <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
+		<atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> gets +1/+1 and has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -10764,7 +10764,6 @@ card:
 		Breloom!tokens Berry1>;
 		!design Matt
 		 !hidetag ★
-
 	time_created: 2021-07-21 17:42:58
 	time_modified: 2025-12-01 16:14:38
 	name: Gone Pickin’
@@ -11085,7 +11084,6 @@ card:
 		!unlocked
 		!design Fleur
 		 !hidetag ★
-
 	time_created: 2021-07-21 21:01:09
 	time_modified: 2026-03-01 13:33:08
 	name: Smiling Sludge
@@ -11402,7 +11400,6 @@ card:
 		!unlocked
 		!design Cajun
 		 !hidetag ★
-
 	time_created: 2024-06-18 03:50:25
 	time_modified: 2025-12-01 16:19:41
 	name: Berry Fermenter
@@ -12318,7 +12315,6 @@ card:
 	notes:
 		!design Timespiraled
 		 !hidetag ★
-
 	time_created: 2021-07-19 03:50:47
 	time_modified: 2026-02-28 17:06:02
 	name: Aroma Spinner
@@ -12356,9 +12352,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag ★
-
+	notes: !hidetag ★
 	time_created: 2021-05-06 21:10:35
 	time_modified: 2026-02-28 17:23:10
 	name: Bloom Brute
@@ -12873,9 +12867,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag ★
-
+	notes: !hidetag ★
 	time_created: 2021-07-21 19:24:04
 	time_modified: 2026-02-28 17:36:24
 	name: Feasting Predator
@@ -13352,7 +13344,6 @@ card:
 		!token Berry1>;
 		 !hidetag ★
 		!design Splashcat
-
 	time_created: 2021-07-19 03:23:46
 	time_modified: 2026-02-28 17:26:23
 	name: Poisoned Rose
@@ -13402,9 +13393,9 @@ card:
 		overlay: 
 	notes:
 		!hidetag ★
-
+		!update
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2026-02-28 17:27:40
+	time_modified: 2026-03-01 18:13:17
 	name: Practicing Guru
 	casting_cost: 1W
 	card_symbol: none
@@ -13417,7 +13408,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		Practicing Guru gets +1/+1 and had <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
+		Practicing Guru gets +1/+1 and has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

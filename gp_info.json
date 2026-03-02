@@ -385,5 +385,34 @@
     "name": "Everrime",
     "set": "OLD",
     "count": 3
+  },
+  "25_12": {
+    "year": 2025,
+    "month": 12,
+    "name": "Elseworlds",
+    "set": "KRS",
+    "count": 4,
+    "format": "Eternal"
+  },
+  "26_01": {
+    "year": 2026,
+    "month": 1,
+    "name": "Caersol",
+    "set": "SOL",
+    "count": 1
+  },
+  "26_02": {
+    "year": 2026,
+    "month": 2,
+    "name": "Kaina City",
+    "set": "CCR",
+    "count": 2
+  },
+  "26_03": {
+    "year": 2026,
+    "month": 3,
+    "name": "Neo Stehlia",
+    "set": "CYB",
+    "count": 2
   }
 }
