@@ -530,6 +530,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Seer of Shackled Breath</reverse-related>
  <reverse-related>Skytide Piercer</reverse-related>
  <reverse-related>Stag of the Broken Crown</reverse-related>
+ <reverse-related>Stargazing</reverse-related>
  <reverse-related>Tendervow Witch</reverse-related>
  <reverse-related>The Ever-Gnashing Dark</reverse-related>
  <reverse-related>Unmaker of Thought</reverse-related>
@@ -4357,6 +4358,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related>Sunset Warrior</reverse-related>
  <reverse-related>Uiki Cloudchaser</reverse-related>
  <reverse-related>Vengeful Artificer</reverse-related>
+ <reverse-related>Alwanor, the Humbled Star_REV</reverse-related>
  <reverse-related>Emperor Tzuhan_REV</reverse-related>
  <set num="KDT14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/KDT14.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -4793,6 +4795,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Alwanor, the Humbled Star</reverse-related>
+ <reverse-related>Alwanor, the Humbled Star_REV</reverse-related>
  <set num="SOL29" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL29.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5191,6 +5194,17 @@ Equip {2}</text>
  <tablerow>1</tablerow>
  <reverse-related>Zukar, Null Champion</reverse-related>
  <set num="SOL15" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL15.jpg?v=20251131" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Elf 13REV</name>
+ <text>{T}: Add {G}.</text>
+ <colors>G</colors>
+ <type>Token Creature — Elf</type>
+ <pt>1/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Alwanor, the Humbled Star_REV</reverse-related>
+ <set num="REV15" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/REV15.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>red and white Cleric 11REV</name>
@@ -5911,6 +5925,16 @@ III — You may cast a copy of the exiled card without paying its mana cost.</te
  <token>1</token>
  <tablerow>1</tablerow>
  <set num="KDT2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/KDT2.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Spirit 1010REV</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Creature — Spirit</type>
+ <pt>10/10</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="REV16" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/REV16.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Stolen ERR</name>
