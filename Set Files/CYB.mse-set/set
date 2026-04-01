@@ -8829,9 +8829,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!canoncard Aether Snap
-
+	notes: !canoncard Aether Snap
 	time_created: 2021-08-21 12:04:14
 	time_modified: 2026-01-31 23:31:06
 	name: Looming Cyhawk
@@ -11997,9 +11995,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !canoncard incendiary command
+	notes:
+		!canoncard incendiary command
+		 nerfed: Blue mode used to tap three.
 	time_created: 2021-08-11 20:59:36
-	time_modified: 2024-04-16 23:33:29
+	time_modified: 2026-03-28 15:10:28
 	name: Edgeland Pledge
 	casting_cost: 1R
 	image: image120
@@ -12016,7 +12016,7 @@ card:
 	rule_text:
 		Create a <kw-0><nospellcheck><key>Solidarity</key></nospellcheck></kw-0> token. When you do, pay for and choose any number. <i-auto>(A <kw-0><nospellcheck><key>Solidarity</key></nospellcheck></kw-0> token is an enchantment with “Attacking creatures you control get +1/+0.”)</i-auto>
 		+<sym>R</sym> — <atom-cardname><nospellcheck>Edgeland Pledge</nospellcheck></atom-cardname> deals 2 damage to any target.
-		+<sym>U</sym> — Tap up to three target creatures.
+		+<sym>U</sym> — Tap up to two target creatures.
 		+<sym>G</sym> — Create a 1/1 red Soldier creature token. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 

@@ -627,8 +627,9 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
+		 nerfed: Changed from returning to your hand and disallowing casting any more copies this turn.
 	time_created: 2025-06-09 23:36:58
-	time_modified: 2025-08-31 15:24:57
+	time_modified: 2026-03-28 15:15:13
 	name: Stargazing
 	casting_cost: U
 	image: image68.png
@@ -644,8 +645,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card. Then you may discard a card. If you do, return <atom-cardname><nospellcheck>Stargazing</nospellcheck></atom-cardname> to its owner’s hand.
-		You can’t cast any more spells named <atom-cardname><nospellcheck>Stargazing</nospellcheck></atom-cardname> this turn.
+		<kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.
+		If you cast this spell, you may discard a card. If you do, exile <atom-cardname><nospellcheck>Stargazing</nospellcheck></atom-cardname>. After the current turn has ended, you may cast that card as long as it remains exiled.
 	flavor_text: <i-flavor>“Prophecy is not clarity. It is the patience to wait for what has already begun.”</i-flavor>
 	illustrator: Julia Yurtsev
 	card_code_text: 

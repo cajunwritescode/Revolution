@@ -414,5 +414,12 @@
     "name": "Neo Stehlia",
     "set": "CYB",
     "count": 2
+  },
+  "26_04": {
+    "year": 2026,
+    "month": 4,
+    "name": "Silver Glade",
+    "set": "KSV",
+    "count": 4
   }
 }
