@@ -4276,9 +4276,9 @@ card:
 	notes:
 		!tokens Berry1>;
 		!hasshiny 
-		
+		!update
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2026-03-01 18:13:11
+	time_modified: 2026-04-01 10:34:59
 	name: Practicing Guru
 	casting_cost: 1W
 	card_symbol: none
@@ -4291,7 +4291,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		<atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> gets +1/+1 and has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
+		<atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> gets +1/+1 and has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it has eaten a Berry this turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -13393,9 +13393,9 @@ card:
 		overlay: 
 	notes:
 		!hidetag ★
-		
+		!update
 	time_created: 2021-07-21 21:01:09
-	time_modified: 2026-03-01 18:13:17
+	time_modified: 2026-04-01 10:35:05
 	name: Practicing Guru
 	casting_cost: 1W
 	card_symbol: none
@@ -13408,7 +13408,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When <atom-cardname><nospellcheck>Practicing Guru</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Berry toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s an Equipment with equip <sym>1</sym> and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)</i-auto></atom-reminder-custom></kw-A>
-		Practicing Guru gets +1/+1 and has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it’s eaten a Berry this turn.
+		Practicing Guru gets +1/+1 and has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it has eaten a Berry this turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

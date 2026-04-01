@@ -49793,7 +49793,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 5047,
-      "multiverseId": 20260231
+      "multiverseId": 20260301
      },
      "name": "Practicing Guru",
      "number": "26",
@@ -49805,7 +49805,7 @@
      "subtypes": [
       "Ape"
      ],
-     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nPracticing Guru gets +1/+1 and has indestructible as long as it's eaten a Berry this turn.",
+     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nPracticing Guru gets +1/+1 and has indestructible as long as it has eaten a Berry this turn.",
      "toughness": "2",
      "type": "Creature — Ape",
      "types": [
@@ -49843,7 +49843,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 5888,
-      "multiverseId": 20260231
+      "multiverseId": 20260301
      },
      "name": "Practicing Guru ★",
      "number": "1026",
@@ -49855,7 +49855,7 @@
      "subtypes": [
       "Ape"
      ],
-     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nPracticing Guru gets +1/+1 and has indestructible as long as it's eaten a Berry this turn.",
+     "text": "When Practicing Guru enters, create a Berry token. (It's an Equipment with equip {1} and “Before damage, sacrifice this to give equipped creature +2/+2 until end of turn.”)\nPracticing Guru gets +1/+1 and has indestructible as long as it has eaten a Berry this turn.",
      "toughness": "2",
      "type": "Creature — Ape",
      "types": [
@@ -103697,7 +103697,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 6207,
-      "multiverseId": 20260231
+      "multiverseId": 20260301
      },
      "name": "Stargazing",
      "number": "74",
@@ -103705,7 +103705,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Scry 1, then draw a card.\nIf you cast this spell, you may discard a card. If you do, exile Stargazing. After the current turn has ended, you may cast that card as long as it remains exiled.",
+     "text": "Scry 1, then draw a card.\nIf you cast this spell from your hand, you may discard a card. If you do, exile Stargazing. After the current turn has ended, you may cast Stargazing as long as it remains exiled.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
