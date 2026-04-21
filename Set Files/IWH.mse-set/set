@@ -11448,7 +11448,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-04-20 17:30:52
+	time_modified: 2026-04-20 23:10:17
 	name: Westvale Adherent
 	casting_cost: 1WB
 	image: image318
@@ -11466,7 +11466,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.
-		<sym-auto>3WB</sym-auto>, Sacrifice a creature, Exile this card from your graveyard: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+		<sym-auto>3WB</sym-auto>, Sacrifice a creature, Exile this card from your graveyard: Return another target creature card from your graveyard to the battlefield. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
