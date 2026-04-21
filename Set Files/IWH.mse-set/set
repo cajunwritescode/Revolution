@@ -153,6 +153,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !commonremoval
@@ -177,6 +178,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -212,6 +214,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -241,6 +244,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !rareremoval
@@ -267,6 +271,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -306,6 +311,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -345,6 +351,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -384,6 +391,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -421,6 +429,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -458,6 +467,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -498,6 +508,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -513,7 +524,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-22 01:22:57
-	time_modified: 2026-02-21 22:13:09
+	time_modified: 2026-04-18 14:55:03
 	name: Curse of Disturbed Tombs
 	casting_cost: 3WW
 	image: image13
@@ -531,13 +542,14 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		When this Curse enters, each of enchanted player’s opponents may return a creature card from their graveyard to the battlefield.
+		When this Aura enters, each of enchanted player’s opponents may return a creature card from their graveyard to the battlefield.
 		Whenever a player attacks enchanted player, they put a +1/+1 counter on target attacking creature. It gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: victoria-k- — edit
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -566,11 +578,12 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 20:59:26
-	time_modified: 2026-01-02 21:04:35
+	time_modified: 2026-04-20 18:12:12
 	name: Dawnsmite Cavalier
 	casting_cost: 1W
 	image: image15
@@ -591,11 +604,12 @@ card:
 		<i>Concord — </i><sym>2W</sym>: Return this card from your graveyard to your hand. Activate only if there are there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 2
+	toughness: 1
 	illustrator: The Elder Scrolls Legends
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -633,6 +647,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -674,6 +689,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -715,6 +731,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -744,6 +761,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -782,6 +800,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -822,6 +841,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -862,6 +882,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -904,6 +925,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -944,6 +966,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -986,6 +1009,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1023,6 +1047,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1061,6 +1086,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1075,7 +1101,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-11-11 13:35:29
-	time_modified: 2026-02-19 23:57:25
+	time_modified: 2026-04-20 19:15:37
 	name: Moldgraf Stewards
 	casting_cost: W
 	image: image28
@@ -1093,7 +1119,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever this creature attacks, if you control four or more creatures, put a +1/+1 counter on target creature.
-		<sym-auto>3W</sym-auto>: Target attacking creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>3W</sym-auto>: This creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>At first Heinrich thought himself in danger, but their soft glow led him to safety.</i-flavor>
 	power: 2
 	toughness: 1
@@ -1101,11 +1127,12 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !commonremoval
 	time_created: 2025-03-30 14:03:38
-	time_modified: 2025-11-12 11:40:10
+	time_modified: 2026-04-20 18:00:54
 	name: Moonrapture
 	casting_cost: 3W
 	image: image29
@@ -1124,10 +1151,11 @@ card:
 	flavor_text:
 		<i-flavor>“I must study the effects this new lunar phenomenon has on <error-spelling:en_US>Innistrad’s</error-spelling:en_US> denizens.”<soft-line>
 		—<error-spelling:en_US>Vadrik</error-spelling:en_US>, Astral <error-spelling:en_US>Archmage</soft-line></i-flavor></error-spelling:en_US>
-	illustrator: Magic Spellslingers artwork
+	illustrator: Yangtian Li
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1171,6 +1199,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1215,6 +1244,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1253,6 +1283,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1287,6 +1318,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1327,6 +1359,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1341,7 +1374,7 @@ card:
 		overlay: 
 	notes: !uncommonremoval
 	time_created: 2025-01-11 20:47:32
-	time_modified: 2025-11-05 12:01:52
+	time_modified: 2026-04-20 17:31:10
 	name: Parish Slayer
 	casting_cost: 2WW
 	image: image35
@@ -1363,10 +1396,11 @@ card:
 	flavor_text: <i-flavor>“The moon burns, and wolves slaver at the gates. This is a dark time for <error-spelling:en_US>Gavony</error-spelling:en_US>.”</i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: anatofinnstark
+	illustrator: Anato Finnstark
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1414,6 +1448,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1444,6 +1479,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !uncommonremoval
@@ -1474,6 +1510,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1503,6 +1540,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1541,13 +1579,14 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
 	notes: 
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-13 19:59:56
+	time_modified: 2026-04-20 18:01:09
 	card_color_2: white
 	name: Sacred Stag
 	name_2: Curse of the Bloodmarked
@@ -1570,12 +1609,12 @@ card:
 	rule_text_2:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever enchanted player casts a spell, each of that player’s opponents gains 1 life.
-		If this enchantment would be put into a graveyard from anywhere, exile it instead.
+		If this Aura would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor>Only <error-spelling:en_US>Ghrin</error-spelling:en_US>-<error-spelling:en_US>Danu</error-spelling:en_US> may decree the death of one of her sacred stags.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: Bloodrealm card game
+	illustrator: laclillac
 	illustrator_2: Rishi Shukla
 	card_code_text: 
 	card_code_text_2: 
@@ -1583,6 +1622,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1628,6 +1668,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1642,7 +1683,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:13:30
-	time_modified: 2026-02-14 17:07:14
+	time_modified: 2026-04-20 17:45:06
 	name: Saint’s Salvation
 	casting_cost: W
 	image: image46
@@ -1658,13 +1699,14 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As an additional cost to cast this spell, behold a Spirit or pay <sym-auto>2</sym-auto>. <i-auto>(To behold a Spirit, reveal a Spirit card from your hand or choose one you control.)</i-auto>
+		As an additional cost to cast this spell, <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit or pay <sym>2</sym></param-name>.</key></nospellcheck></kw-0> <i-auto>(To <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit, choose a Spirit you control or reveal a Spirit card from your hand</param-name>.</key></nospellcheck></kw-0>)</i-auto>
 		Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: stephen-cornu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1704,6 +1746,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1737,6 +1780,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1781,6 +1825,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1813,6 +1858,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1855,6 +1901,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -1899,6 +1946,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1913,7 +1961,7 @@ card:
 		overlay: 
 	notes: !addtoken Westvale Cult Induction Token;1
 	time_created: 2024-08-08 17:20:34
-	time_modified: 2026-04-13 20:07:35
+	time_modified: 2026-04-20 18:01:31
 	card_color_2: white
 	name: Westvale Cult Induction
 	name_2: Faceless Procession
@@ -1934,7 +1982,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When this enchantment enters, you may create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature loses all abilities and has base power and toughness 3/3” attached to target creature.</param-name></key></nospellcheck></kw-a> 
+		When this enchantment enters, you may create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature loses all abilities and has base power and toughness 3/3” attached to target creature</param-name>.</key></nospellcheck></kw-a> 
 		<sym-auto>2WW</sym-auto>: Transform this enchantment. Activate only as a sorcery.
 	rule_text_2:
 		When this permanent transforms into <atom-cardname><nospellcheck>Faceless Procession</nospellcheck></atom-cardname>, create a 1/1 white Human creature token.
@@ -1942,13 +1990,14 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>They walk silent streets, ceaseless and unerring.</i-flavor>
 	illustrator: Karol Bem
-	illustrator_2: Warhammer fantasy artwork
+	illustrator_2: Nachomolina
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1957,9 +2006,9 @@ card:
 		opacity: 170
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: During each opponent’s turn, until the end of that player’s combat phase, you control that player. When you lose control of that player, they untap each land they control.
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-13 20:08:28
+	time_modified: 2026-04-18 15:42:02
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: They/them
@@ -1981,7 +2030,7 @@ card:
 	loyalty: 4
 	level_1_text: <margin:130:0:0>Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. It loses all abilities for as long as it remains tapped.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Search your library for an instant, sorcery, or Curse card, exile it, then shuffle. Put that card into your hand unless an opponent has you draw two cards.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>During each opponent’s turn, until the end of that player’s combat phase, you control that player. When you lose control of that player, they untap each land they control.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You control each opponent during their next turn until their second main phase. At the beginning of that phase, untap each land they control.</margin:130:0:0>
 	level_4_text: 
 	illustrator: Jin L
 	card_code_text: 
@@ -1991,7 +2040,8 @@ card:
 	special_text:
 		[+1]: <margin:130:0:0>Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. It loses all abilities for as long as it remains tapped.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Search your library for an instant, sorcery, or Curse card, exile it, then shuffle. Put that card into your hand unless an opponent has you draw two cards.</margin:130:0:0>
-		[-8]: <margin:130:0:0>During each opponent’s turn, until the end of that player’s combat phase, you control that player. When you lose control of that player, they untap each land they control.</margin:130:0:0>
+		[-8]: <margin:130:0:0>You control each opponent during their next turn until their second main phase. At the beginning of that phase, untap each land they control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2006,7 +2056,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-01-30 18:47:08
+	time_modified: 2026-04-20 17:52:56
 	name: Ashiok’s Manipulation
 	casting_cost: U
 	image: image55
@@ -2023,13 +2073,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> as long as an opponent cast one or more spells this turn.
+		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> as long as your opponents have cast two or more spells this turn.
 		Return target nonland permanent to its owner’s hand.
 	flavor_text: <i-flavor>Under <error-spelling:en_US>Ashiok’s</error-spelling:en_US> influence, the <error-spelling:en_US>Skirsdag</error-spelling:en_US> cult began their rites to splinter <error-spelling:en_US>Innistrad’s</error-spelling:en_US> moon.</i-flavor>
 	illustrator: leonardo-santanna
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2044,7 +2095,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-28 21:46:15
-	time_modified: 2024-12-20 18:08:48
+	time_modified: 2026-04-20 18:02:07
 	name: Breathstealer Spirit
 	casting_cost: 3UU
 	image: image56
@@ -2059,7 +2110,7 @@ card:
 		Possess <i-auto>(When this dies as a creature, you may return it to the battlefield as an Aura attached to target creature.)</i-auto>
 		You control enchanted creature.
 	flavor_text: <i-flavor>It moves your muscles, breathes your air, and thinks your thoughts.</i-flavor>
-	power: 5
+	power: 3
 	toughness: 3
 	illustrator: Markus Stadlober
 	card_code_text: 
@@ -2068,11 +2119,12 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2025-10-06 13:50:37
+	time_modified: 2026-04-20 17:00:10
 	name: Collected Thoughts
 	casting_cost: 2UU
 	image: image57
@@ -2088,12 +2140,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom of your library in a random order.
+	rule_text: Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: jim-dreadjim
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !uncommonremoval
@@ -2122,6 +2175,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2136,7 +2190,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-12 19:40:11
-	time_modified: 2025-08-28 21:54:03
+	time_modified: 2026-04-18 14:55:07
 	name: Curse of Insidious Thoughts
 	casting_cost: 1U
 	image: image59
@@ -2155,13 +2209,14 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		When this enchantment enters, draw a card.
+		When this Aura enters, draw a card.
 		If a card would be put into enchanted player’s hand from their library other than by drawing it, that player draws a card instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: martin-de-diego
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2200,6 +2255,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2240,6 +2296,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2278,6 +2335,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2322,6 +2380,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2369,6 +2428,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2402,6 +2462,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2417,7 +2478,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-13 20:18:28
+	time_modified: 2026-04-18 14:53:14
 	card_color_2: blue
 	name: Geist Researcher
 	name_2: Curse of Haunted Skies
@@ -2442,7 +2503,7 @@ card:
 	rule_text_2:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever one or more creatures attack enchanted player, target attacking creature gets +1+0 and gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. Untap that creature.
-		If this enchantment would be put into a graveyard from anywhere, exile it instead.
+		If this Aura would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor>Understanding can be a dangerous thing.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 2
@@ -2455,6 +2516,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2469,7 +2531,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:19:21
-	time_modified: 2026-02-26 13:50:06
+	time_modified: 2026-04-20 18:00:19
 	name: Geralf’s Studies
 	casting_cost: 2U
 	image: image69
@@ -2488,10 +2550,11 @@ card:
 		Return up to one target nonland permanent to its owner’s hand. 
 		Draw a card.
 	flavor_text: <i-flavor>“My sister works with molding corpses, haphazardly stitching rotten flesh together. My work is so much more important.”</i-flavor>
-	illustrator: Gwent artwork
+	illustrator: Sławomir Maniak
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2504,9 +2567,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: Return target nonland permanent an opponent controls that isn’t an untapped creature to its owner’s hand.
 	time_created: 2025-08-12 23:33:51
-	time_modified: 2025-12-03 19:15:23
+	time_modified: 2026-04-18 13:54:53
 	name: Grasping Dreams
 	casting_cost: 1U
 	image: image70
@@ -2523,13 +2586,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Return target nonland permanent an opponent controls that isn’t an untapped creature to its owner’s hand. <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		Return target nonland permanent an opponent controls other than an untapped creature to its owner’s hand.
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>1W</sym-auto>, Sacrifice a Spirit</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: kaidraw
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2544,7 +2608,7 @@ card:
 		overlay: 
 	notes: !replacetoken Infused 2/2 Zombie;1
 	time_created: 2024-07-28 23:55:22
-	time_modified: 2026-04-13 16:58:32
+	time_modified: 2026-04-20 19:09:48
 	name: Havengul Prodigy
 	casting_cost: 1U
 	image: image71
@@ -2562,7 +2626,7 @@ card:
 		Whenever you cast an instant or sorcery spell, put a +1/+1 counter on target Zombie you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
-	toughness: 4
+	toughness: 3
 	illustrator: dopaprime
 	card_code_text: 
 	card_code_text_2: 
@@ -2570,6 +2634,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2610,6 +2675,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !replacetoken Infused 2/2 Zombie;1
@@ -2639,6 +2705,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2678,6 +2745,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2692,7 +2760,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 01:00:17
-	time_modified: 2026-01-19 17:24:35
+	time_modified: 2026-04-20 19:10:46
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -2714,7 +2782,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
-		<sym-auto>U</sym-auto>: Choose target permanent. Attach an Aura you control that could <kw-a><nospellcheck><key>enchant <param-name>it to it, or move a counter from a permanent you control to it.</param-name></key></nospellcheck></kw-a> Activate only once each turn.
+		<sym-auto>U</sym-auto>: Choose target permanent. Attach an Aura you control that could <kw-a><nospellcheck><key>enchant <param-name>it to it, or move a counter from a permanent you control onto it</param-name>.</key></nospellcheck></kw-a> Activate only once each turn. Activate only as a sorcery unless <atom-legname><nospellcheck>Herghast</nospellcheck></atom-legname> entered this turn.
 	flavor_text: <i-flavor>He is frost and dusk. He is mist and breath.</i-flavor>
 	power: 2
 	toughness: 1
@@ -2722,6 +2790,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2753,6 +2822,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2790,6 +2860,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2804,7 +2875,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-19 17:54:12
-	time_modified: 2025-11-05 14:28:36
+	time_modified: 2026-04-20 19:17:01
 	name: Learn the Steps
 	casting_cost: UU
 	image: image78
@@ -2826,6 +2897,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2840,7 +2912,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:40:55
-	time_modified: 2025-11-14 13:34:53
+	time_modified: 2026-04-18 14:09:14
 	name: Lingering Presence
 	casting_cost: 1U
 	image: image79
@@ -2851,7 +2923,7 @@ card:
 	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever you cast an instant, sorcery or Spirit spell, this creature gets +1/+0 until end of turn.
+		Whenever you cast an instant, sorcery, or Spirit spell, this creature gets +1/+0 until end of turn.
 	flavor_text: <i-flavor>It lurks on the fringes of mortal perception, ready to strike at those who have wronged it.</i-flavor>
 	power: 1
 	toughness: 3
@@ -2862,6 +2934,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2905,6 +2978,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2919,7 +2993,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-03-31 22:31:37
-	time_modified: 2026-02-14 17:07:09
+	time_modified: 2026-04-20 17:45:11
 	name: March of the Drowntide
 	casting_cost: 3U
 	image: image83
@@ -2935,13 +3009,14 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> if you behold a Zombie as an additional cost to cast it. <i-auto>(To behold a Zombie, reveal a Zombie card from your hand or choose one you control.)</i-auto>
+		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> if you <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Zombie as an additional cost to cast it</param-name>.</key></nospellcheck></kw-0> <i-auto>(To <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Zombie, choose a Zombie you control or reveal a Zombie card from your hand</param-name>.</key></nospellcheck></kw-0>)</i-auto>
 		Target creature’s owner puts it on the top or bottom of their library. <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: eryk-szczygiel
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -2982,6 +3057,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3022,6 +3098,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3032,9 +3109,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !tag wishlist
+	notes:
+		!tag wishlist
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-10 20:10:09
+	time_modified: 2026-04-18 14:16:07
 	name: Mysteries of the Forbidden
 	casting_cost: 1U
 	image: image86
@@ -3051,7 +3130,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Look at the top X cards of your library, where X is 1 plus the number of differently named instant or sorcery cards in your graveyard. Put one of those cards in your hand and the rest on the bottom in a random order. If you look at thirteen or more cards this way, you may put all of those cards into your hand instead.
+		Look at the top X cards of your library, where X is 1 plus the number of differently named instant and/or sorcery cards in your graveyard. Put one of those cards into your hand and the rest on the bottom in a random order. If X is 13 or greater, you may put all of those cards into your hand instead.
 		<kw-0><nospellcheck><key>Flashback <param-cost><sym-auto>3U</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
@@ -3059,6 +3138,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3111,6 +3191,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3151,6 +3232,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3192,6 +3274,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !uncommonremoval
@@ -3221,6 +3304,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3235,7 +3319,7 @@ card:
 		overlay: 
 	notes: !replacetoken Infused */* Zombie;1
 	time_created: 2024-08-09 20:35:43
-	time_modified: 2026-04-13 16:54:18
+	time_modified: 2026-04-18 14:19:37
 	name: Plunder the Grafs
 	casting_cost: XUU
 	image: image94
@@ -3248,7 +3332,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Any number of target players each mill twice X cards. <kw-A><nospellcheck><key>Stitch </sym><param-number>X</param-number></key></nospellcheck><sym>, then if you control three or more Zombies, draw a card.<atom-reminder-action> <i-auto>(To stitch <param-number>X</param-number>, you may exile a creature card and an instant or sorcery card from your graveyard to create an X/X blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Any number of target players each mill twice X cards. <kw-A><nospellcheck><key>Stitch </sym><param-number>X</param-number></key></nospellcheck><sym>. Then if you control three or more Zombies, draw a card.<atom-reminder-action> <i-auto>(To stitch <param-number>X</param-number>, you may exile a creature card and an instant or sorcery card from your graveyard to create an X/X blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: konstantin-porubov
 	card_code_text: 
@@ -3257,6 +3341,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3298,6 +3383,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3338,6 +3424,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3379,6 +3466,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3419,6 +3507,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3456,6 +3545,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3470,7 +3560,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:31:37
-	time_modified: 2025-12-13 19:03:04
+	time_modified: 2026-04-20 17:10:41
 	name: Storms over Nephalia
 	casting_cost: 1UU
 	image: image100
@@ -3487,12 +3577,11 @@ card:
 	sub_type_4: 
 	rule_text: Counter target spell. If there are seven or more cards in your graveyard, create a 1/1 red Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
 	flavor_text: <i-flavor>The <error-spelling:en_US>Goremoon</error-spelling:en_US> brought with it twisted winds, churning storms, and ceaseless tides.</i-flavor>
-	illustrator:
-		
-		ValeryNeith
+	illustrator: ValeryNeith
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3507,7 +3596,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:25:32
-	time_modified: 2026-02-24 19:18:58
+	time_modified: 2026-04-18 14:22:43
 	name: Subsuming Sludge
 	casting_cost: 1UU
 	image: image101
@@ -3523,7 +3612,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When this creature enters, counter target spell if its mana value is less than or equal to this creature’s power.
-		<sym-auto>1G</sym-auto>: This creature gets +2/+2 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Activate this ability only once each turn.
+		<sym-auto>1G</sym-auto>: This creature gets +2/+2 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. Activate only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -3534,6 +3623,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3575,6 +3665,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3603,6 +3694,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3646,6 +3738,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3685,6 +3778,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3698,7 +3792,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:17:59
-	time_modified: 2025-08-19 18:19:38
+	time_modified: 2026-04-18 14:25:13
 	name: Unstable Masterpiece
 	casting_cost: 1UU
 	image: image106
@@ -3715,9 +3809,9 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When this creature enters, sacrifice it unless you exile a creature card and an instant or sorcery card from your graveyard.
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When this creature dies, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+		When this creature enters, sacrifice it unless you exile a creature card and an instant or sorcery card from your graveyard.
+		When this creature dies, look at the top two cards of your library. Put one into your hand and the rest into your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 4
@@ -3725,6 +3819,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3738,7 +3833,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:44:20
-	time_modified: 2025-11-03 19:49:11
+	time_modified: 2026-04-18 14:25:26
 	name: Unwelcome Host
 	casting_cost: 3U
 	image: image107
@@ -3756,7 +3851,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When this creature enters, for each other creature, you may choose a permanent attached to that creature or a counter on that creature. Move the chosen counters to this creature and attach the chosen permanents to this creature <i-auto>(if able)</i-auto>.
+		When this creature enters, for each other creature, you may choose a permanent attached to that creature or a counter on that creature. Move the chosen counters onto this creature and attach the chosen permanents to this creature <i-auto>(if able)</i-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -3767,6 +3862,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3807,6 +3903,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3845,6 +3942,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3889,6 +3987,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !uncommonremoval
@@ -3915,6 +4014,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3929,7 +4029,7 @@ card:
 		overlay: 
 	notes: You may reveal a planeswalker, Eldrazi or Horror card you own from outside the game and put it into your hand. If you don’t, you lose 2 life, surveil 2, then draw two cards.
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-13 10:46:57
+	time_modified: 2026-04-20 17:56:49
 	name: Beckon the Beyond
 	casting_cost: 2B
 	image: image112
@@ -3945,12 +4045,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: You may reveal a planeswalker, Eldrazi or Horror card you own from outside the game and put it into your hand. If you don’t, you lose 2 life, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.
+	rule_text: You may reveal an Ashiok, Eldrazi, Horror, or black planeswalker card you own from outside the game and put it into your hand. If you don’t, you lose 2 life, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.
 	flavor_text: <i-flavor><error-spelling:en_US>Ashiok</error-spelling:en_US> had known <error-spelling:en_US>Innistrad</error-spelling:en_US> as a world of nightmares, but not the truth about what lurked beneath its silvery moon.</i-flavor>
 	illustrator: bruno-henrique
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -3988,6 +4089,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4002,7 +4104,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 17:17:43
-	time_modified: 2025-10-08 00:18:36
+	time_modified: 2026-04-20 17:00:58
 	name: Bloodsire’s Herald
 	casting_cost: 1B
 	image: image114
@@ -4017,7 +4119,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		When this creature enters, look at the top six cards of your library. You may reveal a Vampire or Sorin card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+		When this creature enters, look at the top six cards of your library. You may reveal a Vampire or Sorin card from among them and put it into your hand. Put the rest on the bottom in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -4028,12 +4130,13 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		front_font_cap: 
+		front_font_cap: 12.5
 		front_chop: 
 		back_style: normal
 		back_chop: 4,4
@@ -4080,6 +4183,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4107,13 +4211,14 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
 	notes: 
 	time_created: 2025-04-13 20:26:44
-	time_modified: 2026-01-20 23:38:26
+	time_modified: 2026-04-18 14:31:56
 	card_color: black
 	card_color_2: white
 	name: Callous Killer
@@ -4135,7 +4240,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		<sym-auto>1B</sym-auto>, Sacrifice another creature: Draw a card. If there are seven or more cards in your graveyard, you may transform this creature. Activate only as a sorcery.
+		<sym-auto>1B</sym-auto>, Sacrifice another creature: Draw a card. Then if there are seven or more cards in your graveyard, you may transform this creature. Activate only as a sorcery.
 	rule_text_2: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>In life, he killed for money, revenge, and even the <error-spelling:en_US>Skirsdag</error-spelling:en_US> cult.</i-flavor>
 	flavor_text_2: <i-flavor>Now, he is ever-doomed to be stained with the blood of all those he has killed—a eternal reminder of his deepest transgressions.</i-flavor>
@@ -4148,6 +4253,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4189,6 +4295,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4226,6 +4333,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4239,7 +4347,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-02-06 19:10:20
-	time_modified: 2025-12-03 19:16:19
+	time_modified: 2026-04-20 18:02:45
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -4260,7 +4368,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever one or more Zombie cards are put into your graveyard from anywhere, put a +1/+1 counter on <atom-cardname><nospellcheck>Captain Faulmorr</nospellcheck></atom-cardname>.
-		<sym-auto>1B</sym-auto>, Pay 2 life, Exile three cards from your graveyard: Draw a card.
+		<sym-auto>2B</sym-auto>, Pay 2 life, Exile two cards from your graveyard: Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -4268,6 +4376,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4283,7 +4392,7 @@ card:
 		overlay: 
 	notes: For each player that does, that player draws a card.
 	time_created: 2025-12-29 18:50:30
-	time_modified: 2026-01-30 18:46:49
+	time_modified: 2026-04-18 14:33:12
 	name: Curse of Dark Blasphemy
 	casting_cost: 3BB
 	image: image129
@@ -4301,13 +4410,14 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		When this Curse enters, enchanted player exiles a creature or planeswalker with the greatest mana value among creatures and planeswalkers they control.
+		When this Aura enters, enchanted player exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.
 		Whenever enchanted player draws a card, each of their opponents may pay 1 life. Each player that does draws a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Fred Gissubel
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4337,6 +4447,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4373,6 +4484,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4412,6 +4524,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4440,6 +4553,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4454,7 +4568,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-02 20:50:14
-	time_modified: 2026-02-21 23:19:39
+	time_modified: 2026-04-20 18:12:44
 	name: Disciple of Darker Powers
 	casting_cost: B
 	image: image134
@@ -4471,8 +4585,9 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This creature enters tapped. When it enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a> and you lose 1 life.
-		<sym-auto>2BB</sym-auto>, Exile five other cards from your graveyard: Return this card from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it. It’s a Demon Horror with base power and toughness 5/4.
+		This creature enters tapped.
+		When this creature enters, you <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a> and lose 1 life.
+		<sym-auto>3BB</sym-auto>, Exile four other cards from your graveyard: Return this card from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it. It’s a Demon Horror with base power and toughness 5/4.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -4480,6 +4595,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4522,6 +4638,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4551,6 +4668,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4589,6 +4707,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4630,6 +4749,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4644,7 +4764,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-02-05 20:06:09
-	time_modified: 2026-02-26 14:06:04
+	time_modified: 2026-04-18 14:36:55
 	name: Gravebutcher
 	casting_cost: BB
 	image: image139
@@ -4662,7 +4782,7 @@ card:
 	rarity: rare
 	rule_text:
 		This creature can’t block.
-		When this creature dies, you may pay <sym-auto>B</sym-auto>. If you do, return target creature card not named <atom-cardname><nospellcheck>Gravebutcher</nospellcheck></atom-cardname> from your graveyard to your hand. If you return a Zombie card this way, return this card from your graveyard to your hand.
+		When this creature dies, you may pay <sym-auto>B</sym-auto>. If you do, return target creature card not named <atom-cardname><nospellcheck>Gravebutcher</nospellcheck></atom-cardname> from your graveyard to your hand. If you returned a Zombie card this way, return this card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 2
@@ -4671,6 +4791,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4714,6 +4835,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4753,6 +4875,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4795,6 +4918,7 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4835,6 +4959,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: !replacetoken Infused */* Zombie;1
@@ -4861,6 +4986,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4902,6 +5028,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -4937,6 +5064,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4951,7 +5079,7 @@ card:
 		overlay: 
 	notes: nontribe
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-13 20:18:34
+	time_modified: 2026-04-18 14:40:53
 	card_color_2: black
 	name: Ossuary Guardian
 	name_2: Curse of Broken Bones
@@ -4976,7 +5104,7 @@ card:
 	rule_text_2:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever a creature you control dies, enchanted player loses 1 life.
-		If this enchantment would be put into a graveyard from anywhere, exile it instead.
+		If this Aura would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>Eye for eye, bone for bone.</i-flavor>
 	power: 5
@@ -4989,6 +5117,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5028,6 +5157,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5067,6 +5197,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5104,6 +5235,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5144,6 +5276,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5181,6 +5314,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5217,6 +5351,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5254,6 +5389,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5294,6 +5430,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5330,6 +5467,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5369,6 +5507,7 @@ card:
 		[+2]: <margin:130:0:0>You may have up to one target creature you control gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto></margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a 2/2 black Vampire creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-8]: <margin:130:0:0><atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> deals X damage divided among any number of targets and you gain X life, where X is the number of cards in your graveyard.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5402,6 +5541,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5441,6 +5581,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5494,6 +5635,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5508,7 +5650,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-01-03 02:17:11
-	time_modified: 2026-01-19 22:54:42
+	time_modified: 2026-04-20 17:43:25
 	name: Thirsty Work
 	casting_cost: B
 	image: image163
@@ -5525,13 +5667,14 @@ card:
 	sub_type_4: 
 	rarity: common
 	rule_text:
-		As an additional cost to cast this spell, you may behold a Vampire. <i-auto>(You may reveal a Vampire card from your hand or choose one you control.)</i-auto>
+		As an additional cost to cast this spell, you may <kw-1><nospellcheck><key>behold <param-a>a</param-a> <param-name>Vampire</param-name>.</key></nospellcheck><atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Vampire</param-name>, choose <param-a>a</param-a> <param-name>Vampire</param-name> you control or reveal <param-a>a</param-a> <param-name>Vampire</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-1>
 		Target creature gets -2/-2 until end of turn. If a Vampire was beheld, you gain 2 life.
 	flavor_text: <i-flavor>Olivia’s party <error-spelling:en_US>bloodwine</error-spelling:en_US> is of the finest lineage.</i-flavor>
 	illustrator: isabeau-m
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5572,6 +5715,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5614,6 +5758,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5652,6 +5797,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5666,7 +5812,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-13 11:44:57
+	time_modified: 2026-04-18 14:49:32
 	name: Ash-Addled Pyromaniac
 	casting_cost: 1R
 	image: image80
@@ -5685,7 +5831,7 @@ card:
 	rule_text:
 		When this creature dies, choose one —
 		<li><bullet>• </bullet>Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
-		</li><li><bullet>• </bullet>Create a red Ardor enchantment token with “Sacrifice this enchantment: Target creature gets +1/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”
+		</li><li><bullet>• </bullet>Create a red Ardor enchantment token with “Sacrifice this token: Target creature gets +1/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”
 		</li><li><bullet>• </bullet>Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -5694,6 +5840,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5708,7 +5855,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-28 21:31:00
-	time_modified: 2025-11-12 11:41:38
+	time_modified: 2026-04-20 17:47:46
 	name: Ashmouth Intruders
 	casting_cost: 3RR
 	image: image89
@@ -5730,10 +5877,11 @@ card:
 	flavor_text: <i-flavor>You can’t keep good devils down.</i-flavor>
 	power: 3
 	toughness: 4
-	illustrator: Diablo artwork
+	illustrator: Phroilan Gardner
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5764,6 +5912,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5778,7 +5927,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:20:48
-	time_modified: 2025-10-12 12:31:32
+	time_modified: 2026-04-20 17:54:52
 	name: Awoken Heir
 	casting_cost: R
 	image: image115
@@ -5795,8 +5944,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever another creature you control enters, this creature gets +1/+0 until end of turn.
+		Whenever another creature you control enters, this creature gets +1/+0 until end of turn. If you control three or more Vampires, it gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
 		<sym-auto>3R</sym-auto>: Create a 1/1 red Vampire creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -5805,6 +5953,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5826,13 +5975,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>. Add <sym-auto>R</sym-auto>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		Create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>. Add <sym-auto>R</sym-auto>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>B</sym-auto>, Exile a Vampire card from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: zudarts-lee
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -5873,11 +6023,13 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
+		front_chop: 0,0,5,
 		back_style: normal
 		level_1_chop: -2,2
 		level_5_chop: -4,4
@@ -5922,13 +6074,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
 	notes: 
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-13 20:18:46
+	time_modified: 2026-04-18 14:52:58
 	card_color_2: red
 	name: Cackling Igniter
 	name_2: Curse of Wyldfyre
@@ -5954,7 +6107,7 @@ card:
 	rule_text_2:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		At the beginning of enchanted player’s upkeep, this enchantment deals 1 damage to them.
-		If this enchantment would be put into a graveyard from anywhere, exile it instead.
+		If this Aura would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 1
@@ -5967,6 +6120,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6005,6 +6159,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6048,11 +6203,12 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2025-10-06 13:49:51
+	time_modified: 2026-04-18 14:54:37
 	name: Cordelia’s Ripper
 	casting_cost: 7RR
 	image: image169
@@ -6069,7 +6225,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		This spell costs <sym-auto>1</sym-auto> less to cast for each instant, sorcery or Vampire card in your graveyard.
+		This spell costs <sym-auto>1</sym-auto> less to cast for each instant, sorcery, and/or Vampire card in your graveyard.
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		Whenever this creature attacks, it deals 2 damage to any target.
 	flavor_text: <i-flavor></i-flavor>
@@ -6079,6 +6235,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6093,7 +6250,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:33:51
-	time_modified: 2026-02-27 16:26:20
+	time_modified: 2026-04-18 14:54:47
 	name: Covetous Neonate
 	casting_cost: R
 	image: image170
@@ -6106,8 +6263,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		This creature gets +1/+0 and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as there is an instant, sorcery or Vampire card in your graveyard.
-		When this creature dies, create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		This creature gets +1/+0 and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> as long as there is an instant, sorcery, or Vampire card in your graveyard.
+		When this creature dies, create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -6118,11 +6275,12 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-12 19:40:11
-	time_modified: 2025-08-28 21:38:34
+	time_modified: 2026-04-18 14:54:54
 	name: Curse of Devilish Ire
 	casting_cost: 2R
 	image: image171
@@ -6140,13 +6298,14 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		When this enchantment enters, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
+		When this Aura enters, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
 		If a Demon or Devil would deal damage to enchanted player or a permanent they control, it deals that much damage plus 1 instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: dariia-anfalova
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6161,7 +6320,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-22 01:22:57
-	time_modified: 2026-01-25 15:33:25
+	time_modified: 2026-04-20 18:07:41
 	name: Curse of Searing Ground
 	casting_cost: 3R
 	image: image172
@@ -6180,17 +6339,19 @@ card:
 	rule_text:
 		This spell can’t be countered.
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted player taps a nonbasic land for mana, this Curse deals 1 damage to them.
+		Damage dealt to enchanted player can’t be prevented.
+		Whenever a player taps a nonbasic land for mana, this Aura deals 1 damage to them.
 	flavor_text: <i-flavor>Where devils dance, the earth burns.</i-flavor>
 	illustrator: tomasz-ryger
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-16 12:04:44
-	time_modified: 2024-12-20 18:11:04
+	time_modified: 2026-04-18 14:57:44
 	card_color: red
 	name: Devil’s Breach Prowler
 	casting_cost: 2R
@@ -6203,7 +6364,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever an opponent casts a spell during your turn, you may exile the top two cards of your library. If you do, you may play one of them until the end of your next turn.
+		Whenever an opponent casts a spell during your turn, you may exile the top two cards of your library. Until the end of your next turn, you may play one of those cards.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -6214,6 +6375,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6229,7 +6391,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-20 21:13:42
-	time_modified: 2026-02-22 12:51:28
+	time_modified: 2026-04-20 17:46:00
 	name: Embers of a New Moon
 	casting_cost: R
 	image: image174
@@ -6245,13 +6407,14 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As an additional cost to cast this spell, behold a Wolf or Werewolf or pay <sym-auto>2</sym-auto>. <i-auto>(To behold a Wolf or Werewolf, reveal a Wolf or Werewolf card from your hand or choose one you control.)</i-auto>
+		As an additional cost to cast this spell, <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Wolf or Werewolf or pay <sym>2</sym></param-name>.</key></nospellcheck></kw-0> <i-auto>(You may choose a Wolf or Werewolf you control or reveal a Wolf or Werewolf card from your hand.)</i-auto>
 		Exile the top two cards of your library. You may play them until the end of your next turn.
 	flavor_text: <i-flavor>“The night sky blazes, and <error-spelling:en_US>Ulrich</error-spelling:en_US> calls the hunt!”</i-flavor>
 	illustrator: sam-kanios
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6292,6 +6455,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6335,6 +6499,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6366,6 +6531,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6380,7 +6546,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 02:17:11
-	time_modified: 2026-02-26 14:07:20
+	time_modified: 2026-04-20 19:07:22
 	name: Feasting Ceremony
 	casting_cost: 1R
 	image: image178
@@ -6397,13 +6563,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever a Vampire enters under your control or you discard a card, this enchantment deals 1 damage to each opponent.
-		<sym-auto>1R</sym-auto>, Exile three cards from your graveyard: Create a 1/1 red Vampire creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Whenever a Vampire you control enters or you discard a card, this enchantment deals 1 damage to each opponent.
+		<sym-auto>1R</sym-auto>, Exile three cards from your graveyard: Create a 1/1 red Vampire creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Activate only during your turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Florian Herold
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6418,7 +6585,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 19:30:13
-	time_modified: 2025-12-14 11:47:41
+	time_modified: 2026-04-20 17:31:01
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -6442,13 +6609,14 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
-	illustrator: anatofinnstark
+	illustrator: Anato Finnstark
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6486,6 +6654,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6523,6 +6692,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6572,6 +6742,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6586,7 +6757,7 @@ card:
 		overlay: 
 	notes: !rareremoval
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-04 13:58:31
+	time_modified: 2026-04-20 19:07:58
 	name: Geistblaster’s Breakthrough
 	casting_cost: R
 	image: image184
@@ -6603,13 +6774,14 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Geistblaster’s Breakthrough</nospellcheck></atom-cardname> deals damage to target creature or planeswalker equal to the number of differently named instant and sorcery cards in your graveyard plus 1.
-		When you discard this card, you may pay <sym-auto>3RR</sym-auto>. If you do, create a 5/5 red Elemental creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		<atom-cardname><nospellcheck>Geistblaster’s Breakthrough</nospellcheck></atom-cardname> deals X damage to target creature or planeswalker, where X is 1 plus the number of differently named instant and sorcery cards in your graveyard.
+		When you discard this card during your turn, you may pay <sym-auto>3RR</sym-auto>. If you do, create a 5/5 red Elemental creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: paolo-fraone
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6640,6 +6812,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6654,7 +6827,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2025-10-16 22:25:16
+	time_modified: 2026-04-20 19:09:26
 	name: Goremare
 	casting_cost: 2R
 	image: image186
@@ -6671,12 +6844,13 @@ card:
 	sub_type_4: 
 	rule_text: Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. It gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>The <error-spelling:en_US>Goremoon’s</error-spelling:en_US> ascendancy afflicted more than just wolves and werewolves.</i-flavor>
-	power: 3
+	power: 2
 	toughness: 2
 	illustrator: julie-cellarier
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6691,7 +6865,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-02-22 17:53:58
+	time_modified: 2026-04-18 15:18:22
 	name: The Goremoon Unleashed
 	casting_cost: 3RR
 	image: image187
@@ -6707,12 +6881,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Choose target creature you control. It deals damage equal to its power to each other creature and planeswalker. If that creature was savage, exile cards from the top of your library equal to its power. You may cast one of them without paying its mana cost. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+	rule_text: Choose target creature you control. It deals damage equal to its power to each other creature and planeswalker. If the chosen creature was savage, exile a number of cards from the top of your library equal to its power. You may cast one of those cards without paying its mana cost. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: igorgalkin
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6755,6 +6930,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6769,7 +6945,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 18:20:39
-	time_modified: 2025-10-07 23:45:26
+	time_modified: 2026-04-18 15:19:55
 	name: The Haunting of Silbern
 	casting_cost: 1R
 	image: image190
@@ -6787,12 +6963,13 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 until end of turn.
-		<sym-auto>1U</sym-auto>: This enchantment becomes a 3/3 blue Elemental Spirit creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> in addition to its other types until end of turn.
+		<sym-auto>1U</sym-auto>: <atom-cardname><nospellcheck>The Haunting of Silbern</nospellcheck></atom-cardname> becomes a 3/3 blue Elemental Spirit creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> in addition to its other types until end of turn.
 	flavor_text: <i-flavor>The shrieking from the old <error-spelling:en_US>Silbern</error-spelling:en_US> watchtower never seemed to stop.</i-flavor>
 	illustrator: seongkwang ji
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6807,7 +6984,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2025-11-06 11:26:06
+	time_modified: 2026-04-20 18:00:38
 	name: Herald of Ashmouth
 	casting_cost: 4RR
 	image: image191
@@ -6828,10 +7005,11 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 5
-	illustrator: Gwent artwork
+	illustrator: Maciej Laszkiewicz
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6882,13 +7060,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
-		chop_top: 6
-		chop_bottom: 6
+		chop_top: 2
+		chop_bottom: 
 		frames: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -6898,7 +7077,7 @@ card:
 		!uncommonremoval
 		!tag wishlist
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-02-22 17:54:01
+	time_modified: 2026-04-20 19:13:06
 	name: Lunarblind Packmaster
 	casting_cost: 1RR
 	image: image194
@@ -6916,15 +7095,17 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		This creature enters tapped. When it enters, it deals 2 damage to any target.
+		This creature enters tapped.
+		When this creature enters, it deals 2 damage to any target.
 		This creature can’t attack or block unless it attacks or blocks with another savage creature. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
+	power: 2
 	toughness: 4
 	illustrator: filip-storch
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6979,6 +7160,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -6993,7 +7175,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 16:57:34
-	time_modified: 2025-12-03 19:21:43
+	time_modified: 2026-04-18 15:24:08
 	name: Nightpack Alpha
 	casting_cost: R
 	image: image197
@@ -7005,7 +7187,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		This creature can’t block.
-		Whenever a creature you control transforms, put a +1/+1 counter on that creature.
+		Whenever a creature you control transforms, put a +1/+1 counter on it.
 	flavor_text:
 		<i-flavor>“There’s something out there. I’ve seen the red eyes lurking in the dark, waiting.”<soft-line>
 		—Harlan, <error-spelling:en_US>Kessig</error-spelling:en_US> villager</soft-line></i-flavor>
@@ -7018,11 +7200,12 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 22:43:35
-	time_modified: 2025-12-16 01:17:51
+	time_modified: 2026-04-18 15:24:23
 	name: Odric’s Fury
 	casting_cost: R
 	image: image198
@@ -7038,13 +7221,14 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Target creature gets +1/+0 until end of turn. If that creature is a Vampire or you cast another instant or sorcery spell this turn, it gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+		Target creature gets +1/+0 until end of turn. If that creature is a Vampire or you’ve cast another instant or sorcery spell this turn, it gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
 		Draw a card.
 	flavor_text: <i-flavor>Driven mad by the taint of <error-spelling:en_US>vampirism</error-spelling:en_US>, <error-spelling:en_US>Odric</error-spelling:en_US> focused his rage against House <error-spelling:en_US>Domnathi</error-spelling:en_US>.</i-flavor>
 	illustrator: 88grzes
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7084,6 +7268,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7135,6 +7320,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7149,7 +7335,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-29 20:25:27
-	time_modified: 2025-08-25 15:25:32
+	time_modified: 2026-04-18 15:29:15
 	name: Ravenous Companions
 	casting_cost: 2R
 	image: image202
@@ -7162,7 +7348,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking.
+		This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s your turn.
 		<sym-auto>2R</sym-auto>, Sacrifice another creature: This creature gets +2/+1 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>One sups their victim’s <error-spelling:en_US>preyblood</error-spelling:en_US>, and the other feasts on its still-warm flesh.</i-flavor>
 	power: 2
@@ -7174,6 +7360,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7190,7 +7377,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-01-22 01:21:58
+	time_modified: 2026-04-18 15:27:12
 	extra_data:
 		magic-m15-mainframe-dfc:
 			front_color_hint: FT
@@ -7211,7 +7398,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Whenever this creature attacks, you may have it gorge. Then if you discarded a card and sacrificed a creature this turn, transform it. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
+	rule_text: Whenever this creature attacks, you may have it gorge. Then if you’ve discarded a card and sacrificed a creature this turn, transform it. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
 	rule_text_2:
 		<kw-0><nospellcheck><key>Trample</key></nospellcheck></kw-0>
 		When this creature transforms into <atom-legname><nospellcheck>Unbound Fanatic</nospellcheck></atom-legname>, add <sym-auto>RR</sym-auto>. Until end of turn, you don’t lose this mana as steps and phases end.
@@ -7226,6 +7413,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7240,7 +7428,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 11:43:15
-	time_modified: 2026-02-22 17:54:40
+	time_modified: 2026-04-18 15:28:19
 	name: Russetpack Predator
 	casting_cost: 3R
 	image: image205
@@ -7250,7 +7438,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Wolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When this creature enters, it deals 1 damage to each opponent for each savage creature you control. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+	rule_text: When this creature enters, it deals damage to each opponent equal to the number of savage creatures you control. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 	flavor_text: <i-flavor>The <error-spelling:en_US>Goremoon’s</error-spelling:en_US> rise encouraged <error-spelling:en_US>wolfkind</error-spelling:en_US> to indulge their basest pursuits.</i-flavor>
 	power: 3
 	toughness: 4
@@ -7261,11 +7449,12 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 17:19:45
-	time_modified: 2025-03-31 20:58:47
+	time_modified: 2026-04-18 15:28:44
 	name: Sanguinary Hexcaster
 	casting_cost: 3R
 	image: image206
@@ -7283,7 +7472,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When this creature enters, you may exile target instant or sorcery card from your graveyard. If you do, you may cast that card until the end of your next turn. If it would be put into a graveyard from anywhere, exile it instead.
+		When this creature enters, you may exile target instant or sorcery card from your graveyard. If you do, you may cast that card until the end of your next turn. If that spell would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -7291,6 +7480,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7332,6 +7522,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7357,6 +7548,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7409,6 +7601,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7423,7 +7616,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 19:59:20
-	time_modified: 2026-02-21 01:50:24
+	time_modified: 2026-04-18 15:35:12
 	name: Stromkirk Warlord
 	casting_cost: 3R
 	image: image211
@@ -7438,7 +7631,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: At the beginning of combat on your turn, you may have target creature you control get +2/+0 until end of turn. If it’s a Vampire, it gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	rule_text: At the beginning of combat on your turn, you may have target creature you control get +2/+0 until end of turn. If it’s a Vampire, it also gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“Children! Tonight, we rise!”</i-flavor>
 	power: 2
 	toughness: 3
@@ -7446,6 +7639,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7496,6 +7690,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7532,6 +7727,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7546,7 +7742,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:35:08
-	time_modified: 2026-01-21 00:11:39
+	time_modified: 2026-04-18 15:36:54
 	name: Arlinn’s Kindred
 	casting_cost: 2GG
 	image: image215
@@ -7558,7 +7754,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, up to one other target Wolf or Werewolf you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn. You may transform it.
+		When this creature enters, up to one other target Wolf or Werewolf you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn. You may transform that creature.
 	flavor_text: <i-flavor>Even apart from the plane, <error-spelling:en_US>Arlinn</error-spelling:en_US> watches over <error-spelling:en_US>Innistrad’s</error-spelling:en_US> packs.</i-flavor>
 	power: 4
 	toughness: 3
@@ -7569,6 +7765,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7605,6 +7802,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7645,6 +7843,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7685,6 +7884,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7700,7 +7900,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-22 17:53:37
+	time_modified: 2026-04-18 15:37:51
 	name: Call of the Ulvenvater
 	casting_cost: 3G
 	image: image219
@@ -7717,20 +7917,21 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This spell costs <sym-auto>X</sym-auto> less to cast, where X is the number of savage creatures you control. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+		This spell costs <sym-auto>1</sym-auto> less to cast for each savage creature you control. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 		Reveal the top ten cards of your library. You may put a creature and/or a land card from among them into your hand. Put the rest on the bottom in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: sam-m-mburu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
 	notes: 
 	time_created: 2025-08-19 17:54:12
-	time_modified: 2025-10-02 12:28:42
+	time_modified: 2026-04-20 18:04:45
 	name: Consuming Grounds
 	name_2: Restless Waldgraf
 	casting_cost: 1G
@@ -7748,11 +7949,12 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then you may return a permanent card from your graveyard to your hand.
+		Return target permanent card from your graveyard to your hand.
 		<sym-auto>4G</sym-auto>: Return this card from your graveyard to the battlefield transformed. Activate only as a sorcery.
 	rule_text_2:
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
-		At the beginning of combat on your turn, you may discard a card. If you do, untap this land. It becomes a 5/5 green Zombie Treefolk creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		At the beginning of combat, you may discard a card. If you do, untap this land. It becomes a 5/5 green Zombie Treefolk creature with <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. It’s still a land.
+		If this land would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	illustrator: daniele-salis
@@ -7760,6 +7962,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7774,7 +7977,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-22 01:22:57
-	time_modified: 2026-01-23 02:20:26
+	time_modified: 2026-04-20 18:06:44
 	name: Curse of Harvest’s Reaping
 	casting_cost: 3G
 	image: image222
@@ -7792,12 +7995,13 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever a player attacks enchanted player, the attacking player may sacrifice a creature. If they do, they search their library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put it onto the battlefield tapped and attacking, then shuffle.
+		Whenever a player attacks enchanted player, the attacking player may sacrifice an attacking creature. If they do, they search their library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put it onto the battlefield tapped and attacking, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: steve-hamilton
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7826,6 +8030,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7867,6 +8072,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7906,6 +8112,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7945,6 +8152,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -7983,6 +8191,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7999,7 +8208,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-01-22 01:26:28
+	time_modified: 2026-04-20 18:14:03
 	card_color_2: black
 	name: Devotion to Ghrin-Danu
 	name_2: Ghrin-Danu’s Dark Return
@@ -8021,7 +8230,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-legname><nospellcheck>Devotion to Ghrin-Danu</nospellcheck></atom-legname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> and you gain 3 life. When you do, you may return target land card from your graveyard to the battlefield.
-		<sym-auto>3GG</sym-auto>: Transform <atom-legname><nospellcheck>Devotion to Ghrin-Danu</nospellcheck></atom-legname>. Activate only if there are seven or more cards in your graveyard and only as a sorcery.
+		<sym-auto>3BG</sym-auto>: Transform <atom-legname><nospellcheck>Devotion to Ghrin-Danu</nospellcheck></atom-legname>. Activate only if there are thirteen or more cards in your graveyard and only as a sorcery.
 	rule_text_2: At the beginning of your end step, choose a card at random from among permanent cards in your graveyard. Return that card and each card in your graveyard that shares a name with it to the battlefield.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>As <error-spelling:en_US>Ashiok’s</error-spelling:en_US> grand designs fell into place, </i>two<i> twisted gods reemerged upon <error-spelling:en_US>Innistrad</error-spelling:en_US>.</i-flavor>
@@ -8033,6 +8242,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8075,12 +8285,13 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		front_font_cap: 13
+		front_font_cap: 11.3
 		front_chop: -1,3
 		back_style: normal
 		back_chop: 4,-1
@@ -8131,6 +8342,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8145,7 +8357,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 21:43:02
-	time_modified: 2026-02-14 17:06:55
+	time_modified: 2026-04-20 17:46:11
 	name: Foray into Stensia
 	casting_cost: 2G
 	image: image234
@@ -8161,13 +8373,14 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As an additional cost to cast this spell, you may behold a Human. <i-auto>(To behold a Human, reveal a Human card from your hand or choose one you control.)</i-auto>
+		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Human</param-name>.</key></nospellcheck><atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Human</param-name>, choose <param-a>a</param-a> <param-name>Human</param-name> you control or reveal <param-a>a</param-a> <param-name>Human</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		Put a +1/+1 counter on each creature you control. If a Human was beheld, those creatures gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: bastien-lecouffe-deharme
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8180,9 +8393,12 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:
+		When this creature dies, target opponent chooses one, then you choose one that hasn’t been chosen this way.
+		• The player that chose this mode creates a tapped Treasure token.
+		• The player that chose this mode creates a 1/1 white Human creature token.
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-20 00:01:05
+	time_modified: 2026-04-20 16:19:30
 	card_color: green
 	name: Gavony Watchman
 	casting_cost: G
@@ -8201,9 +8417,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<margin:0:0:5>When this creature dies, target opponent chooses one, then you choose one that hasn’t been chosen this way.</margin:0:0:5>
-		<li><bullet>• </bullet>That player creates a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
-		</li><li><bullet>• </bullet>That player creates a 1/1 white Human creature token.</li>
+		When this creature dies, target opponent creates their choice of a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> or a 1/1 white Human creature token, then you create the other token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -8211,6 +8425,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8224,7 +8439,7 @@ card:
 		overlay: 
 	notes: !tag wishlist
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-02-05 21:10:47
+	time_modified: 2026-04-20 16:04:28
 	name: Getander Wildlander
 	casting_cost: 2G
 	image: image236
@@ -8242,7 +8457,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		When this creature enters or attacks, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
-		<sym-auto>G</sym-auto>, Sacrifice three artifacts or enchantments: Create a 4/4 green Bear creature token. Activate only as a sorcery.
+		<sym-auto>G</sym-auto>, Sacrifice three artifacts and/or enchantments: Create a 4/4 green Bear creature token. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -8250,6 +8465,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8290,6 +8506,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8321,6 +8538,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8360,6 +8578,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8375,7 +8594,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-13 20:18:40
+	time_modified: 2026-04-18 14:53:23
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: FTFTFT
@@ -8403,7 +8622,7 @@ card:
 	rule_text_2:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever a land you control enters, if you control more lands than enchanted player, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0> and you gain 1 life.
-		If this enchantment would be put into a graveyard from anywhere, exile it instead.
+		If this Aura would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor>An eerie sight at the borders of <error-spelling:en_US>Videns</error-spelling:en_US>.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 5
@@ -8416,6 +8635,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8428,9 +8648,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: Midnight Hunt Planeswalker Guide
 	time_created: 2025-01-03 02:03:53
-	time_modified: 2026-02-26 19:49:36
+	time_modified: 2026-04-20 16:06:28
 	name: Harvesttide Procession
 	casting_cost: 3G
 	image: image242
@@ -8450,10 +8670,11 @@ card:
 		At the beginning of your end step, create your choice of a 1/1 white Human creature token or a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 		<i>Concord — </i>If there are four or more card types among permanents you control, if an effect would create one or more tokens under your control, it creates that many plus one of those tokens instead.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: Midnight Hunt Planeswalker’s Guide
+	illustrator: Wizards of the Coast
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8492,6 +8713,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8506,7 +8728,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2025-10-06 20:42:17
+	time_modified: 2026-04-20 19:12:27
 	name: Hope’s Trail Ranger
 	casting_cost: 1GG
 	image: image244
@@ -8523,20 +8745,21 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
 		<i>Concord — </i>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. If there are four or more card types among permanents you control, put a +1/+1 counter on each creature you control instead.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 3
+	toughness: 2
 	illustrator: ardika-priyata
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2025-11-06 14:10:47
+	time_modified: 2026-04-20 16:07:32
 	name: In the Face of Darkness
 	casting_cost: 1G
 	image: image245
@@ -8553,13 +8776,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When this enchantment enters, you gain 3 life. <kw-A><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+		When this enchantment enters, you gain 3 life, then <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
 		Humans you control get +1/+1.
 	flavor_text: <i-flavor>Even on <error-spelling:en_US>Innistrad</error-spelling:en_US>, there is always hope.</i-flavor>
 	illustrator: adam-marton
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8609,6 +8833,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8652,6 +8877,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8678,6 +8904,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8715,6 +8942,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8755,6 +8983,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8769,7 +8998,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 19:35:58
-	time_modified: 2026-02-11 18:37:44
+	time_modified: 2026-04-20 16:11:05
 	name: Prying Eyedra
 	casting_cost: 2GGG
 	image: image252
@@ -8784,7 +9013,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		This creature’s power and toughness are each equal to the number of cards in your hand.
+		<atom-cardname><nospellcheck>Prying Eyedra</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of cards in your hand.
 		Whenever this creature enters or attacks, you may sacrifice another non-Eye creature. If you do, you draw X cards and gain X life, where X is the sacrificed creature’s toughness.
 	flavor_text: <i-flavor></i-flavor>
 	power: *
@@ -8796,6 +9025,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8839,6 +9069,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8889,6 +9120,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -8931,6 +9163,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8985,6 +9218,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9024,6 +9258,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9038,7 +9273,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-05-08 23:18:25
-	time_modified: 2025-11-14 16:53:03
+	time_modified: 2026-04-20 16:12:49
 	name: Sporecyst Toad
 	casting_cost: 2G
 	image: image260
@@ -9056,7 +9291,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		You may play an additional land during each of your turns.
+		You may play an additional land on each of your turns.
 		<sym-auto>3U</sym-auto>: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.
 	rule_text_2: 
 	rule_text_3: 
@@ -9071,6 +9306,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9120,6 +9356,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !uncommonremoval
@@ -9148,6 +9385,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9182,6 +9420,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9196,7 +9435,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 00:50:05
-	time_modified: 2025-10-07 23:50:03
+	time_modified: 2026-04-20 19:16:19
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -9219,7 +9458,7 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<margin:0:0:5>Whenever you cast your first spell during each opponent’s turn, choose one —</margin:0:0:5>
 		<li><bullet>• </bullet>Create a 2/2 green Wolf creature token.
-		</li><li><bullet>• </bullet>Another target creature you control fights target creature you don’t control.</li>
+		</li><li><bullet>• </bullet>Put a +1/+1 counter on each creature you control that’s a Wolf or a Werewolf.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -9227,6 +9466,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9255,6 +9495,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9304,11 +9545,14 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
+		front_font_cap: 
+		front_chop: ,,5,
 		back_style: normal
 		level_1_chop: -4,4
 		level_5_chop: -3,3
@@ -9353,6 +9597,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9367,7 +9612,7 @@ card:
 		overlay: 
 	notes: * savage
 	time_created: 2024-08-16 11:43:15
-	time_modified: 2026-02-22 17:55:04
+	time_modified: 2026-04-20 16:15:07
 	name: Waldshadow Ambusher
 	casting_cost: 2G
 	image: image271
@@ -9379,7 +9624,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		This creature enters with a +1/+1 counter on it if you control a savage creature. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+		This creature enters with a +1/+1 counter on it if you control another savage creature. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -9390,6 +9635,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9427,6 +9673,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9461,6 +9708,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9503,6 +9751,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9517,7 +9766,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 21:18:41
-	time_modified: 2025-03-31 21:52:15
+	time_modified: 2026-04-20 17:51:27
 	name: Avacyn’s Legacy
 	casting_cost: GW
 	image: image274
@@ -9536,12 +9785,13 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +1/+1 and has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
-		<i>Concord — </i>Enchanted creature has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as there are four or more card types among permanents you control.
+		<i>Concord — </i>Enchanted creature gets an additional +1/+1 and has <kw-a><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> as long as there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: jb-casacop
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9556,7 +9806,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-01-21 00:15:06
+	time_modified: 2026-04-20 16:16:16
 	name: Blight of Hamlets
 	casting_cost: 4BG
 	image: image275
@@ -9574,7 +9824,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When this creature enters, look at the top X plus one cards of your library, where X is the number of land cards in your graveyard. Put one of them into your hand and the rest on the bottom of your library in a random order.
+		When this creature enters, look at the top X cards of your library, where X is one plus the number of land cards in your graveyard. Put one of them into your hand and the rest on the bottom in a random order.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -9589,6 +9839,7 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9601,9 +9852,13 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !tag wishlist
+	notes:
+		!tag wishlist
+		Once each turn, if an effect you control would cause you to sacrifice a creature or you would sacrifice a creature to pay a cost, you may sacrifice an artifact or enchantment instead.
+		
+		If an effect you control would cause you to sacrifice a creature, or a cost has you sacrifice a creature other than its ability’s source, you may sacrifice an artifact or enchantment instead. Do so only once each turn.
 	time_created: 2025-01-03 02:13:06
-	time_modified: 2025-11-03 14:37:15
+	time_modified: 2026-04-20 19:05:29
 	name: Blood Bank
 	casting_cost: BR
 	image: image276
@@ -9620,13 +9875,14 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When this enchantment enters, create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
-		Once each turn, if you would sacrifice a creature to pay a cost or an effect you control would cause you to sacrifice a creature, you may sacrifice an artifact or enchantment instead.
+		When this enchantment enters, create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		Once each turn, if an effect you control would cause you to sacrifice a creature or you would sacrifice a creature to pay a cost, you may sacrifice an artifact or enchantment instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: rainer-petter
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9642,7 +9898,7 @@ card:
 		overlay: 
 	notes: Pay X life, Exile X cards from your graveyard: Add X C. Spend this mana only to cast an instant or sorcery spell without X in its mana cost. Activate only once each turn.
 	time_created: 2024-07-29 21:50:38
-	time_modified: 2026-01-23 02:31:17
+	time_modified: 2026-04-20 16:21:04
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/its
@@ -9663,7 +9919,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Whenever <atom-legname><nospellcheck>The Collabomination</nospellcheck></atom-legname> or another nontoken Zombie you control enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> and create a 2/2 black Zombie creature token.
-		Pay 1 life, Exile a card from your graveyard: Add <sym-auto>C</sym-auto>. Spend this mana only to cast an instant or sorcery spell without X in its mana cost.
+		Pay 1 life, Exile a card from your graveyard: Add <sym-auto>C</sym-auto>. Spend this mana only to cast an instant or sorcery spell without <sym>X</sym> in its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -9674,6 +9930,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9688,9 +9945,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-11 13:07:21
-	time_modified: 2026-04-13 18:55:59
+	time_modified: 2026-04-20 18:06:08
 	name: Curse of Entomophobia
-	casting_cost: GU
+	casting_cost: 1GU
 	image: image278
 	image_2: 
 	mainframe_image: 
@@ -9703,7 +9960,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		When this enchantment enters, enchanted player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		When this Aura enters, enchanted player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Whenever one or more land cards are put into enchanted player’s graveyard from anywhere, create a 1/1 green and blue Insect creature token.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sergey Vasnev
@@ -9713,6 +9970,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9753,6 +10011,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9767,7 +10026,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 22:53:23
-	time_modified: 2025-10-07 23:52:48
+	time_modified: 2026-04-20 16:22:09
 	name: Desperate Exorcism
 	casting_cost: WU
 	image: image280
@@ -9777,7 +10036,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Exile target spell or nonland permanent you control and target spell or nonland permanent you don’t control. For as long as those cards remains exiled, their owners may play them. Spells your opponents cast this way cost <sym-auto>2</sym-auto> more to cast.
+	rule_text: Exile target spell or nonland permanent you control and target spell or nonland permanent you don’t control. For as long as those cards remain exiled, their owners may play them. Spells your opponents cast this way cost <sym-auto>2</sym-auto> more to cast.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: yigit-koroglu
 	card_code_text: 
@@ -9786,6 +10045,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9800,9 +10060,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-30 10:22:57
-	time_modified: 2025-12-19 15:24:14
+	time_modified: 2026-04-20 18:18:02
 	name: Drowntide Rising
-	casting_cost: 3UB
+	casting_cost: 2UUB
 	image: image281
 	image_2: 
 	mainframe_image: 
@@ -9813,7 +10073,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Return each non-Zombie creature to its owner’s hand, then each opponent exiles a card from their hand at random.
+	rule_text: Return each non-Zombie creature to its owner’s hand, then each opponent exiles a card from their hand.
 	flavor_text:
 		<i-flavor>“The midnight waters deliver us all such a bounty of fresh flesh for our work.”<soft-line>
 		—<error-spelling:en_US>Jadar</error-spelling:en_US>, <error-spelling:en_US>ghoulcaller</error-spelling:en_US> of <error-spelling:en_US>Nephalia</soft-line></i-flavor></error-spelling:en_US>
@@ -9824,6 +10084,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9864,6 +10125,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9894,11 +10156,13 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
+		front_chop: ,,9,
 		back_style: normal
 		level_1_chop: -4,4
 		level_5_chop: -4,4
@@ -9907,7 +10171,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-10-08 11:44:26
+	time_modified: 2026-04-20 16:25:31
 	card_color_2: red, green, multicolor, horizontal
 	name: Fangrite Mistress
 	name_2: Lunar-Zenith Alpha
@@ -9925,7 +10189,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, it deals 1 damage to each opponent for each spell an opponent cast this turn.
+		When this creature enters, it deals damage damage to each opponent equal to the number of spells all of your opponents have cast this turn.
 		At the beginning of each upkeep, if no spells were cast last turn, transform this creature.
 	rule_text_2:
 		Whenever this creature transforms into <atom-cardname><nospellcheck>Lunar-Zenith Alpha</nospellcheck></atom-cardname>, put a +1/+1 counter on each other Wolf and Werewolf you control.
@@ -9944,6 +10208,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9956,14 +10221,16 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !tag wishlist
+	notes:
+		!tag wishlist
+		choose any number of permanent cards in your graveyard each with mana value 2 or less and different card types. For each of those cards, any player may pay 2 life. If no one does, return that card from your graveyard to the battlefield tapped.
 	time_created: 2025-12-13 14:09:17
-	time_modified: 2025-12-13 20:37:49
+	time_modified: 2026-04-20 17:30:56
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
 	name: Ghrin-Danu Returned
-	casting_cost: 1WBG
+	casting_cost: 2WBG
 	image: image286
 	image_2: 
 	mainframe_image: 
@@ -9979,14 +10246,15 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ghrin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Danu</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, if you cast it, choose any number of permanent cards in your graveyard each with mana value 2 or less and different card types. For each of those cards, any player may pay 2 life. If no one does, return that card from your graveyard to the battlefield tapped.
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ghrin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Danu</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, if you cast it, for each permanent type, choose a card in your graveyard of that type with mana value 2 or less that hasn’t been chosen yet. For each of those cards, return it to the battlefield tapped unless any player pays 2 life.
 	flavor_text: <i-flavor></i-flavor>
-	power: 5
-	toughness: 4
-	illustrator: anato-finnstark
+	power: 6
+	toughness: 5
+	illustrator: Anato Finnstark
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -9999,9 +10267,12 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Choose any number of permanent types. For each permanent type chosen this way, sacrifice each permanent of that type. Then returns all cards of that type from your graveyard that weren't put there this way to the battlefield.
+	notes:
+		Choose any number of permanent types. For each permanent type chosen this way, sacrifice each permanent of that type. Then returns all cards of that type from your graveyard that weren't put there this way to the battlefield.
+		
+		Choose a permanent type. Sacrifice each permanent of the chosen type. Then return all cards of the chosen type with mana value twice X or less from your graveyard that weren’t put there this way to the battlefield. Lands that enter this way enter tapped.
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2025-09-29 22:24:24
+	time_modified: 2026-04-20 16:37:54
 	name: Gnarlwood’s Claim
 	casting_cost: X2BG
 	image: image287
@@ -10017,12 +10288,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Choose a permanent type. Sacrifice each permanent of the chosen type. Then return all cards of the chosen type with mana value twice X or less from your graveyard that weren’t put there this way to the battlefield. Lands that enter this way enter tapped.
+	rule_text: Choose a permanent type. Simultaneously sacrifice each permanent you control of the chosen type and return to the battlefield each card in your graveyard of the chosen type with mana value twice X or less. Lands that enter this way enter tapped.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: dan-rossi-
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10067,6 +10339,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10081,7 +10354,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-02-26 20:06:34
+	time_modified: 2026-04-20 16:39:10
 	name: Gravespore Guardian
 	casting_cost: 2BG
 	image: image289
@@ -10098,8 +10371,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
+		<atom-cardname><nospellcheck>Gravespore Guardian</nospellcheck></atom-cardname>’s power is equal to the number of land cards in your graveyard.
 		Whenever this creature enters or attacks, you may sacrifice a land or discard a land card. If you do, draw a card and you gain 2 life.
-		This creature’s power is equal to the number of land cards in your graveyard.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -10113,6 +10386,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10153,6 +10427,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10191,6 +10466,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10230,6 +10506,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10268,6 +10545,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10291,10 +10569,20 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
-	has_styling: false
+	has_styling: true
+	styling_data:
+		front_chop: ,,5,
+		back_style: normal
+		back_chop: 4,4
+		level_1_chop: -4,4
+		level_5_chop: -1,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
 	time_modified: 2025-09-24 11:52:13
@@ -10334,6 +10622,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10374,6 +10663,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10402,7 +10692,7 @@ card:
 		
 		This creature enters with three +1/+1 counters on it. When it enters, you may distribute X +1/+1 counters among creatures you control.
 	time_created: 2025-12-13 14:13:00
-	time_modified: 2026-02-23 11:28:29
+	time_modified: 2026-04-20 16:41:36
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: They/them
@@ -10424,7 +10714,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This creature enters with three +1/+1 counters on it. When it enters, you may distribute X +1/+1 counters among creatures you control.
+		<atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> enters with three +1/+1 counters on it.
+		When <atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> enters, you may distribute X +1/+1 counters among creatures you control.
 		Whenever <atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> attacks, you may remove a counter from any number of creatures you control. When you do, draw that many cards and <atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> deals that much damage to each opponent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
@@ -10433,6 +10724,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10447,7 +10739,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 12:07:02
-	time_modified: 2025-03-29 00:59:59
+	time_modified: 2026-04-20 16:42:00
 	name: Moonlit Revelry
 	casting_cost: 2RG
 	image: image299
@@ -10461,7 +10753,7 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +2/+2.
-		When this enchantment enters and whenever enchanted creature transforms, create a 2/2 green Wolf creature token.
+		When this Aura enters and whenever enchanted creature transforms, create a 2/2 green Wolf creature token.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Márton Gyula Kiss
 	card_code_text: 
@@ -10470,6 +10762,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !replacetoken Infused */* Zombie;1
@@ -10503,6 +10796,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10548,6 +10842,7 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10591,6 +10886,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -10642,6 +10938,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10680,6 +10977,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10715,6 +11013,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !uncommonremoval
@@ -10744,6 +11043,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10782,6 +11082,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10826,11 +11127,12 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2024-07-30 10:24:37
-	time_modified: 2026-04-13 16:44:24
+	time_modified: 2026-04-18 14:01:08
 	name: Stonegraf Awakener
 	casting_cost: UB
 	image: image310
@@ -10849,7 +11151,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Other Zombies you control get +1/+1.
-		You may exile a Zombie card to stitch rather than a creature card and an instant or sorcery card.
+		You may exile a Zombie card from your graveyard to stitch rather than a creature card and an instant or sorcery card.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 2
@@ -10861,6 +11163,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10875,7 +11178,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2025-11-14 01:06:58
+	time_modified: 2026-04-20 16:46:28
 	name: Teeming Secrets
 	casting_cost: GU
 	image: image311
@@ -10891,7 +11194,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Look at the top three cards of your library. You may put a land card from among them onto the battlefield tapped. If you don’t, put one of them into your hand. Put the rest into your graveyard.
+	rule_text: Look at the top three cards of your library. You may put a land card from among them onto the battlefield tapped. If you don’t, put one of those cards into your hand. Put the rest into your graveyard.
 	flavor_text:
 		<i-flavor>“The ceaseless <error-spelling:en_US>chittering</error-spelling:en_US> fills my thoughts, even during sleep. But I have learned so much.”<soft-line>
 		—<error-spelling:en_US>Mathilda</error-spelling:en_US>, villager</soft-line></i-flavor>
@@ -10899,21 +11202,14 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
-	has_styling: true
-	styling_data:
-		chop_top: 4
-		chop_bottom: 10
-		frames: 
-		other_options: 
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
+	has_styling: false
 	notes: 
 	time_created: 2024-07-28 23:27:26
-	time_modified: 2025-07-01 12:39:37
+	time_modified: 2026-04-20 16:47:23
 	name: Tethered Fettergeists
 	casting_cost: 1WU
 	image: image312
@@ -10926,7 +11222,8 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
 		Possess <i-auto>(When this dies as a creature, you may return it to the battlefield as an Aura attached to target creature.)</i-auto>
-		This creature or enchanted creature can’t attack or block unless this creature’s or enchanted creature’s controller pays <sym-auto>2</sym-auto>.
+		This creature can’t attack or block unless you pay <sym-auto>2</sym-auto>.
+		Enchanted creature can’t attack or block unless its controller pays <sym-auto>2</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
@@ -10937,6 +11234,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -10981,6 +11279,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11021,6 +11320,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11064,11 +11364,12 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !uncommonremoval
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-03-02 13:42:54
+	time_modified: 2026-04-20 16:51:45
 	name: Unstable Experimentation
 	casting_cost: UR
 	image: image316
@@ -11084,12 +11385,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Draw a card, then you may discard a card. If you don’t, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. When you discard a card this way, <atom-cardname><nospellcheck>Unstable Experimentation</nospellcheck></atom-cardname> deals 3 damage to any target.
+	rule_text: Draw a card. Then you may discard a card or <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. When you discard a card this way, <atom-cardname><nospellcheck>Unstable Experimentation</nospellcheck></atom-cardname> deals 3 damage to any target.
 	flavor_text: <i-flavor>“So close! Just a little more <error-spelling:en_US>geist</error-spelling:en_US>-fuel!”</i-flavor>
 	illustrator: DirkLoechel
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11104,7 +11406,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-12-13 14:08:46
-	time_modified: 2026-01-19 23:58:40
+	time_modified: 2026-04-20 16:54:44
 	name: Urgent Investigations
 	casting_cost: 1WUB
 	image: image317
@@ -11120,7 +11422,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Look at the top seven cards of your library. You may reveal up to four cards that share no card types from among them. Put the revealed cards into your hand, then put the rest on the bottom of your library in a random order.
+	rule_text: Look at the top seven cards of your library. You may reveal up to four cards that share no card types from among them. Put the revealed cards into your hand, then put the rest on the bottom in a random order.
 	flavor_text:
 		<i-flavor>“I do not work with you lightly, vampire.”<soft-line>
 		“I know, Thalia. But <error-spelling:en_US>Innistrad</error-spelling:en_US> needs us both.”
@@ -11131,13 +11433,14 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 1
-		chop_bottom: 2
+		chop_bottom: 7
 		frames: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -11145,7 +11448,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2025-11-06 14:03:28
+	time_modified: 2026-04-20 17:30:52
 	name: Westvale Adherent
 	casting_cost: 1WB
 	image: image318
@@ -11163,14 +11466,15 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.
-		<sym-auto>3WB</sym-auto>, Exile this card from your graveyard, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+		<sym-auto>3WB</sym-auto>, Sacrifice a creature, Exile this card from your graveyard: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: anato finnstark
+	illustrator: Anato Finnstark
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11183,9 +11487,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: When this creature enters, you may exile from your graveyard an instant card with mana value 2 or less and/or a sorcery card with mana value 2 or less from your graveyard. If you exiled two cards this way, choose one of them at random and cast a copy of it without paying its mana cost. Put the other card into your hand.
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2025-12-14 11:10:17
+	time_modified: 2026-04-20 17:22:59
 	name: Wildcaster Devil
 	casting_cost: 2UR
 	image: image319
@@ -11203,14 +11507,15 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, you may exile an instant and a sorcery card each with mana value 2 or less from your graveyard. If you exiled two cards this way, choose one of them at random and cast a copy of it without paying its mana cost. Put the other card into your hand.
+		When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: hearthstone artwork
+	illustrator: Mauricio Herrera
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11257,6 +11562,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11298,11 +11604,12 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: Midnight Hunt Planeswalker Guide (uncredited)
 	time_created: 2025-03-31 20:59:09
-	time_modified: 2025-04-13 12:29:17
+	time_modified: 2026-04-20 17:21:51
 	name: Harvesttide Effigies
 	casting_cost: 2
 	image: image322
@@ -11322,10 +11629,11 @@ card:
 		When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand or graveyard, then shuffle.
 		<i>Concord</i> — <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Exile a land card from your graveyard: Draw a card. Activate only if there are there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: Midnight Hunt Planeswalker’s Guide
+	illustrator: Wizards of the Coast
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11366,6 +11674,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11380,7 +11689,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:24:51
-	time_modified: 2026-02-22 12:46:12
+	time_modified: 2026-04-18 15:34:38
 	name: Thirsting Dagger
 	casting_cost: 1
 	image: image324
@@ -11397,7 +11706,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Equipped creature gets +1/+0. As long as it’s your turn, it has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		Equipped creature gets +1/+0. As long as it’s your turn, it also has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
 		Whenever equipped creature attacks, you may have it gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -11405,6 +11714,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11419,7 +11729,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-11-03 22:21:56
-	time_modified: 2026-02-26 20:08:05
+	time_modified: 2026-04-20 17:28:25
 	name: Unmarked Headstones
 	casting_cost: 0
 	image: image325
@@ -11436,14 +11746,15 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When this artifact enters, you may exile target card in a graveyard.
+		When this artifact enters, you may exile target card from a graveyard.
 		<sym-auto>2</sym-auto>, Sacrifice this artifact: Draw a card.
-		<sym-auto>1</sym-auto>, Exile this card from your graveyard: You may exile target card in a graveyard.
+		<sym-auto>1</sym-auto>, Exile this card from your graveyard: You may exile target card from a graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Brian Flora
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11472,6 +11783,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11511,6 +11823,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11525,7 +11838,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2025-10-09 11:45:50
+	time_modified: 2026-04-20 17:34:13
 	name: Desolate Cemetery
 	image: image328
 	image_2: 
@@ -11541,7 +11854,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This land enters tapped unless you control two or fewer other lands. When it enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		As this land enters, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If you do, it enters tapped.
 		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>B</sym-auto>.
 		<sym-auto>1B</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Return target creature or planeswalker card from your graveyard to your hand. Activate only if there are seven or more cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
@@ -11552,6 +11865,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11566,7 +11880,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2026-02-26 20:08:16
+	time_modified: 2026-04-20 17:34:21
 	name: Desolate Garrison
 	image: image329
 	image_2: 
@@ -11582,7 +11896,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This land enters tapped unless you control two or fewer other lands. When it enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		As this land enters, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If you do, it enters tapped.
 		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>W</sym-auto>.
 		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Create two 1/1 white Human creature tokens. Activate only if there are seven or more cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
@@ -11593,6 +11907,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11607,7 +11922,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2025-10-09 11:46:02
+	time_modified: 2026-04-20 17:34:29
 	name: Desolate Harbor
 	image: image330
 	image_2: 
@@ -11623,7 +11938,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This land enters tapped unless you control two or fewer other lands. When it enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		As this land enters, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If you do, it enters tapped.
 		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>U</sym-auto>.
 		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Draw two cards, then put a card from your hand on the bottom of your library. Activate only if there are seven or more cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
@@ -11634,6 +11949,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11648,7 +11964,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2025-10-09 11:46:06
+	time_modified: 2026-04-20 17:37:26
 	name: Desolate Pinnacle
 	image: image331
 	image_2: 
@@ -11664,7 +11980,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This land enters tapped unless you control two or fewer other lands. When it enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		As this land enters, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If you do, it enters tapped.
 		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>R</sym-auto>.
 		<sym-auto>2R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: It deals 3 damage to any target. Activate only if there are seven or more cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
@@ -11675,6 +11991,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11689,7 +12006,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2025-10-09 11:46:10
+	time_modified: 2026-04-20 17:36:56
 	name: Desolate Thicket
 	image: image332
 	image_2: 
@@ -11705,7 +12022,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		This land enters tapped unless you control two or fewer other lands. When it enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		As this land enters, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If you do, it enters tapped.
 		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>G</sym-auto>.
 		<sym-auto>2G</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Put a +1/+1 counter on each creature you control. Activate only if there are seven or more cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
@@ -11716,6 +12033,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11755,6 +12073,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11792,6 +12111,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11806,7 +12126,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-02-17 01:24:01
+	time_modified: 2026-04-20 17:38:37
 	name: Flooded Grafyards
 	image: image335
 	image_2: 
@@ -11822,13 +12142,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		This land enters tapped unless you behold a Zombie. <i-auto>(You may reveal a Zombie card from your hand or choose one you control.)</i-auto>
+		As this land enters, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Zombie</param-name>.</key></nospellcheck> If you don’t, it enters tapped.<atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Zombie</param-name>, choose <param-a>a</param-a> <param-name>Zombie</param-name> you control or reveal <param-a>a</param-a> <param-name>Zombie</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
 	flavor_text: <i-flavor><error-spelling:en_US>Skaabs</error-spelling:en_US> from waterlogged <error-spelling:en_US>grafs</error-spelling:en_US> are imbued with the inexorable persistence of the tides.</i-flavor>
 	illustrator: andre-bruniera
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11843,7 +12164,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-02-17 01:27:07
+	time_modified: 2026-04-20 17:46:35
 	name: Lonely Cabin
 	image: image336
 	image_2: 
@@ -11859,7 +12180,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		This land enters tapped unless you behold a Wolf or Werewolf. <i-auto>(You may reveal a Wolf or Werewolf card from your hand or choose one you control.)</i-auto>
+		As this land enters, you may <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Wolf or Werewolf</param-name>.</key></nospellcheck></kw-0> If you don’t, it enters tapped. <i-auto>(You may choose a Wolf or Werewolf you control or reveal a Wolf or Werewolf card from your hand.)</i-auto>
 		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
 	flavor_text:
 		<i-flavor>“I don’t think the <error-spelling:en_US>neighbours</error-spelling:en_US> are friendly!”<soft-line>
@@ -11868,6 +12189,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11882,7 +12204,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-02-14 17:01:54
+	time_modified: 2026-04-20 17:39:17
 	name: Marzela’s Sanctum
 	image: image337
 	image_2: 
@@ -11898,13 +12220,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		This land enters tapped unless you behold a Vampire. <i-auto>(You may reveal a Vampire card from your hand or choose one you control.)</i-auto>
+		As this land enters, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Vampire</param-name>.</key></nospellcheck> If you don’t, it enters tapped.<atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Vampire</param-name>, choose <param-a>a</param-a> <param-name>Vampire</param-name> you control or reveal <param-a>a</param-a> <param-name>Vampire</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
 	flavor_text: <i-flavor>The ancient seat of the <error-spelling:en_US>Falkenrath</error-spelling:en_US> progenitor still radiates her great and terrible <error-spelling:en_US>bloodlust</error-spelling:en_US>.</i-flavor>
 	illustrator: bx-moon-art-studio
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11919,7 +12242,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-02-17 01:21:35
+	time_modified: 2026-04-20 17:39:25
 	name: Niblis’s Haunt
 	image: image338
 	image_2: 
@@ -11935,13 +12258,14 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		This land enters tapped unless you behold a Spirit. <i-auto>(You may reveal a Spirit card from your hand or choose one you control.)</i-auto>
+		As this land enters, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit</param-name>.</key></nospellcheck> If you don’t, it enters tapped.<atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Spirit</param-name>, choose <param-a>a</param-a> <param-name>Spirit</param-name> you control or reveal <param-a>a</param-a> <param-name>Spirit</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
 	flavor_text: <i-flavor>An ever-present blanket of chilling fog shrouds <error-spelling:en_US>Herghast’s</error-spelling:en_US> domain from prying eyes. </i-flavor>
 	illustrator: shen-fei
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11956,7 +12280,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-02-17 18:30:35
+	time_modified: 2026-04-20 17:39:33
 	name: Solstice Circle
 	image: image339
 	image_2: 
@@ -11972,7 +12296,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		This land enters tapped unless you behold a Human. <i-auto>(You may reveal a Human card from your hand or choose one you control.)</i-auto>
+		As this land enters, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Human</param-name>.</key></nospellcheck> If you don’t, it enters tapped.<atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Human</param-name>, choose <param-a>a</param-a> <param-name>Human</param-name> you control or reveal <param-a>a</param-a> <param-name>Human</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
 	flavor_text:
 		<i-flavor>“We welcome the great <error-spelling:en_US>Ghrin</error-spelling:en_US>-<error-spelling:en_US>Danu</error-spelling:en_US> back into our world, to deliver us from the <error-spelling:en_US>Goremoon</error-spelling:en_US>!”<soft-line>
@@ -11981,6 +12305,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
@@ -11996,7 +12321,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-31 13:23:54
-	time_modified: 2025-12-13 14:46:27
+	time_modified: 2026-04-20 17:47:20
 	name: Odric, Accursed Slayer
 	casting_cost: RW
 	image: image340
@@ -12013,8 +12338,8 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		Whenever <atom-legname><nospellcheck>Odric</nospellcheck></atom-legname> enters or attacks, create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
-		Whenever you discard a creature card with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <atom-legname><nospellcheck>Odric</nospellcheck></atom-legname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. The same is true for <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		Whenever <atom-legname><nospellcheck>Odric</nospellcheck></atom-legname> enters or attacks, create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		Whenever you discard a creature card with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <atom-legname><nospellcheck>Odric</nospellcheck></atom-legname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. The same is true for <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -12022,6 +12347,7 @@ card:
 	card_code_text: BaB Promo
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12046,6 +12372,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12070,6 +12397,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12094,6 +12422,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12118,6 +12447,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12142,6 +12472,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12171,6 +12502,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12200,6 +12532,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12231,6 +12564,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12260,6 +12594,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12289,6 +12624,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12318,6 +12654,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12344,6 +12681,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12375,6 +12713,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12406,6 +12745,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12437,6 +12777,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12468,6 +12809,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12499,6 +12841,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12528,6 +12871,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12557,6 +12901,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12586,6 +12931,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12615,6 +12961,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12644,6 +12991,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12673,6 +13021,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12704,6 +13053,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12733,6 +13083,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12762,6 +13113,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12791,6 +13143,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12820,6 +13173,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12849,6 +13203,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12878,6 +13233,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12907,6 +13263,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12936,6 +13293,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12965,6 +13323,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12994,6 +13353,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -13023,6 +13383,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -13054,6 +13415,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
+
 keyword:
 	keyword: Stitch
 	match: Stitch <atom-param>number</atom-param>
