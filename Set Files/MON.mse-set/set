@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	description: Set symbol by Abelzumi
 	set_code: MON
@@ -114,7 +114,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -906,7 +906,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1011,7 +1011,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Return target nonland permanent to its owner’s hand. If this spell was harnessed, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pachabel (DA)
@@ -1097,7 +1097,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		<atom-cardname><nospellcheck>Flamethrower</nospellcheck></atom-cardname> deals 4 damage to any target.
 	rule_text_2: 
 	rule_text_3: 
@@ -1631,7 +1631,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1956,7 +1956,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -2281,7 +2281,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Draw three cards.
 	flavor_text: <i-flavor>Not even a nibble...</i-flavor>
 	illustrator: Kezrek
@@ -2335,7 +2335,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Enchanted creature doesn’t untap during its controller’s untap step.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Daniel Reyes
@@ -2515,7 +2515,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		<atom-cardname><nospellcheck>Magnitude</nospellcheck></atom-cardname> deals X damage to each player and each creature without <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that didn’t <kw-0><nospellcheck><key>harness</key></nospellcheck></kw-0> it.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Necipcan Karakus
@@ -2597,7 +2597,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Target creature gets -X/-X until end of turn.
 	flavor_text:
 		<i-flavor>“Seems ‘scared to <error-spelling:en_US>death’</error-spelling:en_US> isn’t just an expression around here.”<soft-line>
@@ -3028,7 +3028,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Put two +1/+1 counters on target creature. If this spell was harnessed, also put a +1/+1 counter on the creature that harnessed it.
 	flavor_text: <i-flavor>The display inspired confidence and fear in equal measure.</i-flavor>
 	illustrator: AdamantShimmer
@@ -3056,7 +3056,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Enchanted creature gets +3/+0 and has <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: onemegawatt
@@ -3270,7 +3270,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3978,7 +3978,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		You gain X life.
 	flavor_text: <i-flavor>Sometimes one good night is all you need to set your worries aside.</i-flavor>
 	illustrator: Twime777
@@ -4175,7 +4175,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Butterfree
 	time_created: 2020-01-04 22:57:03
@@ -4334,7 +4334,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -4493,7 +4493,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4516,7 +4516,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Exile the top three cards of your library. Cast a spell with mana value X or less from among them without paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: DayWalker1117
@@ -4570,7 +4570,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		<atom-cardname><nospellcheck>Overheat</nospellcheck></atom-cardname> deals X damage to any target.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: arkeis-pokemon
@@ -4714,7 +4714,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Return up to two target cards from your graveyard to your hand. Exile <atom-cardname><nospellcheck>Secret Stash</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: DIaris
@@ -4840,7 +4840,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4962,7 +4962,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -5178,7 +5178,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2017-11-10 20:08:38
@@ -5438,7 +5438,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5462,7 +5462,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Search target opponent’s library for a creature or planeswalker card and put it onto the battlefield under your control. That player shuffles.
 	flavor_text: <i-flavor>“Don’t worry, you’ll be safe with us now.”</i-flavor>
 	illustrator: aaadada
@@ -5513,7 +5513,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		Glalie
@@ -5651,7 +5651,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Return each nonland permanent your opponents control to its owner’s hand.
 	flavor_text:
 		<i-flavor>“Any heartless trainer can raise a monster. Only a true master can raise a champion and a friend.”<soft-line>
@@ -5694,7 +5694,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5764,7 +5764,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6101,7 +6101,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -6393,7 +6393,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6431,7 +6431,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2019-11-09 02:03:45
-	time_modified: 2021-01-31 21:25:22
+	time_modified: 2026-04-22 01:20:27
 	name: Maple’s Journal
 	casting_cost: 5
 	image: image244
@@ -6439,7 +6439,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each differently named creature you control.
@@ -6552,7 +6558,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -7045,7 +7051,6 @@ card:
 	notes:
 		“A big silver mountain cuts the country in half, making a good landmark to work with when trying to map Chikyu.”
 		—Karina Oblay, field notes
-
 	time_created: 2017-11-10 22:52:55
 	time_modified: 2025-11-28 17:48:33
 	card_color: red, land
@@ -7353,7 +7358,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7387,7 +7392,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Celebi
 	time_created: 2017-11-11 22:41:07
@@ -7402,7 +7407,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		Take an extra turn after this one. Exile <atom-cardname><nospellcheck>Temporal Aria</nospellcheck></atom-cardname>.
 	flavor_text:
 		<i-flavor>“Time itself is just a toy for these monsters.”<soft-line>
@@ -7445,7 +7450,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7487,7 +7492,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -7624,7 +7629,6 @@ card:
 	notes:
 		!exportname TerminalWurm
 		!tokentag TerminalWurm
-
 	time_created: 2020-05-02 18:28:00
 	time_modified: 2025-11-28 21:15:59
 	card_color: green
@@ -7851,7 +7855,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -7978,7 +7982,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8107,7 +8111,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -8224,7 +8228,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8502,7 +8506,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8540,7 +8544,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8578,7 +8582,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8616,7 +8620,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8654,7 +8658,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8692,7 +8696,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12,12,
@@ -8734,7 +8738,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art
@@ -8805,7 +8809,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8923,7 +8927,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -9072,7 +9076,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9193,7 +9197,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9261,7 +9265,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9340,7 +9344,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -9386,7 +9390,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
-		
+
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2025-12-31 14:54:36
 	name: Ghastly Spirit
@@ -9418,7 +9422,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9556,7 +9560,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,

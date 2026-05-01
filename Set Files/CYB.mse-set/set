@@ -3842,7 +3842,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Choose a card name. Target permanent gains <kw-0><nospellcheck><key>protection from <param-name>the chosen name until end of turn.</param-name></key></nospellcheck></kw-0> <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+	rule_text: Choose a card name. Target permanent gains <kw-0><nospellcheck><key>protection from <param-name>the chosen name until end of turn</param-name>.</key></nospellcheck></kw-0> <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
 	flavor_text:
 		<i-flavor>“Your seconds are hours to me. Be glad that savoring your death will be swift.”<soft-line>
 		—Xiv</soft-line></i-flavor>
@@ -4638,7 +4638,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Untap any number of target creatures. They gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>protection from <param-name>noncreatures until end of turn.</param-name></key></nospellcheck></kw-0>
+	rule_text: Untap any number of target creatures. They gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>protection from <param-name>noncreatures until end of turn</param-name>.</key></nospellcheck></kw-0>
 	flavor_text:
 		<i-flavor>“For too long our kingdom has been a shadow of its former self. Now is the time for us to stand and achieve greatness once more.”<soft-line>
 		—General Diadem, Usurper</soft-line></i-flavor>
@@ -4914,7 +4914,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !canoncard Power of Persuasion
+	notes:
+		!canoncard Power of Persuasion
+		 203: Banned in RevEternal.
 	time_created: 2020-08-03 10:36:42
 	time_modified: 2025-01-30 19:57:50
 	name: No Time to Waste
@@ -8966,7 +8968,7 @@ card:
 	sub_type: <word-list-race-en>Wurm</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>Matter Harvester</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>protection from <param-name>mana values less than the number of artifacts you control.</param-name></key></nospellcheck></kw-0>
+		<atom-cardname><nospellcheck>Matter Harvester</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>protection from <param-name>mana values less than the number of artifacts you control</param-name>.</key></nospellcheck></kw-0>
 		Whenever a nonland permanent you don’t control leaves the battlefield, create a 1/1 colorless Cyborg artifact creature token.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
@@ -9923,7 +9925,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Nonland permanents you control have <kw-0><nospellcheck><key>phasing</key></nospellcheck></kw-0>. <i-auto>(They phase in or out before you untap during each of your untap steps. While a permanent is phased out, it’s treated as though it doesn’t exist.)</i-auto>
-		Whenever <atom-cardname><nospellcheck>Spacetime Seraph</nospellcheck></atom-cardname> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>, until your next turn, your life total can’t change and you have <kw-0><nospellcheck><key>protection from <param-name>everything.</param-name></key></nospellcheck></kw-0>
+		Whenever <atom-cardname><nospellcheck>Spacetime Seraph</nospellcheck></atom-cardname> <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>, until your next turn, your life total can’t change and you have <kw-0><nospellcheck><key>protection from <param-name>everything</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 5
@@ -11631,9 +11633,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !canoncard Damia, Sage of Stone
+	notes:
+		!canoncard Damia, Sage of Stone
+		
 	time_created: 2021-02-03 17:48:23
-	time_modified: 2024-03-04 16:28:04
+	time_modified: 2026-04-22 01:22:08
 	name: Stella’s Journal
 	casting_cost: XXX
 	image: image176
@@ -11641,7 +11645,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each differently named land you control.
@@ -12181,6 +12191,7 @@ card:
 	notes:
 		https://www.artstation.com/artwork/gJV1lZ
 		!design kayiu
+		
 	time_created: 2023-06-14 12:24:51
 	time_modified: 2025-09-30 22:13:19
 	name: Get Your Wish
@@ -12219,7 +12230,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !design CovetedPeacock
+	notes:
+		!design CovetedPeacock
+		
 	time_created: 2024-04-28 21:20:38
 	time_modified: 2025-04-28 15:19:03
 	name: Cogwork Harvester
@@ -13480,11 +13493,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Splitmoon
 		CYB
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:32:24
+	time_modified: 2026-04-30 19:58:25
 	name: Festered Effluvium
 	casting_cost: XB
 	image: image344
@@ -13504,7 +13517,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Stoica Alexandru Silviu
 	custom_card_number: 327
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13567,11 +13580,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Splitmoon
 		CYB
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:32:33
+	time_modified: 2026-04-30 19:58:15
 	name: Lagoroth, Century’s Apex
 	casting_cost: 3GG
 	image: image346
@@ -13596,7 +13609,7 @@ card:
 	toughness: 6
 	illustrator: Jakub Jagoda
 	custom_card_number: 329
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13613,11 +13626,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Splitmoon
 		CYB !hidetag (Calamity)
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:32:37
+	time_modified: 2026-04-30 19:57:54
 	card_color: artifact
 	name: Gilded Font
 	casting_cost: 2
@@ -13646,7 +13659,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Pedro Sena
 	custom_card_number: 330
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 

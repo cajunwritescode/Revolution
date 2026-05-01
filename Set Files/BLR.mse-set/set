@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Blood Like Rivers (Bloody Tears Edition)
 	description:
@@ -3150,7 +3150,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-06-19 18:34:39
-	time_modified: 2021-09-20 21:52:16
+	time_modified: 2026-04-22 01:20:56
 	name: Dreadlich Codex
 	casting_cost: 2
 	image: image114
@@ -3158,7 +3158,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text: <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Draw a card. You lose 2 life unless you discard a card or sacrifice a permanent.
 	flavor_text:
@@ -7395,7 +7401,7 @@ card:
 		<kw-1><nospellcheck><key>Multitude <param-cost><sym-auto>4WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this for <param-cost><sym-auto>4WW</sym-auto></param-cost>. When you do, copy it.)</i-auto></atom-reminder-custom></kw-1>
 		<kw-0><nospellcheck><key>Vigilance</key></nospellcheck></kw-0>
 		As <atom-cardname><nospellcheck>Glimpse of Something Great</nospellcheck></atom-cardname> enters, choose a number.
-		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value of the chosen number.</param-name></key></nospellcheck></kw-0>
+		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value of the chosen number</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -7430,7 +7436,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: mythic rare
 	rule_text:
-		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>red and from green.</param-name></key></nospellcheck></kw-0>
+		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>red and from green</param-name>.</key></nospellcheck></kw-0>
 		Whenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play them until end of turn. You may play an additional land this turn.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
@@ -8320,7 +8326,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -8367,7 +8373,6 @@ card:
 	notes:
 		!design Pipsqueak
 		!promo Eltensia Prophecy
-
 	time_created: 2022-08-25 19:26:19
 	time_modified: 2025-11-28 21:59:46
 	name: Approaching Greatness
@@ -8393,7 +8398,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8445,7 +8450,6 @@ card:
 	notes:
 		!promo Eltensia Prophecy
 		!design Pipsqueak
-
 	time_created: 2022-08-25 22:31:04
 	time_modified: 2025-11-28 21:57:57
 	name: The Herald of the Wildcourt
@@ -8573,7 +8577,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -8713,7 +8717,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8762,7 +8766,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -8802,7 +8806,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -8815,7 +8819,6 @@ card:
 	notes:
 		!design Pipsqueak
 		!promo Theros Fate
-
 	time_created: 2023-08-18 19:14:08
 	time_modified: 2025-11-28 22:06:30
 	name: Vibrant Vengeance
@@ -8843,7 +8846,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -8881,7 +8884,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -8926,7 +8929,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -8969,7 +8972,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -9009,7 +9012,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -9050,7 +9053,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -9107,7 +9110,6 @@ card:
 	notes:
 		!design Pipsqueak
 		!promo Theros Fate
-
 	time_created: 2023-08-24 13:54:16
 	time_modified: 2025-11-28 22:04:29
 	name: Drift Off
@@ -9164,7 +9166,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -9209,7 +9211,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted

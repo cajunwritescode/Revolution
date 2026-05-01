@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,375,340,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — TWI
+		!promo Valir Bounty
+		!secret !design Zangy
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 19:13:30
+	name: Matriarch of Veiled Kin
+	casting_cost: 2BB
+	image: image77
+	image_2: image78
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Other Horrors and Warlocks you control get +1/+1.
+		When Matriarch of Veiled Kin enters, reveal cards from the top of your library until you reveal a Horror or Warlock card with mana value 2 or less. Put that card onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Andreas Flouris
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

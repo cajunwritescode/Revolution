@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,-5,287,75,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — CNY
+		!promo Valir Bounty
+		!secret !design Stasis
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 17:51:14
+	name: Getaway Proxy
+	casting_cost: W
+	image: image66
+	image_2: image67
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When Getaway Proxy enters, you may choose another creature you control. Move any number of counters from that creature onto Getaway Proxy. Attach to Getaway Proxy any number of Auras that are attached to that creature. Then return that creature to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Matteo Spirito
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

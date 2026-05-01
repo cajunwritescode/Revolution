@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Kuutalya
 	copyright: 
@@ -283,7 +283,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -430,7 +430,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -459,7 +459,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Boreal
 	time_created: 2018-11-10 12:59:14
@@ -542,7 +542,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -640,7 +640,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -732,7 +732,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -764,7 +764,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -835,7 +835,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -903,7 +903,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -1039,7 +1039,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -1236,7 +1236,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1297,7 +1297,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -1361,7 +1361,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1432,7 +1432,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -1631,7 +1631,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1731,7 +1731,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1892,7 +1892,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -2026,7 +2026,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2061,7 +2061,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2145,7 +2145,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -2209,7 +2209,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -2374,7 +2374,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2437,7 +2437,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2523,7 +2523,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -2562,7 +2562,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2629,7 +2629,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2703,7 +2703,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2855,7 +2855,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2926,7 +2926,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -3092,7 +3092,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3,12,
@@ -3416,7 +3416,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -3474,7 +3474,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -3542,7 +3542,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -3614,7 +3614,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -3658,7 +3658,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -3876,7 +3876,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4146,7 +4146,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		<sym-auto>2</sym-auto>, Sacrifice a creature: Another target creature you control gains <kw-a><nospellcheck><key>protection from <param-name>the color of your choice until end of turn.</param-name></key></nospellcheck></kw-a>
+		<sym-auto>2</sym-auto>, Sacrifice a creature: Another target creature you control gains <kw-a><nospellcheck><key>protection from <param-name>the color of your choice until end of turn</param-name>.</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>“<error-spelling:en_US>Seqineq</error-spelling:en_US> and the thirty delivered this world from darkness once before. Now it falls to <error-spelling:en_US>Solara</error-spelling:en_US> and the <error-spelling:en_US>Narwa</error-spelling:en_US> to do so again!”</i-flavor>
 	power: 1
 	toughness: 1
@@ -4160,9 +4160,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Boreal
+	notes:
+		Boreal
+		 reworked: Previously modes fast flickered a creature, exiled a card from a graveyard, or put a +1/+1 counter on target creature you control.
 	time_created: 2020-02-05 15:38:56
-	time_modified: 2020-12-13 14:11:26
+	time_modified: 2026-04-22 15:37:23
 	name: Seqineq’s Radiance
 	casting_cost: W
 	image: image206
@@ -4174,9 +4176,9 @@ card:
 	rarity: uncommon
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet>Exile target creature you control, then return that card to the battlefield under its owner’s control.
-		</li><li><bullet>• </bullet>Exile target card from a graveyard.
-		</li><li><bullet>• </bullet>Put a +1/+1 counter on target creature you control.</li>
+		<li><bullet>• </bullet>Counter target spell that targets you.
+		</li><li><bullet>• </bullet>Exile up to two target cards from graveyards. You gain 2 life.
+		</li><li><bullet>• </bullet>Target creature gets +1/+1 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</li>
 	flavor_text: <i-flavor>As <error-spelling:en_US>Lhosei</error-spelling:en_US> severed <error-spelling:en_US>Solara’s</error-spelling:en_US> connection to <error-spelling:en_US>Seqineq</error-spelling:en_US>, the sun dawned over the <error-spelling:en_US>Tartok</error-spelling:en_US> Valley once more. </i-flavor>
 	watermark: other magic symbols color spotlight
 	illustrator: luke-lankaster
@@ -4215,7 +4217,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4360,7 +4362,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4449,7 +4451,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -4830,7 +4832,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4920,7 +4922,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4957,7 +4959,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5108,7 +5110,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -5173,7 +5175,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5337,7 +5339,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		guildmage
@@ -5368,7 +5370,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -5827,7 +5829,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -5925,7 +5927,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -5964,7 +5966,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6191,7 +6193,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6469,7 +6471,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6615,7 +6617,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -6682,7 +6684,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6718,7 +6720,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6756,7 +6758,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -6871,7 +6873,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6926,7 +6928,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Any number of target creatures you control gain <kw-a><nospellcheck><key>protection from <param-name>everything until end of turn.</param-name></key></nospellcheck></kw-a>
+	rule_text: Any number of target creatures you control gain <kw-a><nospellcheck><key>protection from <param-name>everything until end of turn</param-name>.</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor><error-spelling:en_US>Khembul</error-spelling:en_US> is a mystical hidden valley in the <error-spelling:en_US>Umutan</error-spelling:en_US> mountains, said to grant any who find it their wildest dreams.</i-flavor>
 	illustrator: new age book — edit
 	card_code_text: 
@@ -6938,7 +6940,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Asian
 	time_created: 2018-11-29 22:52:40
@@ -7111,7 +7113,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7234,7 +7236,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7298,7 +7300,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7373,7 +7375,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -7465,7 +7467,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7502,7 +7504,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -7590,7 +7592,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7848,7 +7850,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7894,7 +7896,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7957,7 +7959,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8058,7 +8060,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8272,7 +8274,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Asian
 	time_created: 2018-11-29 19:01:15
@@ -8343,7 +8345,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8472,7 +8474,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8698,7 +8700,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8734,7 +8736,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Asian
 	time_created: 2018-04-24 17:47:01
@@ -8765,7 +8767,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9021,7 +9023,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -9062,7 +9064,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Asian
 	time_created: 2020-04-19 14:05:30
@@ -9122,7 +9124,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 1
@@ -9192,7 +9194,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -10519,7 +10521,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10562,7 +10564,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15,10,
@@ -10603,7 +10605,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -10644,7 +10646,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted

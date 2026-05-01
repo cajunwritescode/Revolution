@@ -3450,7 +3450,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: Lost menace.
+	notes: nerfed: Lost menace.
 	time_created: 2023-07-09 13:47:08
 	time_modified: 2026-03-28 15:09:13
 	name: Koi-Tail Mer
@@ -4565,7 +4565,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Destroy target creature or planeswalker. Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		Destroy target creature or planeswalker. Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 		<kw-1><nospellcheck><key>Cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Isuardi Therianto
@@ -7719,9 +7719,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: nerfed: Now triggers once each turn.
 	time_created: 2023-08-09 12:50:45
-	time_modified: 2025-03-13 14:44:36
+	time_modified: 2026-04-30 14:09:39
 	name: Kitsune Matriarch
 	casting_cost: W
 	image: image116
@@ -7730,7 +7730,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Fox</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever you create one or more tokens, put a +1/+1 counter on this creature.
+	rule_text: Whenever you create one or more tokens, put a +1/+1 counter on this creature. This ability triggers only once each turn.
 	flavor_text: <i-flavor>Each <error-spelling:en_US>kitsune</error-spelling:en_US> pup receives a mask that allows them to take human form.</i-flavor>
 	power: 1
 	toughness: 1
@@ -8732,11 +8732,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: reworked: Was 1/1 for {B} that drained 1 when you cast a multicolor spell, and created a Treasure on death.
 	time_created: 2023-08-11 22:15:40
-	time_modified: 2024-11-17 14:35:13
+	time_modified: 2026-04-30 14:20:24
 	name: Omen Skulker
-	casting_cost: B
+	casting_cost: 1BB
 	image: image291
 	image_2: 
 	mainframe_image: 
@@ -8745,11 +8745,11 @@ card:
 	sub_type: <word-list-race-en>Skeleton</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever you cast a multicolored spell, this creature deals 1 damage to each opponent and you gain 1 life.
-		When this creature dies, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		Whenever you cast a white, blue, red, or green spell, you draw a card and lose 1 life.
+		Whenever this creature attacks, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 1
+	toughness: 4
 	illustrator: Korua
 	card_code_text: 
 	card_code_text_2: 
@@ -10571,7 +10571,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: Was {5}{R}{R}.
+	notes: nerfed: Was {5}{R}{R}.
 	time_created: 2024-12-28 22:02:31
 	time_modified: 2026-03-28 15:08:22
 	extra_data:
@@ -11191,7 +11191,6 @@ card:
 	notes:
 		!promo Kitsuo Mythmaker
 		!design Provocative
-		
 	time_created: 2024-12-28 22:34:39
 	time_modified: 2026-03-28 15:08:38
 	extra_data:
@@ -12261,17 +12260,16 @@ card:
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
+	has_styling: false
 	notes:
 		!promo Twiltrie Decree<soft-line>
-		!design Provocative</soft-line>
+		!design Provocative
+		</soft-line>
 	time_created: 2025-08-25 17:27:37
-	time_modified: 2025-09-04 17:55:56
+	time_modified: 2026-04-30 20:26:49
 	name: Kitsune Matriarch
 	casting_cost: W
-	image: image259
+	image: image15.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12281,7 +12279,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: Whenever you create one or more tokens, put a +1/+1 counter on this creature.
+	rule_text: Whenever you create one or more tokens, put a +1/+1 counter on this creature. This ability triggers only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -12299,11 +12297,12 @@ card:
 		 !promo Twiltrie Decree
 		!design Provocative
 		Decree
+
 	time_created: 2025-08-11 17:54:48
-	time_modified: 2025-12-01 17:04:51
+	time_modified: 2026-04-30 14:29:56
 	name: Omen Skulker
-	casting_cost: B
-	image: image276
+	casting_cost: 1BB
+	image: image30.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12314,11 +12313,11 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		Whenever you cast a multicolored spell, this creature deals 1 damage to each opponent and you gain 1 life.
-		When this creature dies, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
+		Whenever you cast a white, blue, red, or green spell, you draw a card and lose 1 life.
+		Whenever this creature attacks, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 1
+	toughness: 4
 	illustrator: Ognjen Sporin
 	partition_select: after main set R
 	card_code_text: Decree Signed by Lih
@@ -12501,11 +12500,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Provocative
 		KDT
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:21:42
+	time_modified: 2026-04-30 20:03:53
 	name: Ruinous Portents
 	casting_cost: 1BBRR
 	image: image284
@@ -12525,7 +12524,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ken Sarafin
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12584,11 +12583,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Provocative
 		KDT
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:21:52
+	time_modified: 2026-04-30 20:03:49
 	name: Assaulted by Shadows
 	casting_cost: GU
 	image: image290
@@ -12611,7 +12610,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: QAuZ
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12654,6 +12653,181 @@ card:
 	illustrator: Pär Olofsson
 	partition_select: after main set S
 	card_code_text: Calamity Unleashed by DrChipmunk
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 125,15,170,395,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — KDT
+		!promo Valir Bounty
+		!secret !design Provocative
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 20:04:10
+	name: Pass Judgment
+	casting_cost: XU
+	image: image293
+	image_2: image294
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each tapped creature you control.
+		Counter target spell unless its controller pays <sym-auto>X</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Maarten Pelders
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 8
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design Provocative
+	time_created: 2026-04-28 16:30:55
+	time_modified: 2026-04-30 21:13:36
+	name: Moonlight Adversary
+	casting_cost: 1B
+	image: image299
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When this creature enters, you may pay X life. When you do, return X target cards you discarded this turn from your graveyard to your hand.
+		Whenever you discard a card, each opponent loses 1 life.
+	flavor_text: <i-flavor>“On a night much like this one . . .”</i-flavor>
+	power: 2
+	toughness: 1
+	card_stamp: standard
+	illustrator: Daria Klushina
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design Provocative
+	time_created: 2026-04-28 16:30:55
+	time_modified: 2026-04-30 21:13:41
+	name: Bleeding Out
+	casting_cost: RR
+	image: image302
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Bleeding Out deals 3 damage to any target. Excess damage dealt to a creature or planeswalker this way is dealt to its controller instead.
+	flavor_text: <i-flavor>Only worthy vampires are permitted to <error-spelling:en_US>bloodhunt</error-spelling:en_US> in <error-spelling:en_US>Voldaren</error-spelling:en_US>-owned territory.</i-flavor>
+	card_stamp: standard
+	illustrator: Kevin McKenna
+	partition_select: after main set T
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design Provocative
+	time_created: 2026-04-28 16:30:55
+	time_modified: 2026-04-30 21:13:47
+	name: Spiteful Banditry
+	casting_cost: XRR
+	image: image303
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When this enchantment enters, it deals X damage to each creature.
+		Whenever one or more creatures your opponents control die, you create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. This ability triggers only once each turn.
+	flavor_text: <i-flavor>“No, no! Keep it away from the experiments!”</i-flavor>
+	card_stamp: standard
+	illustrator: Mike Pape
+	partition_select: after main set T
+	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 

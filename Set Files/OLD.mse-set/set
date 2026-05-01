@@ -2827,7 +2827,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rule_text:
 		Equipped creature gets +1/+3 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-		<kw-a><nospellcheck><key>Equip <param-name>5.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>2</sym-auto> less to activate if you have at least 3 life more than your starting life total.
+		<kw-a><nospellcheck><key>Equip <param-name>5</param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>2</sym-auto> less to activate if you have at least 3 life more than your starting life total.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Matthew Harris
 	custom_card_number: 
@@ -6262,7 +6262,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes:  reworked: Was {B}{B} with "Pay life equal to the number of cards you’ve drawn this turn. If you do, draw a card. You may repeat that process any number of times."
+	notes: reworked: Was {B}{B} with "Pay life equal to the number of cards you’ve drawn this turn. If you do, draw a card. You may repeat that process any number of times."
 	time_created: 2022-01-03 08:06:10
 	time_modified: 2026-02-28 17:55:14
 	name: Marked Passage
@@ -8518,7 +8518,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: mythic rare
 	rule_text:
-		Equipped creature gets +2/+0 and has <kw-0><nospellcheck><key>protection from <param-name>permanents and spells with greater mana value than itself.</param-name></key></nospellcheck></kw-0> This effect doesn’t remove <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Titansbane</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		Equipped creature gets +2/+0 and has <kw-0><nospellcheck><key>protection from <param-name>permanents and spells with greater mana value than itself</param-name>.</key></nospellcheck></kw-0> This effect doesn’t remove <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Titansbane</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Y-Mir
@@ -9115,6 +9115,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
+		
 	time_created: 2023-12-22 15:45:45
 	time_modified: 2025-11-28 23:46:36
 	name: Renowned Roughrider
@@ -9155,6 +9156,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
+		
 	time_created: 2023-12-22 15:48:00
 	time_modified: 2025-11-28 23:48:05
 	name: Audacious Roughrider
@@ -9195,6 +9197,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
+		
 	time_created: 2023-12-22 16:04:12
 	time_modified: 2025-11-28 23:48:28
 	name: Hearty Roughrider
@@ -9237,6 +9240,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
+		
 	time_created: 2023-12-22 16:29:05
 	time_modified: 2025-11-28 23:49:51
 	name: Thunderous Avalanche
@@ -9270,6 +9274,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
+		
 	time_created: 2023-12-22 16:51:13
 	time_modified: 2025-11-29 00:00:53
 	name: Firebolt
@@ -9311,6 +9316,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
+		
 	time_created: 2023-12-22 16:07:00
 	time_modified: 2025-11-28 23:47:05
 	name: Opulent Roughrider
@@ -9351,6 +9357,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
+		
 	time_created: 2023-12-22 15:40:13
 	time_modified: 2025-11-28 23:47:38
 	name: Barbarous Roughrider
@@ -9391,6 +9398,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
+		
 	time_created: 2023-12-22 16:20:17
 	time_modified: 2025-11-28 23:49:40
 	name: Swelling Terror
@@ -9421,6 +9429,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
+		
 	time_created: 2023-12-22 16:44:00
 	time_modified: 2025-11-28 23:51:35
 	name: Final Fate
@@ -9456,6 +9465,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
+		
 	time_created: 2023-12-22 16:49:33
 	time_modified: 2025-11-28 23:51:47
 	name: Elder Eras

@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 9
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,375,70,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — IWH
+		!promo Valir Bounty
+		!secret !design Matt
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 19:12:55
+	name: Gloaming Demon
+	casting_cost: 1BBB
+	image: image75
+	image_2: image76
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
+		When this creature enters, <kw-0><nospellcheck><key><param-prefix>create a 0/1</param-prefix> Offering</key></nospellcheck></kw-0> artifact creature token that’s all colors.
+		For each colored mana in the cost of a spell, you may pay 1 life and sacrifice a permanent of that color rather than pay that mana.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 5
+	illustrator: Harshanand Singh
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

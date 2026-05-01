@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Secrets of the River Cities
 	description: A Film Noir Story
@@ -1359,7 +1359,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Endless Paper Trail</nospellcheck></atom-cardname> attacks, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		Whenever <atom-cardname><nospellcheck>Endless Paper Trail</nospellcheck></atom-cardname> attacks, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
@@ -1410,7 +1410,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Clandestine Snitch</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Clandestine Snitch</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>“Got some info on your case, Jericho. The Coven are searching for the same book as Liliana. Why is it that important?”</i-flavor>
 	power: 0
 	toughness: 3
@@ -1622,7 +1622,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Dog</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Guide Dog</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Guide Dog</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text:
 		<i-flavor>“Roxie will always keep me safe.”<soft-line>
 		—Patty, junior detective</soft-line></i-flavor>
@@ -1717,7 +1717,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Counter target spell unless its controller pays <sym-auto>2</sym-auto>.
-		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>You don’t succeed as a criminal without being smart, nor as a detective without being smarter.</i-flavor>
 	illustrator: Charro
 	card_code_text: 
@@ -1742,7 +1742,7 @@ card:
 	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Malevolent Observer</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		When <atom-cardname><nospellcheck>Malevolent Observer</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>Phantoms incite and promote all sorts of suspense, from disappearances to interesting items ripe for the taking.</i-flavor>
 	power: 3
 	toughness: 1
@@ -1869,7 +1869,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Messenger Magpie</nospellcheck></atom-cardname> deals combat damage to a player, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		Whenever <atom-cardname><nospellcheck>Messenger Magpie</nospellcheck></atom-cardname> deals combat damage to a player, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>Cloaked in a natural magic, magpies elude even the most sophisticated detection methods, making them the perfect messengers.</i-flavor>
 	power: 1
 	toughness: 3
@@ -2091,7 +2091,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Creatures your opponents control get -3/-0 until end of turn.
-		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>Few things are as disquieting as gaps in one’s own memory.</i-flavor>
 	illustrator: Krhart
 	card_code_text: 
@@ -2201,7 +2201,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Draw a card.
-		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>“You didn’t hear it from me, but that Coven book everybody’s talking about? The <error-spelling:en_US>Lorres</error-spelling:en_US> have it stashed inside their vault.”</i-flavor>
 	illustrator: Yuliya Litvinova
 	card_code_text: 
@@ -2548,7 +2548,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Dame on the Run</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Dame on the Run</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>The <error-spelling:en_US>Moroii</error-spelling:en_US> Cabal </i>always <i>get their due.</i-flavor>
 	power: 3
 	toughness: 2
@@ -3107,7 +3107,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Search your library for a card, put that card into your hand, then shuffle.
-		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Benjamin Goutte
 	card_code_text: 
@@ -3319,7 +3319,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -3395,7 +3395,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<sym-auto>1B</sym-auto>: Exile target card from a graveyard. If it’s a creature card, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>1B</sym-auto>: Exile target card from a graveyard. If it’s a creature card, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 		Whenever you sacrifice a Clue, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -4746,7 +4746,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Dog</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Sleuthhound</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Sleuthhound</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>A willing and open mind is all that’s required to join the Fox Agency.</i-flavor>
 	power: 4
 	toughness: 2
@@ -4773,7 +4773,7 @@ card:
 	sub_type: <word-list-race-en>Crocodile</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Investi-Gator</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		When <atom-cardname><nospellcheck>Investi-Gator</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 		<atom-cardname><nospellcheck>Investi-Gator</nospellcheck></atom-cardname> gets +1/+1 for each card in your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -4978,7 +4978,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
-		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>Pair the brand, pair the scene of the crime.</i-flavor>
 	illustrator: Oviya Vendan
 	card_code_text: 
@@ -5150,7 +5150,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When Moribund Witness dies, you gain 2 life and <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When Moribund Witness dies, you gain 2 life and <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>“Someone is out to get me. I don’t know why, but for some reason a Coven book is important.”</i-flavor>
 	power: 1
 	toughness: 2
@@ -5335,7 +5335,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Target creature you control deals damage equal to its power to target creature you don’t control.
-		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sheppard Arts
 	card_code_text: 
@@ -5383,7 +5383,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_bottom: 
@@ -5441,7 +5441,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		Whenever you cast a creature spell, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		Whenever you cast a creature spell, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 		<soft-line>At the beginning of each end step, if you sacrificed three or more Clues this turn, you may put a creature card from your hand onto the battlefield.</soft-line>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Igor Burlakov
@@ -5469,7 +5469,7 @@ card:
 	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Manipulative Phantom</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		When <atom-cardname><nospellcheck>Manipulative Phantom</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 		Whenever you sacrifice a Clue, target creature an opponent controls blocks this turn if able.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -5596,7 +5596,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever one or more creatures you control deal combat damage to an opponent, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		Whenever one or more creatures you control deal combat damage to an opponent, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 		Whenever you sacrifice a Clue, put a +1/+1 counter on target creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -5691,7 +5691,7 @@ card:
 	rarity: rare
 	rule_text:
 		If an effect would create one or more noncreature tokens under your control, it creates twice that many of those tokens instead.
-		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a creature: <kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a creature: <kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4
@@ -6071,7 +6071,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Painter of the Waking Dream</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		When <atom-cardname><nospellcheck>Painter of the Waking Dream</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 		Whenever you sacrifice a Clue, create a tapped 3/3 black Horror creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -6729,9 +6729,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Macguffin
+	notes:
+		Macguffin
+		
 	time_created: 2019-01-21 01:57:16
-	time_modified: 2020-02-06 15:29:39
+	time_modified: 2026-04-22 01:22:38
 	name: Tome of the Primordials
 	casting_cost: 3
 	image: image189
@@ -6739,7 +6741,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
 		Whenever equipped creature deals combat damage to a player, draw that many cards and put that many +1/+1 counters on equipped creature.
@@ -6991,7 +6999,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: <kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: <kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text:
 		<i-flavor>“A handy tool for any detective. Always scan for fingerprints.”<soft-line>
 		—Fox Agency Handbook</soft-line></i-flavor>
@@ -7910,7 +7918,7 @@ card:
 	sub_type: <word-list-planeswalker>Jericho</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	rarity: mythic rare
 	rule_text:
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a colorless Clue artifact token with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 		Until your next turn, up to two target creatures each get -4/-0.
 		You get an emblem with “Untap all permanents you control during each other player’s untap step.”
 	flavor_text: <i-flavor></i-flavor>
@@ -8172,7 +8180,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -8288,7 +8296,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -8329,7 +8337,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted

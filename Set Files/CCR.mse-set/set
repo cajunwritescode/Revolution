@@ -81,6 +81,10 @@ styling:
 	magic-m15-mainframe-tokens:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-showcase-innistrad-mid:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-showcase-strixhaven-jp:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-small-strixhaven.mse-symbol-font
@@ -4276,7 +4280,6 @@ card:
 	notes:
 		!tokens Berry1>;
 		!hasshiny 
-		!update
 	time_created: 2021-07-21 21:01:09
 	time_modified: 2026-04-01 10:34:59
 	name: Practicing Guru
@@ -8251,15 +8254,16 @@ card:
 	stylesheet_version: 2024-09-01
 	has_styling: true
 	styling_data:
-		combined_chop: -4,-3,
+		combined_chop: -3,5,
 		opacity: 220
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
 		!token Treasure2>; 
+		 nerfed: Treasures now enter tapped.
 		!changed At the beginning of combat on your turn, gain control of all Dragons until end of turn. Untap them. They gain haste until end of turn.
 	time_created: 2021-08-15 14:20:37
-	time_modified: 2024-12-22 13:05:44
+	time_modified: 2026-04-22 15:23:14
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/her
@@ -8278,7 +8282,7 @@ card:
 	loyalty: 4
 	level_1_text: Dragons you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> and <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>.
 	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Iviana</nospellcheck></atom-legname> deals X damage to up to one target creature or planeswalker, where X is 2 plus twice the number of Dragons you control.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>You may reveal a Dragon card you own from outside the game and put it into your hand. Create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You may reveal a Dragon card you own from outside the game and put it into your hand. Create two tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_4_text: 
 	illustrator: Moritz Cremer
 	card_code_text: Pipsqueak
@@ -8290,7 +8294,7 @@ card:
 	special_text:
 		Dragons you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> and <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0>.
 		[+1]: <margin:130:0:0><atom-legname><nospellcheck>Iviana</nospellcheck></atom-legname> deals X damage to up to one target creature or planeswalker, where X is 2 plus twice the number of Dragons you control.</margin:130:0:0>
-		[-2]: <margin:130:0:0>You may reveal a Dragon card you own from outside the game and put it into your hand. Create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0>You may reveal a Dragon card you own from outside the game and put it into your hand. Create two tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 
 card:
 	stylesheet: m15-mainframe-planeswalker
@@ -8435,7 +8439,7 @@ card:
 	loyalty: 4
 	level_1_text: Whenever a token you control enters, put a +1/+1, <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or loyalty counter on a permanent you control other than <atom-legname><nospellcheck>Simul</nospellcheck></atom-legname>.
 	level_2_text: <margin:130:0:0>Create a 1/1 green Plant creature token.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Create a blue Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>permanent and “When enchanted permanent dies, you draw two cards.</param-name></key></nospellcheck></kw-a>”</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create a blue Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>permanent and “When enchanted permanent dies, you draw two cards</param-name>.</key></nospellcheck></kw-a>”</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Create a 3/3 green, blue, and red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. For each kind of counter on permanents you control, you may put a counter of that kind on it.</margin:130:0:0>
 	level_5_text: 
 	level_6_text: 
@@ -8449,7 +8453,7 @@ card:
 	special_text:
 		Whenever a token you control enters, put a +1/+1, <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or loyalty counter on a permanent you control other than <atom-legname><nospellcheck>Simul</nospellcheck></atom-legname>.
 		[+1]: <margin:130:0:0>Create a 1/1 green Plant creature token.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Create a blue Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>permanent and “When enchanted permanent dies, you draw two cards.</param-name></key></nospellcheck></kw-a>”</margin:130:0:0>
+		[-2]: <margin:130:0:0>Create a blue Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>permanent and “When enchanted permanent dies, you draw two cards</param-name>.</key></nospellcheck></kw-a>”</margin:130:0:0>
 		[-5]: <margin:130:0:0>Create a 3/3 green, blue, and red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. For each kind of counter on permanents you control, you may put a counter of that kind on it.</margin:130:0:0>
 
 card:
@@ -10491,10 +10495,10 @@ card:
 card:
 	has_styling: false
 	notes:
-		 buffed: Added {C} ability instead of turning off the AA when you can produce an unchosen color.
+		 101: Color blanking effect is now a duration tied to the As enters replacement instead of a standalone replacement ability.
 		!change replace Jade Temple
 	time_created: 2018-01-27 22:53:56
-	time_modified: 2025-01-30 21:00:22
+	time_modified: 2026-04-22 15:28:45
 	card_color: land, multicolor
 	name: Temple of Origins
 	image: image11
@@ -10506,9 +10510,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<atom-cardname><nospellcheck>Temple of Origins</nospellcheck></atom-cardname> enters tapped unless you control two or fewer other lands.
-		As <atom-cardname><nospellcheck>Temple of Origins</nospellcheck></atom-cardname> enters, choose two colors.
+		As <atom-cardname><nospellcheck>Temple of Origins</nospellcheck></atom-cardname> enters, choose two colors. For as long as you control Temple of Origins, if you would add mana of a different color, add <sym-auto>C</sym-auto> instead.
 		<sym-auto>T</sym-auto>: Add one mana of one of the chosen colors.
-		If you would add mana of a color that wasn’t chosen, add <sym-auto>C</sym-auto> instead.
 	flavor_text: <i-flavor>Carvings in the walls are said to show <error-spelling:en_US>Chikyu’s</error-spelling:en_US> creation, yet appear differently to all who see them.</i-flavor>
 	illustrator: Ashith Mohan
 	custom_card_number: 
@@ -13391,9 +13394,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag ★
-		!update
+	notes: !hidetag ★
 	time_created: 2021-07-21 21:01:09
 	time_modified: 2026-04-01 10:35:05
 	name: Practicing Guru
@@ -14426,7 +14427,7 @@ card:
 		!promo Eternal Excursion
 		  !design Cajun
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-12-31 14:28:34
+	time_modified: 2026-04-22 15:29:01
 	card_color: land, multicolor
 	name: Temple of Origins
 	casting_cost: 
@@ -14445,9 +14446,8 @@ card:
 	rarity: special
 	rule_text:
 		Temple of Origins enters tapped unless you control two or fewer other lands.
-		As Temple of Origins enters, choose two colors.
+		As Temple of Origins enters, choose two colors. For as long as you control Temple of Origins, if you would add mana of a different color, add <sym-auto>C</sym-auto> instead.
 		<sym-auto>T</sym-auto>: Add one mana of one of the chosen colors.
-		If you would add mana of a color that wasn’t chosen, add <sym-auto>C</sym-auto> instead.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -14521,11 +14521,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:25:51
+	time_modified: 2026-04-30 19:59:55
 	name: Avert Disaster
 	casting_cost: 1UU
 	image: image399
@@ -14547,7 +14547,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Burke
 	partition_select: after normal, main set E
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -14563,11 +14563,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:25:58
+	time_modified: 2026-04-30 19:59:43
 	name: Imminent Disaster
 	casting_cost: 3B
 	image: image400
@@ -14589,7 +14589,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Manuel Javier Noreña Castaño
 	partition_select: after normal, main set E
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -14647,11 +14647,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Cajun
 		CCR !hidetag (Calamity)
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:26:39
+	time_modified: 2026-04-30 19:59:38
 	name: Harvest Time
 	casting_cost: G
 	image: image402
@@ -14673,7 +14673,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: giantwood
 	partition_select: after normal, main set E
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -14689,11 +14689,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Cajun
 		CCR
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:26:11
+	time_modified: 2026-04-30 19:59:29
 	name: Warden of Wishes
 	casting_cost: 3WB
 	image: image403
@@ -14718,6 +14718,227 @@ card:
 	toughness: 3
 	illustrator: Adam Burke
 	partition_select: after normal, main set E
+	card_code_text: Solastere Calamity
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,-5,375,70,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — CCR
+		!promo Valir Bounty
+		!secret !design Cajun
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 20:00:25
+	name: End of Mutations
+	casting_cost: 3RRR
+	image: image404
+	image_2: image405
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mutant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		This spell can’t be countered.
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		Whenever an opponent casts a noncreature spell, if they haven’t attacked this turn, End of Mutations deals 5 damage to them.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Alexander Usevich
+	partition_select: after normal, main set F
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design DracoFreezeFlame
+	time_created: 2026-04-20 21:20:58
+	time_modified: 2026-04-30 21:35:03
+	name: Shadow Sky
+	casting_cost: 4BB
+	transformation: custom symbol four
+	image: image406
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Weather</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<i-auto>(As a Weather enters, players sacrifice other Weathers that don’t share a color with it.)</i-auto>
+		When <atom-cardname><nospellcheck>Shadow Sky</nospellcheck></atom-cardname> enters and whenever you cast a spell, each creature target player controls gets -1/-1 until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	card_stamp: standard
+	illustrator: Nele Diel
+	partition_select: after normal, main set F
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-showcase-innistrad-mid
+	stylesheet_version: 2024-10-01
+	has_styling: false
+	notes:
+		CCR
+		!secret !promo Innistrad Haunt
+		 !design Cajun
+	time_created: 2026-04-20 21:02:34
+	time_modified: 2026-04-30 21:21:29
+	name: Nocturne, Monstrous Krasis
+	casting_cost: 2GU
+	image: image407
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Werewolf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: When Nocturne, Monstrous <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Krasis</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters and at the beginning of your upkeep, put X +1/+1 counters on Nocturne, where X is the number of different kinds of counters on permanents you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_stamp: standard
+	illustrator: Allan Santos
+	partition_select: after normal, main set F
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		frames: puma
+		other_options: godzilla style alias
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design Cajun
+	time_created: 2026-04-28 16:16:29
+	time_modified: 2026-04-30 21:21:25
+	extra_data:
+		magic-m15-altered:
+			pride_pin: lesbian
+			vorthos_box: she/her
+	name: The Queen of Brambles
+	alias: Spikey, Jack's Gravetiller
+	casting_cost: 1BG
+	image: image408
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		As an additional cost to cast this spell, exile two permanent cards from your graveyard.
+		Whenever <atom-cardname><nospellcheck>The Queen of Brambles</nospellcheck></atom-cardname> deals combat damage to a player, return a card exiled with it to its owner’s hand.
+		You may cast <atom-cardname><nospellcheck>The Queen of Brambles</nospellcheck></atom-cardname> from your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	card_stamp: standard
+	illustrator: Dave Wilkins
+	partition_select: after normal, main set F
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 5
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design DrChillbrain
+	time_created: 2026-04-28 16:27:21
+	time_modified: 2026-04-30 21:21:58
+	name: Warden of Depths
+	casting_cost: 3UUB
+	image: image409
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Leviathan</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		The first spell you cast during each of your opponent’s turns cost <sym-auto>UB</sym-auto> less to cast.
+		During each ending phase, nonland cards in your graveyard have <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> and surface. The surface cost is equal to their mana cost. <i-auto>(You may cast a copy of it from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</i-auto>
+		<kw-0><nospellcheck><key>Surface <param-cost><sym>6UUB</sym></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	card_stamp: standard
+	illustrator: Alejandro Mirabal
+	partition_select: after normal, main set F
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

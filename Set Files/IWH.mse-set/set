@@ -11,6 +11,8 @@ set_info:
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
 	automatic_reminder_text: old, expert, pseudo, action, custom
+	custom_watermark_1: revolution/wc2_5.png,File found,118x142px
+	blend_with_colors: yes
 	custom_creature_races: Offering, 
 	use_flavor_bar: yes
 styling:
@@ -116,6 +118,8 @@ card:
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
+		chop_top: 3
+		chop_bottom: 3
 		frames: devoid
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -123,7 +127,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-20 20:50:04
-	time_modified: 2026-04-13 19:06:28
+	time_modified: 2026-04-30 12:46:22
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -144,7 +148,8 @@ card:
 	rarity: mythic rare
 	rule_text:
 		When you cast this spell, you may have two target players exchange life totals.
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproo<param-name>f from instants and</param-name> from <param-name><kw-a>flash</param-name></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>
+		<atom-legname><nospellcheck>Emrakul</nospellcheck></atom-legname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as she entered this turn.
 		At the beginning of your end step, for each opponent that lost life this turn, you may gain control of target permanent that player controls. <i-auto>(This effect lasts indefinitely.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 10
@@ -158,7 +163,7 @@ card:
 	has_styling: false
 	notes: !commonremoval
 	time_created: 2024-08-16 23:09:54
-	time_modified: 2025-10-12 12:22:13
+	time_modified: 2026-04-23 16:43:58
 	name: Angelic Purge
 	casting_cost: 2W
 	image: image2
@@ -171,7 +176,7 @@ card:
 		As an additional cost to cast this spell, sacrifice a permanent.
 		Exile target artifact, creature, or enchantment.
 	flavor_text: <i-flavor>Despite her bloody betrayal, some still remember <error-spelling:en_US>Avacyn</error-spelling:en_US> as <error-spelling:en_US>Innistrad’s</error-spelling:en_US> savior.</i-flavor>
-	illustrator: aldebaran-francesca
+	illustrator: Aldebaran Francesca
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -185,7 +190,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-10-07 18:11:23
-	time_modified: 2026-04-13 19:07:41
+	time_modified: 2026-04-28 14:04:30
 	card_color_2: black
 	name: Benevolent Visitation
 	name_2: Malicious Haunting
@@ -210,7 +215,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	illustrator: jubjubjedi
-	illustrator_2: Digital Forms
+	illustrator_2: Katerina Dedova
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -286,7 +291,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:27:55
-	time_modified: 2025-11-14 13:29:00
+	time_modified: 2026-04-23 17:31:25
 	name: Bleachbark Dryad
 	casting_cost: 1W
 	image: image7
@@ -307,7 +312,7 @@ card:
 	flavor_text: <i-flavor>Beneath the blistering rays of the <error-spelling:en_US>Goremoon</error-spelling:en_US>, the trees at the edges of the <error-spelling:en_US>Somberwald</error-spelling:en_US> were bleached bone-white.</i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: asya-yordanova
+	illustrator: Asya Yordanova
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -326,7 +331,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 00:50:43
-	time_modified: 2026-01-20 23:45:02
+	time_modified: 2026-04-28 13:26:50
 	name: Blessings of a New Spring
 	casting_cost: 2W
 	image: image8
@@ -347,7 +352,7 @@ card:
 		When this enchantment enters, create a 1/1 white Human creature token.
 		Enchanted creature gets +1/+1, has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and has “<sym-auto>2</sym-auto>, Sacrifice a Human: This creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.”
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: dominik-mayer
+	illustrator: Dominik Mayer
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -406,7 +411,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-28 21:46:15
-	time_modified: 2025-11-05 11:57:18
+	time_modified: 2026-04-24 15:53:50
 	name: Chapel Soulguide
 	casting_cost: 3W
 	image: image10
@@ -422,7 +427,7 @@ card:
 	flavor_text: <i-flavor>She guides the souls of the lost to <error-spelling:en_US>Sigarda’s</error-spelling:en_US> radiant deliverance.</i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: yuming-li-
+	illustrator: Yuming Li
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -482,7 +487,7 @@ card:
 		overlay: 
 	notes: !uncommonremoval
 	time_created: 2025-04-17 13:13:46
-	time_modified: 2026-02-14 16:43:48
+	time_modified: 2026-04-28 14:07:36
 	name: Crofter’s Charm
 	casting_cost: 1W
 	image: image12
@@ -504,7 +509,7 @@ card:
 		</li><li><bullet>• </bullet>Create a 1/1 white Human creature token and a Weapon token. <i-auto>(It’s an Equipment artifact with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> and “Equipped creature gets +1/+1.”)</i-auto>
 		</li><li><bullet>• </bullet>You gain 4 life.</li>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: lorenzo-mastroianni
+	illustrator: Lorenzo Mastroianni
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -524,7 +529,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-22 01:22:57
-	time_modified: 2026-04-18 14:55:03
+	time_modified: 2026-04-28 14:30:14
 	name: Curse of Disturbed Tombs
 	casting_cost: 3WW
 	image: image13
@@ -545,7 +550,7 @@ card:
 		When this Aura enters, each of enchanted player’s opponents may return a creature card from their graveyard to the battlefield.
 		Whenever a player attacks enchanted player, they put a +1/+1 counter on target attacking creature. It gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: victoria-k- — edit
+	illustrator: Victoria K — edit
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -554,9 +559,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-12 19:40:11
-	time_modified: 2025-11-05 18:01:20
+	time_modified: 2026-04-30 12:32:43
 	name: Curse of Eerie Streets
-	casting_cost: 2W
+	casting_cost: W
 	image: image14
 	image_2: 
 	mainframe_image: 
@@ -572,9 +577,10 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted player casts their first noncreature spell each turn, that player may pay <sym-auto>2</sym-auto>. If they don’t, each of that player’s opponents draws a card and creates a 1/1 white Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Creatures enchanted player control enter tapped.
+		Whenever a creature enchanted player controls enters, you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: sidharth-chaturvedi
+	illustrator: Sidharth Chaturvedi
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -624,7 +630,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-28 21:46:15
-	time_modified: 2025-03-29 18:34:17
+	time_modified: 2026-04-24 15:55:58
 	name: Departed Duelist
 	casting_cost: 2W
 	image: image16
@@ -640,7 +646,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
-	illustrator: wolkenwaechter
+	illustrator: Wolkenwaechter
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -662,7 +668,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-15 23:00:19
-	time_modified: 2026-02-26 11:43:11
+	time_modified: 2026-04-28 14:10:30
 	name: Devilthorn Hunter
 	casting_cost: 1W
 	image: image17
@@ -685,7 +691,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: Marcello
+	illustrator: Marcello Iozzoli 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -704,7 +710,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-13 19:24:55
+	time_modified: 2026-04-30 12:45:22
 	name: Eerie Nightdrifter
 	casting_cost: 2WW
 	image: image18
@@ -722,12 +728,12 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		When this creature enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put an enchantment and/or Spirit card milled this way into your hand.
+		When this creature enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put an enchantment or Spirit card milled this way into your hand.
 		<sym-auto>5WW</sym-auto>: Until end of turn, this creature’s base power and toughness each become equal to your life total.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: luka-brico
+	illustrator: Luka Brico
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -768,7 +774,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 
-		chop_bottom: 4
+		chop_bottom: 8
 		frames: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -776,7 +782,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-28 21:46:15
-	time_modified: 2025-10-16 22:07:10
+	time_modified: 2026-04-30 22:15:28
 	name: Geist Marshal
 	casting_cost: 1W
 	image: image20
@@ -787,12 +793,11 @@ card:
 	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Possess <i-auto>(When this dies as a creature, you may return it to the battlefield as an Aura attached to target creature.)</i-auto>
-		Whenever this creature or enchanted creature attacks an opponent, you may create a 1/1 white Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. If you don’t, other attacking Spirits get +1/+1 until end of turn.
+		Whenever this creature or enchanted creature deals combat damage to an opponent, you may create a 1/1 blue Spirit Soldier creature token. If you don’t, put a +1/+1 counter on another Spirit you control.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
+	power: 2
+	toughness: 2
 	illustrator: artofandregarcia
 	card_code_text: 
 	card_code_text_2: 
@@ -815,10 +820,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-08 14:43:28
-	time_modified: 2026-02-26 11:43:20
+	time_modified: 2026-04-30 13:30:52
 	name: Geist-Honored Warden
 	casting_cost: 4WW
-	image: image21
+	image: image8.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -826,7 +831,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -837,7 +842,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3
-	illustrator: monztre
+	illustrator: Sam Kanios
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -856,7 +861,7 @@ card:
 		overlay: 
 	notes: !rareremoval
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-10 11:59:15
+	time_modified: 2026-04-23 17:30:54
 	name: Guardian’s Charm
 	casting_cost: 2W
 	image: image22
@@ -878,7 +883,7 @@ card:
 		</li><li><bullet>• </bullet>Target creature gets +1/+1 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 		</li><li><bullet>• </bullet>Return target instant or sorcery spell to its owner’s hand.</li>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: anna-marukhnich
+	illustrator: Anna Marukhnich
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -897,7 +902,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:40:55
-	time_modified: 2025-11-05 14:27:54
+	time_modified: 2026-04-28 14:23:16
 	name: Haunted Doll
 	casting_cost: W
 	image: image23
@@ -918,7 +923,7 @@ card:
 	flavor_text: <i-flavor><error-spelling:en_US>Puppeted</error-spelling:en_US> by the tormented spirit of an innocent child, lost before her time.</i-flavor>
 	power: 1
 	toughness: 2
-	illustrator: othon-nikolaidis
+	illustrator: Othon Nikolaidis
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -940,7 +945,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-19 17:53:19
-	time_modified: 2026-01-21 19:37:50
+	time_modified: 2026-04-23 17:30:47
 	name: Heronblade Vanguard
 	casting_cost: 3WW
 	image: image24
@@ -962,7 +967,7 @@ card:
 	flavor_text: <i-flavor>“<error-spelling:en_US>Sigarda</error-spelling:en_US> and our flight stand strong, even beneath the <error-spelling:en_US>Goremoon</error-spelling:en_US>.”</i-flavor>
 	power: 3
 	toughness: 5
-	illustrator: anna-helme
+	illustrator: Anna Helme
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -981,7 +986,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 20:59:26
-	time_modified: 2026-01-20 17:42:43
+	time_modified: 2026-04-28 14:23:00
 	name: Heron’s Grace Rescuer
 	casting_cost: 1WW
 	image: image25
@@ -1005,7 +1010,7 @@ card:
 	watermark: none
 	power: 4
 	toughness: 2
-	illustrator: oleksii-chernik
+	illustrator: Oleksii Chernik
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1062,7 +1067,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-30 14:08:47
-	time_modified: 2025-07-04 13:41:50
+	time_modified: 2026-04-28 13:45:57
 	name: Lumberjack’s Axe
 	casting_cost: 1W
 	image: image27
@@ -1082,7 +1087,7 @@ card:
 		Equipped creature gets +1/+1 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>Good for splitting wood. Great for splitting zombies.</i-flavor>
-	illustrator: Fantasy Flight games
+	illustrator: Oleksandr Kozachenko
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1101,7 +1106,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-11-11 13:35:29
-	time_modified: 2026-04-20 19:15:37
+	time_modified: 2026-04-30 13:25:11
 	name: Moldgraf Stewards
 	casting_cost: W
 	image: image28
@@ -1119,11 +1124,11 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever this creature attacks, if you control four or more creatures, put a +1/+1 counter on target creature.
-		<sym-auto>3W</sym-auto>: This creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>2W</sym-auto>: This creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>At first Heinrich thought himself in danger, but their soft glow led him to safety.</i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: brian-valeza
+	illustrator: Brian Valeza
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1415,7 +1420,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 16:35:30
-	time_modified: 2026-04-13 19:38:07
+	time_modified: 2026-04-28 14:44:35
 	card_color_2: red
 	name: Pious Friar
 	name_2: Zealous Inquisitor
@@ -1444,7 +1449,7 @@ card:
 	toughness: 1
 	toughness_2: 2
 	illustrator: Aleksander Karcz
-	illustrator_2: karol-bem
+	illustrator_2: Karol Bem
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1453,7 +1458,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-29 18:20:39
-	time_modified: 2025-10-08 00:04:25
+	time_modified: 2026-04-28 14:21:59
 	name: Practiced Occultist
 	casting_cost: 2W
 	image: image39
@@ -1475,7 +1480,7 @@ card:
 	flavor_text: <i-flavor>“Together, we’ll find truth.”</i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: nia-kovalevski
+	illustrator: Nia Kovalevski
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1484,7 +1489,7 @@ card:
 	has_styling: false
 	notes: !uncommonremoval
 	time_created: 2024-08-09 20:31:27
-	time_modified: 2025-10-01 11:01:27
+	time_modified: 2026-04-28 13:26:04
 	name: Prayer of Banishing
 	casting_cost: 1W
 	image: image40
@@ -1503,7 +1508,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
-	illustrator: dominick-critelli
+	illustrator: Dominick Critelli
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1555,7 +1560,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-12 23:33:51
-	time_modified: 2025-12-03 19:15:18
+	time_modified: 2026-04-28 14:24:33
 	name: Ritual Preparations
 	casting_cost: 1W
 	image: image42
@@ -1575,7 +1580,7 @@ card:
 		Put a +1/+1 counter on each of up to two target creatures you control. Those creatures gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>G</sym-auto>, Return a Human you control to its owner’s hand</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: riz-yangpeiv
+	illustrator: Riz Yangpeiv
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1637,7 +1642,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-15 22:58:52
-	time_modified: 2026-01-20 23:46:11
+	time_modified: 2026-04-23 17:30:40
 	name: Saint-Blessed Priest
 	casting_cost: 3W
 	image: image45
@@ -1664,7 +1669,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: anna christenson
+	illustrator: Anna Christenson
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1683,7 +1688,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:13:30
-	time_modified: 2026-04-20 17:45:06
+	time_modified: 2026-04-28 14:36:30
 	name: Saint’s Salvation
 	casting_cost: W
 	image: image46
@@ -1702,7 +1707,7 @@ card:
 		As an additional cost to cast this spell, <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit or pay <sym>2</sym></param-name>.</key></nospellcheck></kw-0> <i-auto>(To <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit, choose a Spirit you control or reveal a Spirit card from your hand</param-name>.</key></nospellcheck></kw-0>)</i-auto>
 		Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: stephen-cornu
+	illustrator: Stephen Cornu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1721,7 +1726,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 16:39:34
-	time_modified: 2025-08-25 15:28:50
+	time_modified: 2026-04-28 14:25:03
 	name: Sigardian Gryffknight
 	casting_cost: 4W
 	image: image47
@@ -1742,7 +1747,7 @@ card:
 	flavor_text: <i-flavor>“The <error-spelling:en_US>Goremoon</error-spelling:en_US> is a grim omen, but the longest nights lead to the brightest dawns.”</i-flavor>
 	power: 4
 	toughness: 3
-	illustrator: sam kanios
+	illustrator: Sam Kanios
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1751,7 +1756,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-08 16:58:03
-	time_modified: 2026-01-02 20:43:37
+	time_modified: 2026-04-28 13:58:03
 	name: Silverflame Zealot
 	casting_cost: 1W
 	image: image48
@@ -1773,7 +1778,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: jakub-jagoda
+	illustrator: Jakub Jagoda
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1795,7 +1800,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-29 14:46:21
-	time_modified: 2026-03-02 13:45:51
+	time_modified: 2026-04-28 14:35:54
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -1818,7 +1823,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: svetoslav-petrov
+	illustrator: Svetoslav Petrov
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1840,7 +1845,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 23:10:35
-	time_modified: 2026-04-13 20:05:45
+	time_modified: 2026-04-28 14:11:36
 	name: Thalia’s Skill
 	casting_cost: 1W
 	image: image50
@@ -1851,7 +1856,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text: Target creature gets +2/+2 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn. If it’s equipped or enchanted, it also gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor><error-spelling:en_US>Sorin</error-spelling:en_US> and Thalia made unlikely partners, but both knew that without their intervention, <error-spelling:en_US>Innistrad</error-spelling:en_US> would be consumed.</i-flavor>
-	illustrator: mark-henry-bustamante
+	illustrator: Mark Henry Bustamante
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1873,7 +1878,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:31:27
-	time_modified: 2026-04-13 20:06:18
+	time_modified: 2026-04-28 14:25:07
 	name: Thraben Stalwart
 	casting_cost: 2W
 	image: image51
@@ -1894,7 +1899,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: sam-kanios
+	illustrator: Sam Kanios
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -1916,7 +1921,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:43:57
-	time_modified: 2025-12-13 20:46:59
+	time_modified: 2026-04-28 14:36:28
 	name: Traft’s Embrace
 	casting_cost: 4W
 	image: image52
@@ -1939,7 +1944,7 @@ card:
 	flavor_text:
 		<i-flavor>“<error-spelling:en_US>Lunarch</error-spelling:en_US> Marshal, come back to the light!”<soft-line>
 		</soft-line>—Saint <error-spelling:en_US>Traft</error-spelling:en_US>, to <error-spelling:en_US>Odric</i-flavor></error-spelling:en_US>
-	illustrator: stephen-cornu
+	illustrator: Stephen Cornu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2008,7 +2013,7 @@ card:
 		overlay: 
 	notes: During each opponent’s turn, until the end of that player’s combat phase, you control that player. When you lose control of that player, they untap each land they control.
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-18 15:42:02
+	time_modified: 2026-04-30 12:28:36
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: They/them
@@ -2028,7 +2033,7 @@ card:
 	loyalty_cost_2: -2
 	loyalty_cost_3: -8
 	loyalty: 4
-	level_1_text: <margin:130:0:0>Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. It loses all abilities for as long as it remains tapped.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Search your library for an instant, sorcery, or Curse card, exile it, then shuffle. Put that card into your hand unless an opponent has you draw two cards.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>You control each opponent during their next turn until their second main phase. At the beginning of that phase, untap each land they control.</margin:130:0:0>
 	level_4_text: 
@@ -2038,7 +2043,7 @@ card:
 	card_code_text_3: 
 	secondary_copyright: 
 	special_text:
-		[+1]: <margin:130:0:0>Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. It loses all abilities for as long as it remains tapped.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Search your library for an instant, sorcery, or Curse card, exile it, then shuffle. Put that card into your hand unless an opponent has you draw two cards.</margin:130:0:0>
 		[-8]: <margin:130:0:0>You control each opponent during their next turn until their second main phase. At the beginning of that phase, untap each land they control.</margin:130:0:0>
 
@@ -2056,7 +2061,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-04-20 17:52:56
+	time_modified: 2026-04-28 14:07:22
 	name: Ashiok’s Manipulation
 	casting_cost: U
 	image: image55
@@ -2076,7 +2081,7 @@ card:
 		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> as long as your opponents have cast two or more spells this turn.
 		Return target nonland permanent to its owner’s hand.
 	flavor_text: <i-flavor>Under <error-spelling:en_US>Ashiok’s</error-spelling:en_US> influence, the <error-spelling:en_US>Skirsdag</error-spelling:en_US> cult began their rites to splinter <error-spelling:en_US>Innistrad’s</error-spelling:en_US> moon.</i-flavor>
-	illustrator: leonardo-santanna
+	illustrator: Leonardo Santanna
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2151,7 +2156,7 @@ card:
 	has_styling: false
 	notes: !uncommonremoval
 	time_created: 2025-08-19 17:54:12
-	time_modified: 2025-09-27 14:04:02
+	time_modified: 2026-04-28 14:30:45
 	name: Cultist of the Drowntide
 	casting_cost: 3U
 	image: image58
@@ -2171,7 +2176,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: vicki-pangestu
+	illustrator: Vicki Pangestu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2190,7 +2195,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-12 19:40:11
-	time_modified: 2026-04-18 14:55:07
+	time_modified: 2026-04-30 14:59:53
 	name: Curse of Insidious Thoughts
 	casting_cost: 1U
 	image: image59
@@ -2210,9 +2215,9 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		When this Aura enters, draw a card.
-		If a card would be put into enchanted player’s hand from their library other than by drawing it, that player draws a card instead.
+		As enchanted player searches their library, they reveal the cards they find, then they shuffle all nonland cards revealed this way into their library.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: martin-de-diego
+	illustrator: Martin de Diego
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2231,7 +2236,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-22 01:22:57
-	time_modified: 2026-04-13 20:23:50
+	time_modified: 2026-04-28 13:41:44
 	name: Curse of Wretched Secrets
 	casting_cost: 2U
 	image: image60
@@ -2251,7 +2256,7 @@ card:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever one or more creatures with the same controller deal combat damage to enchanted player, their controller looks at the top card of enchanted player’s library and exiles it face down. They may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: ellie-quinonez
+	illustrator: Ellie Ouinonez
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2270,10 +2275,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-02-07 20:58:55
-	time_modified: 2026-01-25 15:52:20
+	time_modified: 2026-04-30 13:29:11
 	name: Demented Pyro-Alchemist
 	casting_cost: 1U
-	image: image61
+	image: image1.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -2287,12 +2292,12 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
-		<sym-auto>1R</sym-auto>: Creatures you control with power 2 or less gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor>His flame-harnessing inventions walk a fine line between insanity and genius.</i-flavor>
-	power: 1
+		At the beginning of each combat, if you’ve cast an instant or sorcery spell this turn, create a 1/1 red Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
+		<sym-auto>1R</sym-auto>: Whenever a creature you control with power 2 or less enters this turn, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
 	toughness: 1
-	illustrator: david-auden-nash
+	illustrator: João Mileski
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2311,7 +2316,7 @@ card:
 		overlay: 
 	notes: !replacetoken Infused 2/2 Zombie;1
 	time_created: 2025-03-31 17:21:16
-	time_modified: 2026-04-13 16:38:28
+	time_modified: 2026-04-28 14:36:13
 	name: Distilled Essence
 	casting_cost: 1U
 	image: image62
@@ -2331,7 +2336,7 @@ card:
 	flavor_text:
 		<i-flavor>“Always remember the golden ratio: ten parts <error-spelling:en_US>skaab</error-spelling:en_US> brains to one part <error-spelling:en_US>geist</error-spelling:en_US>-fuel.”<soft-line>
 		—<error-spelling:en_US>Stitcher</error-spelling:en_US> <error-spelling:en_US>Geralf</soft-line></i-flavor></error-spelling:en_US>
-	illustrator: steve-hamilton
+	illustrator: Steve Hamilton
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2387,7 +2392,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-12-14 11:17:00
+	time_modified: 2026-04-28 13:29:10
 	extra_data:
 		magic-m15-mainframe-dfc:
 			front_type_hint: FTFTFT
@@ -2420,7 +2425,7 @@ card:
 	power_2: 3
 	toughness: 2
 	toughness_2: 2
-	illustrator: dopaprime
+	illustrator: Livia Prima
 	illustrator_2: Nathaniel Himawan
 	card_code_text: 
 	card_code_text_2: 
@@ -2478,7 +2483,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-18 14:53:14
+	time_modified: 2026-04-28 14:44:49
 	card_color_2: blue
 	name: Geist Researcher
 	name_2: Curse of Haunted Skies
@@ -2509,7 +2514,7 @@ card:
 	power: 2
 	toughness: 1
 	illustrator: Candice Broersma
-	illustrator_2: luka-brico
+	illustrator_2: Luka Brico
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2569,9 +2574,9 @@ card:
 		overlay: 
 	notes: Return target nonland permanent an opponent controls that isn’t an untapped creature to its owner’s hand.
 	time_created: 2025-08-12 23:33:51
-	time_modified: 2026-04-18 13:54:53
+	time_modified: 2026-04-30 15:11:22
 	name: Grasping Dreams
-	casting_cost: 1U
+	casting_cost: 2U
 	image: image70
 	image_2: 
 	mainframe_image: 
@@ -2586,10 +2591,10 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Return target nonland permanent an opponent controls other than an untapped creature to its owner’s hand.
+		Exile target nonland permanent an opponent controls. For as long as that card remains exiled, its owner may cast it. It costs <sym-auto>2</sym-auto> more to cast this way.
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>1W</sym-auto>, Sacrifice a Spirit</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: kaidraw
+	illustrator: Kai Stevens
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2608,7 +2613,7 @@ card:
 		overlay: 
 	notes: !replacetoken Infused 2/2 Zombie;1
 	time_created: 2024-07-28 23:55:22
-	time_modified: 2026-04-20 19:09:48
+	time_modified: 2026-04-28 13:39:30
 	name: Havengul Prodigy
 	casting_cost: 1U
 	image: image71
@@ -2627,7 +2632,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 3
-	illustrator: dopaprime
+	illustrator: Livia Prima
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2751,8 +2756,8 @@ card:
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
-		chop_top: 8
-		chop_bottom: 12
+		chop_top: 3
+		chop_bottom: 3
 		frames: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -2760,10 +2765,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 01:00:17
-	time_modified: 2026-04-20 19:10:46
+	time_modified: 2026-04-30 13:23:12
 	extra_data:
 		magic-m15-altered:
-			vorthos_box: He/him
+			vorthos_box: 
 	name: Herghast, Niblis Magister
 	casting_cost: 1U
 	image: image75
@@ -2782,11 +2787,11 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
-		<sym-auto>U</sym-auto>: Choose target permanent. Attach an Aura you control that could <kw-a><nospellcheck><key>enchant <param-name>it to it, or move a counter from a permanent you control onto it</param-name>.</key></nospellcheck></kw-a> Activate only once each turn. Activate only as a sorcery unless <atom-legname><nospellcheck>Herghast</nospellcheck></atom-legname> entered this turn.
-	flavor_text: <i-flavor>He is frost and dusk. He is mist and breath.</i-flavor>
+		<sym-auto>U</sym-auto>: Choose target permanent. Attach an Aura you control that could <kw-a><nospellcheck><key>enchant <param-name>it to it, or move a counter from a permanent you control onto it</param-name>.</key></nospellcheck></kw-a> Activate only once each turn, and only as a sorcery unless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Herghast</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> entered this turn.
+	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: thingsthatlurk
+	illustrator: ThingsThatLurk
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2875,7 +2880,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-19 17:54:12
-	time_modified: 2026-04-20 19:17:01
+	time_modified: 2026-04-28 14:17:59
 	name: Learn the Steps
 	casting_cost: UU
 	image: image78
@@ -2893,7 +2898,7 @@ card:
 	rarity: uncommon
 	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then exile any number of cards from your graveyard. Counter target spell unless its controller pays <sym-auto>X</sym-auto>, where X is the number of card types among cards exiled this way.
 	flavor_text: <i-flavor>“You’ve had hundreds of years to perfect this dance! No more excuses!”</i-flavor>
-	illustrator: max-mena-athena
+	illustrator: Max Mena
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2941,7 +2946,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-02-26 13:54:03
+	time_modified: 2026-04-28 14:01:43
 	card_color_2: blue
 	name: Looming Serpent
 	name_2: Drowntide Harbinger
@@ -2974,7 +2979,7 @@ card:
 	toughness: 5
 	toughness_2: 7
 	illustrator: Jordan Van Der Merwe
-	illustrator_2: Leonitus
+	illustrator_2: Leonitus 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -2993,7 +2998,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-03-31 22:31:37
-	time_modified: 2026-04-20 17:45:11
+	time_modified: 2026-04-28 13:43:47
 	name: March of the Drowntide
 	casting_cost: 3U
 	image: image83
@@ -3012,7 +3017,7 @@ card:
 		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> if you <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Zombie as an additional cost to cast it</param-name>.</key></nospellcheck></kw-0> <i-auto>(To <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Zombie, choose a Zombie you control or reveal a Zombie card from your hand</param-name>.</key></nospellcheck></kw-0>)</i-auto>
 		Target creature’s owner puts it on the top or bottom of their library. <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: eryk-szczygiel
+	illustrator: Eryk Szczygiel
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3113,7 +3118,7 @@ card:
 		!tag wishlist
 		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-04-18 14:16:07
+	time_modified: 2026-04-28 14:24:18
 	name: Mysteries of the Forbidden
 	casting_cost: 1U
 	image: image86
@@ -3134,7 +3139,7 @@ card:
 		<kw-0><nospellcheck><key>Flashback <param-cost><sym-auto>3U</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
-	illustrator: rafael-carvalho
+	illustrator: Rafael Carvalho
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3154,7 +3159,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-20 21:44:23
-	time_modified: 2026-02-15 20:46:48
+	time_modified: 2026-04-30 13:25:30
 	card_color_2: blue
 	name: Nebelgast Retainer
 	name_2: Host of Roiling Mist
@@ -3176,7 +3181,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever another Spirit enters under your control, if it doesn’t have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on it. Otherwise, this creature gets +1/+1 until end of turn.
-		<sym-auto>2U</sym-auto>, Tap two other untapped creatures you control with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>: Transform this creature. Activate only as a sorcery.
+		<sym-auto>3U</sym-auto>: Transform this creature. Activate only as a sorcery and only if you control two or more other creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	rule_text_2:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		When this creature transforms into <atom-cardname><nospellcheck>Host of Roiling Mist</nospellcheck></atom-cardname>, put a +1/+1 counter on each creature you control with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. Whenever one of those creatures deals combat damage to a player this turn, draw a card.
@@ -3186,8 +3191,8 @@ card:
 	power_2: 2
 	toughness: 2
 	toughness_2: 3
-	illustrator: sam-perin
-	illustrator_2: Warm_Tail
+	illustrator: Sam Perin
+	illustrator_2: Danny Alex
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3206,10 +3211,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-08 14:43:28
-	time_modified: 2026-02-26 13:55:21
+	time_modified: 2026-04-30 13:30:35
 	name: Niblis of the Gloom
 	casting_cost: 3U
-	image: image91
+	image: image7.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -3228,7 +3233,7 @@ card:
 	flavor_text: <i-flavor>Some spirits fear the light, but others simply thrive in the shadows.</i-flavor>
 	power: 2
 	toughness: 5
-	illustrator: irina-nordsol-kuzmina
+	illustrator: Lucas Torquato
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3247,7 +3252,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:43:57
-	time_modified: 2025-11-14 13:35:36
+	time_modified: 2026-04-28 14:28:16
 	name: Nightfright
 	casting_cost: 1U
 	image: image92
@@ -3267,7 +3272,7 @@ card:
 		Target creature gets -2/-0 until end of turn. If you control a Spirit, that creature gets -6/-0 until end of turn instead.
 		Draw a card.
 	flavor_text: <i-flavor>Beneath <error-spelling:en_US>Nephalia’s</error-spelling:en_US> stormy and haunted skies, it’s hard to get a good night’s sleep.</i-flavor>
-	illustrator: sifterone
+	illustrator: Muhammad Fajri
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3279,7 +3284,7 @@ card:
 	has_styling: false
 	notes: !uncommonremoval
 	time_created: 2025-11-11 13:35:46
-	time_modified: 2026-02-22 12:50:16
+	time_modified: 2026-04-24 15:53:31
 	name: Play on Their Fears
 	casting_cost: 4UU
 	image: image93
@@ -3300,7 +3305,7 @@ card:
 		When this enchantment enters, tap enchanted permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. It loses all abilities for as long as it remains tapped.
 		You control enchanted permanent.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: kyle-pearson
+	illustrator: Kyle Pearson
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3319,10 +3324,10 @@ card:
 		overlay: 
 	notes: !replacetoken Infused */* Zombie;1
 	time_created: 2024-08-09 20:35:43
-	time_modified: 2026-04-18 14:19:37
+	time_modified: 2026-04-30 13:29:57
 	name: Plunder the Grafs
 	casting_cost: XUU
-	image: image94
+	image: image5.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -3334,7 +3339,7 @@ card:
 	rarity: uncommon
 	rule_text: Any number of target players each mill twice X cards. <kw-A><nospellcheck><key>Stitch </sym><param-number>X</param-number></key></nospellcheck><sym>. Then if you control three or more Zombies, draw a card.<atom-reminder-action> <i-auto>(To stitch <param-number>X</param-number>, you may exile a creature card and an instant or sorcery card from your graveyard to create an X/X blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: konstantin-porubov
+	illustrator: Tom Zarka
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3356,7 +3361,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:21:16
-	time_modified: 2025-10-09 11:46:26
+	time_modified: 2026-04-30 13:26:09
 	name: Rancid Practitioner
 	casting_cost: 2U
 	image: image95
@@ -3378,8 +3383,8 @@ card:
 		When this creature dies, you may return target instant or sorcery card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 3
-	illustrator: soren-falske
+	toughness: 2
+	illustrator: Soren Falske
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3398,7 +3403,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-29 20:25:27
-	time_modified: 2026-01-20 20:52:36
+	time_modified: 2026-04-28 14:23:57
 	name: Scions of Flesh and Spirit
 	casting_cost: 2U
 	image: image96
@@ -3417,7 +3422,7 @@ card:
 	flavor_text: <i-flavor>In <error-spelling:en_US>Morkrut</error-spelling:en_US>, disturbed ghosts and ghouls march together in shared torment.</i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: pavel-kolomeyets
+	illustrator: Pavel Kolomeyets
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3481,7 +3486,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-01-25 21:00:43
+	time_modified: 2026-04-30 15:24:37
 	name: Selhoff Conduit
 	casting_cost: U
 	image: image98
@@ -3498,8 +3503,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn.
-		Whenever this creature attacks, if there are four or more differently named instant and/or sorcery cards in your graveyard, draw a card.
+		This creature has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> as long as you’ve cast an instant or sorcery spell this turn.
+		Whenever this creature attacks, draw a card. Then put a card from your hand on the bottom of your library unless there are four or more differently named instant and/or sorcery cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -3638,7 +3643,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-20 21:44:23
-	time_modified: 2026-04-13 17:33:05
+	time_modified: 2026-04-28 14:24:52
 	name: Thing from the Depths
 	casting_cost: 3UUU
 	image: image102
@@ -3661,7 +3666,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 6
-	illustrator: Rutger van de SteegPro
+	illustrator: Rutger van de Steeg
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3670,7 +3675,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-22 00:51:01
-	time_modified: 2025-12-11 11:39:35
+	time_modified: 2026-04-28 13:24:25
 	card_color: blue
 	name: Thought Scour
 	casting_cost: U
@@ -3690,7 +3695,7 @@ card:
 		Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	flavor_text: <i-flavor><error-spelling:en_US>Ashiok</error-spelling:en_US> sifted the minds of the denizens of <error-spelling:en_US>Innistrad</error-spelling:en_US>, eager to learn more about the twisted presence contained beyond. </i-flavor>
-	illustrator: diana-franco
+	illustrator: Diana Franco
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3708,7 +3713,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-28 21:46:15
-	time_modified: 2025-11-03 19:49:18
+	time_modified: 2026-04-28 14:23:09
 	name: Tormented Bride
 	casting_cost: 4U
 	image: image104
@@ -3731,7 +3736,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 5
-	illustrator: oliver-harbour
+	illustrator: Oliver Harbour
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3754,7 +3759,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-03-31 22:31:37
-	time_modified: 2026-01-20 21:00:34
+	time_modified: 2026-04-28 14:22:04
 	name: Trapped in the Mirror
 	casting_cost: 1U
 	image: image105
@@ -3774,7 +3779,7 @@ card:
 		When this enchantment enters, if enchanted creature’s power is 3 or less, tap it.
 		Enchanted creature loses all abilities and doesn’t untap during its controller’s untap step.
 	flavor_text: <i-flavor>On <error-spelling:en_US>Innistrad</error-spelling:en_US>, fear even your own reflection.</i-flavor>
-	illustrator: nia-kovalevski
+	illustrator: Nia Kovalevski
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3792,7 +3797,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:17:59
-	time_modified: 2026-04-18 14:25:13
+	time_modified: 2026-04-23 17:33:23
 	name: Unstable Masterpiece
 	casting_cost: 1UU
 	image: image106
@@ -3815,7 +3820,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 4
-	illustrator: brian-adriel
+	illustrator: Brian Adriel
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3833,7 +3838,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:44:20
-	time_modified: 2026-04-18 14:25:26
+	time_modified: 2026-04-28 14:20:25
 	name: Unwelcome Host
 	casting_cost: 3U
 	image: image107
@@ -3855,7 +3860,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: nele_diel
+	illustrator: Nele Diel
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3877,7 +3882,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:40:55
-	time_modified: 2025-11-05 14:31:48
+	time_modified: 2026-04-28 14:11:02
 	name: Wailing Apparition
 	casting_cost: 3U
 	image: image108
@@ -3896,7 +3901,7 @@ card:
 	flavor_text: <i-flavor>It screams without end, desperate to be unleashed upon the world of the living.</i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: marine-lannoy
+	illustrator: Marine Lannoy
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3916,7 +3921,7 @@ card:
 		overlay: 
 	notes: !replacetoken Infused 2/2 Zombie;1
 	time_created: 2025-03-31 17:21:16
-	time_modified: 2026-04-13 17:02:24
+	time_modified: 2026-04-28 14:24:08
 	name: Ambitious Necrologist
 	casting_cost: 3B
 	image: image109
@@ -3938,7 +3943,7 @@ card:
 	flavor_text: <i-flavor>“At last, my grand project begins!”</i-flavor>
 	power: 2
 	toughness: 4
-	illustrator: pedro-sena
+	illustrator: Pedro Sena
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3960,7 +3965,7 @@ card:
 		
 		2W: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped with a finality counter on it.
 	time_created: 2025-03-29 18:20:39
-	time_modified: 2025-12-19 15:19:03
+	time_modified: 2026-04-28 14:19:51
 	name: Angel of Fading Dusk
 	casting_cost: 2BB
 	image: image110
@@ -3983,7 +3988,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
-	illustrator: nate-rose-beez
+	illustrator: Nate Rose
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -3992,7 +3997,7 @@ card:
 	has_styling: false
 	notes: !uncommonremoval
 	time_created: 2025-01-03 02:07:46
-	time_modified: 2025-10-09 00:27:00
+	time_modified: 2026-04-28 13:56:12
 	name: Anje’s Thirst
 	casting_cost: 2B
 	image: image111
@@ -4010,7 +4015,7 @@ card:
 	rarity: uncommon
 	rule_text: Target creature gets -5/-5 until end of turn. You may have up to one target creature you control gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: ilya-vatutin
+	illustrator: Ilya Vatutin
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4029,7 +4034,7 @@ card:
 		overlay: 
 	notes: You may reveal a planeswalker, Eldrazi or Horror card you own from outside the game and put it into your hand. If you don’t, you lose 2 life, surveil 2, then draw two cards.
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-04-20 17:56:49
+	time_modified: 2026-04-23 17:33:37
 	name: Beckon the Beyond
 	casting_cost: 2B
 	image: image112
@@ -4047,7 +4052,7 @@ card:
 	rarity: rare
 	rule_text: You may reveal an Ashiok, Eldrazi, Horror, or black planeswalker card you own from outside the game and put it into your hand. If you don’t, you lose 2 life, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.
 	flavor_text: <i-flavor><error-spelling:en_US>Ashiok</error-spelling:en_US> had known <error-spelling:en_US>Innistrad</error-spelling:en_US> as a world of nightmares, but not the truth about what lurked beneath its silvery moon.</i-flavor>
-	illustrator: bruno-henrique
+	illustrator: Bruno Henrique
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4066,7 +4071,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-03-31 22:41:45
-	time_modified: 2025-12-11 11:43:40
+	time_modified: 2026-04-28 14:34:15
 	name: Bittersweet Parting
 	casting_cost: 3B
 	image: image113
@@ -4085,7 +4090,7 @@ card:
 		Destroy target creature or planeswalker.
 		<sym-auto>3B</sym-auto>, Exile this card from your graveyard: Each opponent loses 2 life and you gain 2 life. Activate only as a sorcery.
 	flavor_text: <i-flavor><error-spelling:en_US>Sorin</error-spelling:en_US> had saved <error-spelling:en_US>Innistrad</error-spelling:en_US> from a grave threat once before. Could he once again?</i-flavor>
-	illustrator: thaldir
+	illustrator: Thaldir
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4104,7 +4109,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 17:17:43
-	time_modified: 2026-04-20 17:00:58
+	time_modified: 2026-04-23 17:29:23
 	name: Bloodsire’s Herald
 	casting_cost: 1B
 	image: image114
@@ -4123,7 +4128,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: andre-reis
+	illustrator: Andre Reis
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4148,7 +4153,7 @@ card:
 		overlay: 
 	notes: When this creature transforms into Bloodsated Count, remove all feed counters from it. You may have target creature get -X/-X until end of turn, where X is the number of feed counters removed this way.
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-26 14:00:31
+	time_modified: 2026-04-28 14:44:58
 	card_color_2: black
 	name: Hungering Coffin
 	name_2: Sated Count
@@ -4179,7 +4184,7 @@ card:
 	power_2: 4
 	toughness_2: 3
 	illustrator: Fabian Golz
-	illustrator_2: chris-dien
+	illustrator_2: Chris Dien
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4188,7 +4193,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 17:19:21
-	time_modified: 2025-11-14 13:39:32
+	time_modified: 2026-04-23 17:31:01
 	name: Bounty of Trostad
 	casting_cost: 3B
 	image: image119
@@ -4207,7 +4212,7 @@ card:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each Zombie card it targets.
 		Return up to two target creature cards from your graveyard to your hand.
 	flavor_text: <i-flavor>All across <error-spelling:en_US>Innistrad</error-spelling:en_US>, fresh corpses are never in short supply.</i-flavor>
-	illustrator: anthony-catillaz
+	illustrator: Anthony Catillaz
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4218,7 +4223,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-13 20:26:44
-	time_modified: 2026-04-18 14:31:56
+	time_modified: 2026-04-28 14:11:30
 	card_color: black
 	card_color_2: white
 	name: Callous Killer
@@ -4248,7 +4253,7 @@ card:
 	power_2: 4
 	toughness: 2
 	toughness_2: 4
-	illustrator: mark-henry-bustamante
+	illustrator: Mark Henry Bustamante
 	illustrator_2: grath
 	card_code_text: 
 	card_code_text_2: 
@@ -4268,7 +4273,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-08 14:43:28
-	time_modified: 2026-02-18 22:19:48
+	time_modified: 2026-04-30 12:31:04
 	card_color: black
 	name: Ceaseless Horseman
 	casting_cost: 1BB
@@ -4286,12 +4291,12 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		When this creature dies, if you control another Zombie or there is another Zombie card in your graveyard, create a tapped 2/2 black Zombie creature token.
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When this creature dies, if you control another Zombie or there are three or more Zombie cards in your graveyard, create a tapped 2/2 black Zombie creature token.
 	flavor_text: <i-flavor>He’s found his head, but unfortunately would prefer to wear yours.</i-flavor>
 	power: 4
 	toughness: 2
-	illustrator: victor-garcia
+	illustrator: Victor Garcia
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4312,7 +4317,7 @@ card:
 		!commonremoval
 		!replacetoken Infused 2/2 Zombie;1
 	time_created: 2025-03-31 22:41:45
-	time_modified: 2026-04-13 16:51:35
+	time_modified: 2026-04-28 13:16:53
 	name: Cornered by the Dead
 	casting_cost: 2B
 	image: image127
@@ -4329,7 +4334,7 @@ card:
 	sub_type_4: 
 	rule_text: Each opponent sacrifices a creature of their choice. <kw-A><nospellcheck><key>Stitch <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>2</param-number>/<param-number>2</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor><error-spelling:en_US>Avacyn’s</error-spelling:en_US> abandoned churches shield against the darkness no longer.</i-flavor>
-	illustrator: david-auden-nash
+	illustrator: David Auden Nash
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4392,9 +4397,9 @@ card:
 		overlay: 
 	notes: For each player that does, that player draws a card.
 	time_created: 2025-12-29 18:50:30
-	time_modified: 2026-04-18 14:33:12
+	time_modified: 2026-04-30 12:31:53
 	name: Curse of Dark Blasphemy
-	casting_cost: 3BB
+	casting_cost: 4BB
 	image: image129
 	image_2: 
 	mainframe_image: 
@@ -4422,7 +4427,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-12 19:40:11
-	time_modified: 2026-02-26 14:03:24
+	time_modified: 2026-04-30 15:16:35
 	name: Curse of Profane Offerings
 	casting_cost: 1B
 	image: image2.png
@@ -4440,8 +4445,8 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever a creature not controlled by enchanted player dies, enchanted player loses 1 life and you gain 1 life.
-		<sym-auto>4B</sym-auto>: Each of enchanted player’s opponents creates a 0/1 white Sheep creature token.
+		Whenever a creature not controlled by enchanted player dies, its controller gains 1 life and may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<sym-auto>3B</sym-auto>: Enchanted player loses 1 life. Each of enchanted player’s opponents creates a 0/1 white Sheep creature token. 
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Erskine Designs
 	card_code_text: 
@@ -4460,12 +4465,14 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !uncommonremoval
+	notes:
+		!uncommonremoval
+		!renameof Deadly Invitation
 	time_created: 2025-11-11 13:12:17
-	time_modified: 2026-02-26 14:03:53
-	name: Deadly Invitation
+	time_modified: 2026-04-30 13:31:28
+	name: Affliction of Undeath
 	casting_cost: 1BB
-	image: image131
+	image: image4.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -4478,9 +4485,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: If a creature an opponent controls would die this turn, exile it instead. Each creature gets -2/-2 until end of turn.
-	flavor_text: <i-flavor>The unfortunate guests were introduced to just a little taste of <error-spelling:en_US>Falkenrath</error-spelling:en_US> hospitality.</i-flavor>
-	illustrator: dan-watson
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Each creature gets -2/-2 until end of turn.
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Stitch <param-number>4</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>4</param-number>/<param-number>4</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A></li>
+	flavor_text: <i-flavor><error-spelling:en_US>Stitchers</error-spelling:en_US> give little consideration to where they source the corpses for their experiments, or who they were in life.</i-flavor>
+	illustrator: Donald Caron
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4499,7 +4509,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 02:09:55
-	time_modified: 2025-03-31 19:58:19
+	time_modified: 2026-04-28 13:12:08
 	name: Deranged Ravager
 	casting_cost: 2B
 	image: image132
@@ -4520,7 +4530,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: dan-rossi
+	illustrator: Dan Rossi
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4529,7 +4539,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-08-12 23:33:51
-	time_modified: 2025-12-03 19:15:28
+	time_modified: 2026-04-28 13:15:03
 	name: Dirge of the Drowned
 	casting_cost: 1B
 	image: image133
@@ -4549,7 +4559,7 @@ card:
 		Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. You lose 1 life.
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>U</sym-auto>, Discard a Zombie card</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: darryl-he
+	illustrator: Darryl He
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4601,8 +4611,8 @@ card:
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
-		chop_top: 6
-		chop_bottom: 6
+		chop_top: 3
+		chop_bottom: 3
 		frames: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -4610,10 +4620,10 @@ card:
 		overlay: 
 	notes:
 		!uncommonremoval
-		!replacetoken Infused 3/3 Zombie;1
+		!renameof Farbog Invocation
 	time_created: 2025-03-31 17:21:16
-	time_modified: 2026-04-13 16:51:11
-	name: Farbog Invocation
+	time_modified: 2026-04-30 13:31:16
+	name: Bone Shards
 	casting_cost: B
 	image: image135
 	image_2: 
@@ -4630,11 +4640,9 @@ card:
 	rarity: uncommon
 	rule_text:
 		As an additional cost to cast this spell, sacrifice a creature or discard a card.
-		<margin:0:0:5>Choose one —</margin:0:0:5>
-		<li><bullet>• </bullet>Destroy target creature or planeswalker.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Stitch <param-number>3</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>3</param-number>/<param-number>3</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A></li>
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: sperasoft-studio
+		Destroy target creature or planeswalker.
+	flavor_text: <i-flavor>The bones that litter the <error-spelling:en_US>Farbogs</error-spelling:en_US> are eager to claim new victims to join them.</i-flavor>
+	illustrator: Sperasoft Studio
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4643,7 +4651,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2026-02-10 13:45:15
+	time_modified: 2026-04-28 14:17:14
 	name: Festering Rats
 	casting_cost: 1B
 	image: image136
@@ -4664,7 +4672,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: mattfantsy
+	illustrator: Ismatulloh
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4683,7 +4691,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2025-11-14 13:41:04
+	time_modified: 2026-04-28 13:54:03
 	name: Gisa’s Breakthrough
 	casting_cost: B
 	image: image137
@@ -4703,7 +4711,7 @@ card:
 	flavor_text:
 		<i-flavor>“Doesn’t it bear a striking resemblance, brother?”<soft-line>
 		—<error-spelling:en_US>Ghoulcaller</error-spelling:en_US> <error-spelling:en_US>Gisa</soft-line></i-flavor></error-spelling:en_US>
-	illustrator: henrik-pettersson
+	illustrator: Henrik Pettersson
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4806,7 +4814,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:38:05
-	time_modified: 2026-02-21 01:41:58
+	time_modified: 2026-04-30 15:11:56
 	name: Greedy Duelist
 	casting_cost: B
 	image: image140
@@ -4823,7 +4831,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever this creature attacks, you may pay 2 life. If you do, you may have it gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
+		Whenever this creature deals combat damage to a player, you may have it gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
 		<sym-auto>2B</sym-auto>: Return this card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -4849,7 +4857,7 @@ card:
 		overlay: 
 	notes: !replacetoken Infused 3/3 Zombie;1
 	time_created: 2024-07-29 00:01:32
-	time_modified: 2026-04-13 16:50:47
+	time_modified: 2026-04-30 15:13:39
 	name: Horrific Stitching
 	casting_cost: 2BB
 	image: image141
@@ -4863,12 +4871,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Each creature gets -3/-3 until end of turn.
-		</li><li><bullet>• </bullet>Each player discards three cards.
-		<margin:0:0:5></li>When this spell resolves, <kw-A><nospellcheck><key>stitch <param-number>3</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>3</param-number>/<param-number>3</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A></margin:0:0:5>
+		<kw-A><nospellcheck><key>Stitch <param-number>3</param-number></key></nospellcheck>. When you do, you may choose one.<atom-reminder-action> <i-auto>(To stitch <param-number>3</param-number>, you may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>3</param-number>/<param-number>3</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
+		<li><bullet>• </bullet>Each player sacrifices two creatures.
+		</li><li><bullet>• </bullet>Each player discards two cards.</li>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: kun-vic
+	illustrator: Kun Vic
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4890,7 +4897,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:21:16
-	time_modified: 2026-01-20 13:42:26
+	time_modified: 2026-04-28 14:26:31
 	name: Illicit Mortician
 	casting_cost: 1B
 	image: image142
@@ -4913,7 +4920,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: shen-fei
+	illustrator: Shen Fei
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -4933,7 +4940,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 02:09:55
-	time_modified: 2026-02-15 21:05:42
+	time_modified: 2026-04-28 13:12:10
 	name: Indulgent Patrician
 	casting_cost: 1BB
 	image: image143
@@ -4955,7 +4962,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: dan-rossi
+	illustrator: Dan Rossi
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5043,7 +5050,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:41:45
-	time_modified: 2025-11-05 17:53:31
+	time_modified: 2026-04-28 13:55:18
 	name: Mortis Infusion
 	casting_cost: 2B
 	image: image146
@@ -5060,7 +5067,7 @@ card:
 	sub_type_4: 
 	rule_text: Until end of turn, target creature gets +4/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”
 	flavor_text: <i-flavor><error-spelling:en_US>Varda</error-spelling:en_US> still held hope that perhaps the </i>fifteenth<i> experiment would prove stable.</i-flavor>
-	illustrator: hungry-monkey
+	illustrator: TheComicArtist
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5172,7 +5179,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2026-01-20 21:04:26
+	time_modified: 2026-04-28 14:35:59
 	name: Overlord of Ashmouth
 	casting_cost: 4BB
 	image: image150
@@ -5193,7 +5200,7 @@ card:
 	flavor_text: <i-flavor>Devils swarm at his dark command.</i-flavor>
 	power: 5
 	toughness: 5
-	illustrator: svetoslav-petrov
+	illustrator: Svetoslav Petrov
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5212,7 +5219,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:41:45
-	time_modified: 2026-02-22 17:58:51
+	time_modified: 2026-04-23 16:44:49
 	name: Profane Sustenance
 	casting_cost: 1B
 	image: image151
@@ -5231,7 +5238,7 @@ card:
 		Put a +1/+1 counter on target creature. It gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 		When you discard this card, you may pay <sym-auto>B</sym-auto>. If you do, target creature gets +1/+1 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: alex-petruk
+	illustrator: Alex Petruk
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5250,7 +5257,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-20 23:54:33
-	time_modified: 2026-01-25 20:47:59
+	time_modified: 2026-04-27 13:22:26
 	name: Putrid Bloodbag
 	casting_cost: 2BB
 	image: image152
@@ -5272,7 +5279,7 @@ card:
 	flavor_text: <i-flavor>To the vampires of the <error-spelling:en_US>Falkenrath</error-spelling:en_US> house, stale blood is better than no blood.</i-flavor>
 	power: 5
 	toughness: 3
-	illustrator: Aths-Art
+	illustrator: Athavan(Ath)
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5366,7 +5373,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:17:59
-	time_modified: 2026-02-19 23:57:54
+	time_modified: 2026-04-28 13:59:24
 	name: Scorned Zombie
 	casting_cost: 1B
 	image: image155
@@ -5385,7 +5392,7 @@ card:
 	flavor_text: <i-flavor>Anselm’s first marriage ended at his own hands. Now, his estranged wife would end his second by hers.</i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: jameshayballart
+	illustrator: James Hayball
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5474,7 +5481,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-30 13:41:51
-	time_modified: 2025-12-14 11:24:38
+	time_modified: 2026-04-30 13:27:03
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/him
@@ -5490,23 +5497,23 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	loyalty_cost_1: +2
+	loyalty_cost_1: +1
 	loyalty_cost_2: -2
-	loyalty_cost_3: -8
+	loyalty_cost_3: -6
 	loyalty: 3
 	level_1_text: <margin:130:0:0>You may have up to one target creature you control gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto></margin:130:0:0>
 	level_2_text: <margin:130:0:0>Create a 2/2 black Vampire creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_3_text: <margin:130:0:0><atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> deals X damage divided among any number of targets and you gain X life, where X is the number of cards in your graveyard.</margin:130:0:0>
 	level_4_text: 
 	level_5_text: 
-	illustrator: steven-elim-tali
+	illustrator: STeven Elim Tali
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
 	special_text:
-		[+2]: <margin:130:0:0>You may have up to one target creature you control gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto></margin:130:0:0>
+		[+1]: <margin:130:0:0>You may have up to one target creature you control gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto></margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a 2/2 black Vampire creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
-		[-8]: <margin:130:0:0><atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> deals X damage divided among any number of targets and you gain X life, where X is the number of cards in your graveyard.</margin:130:0:0>
+		[-6]: <margin:130:0:0><atom-legname><nospellcheck>Sorin</nospellcheck></atom-legname> deals X damage divided among any number of targets and you gain X life, where X is the number of cards in your graveyard.</margin:130:0:0>
 
 card:
 	stylesheet: m15-altered
@@ -5520,7 +5527,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 20:27:33
-	time_modified: 2025-12-11 11:43:28
+	time_modified: 2026-04-28 14:23:35
 	name: Sorin’s Interrogation
 	casting_cost: 1B
 	image: image159
@@ -5537,7 +5544,7 @@ card:
 	sub_type_4: 
 	rule_text: Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card. You may have up to one target creature you control gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto>
 	flavor_text: <i-flavor>“I must uncover the cause of this bleeding moon.”</i-flavor>
-	illustrator: otl-miu
+	illustrator: OTL Miu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5556,7 +5563,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 02:09:55
-	time_modified: 2025-08-13 15:58:18
+	time_modified: 2026-04-28 14:07:15
 	name: Stromkirk Vanguard
 	casting_cost: 1B
 	image: image160
@@ -5577,7 +5584,7 @@ card:
 	flavor_text: <i-flavor>“We are the blood of old <error-spelling:en_US>Innistrad</error-spelling:en_US>, and tonight we claim what is ours!”</i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: leo-aveiro
+	illustrator: Leo Aveiro
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5650,7 +5657,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-01-03 02:17:11
-	time_modified: 2026-04-20 17:43:25
+	time_modified: 2026-04-28 13:55:44
 	name: Thirsty Work
 	casting_cost: B
 	image: image163
@@ -5670,7 +5677,7 @@ card:
 		As an additional cost to cast this spell, you may <kw-1><nospellcheck><key>behold <param-a>a</param-a> <param-name>Vampire</param-name>.</key></nospellcheck><atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Vampire</param-name>, choose <param-a>a</param-a> <param-name>Vampire</param-name> you control or reveal <param-a>a</param-a> <param-name>Vampire</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-1>
 		Target creature gets -2/-2 until end of turn. If a Vampire was beheld, you gain 2 life.
 	flavor_text: <i-flavor>Olivia’s party <error-spelling:en_US>bloodwine</error-spelling:en_US> is of the finest lineage.</i-flavor>
-	illustrator: isabeau-m
+	illustrator: Isabeau M.
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5689,7 +5696,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:19:45
-	time_modified: 2025-11-05 14:34:20
+	time_modified: 2026-04-28 14:00:05
 	name: Voldaren Magister
 	casting_cost: 3BB
 	image: image164
@@ -5711,7 +5718,7 @@ card:
 	flavor_text: <i-flavor>“Proffer everything of yourself to me.”</i-flavor>
 	power: 3
 	toughness: 4
-	illustrator: JasonEngle
+	illustrator: Jason Engle
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5773,7 +5780,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 16:55:27
-	time_modified: 2026-04-13 17:45:33
+	time_modified: 2026-04-28 14:12:47
 	name: Witching Hour
 	casting_cost: XBBB
 	image: image166
@@ -5790,7 +5797,7 @@ card:
 	flavor_text:
 		<i-flavor>“Come, my disciples! The red moon rises, and deliverance comes for all of us!”<soft-line>
 		—<error-spelling:en_US>Tinua</error-spelling:en_US>, of Whispered Pains</soft-line></i-flavor>
-	illustrator: matias-tapia
+	illustrator: Matias Tapia
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5812,7 +5819,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-04-18 14:49:32
+	time_modified: 2026-04-30 12:28:21
 	name: Ash-Addled Pyromaniac
 	casting_cost: 1R
 	image: image80
@@ -5831,8 +5838,7 @@ card:
 	rule_text:
 		When this creature dies, choose one —
 		<li><bullet>• </bullet>Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
-		</li><li><bullet>• </bullet>Create a red Ardor enchantment token with “Sacrifice this token: Target creature gets +1/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”
-		</li><li><bullet>• </bullet>Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</li>
+		</li><li><bullet>• </bullet>Create a red Ardor enchantment token with “Sacrifice this token: Target creature gets +1/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1
@@ -5927,7 +5933,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:20:48
-	time_modified: 2026-04-20 17:54:52
+	time_modified: 2026-04-28 14:31:11
 	name: Awoken Heir
 	casting_cost: R
 	image: image115
@@ -5949,7 +5955,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
-	illustrator: toni-spagnoletti
+	illustrator: Toni Spagnoletti
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5958,7 +5964,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-03 02:17:11
-	time_modified: 2025-08-12 23:38:15
+	time_modified: 2026-04-24 15:53:42
 	name: Bleeding Tithe
 	casting_cost: R
 	image: image116
@@ -5978,7 +5984,7 @@ card:
 		Create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>. Add <sym-auto>R</sym-auto>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>B</sym-auto>, Exile a Vampire card from your graveyard</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: zudarts-lee
+	illustrator: Zudarts Lee
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -5997,7 +6003,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-08 14:43:28
-	time_modified: 2026-02-21 01:51:04
+	time_modified: 2026-04-24 15:53:26
 	name: Bloodpack Invoker
 	casting_cost: 2R
 	image: image120
@@ -6019,7 +6025,7 @@ card:
 	flavor_text: <i-flavor>“Our hunger is not so unalike.”</i-flavor>
 	power: 1
 	toughness: 4
-	illustrator: kuryliuk-darya
+	illustrator: Kuryliuk Darya
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6038,7 +6044,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-09-24 11:54:44
+	time_modified: 2026-04-23 17:32:57
 	card_color_2: red
 	name: Bloodspill Ruffian
 	name_2: Bloodsoaked Brute
@@ -6066,7 +6072,7 @@ card:
 	power_2: 3
 	toughness: 3
 	toughness_2: 4
-	illustrator: ben-guldemond
+	illustrator: Ben Guldemond
 	illustrator_2: Kamil Patynowski
 	card_code_text: 
 	card_code_text_2: 
@@ -6081,7 +6087,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-18 14:52:58
+	time_modified: 2026-04-23 17:31:50
 	card_color_2: red
 	name: Cackling Igniter
 	name_2: Curse of Wyldfyre
@@ -6112,7 +6118,7 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: bastien jez
+	illustrator: Bastien Jez
 	illustrator_2: breakermaximus
 	card_code_text: 
 	card_code_text_2: 
@@ -6135,7 +6141,7 @@ card:
 		overlay: 
 	notes: !uncommonremoval
 	time_created: 2025-03-31 20:27:33
-	time_modified: 2025-11-13 03:05:43
+	time_modified: 2026-04-23 17:34:29
 	name: Claret Ascendance
 	casting_cost: 1R
 	image: image167
@@ -6155,7 +6161,7 @@ card:
 		<atom-cardname><nospellcheck>Claret Ascendance</nospellcheck></atom-cardname> deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.
 		<sym-auto>3R</sym-auto>, Exile this card from your graveyard: You may have target creature you control gorge. Activate only as a sorcery. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: calder-moore
+	illustrator: Calder Moore
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6208,7 +6214,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-18 14:54:37
+	time_modified: 2026-04-28 14:09:37
 	name: Cordelia’s Ripper
 	casting_cost: 7RR
 	image: image169
@@ -6231,7 +6237,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
-	illustrator: m-e-morgan
+	illustrator: M.E. Morgan
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6250,7 +6256,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:33:51
-	time_modified: 2026-04-18 14:54:47
+	time_modified: 2026-04-23 17:24:39
 	name: Covetous Neonate
 	casting_cost: R
 	image: image170
@@ -6268,7 +6274,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: alex-v-ngo-avn
+	illustrator: Alex V Ngo
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6280,7 +6286,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-12 19:40:11
-	time_modified: 2026-04-18 14:54:54
+	time_modified: 2026-04-28 13:14:56
 	name: Curse of Devilish Ire
 	casting_cost: 2R
 	image: image171
@@ -6301,7 +6307,7 @@ card:
 		When this Aura enters, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
 		If a Demon or Devil would deal damage to enchanted player or a permanent they control, it deals that much damage plus 1 instead.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: dariia-anfalova
+	illustrator: Dariia Anfalova
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6320,7 +6326,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-22 01:22:57
-	time_modified: 2026-04-20 18:07:41
+	time_modified: 2026-04-28 14:31:18
 	name: Curse of Searing Ground
 	casting_cost: 3R
 	image: image172
@@ -6342,7 +6348,7 @@ card:
 		Damage dealt to enchanted player can’t be prevented.
 		Whenever a player taps a nonbasic land for mana, this Aura deals 1 damage to them.
 	flavor_text: <i-flavor>Where devils dance, the earth burns.</i-flavor>
-	illustrator: tomasz-ryger
+	illustrator: Tomasz Ryger
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6391,7 +6397,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-20 21:13:42
-	time_modified: 2026-04-20 17:46:00
+	time_modified: 2026-04-28 14:25:06
 	name: Embers of a New Moon
 	casting_cost: R
 	image: image174
@@ -6410,7 +6416,7 @@ card:
 		As an additional cost to cast this spell, <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Wolf or Werewolf or pay <sym>2</sym></param-name>.</key></nospellcheck></kw-0> <i-auto>(You may choose a Wolf or Werewolf you control or reveal a Wolf or Werewolf card from your hand.)</i-auto>
 		Exile the top two cards of your library. You may play them until the end of your next turn.
 	flavor_text: <i-flavor>“The night sky blazes, and <error-spelling:en_US>Ulrich</error-spelling:en_US> calls the hunt!”</i-flavor>
-	illustrator: sam-kanios
+	illustrator: Sam Kanios
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6504,7 +6510,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-01-20 23:58:14
-	time_modified: 2026-01-25 18:20:45
+	time_modified: 2026-04-28 13:51:53
 	name: Famished Twins
 	casting_cost: 1R
 	image: image177
@@ -6527,7 +6533,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
-	illustrator: guilherme-viana
+	illustrator: Guilherme Viana
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6585,10 +6591,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 19:30:13
-	time_modified: 2026-04-20 17:31:01
+	time_modified: 2026-04-30 15:08:58
 	extra_data:
 		magic-m15-altered:
-			vorthos_box: He/him
+			vorthos_box: 
 	card_color: red
 	name: Feudrach of Ashmouth
 	casting_cost: 2RRR
@@ -6603,11 +6609,11 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<sym-auto>1R</sym-auto>: Target creature gets +1/+0 until end of turn.
-		Whenever you attack, <atom-legname><nospellcheck>Feudrach</nospellcheck></atom-legname> deals X damage to any target, where X is the difference between target creature you control’s power and base power.
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Feudrach of Ashmouth</nospellcheck></atom-cardname> enters, target creature gets +2/+0 until end of turn.
+		Whenever you attack, <atom-legname><nospellcheck>Feudrach</nospellcheck></atom-legname> deals X damage to up to one target creature or planeswalker, where X is the difference between target creature you control’s power and base power.
 	flavor_text: <i-flavor></i-flavor>
-	power: 5
+	power: 4
 	toughness: 5
 	illustrator: Anato Finnstark
 	card_code_text: 
@@ -6616,6 +6622,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+	vorthos_box: 
 
 card:
 	stylesheet: m15-altered
@@ -6631,7 +6638,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-08-12 23:35:45
-	time_modified: 2025-10-01 21:50:51
+	time_modified: 2026-04-28 13:42:41
 	name: Feudrach’s Hunger
 	casting_cost: 4R
 	image: image180
@@ -6650,7 +6657,7 @@ card:
 		As long as it’s your turn, this spell costs <sym-auto>2</sym-auto> less to cast.
 		<atom-cardname><nospellcheck>Feudrach’s Hunger</nospellcheck></atom-cardname> deals 5 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: enrico-ottini
+	illustrator: Enrico Ottini
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6669,7 +6676,7 @@ card:
 		overlay: 
 	notes: !commonremoval
 	time_created: 2025-03-31 22:43:35
-	time_modified: 2026-02-22 17:53:48
+	time_modified: 2026-04-23 17:31:14
 	name: Full-Moon Assault
 	casting_cost: R
 	image: image181
@@ -6688,7 +6695,7 @@ card:
 		If you control two or more savage creatures, you may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 		Full-Moon Assault deals 3 damage to target creature or planeswalker.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: ardika-priyata
+	illustrator: Ardika Priyata
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6706,7 +6713,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2026-02-04 13:53:10
+	time_modified: 2026-04-28 14:21:17
 	card_color_2: red
 	name: Gatstaf Butcher
 	name_2: Fleshpound Stalker
@@ -6734,7 +6741,7 @@ card:
 	power_2: 2
 	toughness: 1
 	toughness_2: 3
-	illustrator: NergalArt
+	illustrator: Gergely Nagy
 	illustrator_2: Lucian Acatrinei
 	card_code_text: 
 	card_code_text_2: 
@@ -6757,7 +6764,7 @@ card:
 		overlay: 
 	notes: !rareremoval
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-04-20 19:07:58
+	time_modified: 2026-04-28 14:23:42
 	name: Geistblaster’s Breakthrough
 	casting_cost: R
 	image: image184
@@ -6777,7 +6784,7 @@ card:
 		<atom-cardname><nospellcheck>Geistblaster’s Breakthrough</nospellcheck></atom-cardname> deals X damage to target creature or planeswalker, where X is 1 plus the number of differently named instant and sorcery cards in your graveyard.
 		When you discard this card during your turn, you may pay <sym-auto>3RR</sym-auto>. If you do, create a 5/5 red Elemental creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: paolo-fraone
+	illustrator: Paolo Fraone
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6786,7 +6793,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-02-22 17:53:55
+	time_modified: 2026-04-28 13:24:07
 	name: Gorehowl Abomination
 	casting_cost: 3RR
 	image: image185
@@ -6808,7 +6815,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
-	illustrator: diana-franco
+	illustrator: Diana Franco
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6827,7 +6834,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2026-04-20 19:09:26
+	time_modified: 2026-04-28 14:04:36
 	name: Goremare
 	casting_cost: 2R
 	image: image186
@@ -6846,7 +6853,7 @@ card:
 	flavor_text: <i-flavor>The <error-spelling:en_US>Goremoon’s</error-spelling:en_US> ascendancy afflicted more than just wolves and werewolves.</i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: julie-cellarier
+	illustrator: Julie Cellarier
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6865,7 +6872,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-18 15:18:22
+	time_modified: 2026-04-30 15:10:59
 	name: The Goremoon Unleashed
 	casting_cost: 3RR
 	image: image187
@@ -6881,9 +6888,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Choose target creature you control. It deals damage equal to its power to each other creature and planeswalker. If the chosen creature was savage, exile a number of cards from the top of your library equal to its power. You may cast one of those cards without paying its mana cost. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+	rule_text: Choose target creature you control. It deals damage equal to its power to each other creature and planeswalker. If the chosen creature was savage, exile the top three cards of your library. You may play them until the end of your next turn. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: igorgalkin
+	illustrator: Igor Galkin
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6894,7 +6901,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-11-14 00:46:53
+	time_modified: 2026-04-28 14:45:11
 	card_color_2: red
 	name: Hanweir Sentries
 	name_2: Rooftop Rippers
@@ -6923,7 +6930,7 @@ card:
 	toughness: 4
 	toughness_2: 5
 	illustrator: Aleksandr Kravchuk
-	illustrator_2: vaggelis-manousakas
+	illustrator_2: Vaggelis Manousakas
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6945,9 +6952,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-29 18:20:39
-	time_modified: 2026-04-18 15:19:55
+	time_modified: 2026-04-30 13:22:25
 	name: The Haunting of Silbern
-	casting_cost: 1R
+	casting_cost: 2R
 	image: image190
 	image_2: 
 	mainframe_image: 
@@ -6963,9 +6970,9 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 until end of turn.
-		<sym-auto>1U</sym-auto>: <atom-cardname><nospellcheck>The Haunting of Silbern</nospellcheck></atom-cardname> becomes a 3/3 blue Elemental Spirit creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> in addition to its other types until end of turn.
+		<sym-auto>1U</sym-auto>: <atom-cardname><nospellcheck>The Haunting of Silbern</nospellcheck></atom-cardname> becomes a 4/4 blue Elemental Spirit creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> in addition to its other types until end of turn.
 	flavor_text: <i-flavor>The shrieking from the old <error-spelling:en_US>Silbern</error-spelling:en_US> watchtower never seemed to stop.</i-flavor>
-	illustrator: seongkwang ji
+	illustrator: Seongkwang Ji
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7077,7 +7084,7 @@ card:
 		!uncommonremoval
 		!tag wishlist
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-04-20 19:13:06
+	time_modified: 2026-04-28 13:46:24
 	name: Lunarblind Packmaster
 	casting_cost: 1RR
 	image: image194
@@ -7101,7 +7108,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4
-	illustrator: filip-storch
+	illustrator: Filip Storch
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7243,7 +7250,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-16 20:16:25
-	time_modified: 2025-09-06 22:45:13
+	time_modified: 2026-04-30 13:25:40
 	name: Olivia’s Debauchery
 	casting_cost: XR
 	image: image199
@@ -7261,10 +7268,10 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>Olivia’s Debauchery</nospellcheck></atom-cardname> deals X damage to each creature and each planeswalker.
+		<li><bullet>• </bullet><atom-cardname><nospellcheck>Olivia’s Debauchery</nospellcheck></atom-cardname> deals X damage to any target.
 		</li><li><bullet>• </bullet>You may have any number of up to X target creatures you control gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto></li>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: benjamin-ee
+	illustrator: Benjamin Ee
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7283,7 +7290,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-09-24 11:52:02
+	time_modified: 2026-04-28 13:58:42
 	card_color_2: red
 	name: Profane Invoker
 	name_2: Mondronen Bloodcaster
@@ -7312,7 +7319,7 @@ card:
 	power_2: 4
 	toughness: 2
 	toughness_2: 3
-	illustrator: JakubPolitzer
+	illustrator: Jakub Politzer
 	illustrator_2: Sebastian Horoszko
 	card_code_text: 
 	card_code_text_2: 
@@ -7335,7 +7342,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-29 20:25:27
-	time_modified: 2026-04-18 15:29:15
+	time_modified: 2026-04-28 14:00:01
 	name: Ravenous Companions
 	casting_cost: 2R
 	image: image202
@@ -7353,7 +7360,7 @@ card:
 	flavor_text: <i-flavor>One sups their victim’s <error-spelling:en_US>preyblood</error-spelling:en_US>, and the other feasts on its still-warm flesh.</i-flavor>
 	power: 2
 	toughness: 3
-	illustrator: jannaphia — edit
+	illustrator: Janna Sophia — edit
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7377,7 +7384,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-04-18 15:27:12
+	time_modified: 2026-04-23 16:44:32
 	extra_data:
 		magic-m15-mainframe-dfc:
 			front_color_hint: FT
@@ -7408,8 +7415,8 @@ card:
 	power_2: 4
 	toughness: 2
 	toughness_2: 3
-	illustrator: alessandra-gava
-	illustrator_2: kadek-seinia
+	illustrator: Alessandra Gava
+	illustrator_2: Kadek Seinia
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7527,7 +7534,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-03 02:09:24
-	time_modified: 2026-02-20 00:01:45
+	time_modified: 2026-04-28 14:25:05
 	name: Stain with Crimson
 	casting_cost: 1R
 	image: image208
@@ -7544,7 +7551,7 @@ card:
 	sub_type_4: 
 	rule_text: Target creature you control gets +2/+0 and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. You may have that creature gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: sam kanios
+	illustrator: Sam Kanios
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7563,7 +7570,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-13 20:26:44
-	time_modified: 2025-11-14 13:47:24
+	time_modified: 2026-04-23 16:43:43
 	card_color: red
 	card_color_2: blue
 	name: Stormbrewer Alchemist
@@ -7596,8 +7603,8 @@ card:
 	power_2: 3
 	toughness: 1
 	toughness_2: 2
-	illustrator: aerial48-studio
-	illustrator_2: Ignacio-Bazán-Lazcano
+	illustrator: AERIAL48 Studio
+	illustrator_2: Ignacio Bazán Lazcano
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7616,7 +7623,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 19:59:20
-	time_modified: 2026-04-18 15:35:12
+	time_modified: 2026-04-28 14:31:27
 	name: Stromkirk Warlord
 	casting_cost: 3R
 	image: image211
@@ -7635,7 +7642,7 @@ card:
 	flavor_text: <i-flavor>“Children! Tonight, we rise!”</i-flavor>
 	power: 2
 	toughness: 3
-	illustrator: thomas-elliott
+	illustrator: Thomas Elliott
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7705,9 +7712,9 @@ card:
 		overlay: 
 	notes: !uncommonremoval
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-02-22 17:54:47
+	time_modified: 2026-04-30 15:26:00
 	name: Wanton Display
-	casting_cost: 2R
+	casting_cost: 2RR
 	image: image214
 	image_2: 
 	mainframe_image: 
@@ -7721,9 +7728,11 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: <atom-cardname><nospellcheck>Wanton Display</nospellcheck></atom-cardname> deals 2 damage to each creature except for savage creatures you control. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+	rule_text:
+		This spell costs <sym-auto>1R</sym-auto> less to cast if you control a savage creature. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+		<atom-cardname><nospellcheck>Wanton Display</nospellcheck></atom-cardname> deals 6 damage to target creature or planeswalker and 2 damage to that permanent’s controller.
 	flavor_text: <i-flavor>As the <error-spelling:en_US>Goremoon</error-spelling:en_US> raged, so too did the werewolves.</i-flavor>
-	illustrator: lie-setiawan
+	illustrator: Lie Setiawan
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7742,9 +7751,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:35:08
-	time_modified: 2026-04-18 15:36:54
+	time_modified: 2026-04-30 12:27:54
 	name: Arlinn’s Kindred
-	casting_cost: 2GG
+	casting_cost: 1GG
 	image: image215
 	image_2: 
 	mainframe_image: 
@@ -7754,10 +7763,12 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, up to one other target Wolf or Werewolf you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn. You may transform that creature.
+		<margin:0:0:5>When this creature enters, choose one —</margin:0:0:5>
+		<li><bullet>• </bullet>Target Wolf or Werewolf you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+		</li><li><bullet>• </bullet>You may transform target Wolf or Werewolf creature.</li>
 	flavor_text: <i-flavor>Even apart from the plane, <error-spelling:en_US>Arlinn</error-spelling:en_US> watches over <error-spelling:en_US>Innistrad’s</error-spelling:en_US> packs.</i-flavor>
-	power: 4
-	toughness: 3
+	power: 3
+	toughness: 1
 	illustrator: Annwn Wolf
 	card_code_text: 
 	card_code_text_2: 
@@ -7780,7 +7791,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2026-02-22 17:53:31
+	time_modified: 2026-04-28 13:58:01
 	card_color: green
 	name: Backroads Incursion
 	casting_cost: 1G
@@ -7798,7 +7809,7 @@ card:
 	sub_type_4: 
 	rule_text: Destroy target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> or artifact. If you control a savage creature, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 	flavor_text: <i-flavor>The trundling of carriage wheels on cobble makes an inviting sound for werewolves.</i-flavor>
-	illustrator: jakub-jagoda
+	illustrator: Jakub Jagoda
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7900,7 +7911,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-04-18 15:37:51
+	time_modified: 2026-04-28 14:25:44
 	name: Call of the Ulvenvater
 	casting_cost: 3G
 	image: image219
@@ -7920,7 +7931,7 @@ card:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each savage creature you control. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 		Reveal the top ten cards of your library. You may put a creature and/or a land card from among them into your hand. Put the rest on the bottom in a random order.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: sam-m-mburu
+	illustrator: Samuel Mukiri Mburu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -7931,7 +7942,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-08-19 17:54:12
-	time_modified: 2026-04-20 18:04:45
+	time_modified: 2026-04-28 13:14:48
 	name: Consuming Grounds
 	name_2: Restless Waldgraf
 	casting_cost: 1G
@@ -7957,7 +7968,7 @@ card:
 		If this land would be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
-	illustrator: daniele-salis
+	illustrator: Daniele Salis
 	illustrator_2: Tyler Vail
 	card_code_text: 
 	card_code_text_2: 
@@ -7977,7 +7988,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-22 01:22:57
-	time_modified: 2026-04-20 18:06:44
+	time_modified: 2026-04-28 14:36:21
 	name: Curse of Harvest’s Reaping
 	casting_cost: 3G
 	image: image222
@@ -7997,7 +8008,7 @@ card:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever a player attacks enchanted player, the attacking player may sacrifice an attacking creature. If they do, they search their library for a creature card with mana value equal to 1 plus the sacrificed creature’s mana value, put it onto the battlefield tapped and attacking, then shuffle.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: steve-hamilton
+	illustrator: Steve Hamilton
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8006,7 +8017,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-08 14:43:28
-	time_modified: 2026-02-17 01:26:27
+	time_modified: 2026-04-23 17:33:16
 	name: Curse of Warped Realities
 	casting_cost: 3GG
 	image: image223
@@ -8026,7 +8037,7 @@ card:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
 		Whenever a creature attacks enchanted player, put a +1/+1 counter on that creature. It gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor><error-spelling:en_US>Sorin</error-spelling:en_US> and Thalia were determined not to let their home succumb once more to <error-spelling:en_US>Emrakul’s</error-spelling:en_US> warping madness.</i-flavor>
-	illustrator: bishop-whitepine
+	illustrator: Bishop Whitepine
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8045,7 +8056,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-08-19 17:54:12
-	time_modified: 2026-02-22 17:54:56
+	time_modified: 2026-04-23 17:26:38
 	name: Darkthicket Howler
 	casting_cost: 1G
 	image: image224
@@ -8067,8 +8078,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
-	illustrator:
-		 Carlos Palma Cruchaga
+	illustrator: Carlos Palma Cruchaga
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8087,7 +8097,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2026-01-20 21:24:53
+	time_modified: 2026-04-28 14:00:58
 	name: Dawnhart Familiar
 	casting_cost: 4G
 	image: image225
@@ -8108,7 +8118,7 @@ card:
 	flavor_text: <i-flavor>At <error-spelling:en_US>Ashiok’s</error-spelling:en_US> insidious suggestion, the <error-spelling:en_US>Dawnhart</error-spelling:en_US> Coven and their familiars began preparations. As far as they knew, their rite would restore their ancient protector: <error-spelling:en_US>Ghrin</error-spelling:en_US>-<error-spelling:en_US>Danu</error-spelling:en_US>.</i-flavor>
 	power: 4
 	toughness: 5
-	illustrator: jdtmart
+	illustrator: Johnny Morrow
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8127,7 +8137,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 20:59:26
-	time_modified: 2026-01-21 00:11:12
+	time_modified: 2026-04-28 13:30:40
 	card_color: green
 	name: Dawnhart Shepherd
 	casting_cost: 3GG
@@ -8148,7 +8158,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
-	illustrator: Diablo game artwork
+	illustrator: Blizzard 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8208,7 +8218,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-20 18:14:03
+	time_modified: 2026-04-28 14:46:06
 	card_color_2: black
 	name: Devotion to Ghrin-Danu
 	name_2: Ghrin-Danu’s Dark Return
@@ -8238,7 +8248,7 @@ card:
 	power_2: 
 	toughness_2: 
 	illustrator: Lukas Walzer
-	illustrator_2: tim-melnyk
+	illustrator_2: Tim Melnyk
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8302,7 +8312,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2026-02-24 18:27:48
+	time_modified: 2026-04-30 15:07:18
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_color_hint: F
@@ -8323,15 +8333,15 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever this creature enters or transforms into <atom-legname><nospellcheck>Estwald Brigands</nospellcheck></atom-legname>, you may have another target creature you control deal damage equal to its power to target creature.
+		Whenever this creature enters or transforms into <atom-legname><nospellcheck>Estwald Brigands</nospellcheck></atom-legname>, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put a creature card milled this way into your hand.
 		At the beginning of each upkeep, if no spells were cast last turn, transform this creature.
 	rule_text_2:
-		Whenever this creature transforms into <atom-legname><nospellcheck>Krallenhorde Marauders</nospellcheck></atom-legname>, create two 2/2 green Wolf creature tokens.
+		Whenever this creature transforms into <atom-legname><nospellcheck>Krallenhorde Marauders</nospellcheck></atom-legname>, you may put a creature card from your hand onto the battlefield. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 		At the beginning of each upkeep, if a player cast two or more spells last turn, transform this creature.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
-	power: 5
-	power_2: 7
+	power: 4
+	power_2: 6
 	toughness: 5
 	toughness_2: 5
 	illustrator: Erik Bragalyan
@@ -8357,7 +8367,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 21:43:02
-	time_modified: 2026-04-20 17:46:11
+	time_modified: 2026-04-23 17:32:16
 	name: Foray into Stensia
 	casting_cost: 2G
 	image: image234
@@ -8376,7 +8386,7 @@ card:
 		As an additional cost to cast this spell, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Human</param-name>.</key></nospellcheck><atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Human</param-name>, choose <param-a>a</param-a> <param-name>Human</param-name> you control or reveal <param-a>a</param-a> <param-name>Human</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		Put a +1/+1 counter on each creature you control. If a Human was beheld, those creatures gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: bastien-lecouffe-deharme
+	illustrator: BASTIEN LECOUFFE DEHARME
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8398,7 +8408,7 @@ card:
 		• The player that chose this mode creates a tapped Treasure token.
 		• The player that chose this mode creates a 1/1 white Human creature token.
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-04-20 16:19:30
+	time_modified: 2026-04-30 12:50:17
 	card_color: green
 	name: Gavony Watchman
 	casting_cost: G
@@ -8416,7 +8426,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
 		When this creature dies, target opponent creates their choice of a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> or a 1/1 white Human creature token, then you create the other token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -8553,7 +8563,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:15:10
-	time_modified: 2026-01-21 00:07:50
+	time_modified: 2026-04-23 17:26:43
 	name: Hamlet Guardians
 	casting_cost: 3G
 	image: image239
@@ -8573,8 +8583,7 @@ card:
 	flavor_text: <i-flavor>They protect the settlements along the <error-spelling:en_US>Nephalia</error-spelling:en_US> coast from horrors of the land and sea alike.</i-flavor>
 	power: 3
 	toughness: 3
-	illustrator:
-		 2-Dpanda
+	illustrator: 2-Dpanda
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8594,7 +8603,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-12 13:22:22
-	time_modified: 2026-04-18 14:53:23
+	time_modified: 2026-04-28 14:46:15
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: FTFTFT
@@ -8628,7 +8637,7 @@ card:
 	power: 5
 	toughness: 8
 	illustrator: RadoJavor
-	illustrator_2: oleksandra-shchaslyva
+	illustrator_2: Oleksandra Shchaslyva
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8650,7 +8659,7 @@ card:
 		overlay: 
 	notes: Midnight Hunt Planeswalker Guide
 	time_created: 2025-01-03 02:03:53
-	time_modified: 2026-04-20 16:06:28
+	time_modified: 2026-04-27 12:34:38
 	name: Harvesttide Procession
 	casting_cost: 3G
 	image: image242
@@ -8670,7 +8679,7 @@ card:
 		At the beginning of your end step, create your choice of a 1/1 white Human creature token or a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 		<i>Concord — </i>If there are four or more card types among permanents you control, if an effect would create one or more tokens under your control, it creates that many plus one of those tokens instead.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: Wizards of the Coast
+	illustrator: Daarken
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8689,7 +8698,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 16:39:34
-	time_modified: 2026-02-26 19:51:29
+	time_modified: 2026-04-28 14:22:08
 	card_color: green
 	name: Hope’s Trail Pilgrim
 	casting_cost: 1G
@@ -8709,7 +8718,7 @@ card:
 	flavor_text: <i-flavor>“<error-spelling:en_US>Avacyn</error-spelling:en_US> may be gone, but <error-spelling:en_US>Sigarda</error-spelling:en_US> still brings us promise for a future.”</i-flavor>
 	power: 1
 	toughness: 3
-	illustrator: nicola-silvani
+	illustrator: Nicola Silvani
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8728,7 +8737,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-20 19:12:27
+	time_modified: 2026-04-23 17:31:16
 	name: Hope’s Trail Ranger
 	casting_cost: 1GG
 	image: image244
@@ -8750,7 +8759,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
-	illustrator: ardika-priyata
+	illustrator: Ardika Priyata
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8759,7 +8768,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-04-20 16:07:32
+	time_modified: 2026-04-23 16:43:19
 	name: In the Face of Darkness
 	casting_cost: 1G
 	image: image245
@@ -8779,7 +8788,7 @@ card:
 		When this enchantment enters, you gain 3 life, then <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
 		Humans you control get +1/+1.
 	flavor_text: <i-flavor>Even on <error-spelling:en_US>Innistrad</error-spelling:en_US>, there is always hope.</i-flavor>
-	illustrator: adam-marton
+	illustrator: Adam Marton
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8848,7 +8857,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-28 21:07:09
-	time_modified: 2026-03-02 13:46:44
+	time_modified: 2026-04-30 15:24:03
 	name: Runstalker Maiden
 	casting_cost: 1GG
 	image: image3.png
@@ -8866,11 +8875,11 @@ card:
 	rarity: rare
 	rule_text:
 		When this creature enters, create a 2/2 green Wolf creature token.
-		You may cast creature spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> by tapping an untapped creature you control in addition to paying their other costs.
+		You may cast creature spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> by tapping another untapped creature you control in addition to paying their other costs.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: diego-gisbert-llorens
+	illustrator: Diego Gisbert Llorens
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8882,7 +8891,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-10-08 00:17:58
-	time_modified: 2026-02-26 19:58:04
+	time_modified: 2026-04-30 15:17:50
 	name: Lambholt Hunting Grounds
 	casting_cost: 3G
 	image: image249
@@ -8898,9 +8907,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. Then you may sacrifice this enchantment. If you do, draw cards equal to the greatest power among savage creatures you control. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+	rule_text: At the beginning of combat on your turn, you may draw cards equal to the greatest power among savage creatures you control. If you do, sacrifice this enchantment. Otherwise, put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: lei-min
+	illustrator: lei min
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8917,7 +8926,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 22:36:01
-	time_modified: 2025-11-14 13:51:16
+	time_modified: 2026-04-28 13:53:52
 	name: Looming Grafspider
 	casting_cost: 3G
 	image: image250
@@ -8938,7 +8947,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 5
-	illustrator: helgebalzer
+	illustrator: Helge C. Balzer
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -8957,7 +8966,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-08 17:15:31
-	time_modified: 2026-02-26 20:02:48
+	time_modified: 2026-04-30 13:25:04
 	name: Malignant Entangler
 	casting_cost: 1GG
 	image: image251
@@ -8971,7 +8980,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
 		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>. Then if there are seven or more cards in your graveyard, you may pay <sym-auto>1B</sym-auto>. When you do, destroy target nonland permanent.
 	flavor_text: <i-flavor>It spins its lair deep in the <error-spelling:en_US>Ulvenwald</error-spelling:en_US>; an entangling web of viscera and bones.</i-flavor>
 	power: 2
@@ -9083,7 +9092,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-12-14 15:34:43
+	time_modified: 2026-04-30 23:05:38
 	card_color_2: green
 	name: Secluded Recluse
 	name_2: Unleashed Terror
@@ -9100,11 +9109,11 @@ card:
 	sub_type_2: <word-list-race-en>Werewolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
+		This creature has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as it’s tapped.
 		When this creature transforms into <atom-cardname><nospellcheck>Secluded Recluse</nospellcheck></atom-cardname>, tap it and put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it.
 		At the beginning of each upkeep, if no spells were cast last turn, transform this creature.
 	rule_text_2:
-		This creature can’t be blocked by more than one creature.
+		When this creature transforms into <atom-cardname><nospellcheck>Unleashed Terror</nospellcheck></atom-cardname>, untap it.
 		At the beginning of each upkeep, if a player cast two or more spells last turn, transform this creature.
 	flavor_text: <i-flavor>She swore to hold back the beast . . .</i-flavor>
 	flavor_text_2: <i-flavor>. . . but some wolves can’t be caged, no matter how hard you try.</i-flavor>
@@ -9112,7 +9121,7 @@ card:
 	power_2: 3
 	toughness: 1
 	toughness_2: 2
-	illustrator: aerial48-studio
+	illustrator: AERIAL48 Studio
 	illustrator_2: Diego Peres
 	card_code_text: 
 	card_code_text_2: 
@@ -9135,7 +9144,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-21 00:12:52
-	time_modified: 2026-01-22 12:43:23
+	time_modified: 2026-04-28 14:08:02
 	name: Skulking Shadowbeast
 	casting_cost: 4G
 	image: image256
@@ -9159,7 +9168,7 @@ card:
 		—<error-spelling:en_US>Halana</error-spelling:en_US>, <error-spelling:en_US>Kessig</error-spelling:en_US> Ranger</soft-line></i-flavor>
 	power: 4
 	toughness: 4
-	illustrator: lucas-graciano
+	illustrator: Lucas Graciano
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9320,7 +9329,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-09-24 11:56:23
+	time_modified: 2026-04-28 13:43:08
 	card_color_2: green
 	name: Stewards of Ulvenwald
 	name_2: Ulvenwald Overseers
@@ -9348,7 +9357,7 @@ card:
 	power_2: 8
 	toughness: 5
 	toughness_2: 7
-	illustrator: Erendorn artwork
+	illustrator: Kate_Y
 	illustrator_2: Alexandr Shaldin
 	card_code_text: 
 	card_code_text_2: 
@@ -9361,7 +9370,7 @@ card:
 	has_styling: false
 	notes: !uncommonremoval
 	time_created: 2025-08-12 23:33:51
-	time_modified: 2026-02-23 16:46:04
+	time_modified: 2026-04-28 13:54:28
 	name: Tovolar’s Ire
 	casting_cost: 2G
 	image: image263
@@ -9381,7 +9390,7 @@ card:
 		Target creature you control gets +2/+1 until end of turn. You may have it <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> up to one target creature you don’t control.
 		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>5R</sym-auto>, Tap an untapped Wolf or Werewolf you control</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: heraldo-ortega
+	illustrator: Heraldo Ortega
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9400,7 +9409,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 23:44:37
-	time_modified: 2026-01-20 21:41:21
+	time_modified: 2026-04-28 13:58:45
 	name: Ulrich’s Proclamation
 	casting_cost: 1G
 	image: image264
@@ -9413,7 +9422,7 @@ card:
 	flavor_text:
 		<i-flavor>“Under the <error-spelling:en_US>Goremoon</error-spelling:en_US>, we are ascendant! <error-spelling:en_US>Innistrad</error-spelling:en_US> belongs to us, and us alone!”<soft-line>
 		</soft-line>—<error-spelling:en_US>Ulrich</error-spelling:en_US> of the <error-spelling:en_US>Krallenhorde</i-flavor></error-spelling:en_US>
-	illustrator: JakubPolitzer
+	illustrator: Jakub Politzer
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9471,7 +9480,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2025-10-14 20:56:12
+	time_modified: 2026-04-28 13:46:35
 	name: Vile Resurgence
 	casting_cost: 4GGG
 	image: image266
@@ -9491,7 +9500,7 @@ card:
 		Return any number of cards with total mana value 13 or less from your graveyard to your hand. If there were four or more card types among cards returned this way, you may put a permanent card from your hand onto the battlefield.
 		Exile <atom-cardname><nospellcheck>Vile Resurgence</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: francesco-musiani
+	illustrator: Francesco Musiani
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9561,7 +9570,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2025-09-24 11:55:03
+	time_modified: 2026-04-30 13:27:34
 	card_color_2: green
 	name: Wald-Cottage Crone
 	name_2: Somberwald Ripper
@@ -9581,7 +9590,7 @@ card:
 		When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 		At the beginning of each upkeep, if no spells were cast last turn, transform this creature.
 	rule_text_2:
-		Whenever this creature attacks, you may pay <sym-auto>3G</sym-auto>. If you do, it deals damage equal to its power to target creature defending player controls.
+		Whenever this creature attacks, you may pay <sym-auto>4G</sym-auto>. If you do, it deals damage equal to its power to target creature defending player controls.
 		At the beginning of each upkeep, if a player cast two or more spells last turn, transform this creature.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -9612,7 +9621,7 @@ card:
 		overlay: 
 	notes: * savage
 	time_created: 2024-08-16 11:43:15
-	time_modified: 2026-04-20 16:15:07
+	time_modified: 2026-04-28 13:18:02
 	name: Waldshadow Ambusher
 	casting_cost: 2G
 	image: image271
@@ -9628,7 +9637,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
-	illustrator: david-szabo
+	illustrator: David Szabo
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9688,7 +9697,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-29 20:25:27
-	time_modified: 2025-03-29 00:59:09
+	time_modified: 2026-04-28 14:09:16
 	name: Wilderhunt Companions
 	casting_cost: 4G
 	image: image273
@@ -9701,7 +9710,7 @@ card:
 	flavor_text: <i-flavor>“My friend has his teeth. I have mine.”</i-flavor>
 	power: 4
 	toughness: 4
-	illustrator: Lun-art
+	illustrator: Lunart Christophe LuNyarlathotep
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9723,7 +9732,7 @@ card:
 		overlay: 
 	notes: !uncommonremoval
 	time_created: 2025-01-03 17:01:43
-	time_modified: 2026-02-26 20:05:31
+	time_modified: 2026-04-28 14:19:23
 	name: Addled Psyche
 	casting_cost: UB
 	image: image248
@@ -9747,7 +9756,7 @@ card:
 	flavor_text:
 		<i-flavor>“The cults here will be easy to bend to my will.”
 		—<error-spelling:en_US>Ashiok</i-flavor></error-spelling:en_US>
-	illustrator: nadine-oestreich
+	illustrator: Nadine Oestreich
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9766,7 +9775,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 21:18:41
-	time_modified: 2026-04-20 17:51:27
+	time_modified: 2026-04-28 14:00:28
 	name: Avacyn’s Legacy
 	casting_cost: GW
 	image: image274
@@ -9787,7 +9796,7 @@ card:
 		Enchanted creature gets +1/+1 and has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 		<i>Concord — </i>Enchanted creature gets an additional +1/+1 and has <kw-a><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> as long as there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: jb-casacop
+	illustrator: JB Casacop
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9806,7 +9815,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-04-20 16:16:16
+	time_modified: 2026-04-28 14:31:22
 	name: Blight of Hamlets
 	casting_cost: 4BG
 	image: image275
@@ -9834,7 +9843,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
-	illustrator: titus-lunter
+	illustrator: Titus Lunter
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9858,7 +9867,7 @@ card:
 		
 		If an effect you control would cause you to sacrifice a creature, or a cost has you sacrifice a creature other than its ability’s source, you may sacrifice an artifact or enchantment instead. Do so only once each turn.
 	time_created: 2025-01-03 02:13:06
-	time_modified: 2026-04-20 19:05:29
+	time_modified: 2026-04-30 14:52:13
 	name: Blood Bank
 	casting_cost: BR
 	image: image276
@@ -9875,10 +9884,10 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When this enchantment enters, create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
-		Once each turn, if an effect you control would cause you to sacrifice a creature or you would sacrifice a creature to pay a cost, you may sacrifice an artifact or enchantment instead.
+		When this enchantment enters, create two <kw-A><nospellcheck><key>Blood toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(They’re artifacts with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		<kw-0><nospellcheck><key>Blood toke<param-*s>ns</param-*s></key></nospellcheck></kw-0> you control have “<sym-auto>T</sym-auto>, Sacrifice this artifact: Return to your hand target card in your graveyard that you discarded this turn.”
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: rainer-petter
+	illustrator: Rainer Petter
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -9976,8 +9985,8 @@ card:
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
-		chop_top: 3
-		chop_bottom: 3
+		chop_top: 3,8,
+		chop_bottom: 
 		frames: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -9985,7 +9994,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 02:03:53
-	time_modified: 2025-12-03 20:01:15
+	time_modified: 2026-04-30 14:55:32
 	name: Dawnhart Augur
 	casting_cost: 1GW
 	image: image279
@@ -10002,12 +10011,13 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		You may look at the top card of your library any time, and you may play artifacts, enchantments and lands from the top of your library.
-		<i>Concord</i> — <sym-auto>T</sym-auto>: Add three mana of any one color. Spend this mana only to cast artifact or enchantment spells. Activate only if there are four or more card types among permanents you control.
+		You may look at the top card of your library any time.
+		Once each turn, you may play an artifact, enchantment, or land card from the top of your library.
+		<i>Concord</i> — <sym-auto>T</sym-auto>: Add two mana of any one color. Spend this mana only to cast artifact or enchantment spells. Activate only if there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
-	illustrator: dan-rossi
+	illustrator: Dan Rossi
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10026,7 +10036,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 22:53:23
-	time_modified: 2026-04-20 16:22:09
+	time_modified: 2026-04-30 12:43:59
 	name: Desperate Exorcism
 	casting_cost: WU
 	image: image280
@@ -10036,9 +10046,9 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Exile target spell or nonland permanent you control and target spell or nonland permanent you don’t control. For as long as those cards remain exiled, their owners may play them. Spells your opponents cast this way cost <sym-auto>2</sym-auto> more to cast.
+	rule_text: Return target spell or nonland permanent you control and target spell or nonland permanent you don’t control to their owner’s hands. If you returned a Spirit permanent or Spirit spell to your hand this way, create a 1/1 white Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: yigit-koroglu
+	illustrator: Yigit Koroglu
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10099,7 +10109,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-02-13 10:58:22
+	time_modified: 2026-04-30 12:45:34
 	name: Elgaud Dawnrider
 	casting_cost: 2RW
 	image: image282
@@ -10116,12 +10126,12 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever this creature attacks, you may create a 1/1 white Human creature token that’s tapped and attacking. Then if you didn’t or you control four or more creatures, other attacking creatures get +1/+0 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> 
+		Whenever this creature attacks, create a 1/1 white Human creature token that’s tapped and attacking. Then if you control four or more creatures, other attacking creatures get +1/+0 until end of turn. You may have one of those creatures gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: Ignacio-Bazán-Lazcano
+	illustrator: Ignacio Bazán Lazcano
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10130,7 +10140,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-03 02:09:55
-	time_modified: 2025-12-14 11:34:05
+	time_modified: 2026-04-28 14:22:49
 	name: Envoy of the Red Court
 	casting_cost: BR
 	image: image283
@@ -10152,7 +10162,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: oana-roxana-birtea-yuuza
+	illustrator: Oana Roxana Birtea (Yuuza)
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10171,7 +10181,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2026-04-20 16:25:31
+	time_modified: 2026-04-28 13:11:47
 	card_color_2: red, green, multicolor, horizontal
 	name: Fangrite Mistress
 	name_2: Lunar-Zenith Alpha
@@ -10200,7 +10210,7 @@ card:
 	power_2: 3
 	toughness: 1
 	toughness_2: 2
-	illustrator: D H
+	illustrator: Susu Dong
 	illustrator_2: Sandara Tang
 	card_code_text: 
 	card_code_text_2: 
@@ -10272,7 +10282,7 @@ card:
 		
 		Choose a permanent type. Sacrifice each permanent of the chosen type. Then return all cards of the chosen type with mana value twice X or less from your graveyard that weren’t put there this way to the battlefield. Lands that enter this way enter tapped.
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-20 16:37:54
+	time_modified: 2026-04-28 13:12:10
 	name: Gnarlwood’s Claim
 	casting_cost: X2BG
 	image: image287
@@ -10290,7 +10300,7 @@ card:
 	rarity: mythic rare
 	rule_text: Choose a permanent type. Simultaneously sacrifice each permanent you control of the chosen type and return to the battlefield each card in your graveyard of the chosen type with mana value twice X or less. Lands that enter this way enter tapped.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: dan-rossi-
+	illustrator: Dan Rossi
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10310,7 +10320,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2025-04-12 19:54:27
+	time_modified: 2026-04-30 12:51:59
 	name: Goldnight Purgeblade
 	casting_cost: 1RW
 	image: image288
@@ -10329,13 +10339,14 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<margin:0:0:5><kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a></margin:0:0:5>
+		<margin:0:0:5>This creature can’t block.</margin:0:0:5>
 		<margin:0:0:5>When this creature enters, choose up to one —</margin:0:0:5>
-		<li><bullet>• </bullet>This creature deals 4 damage to target creature that entered or transformed this turn.
+		<li><bullet>• </bullet>This creature deals 3 damage to target creature that entered or transformed this turn.
 		</li><li><bullet>• </bullet>Exile target artifact or enchantment that entered or transformed this turn.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
-	illustrator: benjamin-ee
+	illustrator: Benjamin Ee
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10354,7 +10365,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-04-20 16:39:10
+	time_modified: 2026-04-28 14:22:14
 	name: Gravespore Guardian
 	casting_cost: 2BG
 	image: image289
@@ -10382,7 +10393,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	power: *
 	toughness: 5
-	illustrator: nino-is
+	illustrator: Nino Is
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10521,7 +10532,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-12-13 14:13:00
-	time_modified: 2026-01-22 01:35:58
+	time_modified: 2026-04-28 14:36:34
 	name: Horrors Wrought
 	casting_cost: 4BRG
 	image: image293
@@ -10541,7 +10552,7 @@ card:
 	flavor_text: <i-flavor><error-spelling:en_US>Sorin</error-spelling:en_US> and Thalia had failed to stop <error-spelling:en_US>Ashiok</error-spelling:en_US>, but they hoped that their preparations meant there was still a chance to save <error-spelling:en_US>Innistrad</error-spelling:en_US>.</i-flavor>
 	power: 
 	toughness: 
-	illustrator: stefan-celic
+	illustrator: Stefan Celic
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10637,7 +10648,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-01-03 02:09:55
-	time_modified: 2025-11-06 14:16:12
+	time_modified: 2026-04-28 14:10:45
 	name: Insatiable Elder
 	casting_cost: 2BR
 	image: image297
@@ -10659,7 +10670,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
-	illustrator: marcello-finv
+	illustrator: Marcello Finv
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10857,12 +10868,12 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-29 21:57:34
-	time_modified: 2025-10-01 11:14:24
+	time_modified: 2026-04-30 15:23:33
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
 	name: Olivia, Sanguine Reveler
-	casting_cost: 1BRR
+	casting_cost: 2BR
 	image: image302
 	image_2: 
 	mainframe_image: 
@@ -10878,8 +10889,8 @@ card:
 		Whenever a Vampire you control attacks, you may have it gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto>
 	flavor_text: <i-flavor>“It’s a party, dear. Do lighten up.”</i-flavor>
 	power: 3
-	toughness: 3
-	illustrator: bryan-fogaca-rosado
+	toughness: 2
+	illustrator: Bryan Fogaca Rosado
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10902,7 +10913,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-02-10 21:48:32
+	time_modified: 2026-04-30 13:25:58
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: FTFTFT
@@ -10923,18 +10934,16 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent. Put a croak counter on it. Then if it has three or more croak counters on it, you may remove them all and transform it.
-	rule_text_2:
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever this creature attacks, choose an instant or sorcery card in your graveyard with mana value 3 or less at random. You may exile that card. If you do, cast a copy of it without paying its mana cost.
+	rule_text: Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent. Put a croak counter on it. Then if it has four or more croak counters on it, you may remove them all and transform it.
+	rule_text_2: Whenever this creature attacks, choose an instant or sorcery card in your graveyard with mana value 3 or less at random. You may exile that card. If you do, cast a copy of it without paying its mana cost.
 	flavor_text: <i-flavor>Looming eyes watch unblinking from the banks of <error-spelling:en_US>Vustrow</error-spelling:en_US> Bay.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 2
-	power_2: 5
+	power_2: 4
 	toughness: 3
 	toughness_2: 4
-	illustrator: alekzander-zagorulko
-	illustrator_2: angelo-bortolini
+	illustrator: Alekzander Zagorulko
+	illustrator_2: Angelo Bortolini
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10953,7 +10962,7 @@ card:
 		overlay: 
 	notes: !uncommonremoval
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2025-12-13 14:01:23
+	time_modified: 2026-04-28 13:46:40
 	name: Rally to Thraben
 	casting_cost: XRW
 	image: image305
@@ -10973,7 +10982,7 @@ card:
 	flavor_text:
 		<i-flavor>“The red moon rises, but hope is not lost. Behind me, <error-spelling:en_US>cathars</error-spelling:en_US>! Dawn yet approaches!”<soft-line>
 		—Thalia, the Guiding Blade</soft-line></i-flavor>
-	illustrator: gabriela-nascimento
+	illustrator: Gabriela Nascimento
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -10992,7 +11001,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:40:21
-	time_modified: 2026-02-23 11:21:47
+	time_modified: 2026-04-28 13:26:47
 	name: Riding the Geistroads
 	casting_cost: WU
 	image: image306
@@ -11006,7 +11015,7 @@ card:
 		Nontoken Spirits you control get +1/+1.
 		Whenever this enchantment or another enchantment you control enters, create a 1/1 white Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>They ride the same cobbled boundary road every night, <error-spelling:en_US>hoofbeats</error-spelling:en_US> sounding no longer.</i-flavor>
-	illustrator: dominik-mayer
+	illustrator: Dominik Mayer
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11018,7 +11027,7 @@ card:
 	has_styling: false
 	notes: !uncommonremoval
 	time_created: 2024-08-01 02:00:51
-	time_modified: 2026-04-13 17:33:34
+	time_modified: 2026-04-23 17:32:43
 	name: Sanguine Liturgy
 	casting_cost: BR
 	image: image307
@@ -11036,7 +11045,7 @@ card:
 	rarity: uncommon
 	rule_text: You may have target creature you control gorge. When it does, you may destroy target artifact or creature with mana value less than or equal to that creature’s power. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: bastien-lecouffe-
+	illustrator: BASTIEN LECOUFFE DEHARME
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11058,9 +11067,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2025-10-07 23:54:13
+	time_modified: 2026-04-30 22:12:52
 	name: Sermons of Ormendahl
-	casting_cost: WB
+	casting_cost: 1WB
 	image: image308
 	image_2: 
 	mainframe_image: 
@@ -11075,10 +11084,10 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		At the beginning of your end step, if you gained life or an opponent lost life this turn, create a tapped 1/1 white and black Cleric creature token.
+		At the beginning of your end step, if you gained life or an opponent lost life this turn, create a 1/1 white and black Cleric creature token.
 		<sym-auto>1B</sym-auto>: Draw a card. You lose 2 life unless you sacrifice a creature.
 	flavor_text: <i-flavor>“Out there, the <error-spelling:en_US>Goremoon</error-spelling:en_US> rages. Within these walls, we are safe—as long as the price is paid.”</i-flavor>
-	illustrator: agnieszka-firla
+	illustrator: Agnieszka Firla
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11097,7 +11106,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-29 13:04:19
-	time_modified: 2025-12-16 21:50:06
+	time_modified: 2026-04-28 13:42:22
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -11120,7 +11129,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
-	illustrator: elvira-vikman
+	illustrator: Elvira Vikman
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11178,7 +11187,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-04-20 16:46:28
+	time_modified: 2026-04-28 14:31:05
 	name: Teeming Secrets
 	casting_cost: GU
 	image: image311
@@ -11198,7 +11207,7 @@ card:
 	flavor_text:
 		<i-flavor>“The ceaseless <error-spelling:en_US>chittering</error-spelling:en_US> fills my thoughts, even during sleep. But I have learned so much.”<soft-line>
 		—<error-spelling:en_US>Mathilda</error-spelling:en_US>, villager</soft-line></i-flavor>
-	illustrator: veera-hokkanen
+	illustrator: Veera Hokkanen
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11249,7 +11258,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-02-22 00:58:10
+	time_modified: 2026-04-30 15:25:03
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -11270,7 +11279,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever another nontoken creature you control dies, create a 1/1 white and black Cleric creature token.
+		Whenever <atom-legname><nospellcheck>Tinua</nospellcheck></atom-legname> dies, create a 1/1 white and black Cleric creature token.
 		<sym-auto>WB</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice three creatures: Each opponent exiles a creature they control, discards a card, and loses 3 life. You gain 3 life. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -11335,7 +11344,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-07-28 23:21:57
-	time_modified: 2025-12-13 14:05:46
+	time_modified: 2026-04-28 13:08:31
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -11357,7 +11366,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	illustrator: chelsea-harper
+	illustrator: Chelsea Harper
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11406,9 +11415,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-12-13 14:08:46
-	time_modified: 2026-04-20 16:54:44
+	time_modified: 2026-04-30 13:27:26
 	name: Urgent Investigations
-	casting_cost: 1WUB
+	casting_cost: 2WUB
 	image: image317
 	image_2: 
 	mainframe_image: 
@@ -11429,7 +11438,7 @@ card:
 		—Thalia and <error-spelling:en_US>Sorin</soft-line></i-flavor></error-spelling:en_US>
 	power: 
 	toughness: 
-	illustrator: thaldir
+	illustrator: Thaldir
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11481,7 +11490,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: 2
+		chop_bottom: 5
 		frames: 
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -11489,7 +11498,7 @@ card:
 		overlay: 
 	notes: When this creature enters, you may exile from your graveyard an instant card with mana value 2 or less and/or a sorcery card with mana value 2 or less from your graveyard. If you exiled two cards this way, choose one of them at random and cast a copy of it without paying its mana cost. Put the other card into your hand.
 	time_created: 2025-03-31 16:22:09
-	time_modified: 2026-04-20 17:22:59
+	time_modified: 2026-04-30 15:26:25
 	name: Wildcaster Devil
 	casting_cost: 2UR
 	image: image319
@@ -11505,11 +11514,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.
+	rule_text: When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one of those cards chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
+	power: 3
 	toughness: 1
 	illustrator: Mauricio Herrera
 	card_code_text: 
@@ -11530,9 +11537,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2025-09-01 16:45:54
+	time_modified: 2026-04-30 13:28:15
 	name: Winterthorn Creeper
-	casting_cost: 2GGU
+	casting_cost: 1GGU
 	image: image320
 	image_2: 
 	mainframe_image: 
@@ -11548,7 +11555,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Whenever this creature enters or attacks, you may discard a card. If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle.
-		<sym-auto>GU</sym-auto>, Exile three cards from your graveyard: Return target non-Plant card from your graveyard to your hand.
+		<sym-auto>1GU</sym-auto>, Exile four cards from your graveyard: Tap up to one target creature and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. Put a +1/+1 counter on this creature.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -11556,8 +11563,8 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
-	power: 6
-	toughness: 6
+	power: 4
+	toughness: 5
 	illustrator: Anastasia
 	card_code_text: 
 	card_code_text_2: 
@@ -11579,10 +11586,10 @@ card:
 		!uncommonremoval
 		!replacetoken Infused 4/4 Zombie;1
 	time_created: 2025-01-17 15:17:40
-	time_modified: 2026-04-13 16:43:42
+	time_modified: 2026-04-30 13:30:13
 	name: Fleshwrithe Apparatus
 	casting_cost: 1
-	image: image321
+	image: image6.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -11600,7 +11607,7 @@ card:
 		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: It deals 3 damage to target creature or planeswalker.
 		<sym-auto>5</sym-auto>, Exile this card from your graveyard: <kw-A><nospellcheck><key>Stitch <param-number>4</param-number></key></nospellcheck>. The token enters tapped.<atom-reminder-action> <i-auto>(To stitch <param-number>4</param-number>, you may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>4</param-number>/<param-number>4</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: joshua-cairos
+	illustrator: Maros Manhardt)
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11609,7 +11616,7 @@ card:
 	has_styling: false
 	notes: Midnight Hunt Planeswalker Guide (uncredited)
 	time_created: 2025-03-31 20:59:09
-	time_modified: 2026-04-20 17:21:51
+	time_modified: 2026-04-27 12:33:31
 	name: Harvesttide Effigies
 	casting_cost: 2
 	image: image322
@@ -11629,7 +11636,7 @@ card:
 		When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand or graveyard, then shuffle.
 		<i>Concord</i> — <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Exile a land card from your graveyard: Draw a card. Activate only if there are there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: Wizards of the Coast
+	illustrator: Daarken
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11689,7 +11696,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:24:51
-	time_modified: 2026-04-18 15:34:38
+	time_modified: 2026-04-28 13:51:41
 	name: Thirsting Dagger
 	casting_cost: 1
 	image: image324
@@ -11710,7 +11717,7 @@ card:
 		Whenever equipped creature attacks, you may have it gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: grundalug — edit
+	illustrator: Grundalug — edit
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11798,7 +11805,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-09-16 22:00:36
-	time_modified: 2025-09-28 13:12:22
+	time_modified: 2026-04-28 14:10:04
 	card_color: land, multicolor
 	name: Abandoned Memorial
 	image: image327
@@ -11819,7 +11826,7 @@ card:
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
 		<sym-auto>13</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Return target permanent card from your graveyard to your hand. This ability costs <sym-auto>1</sym-auto> less for each permanent card in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
-	illustrator: malets-irina
+	illustrator: Malets Irina
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -11838,7 +11845,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2026-04-20 17:34:13
+	time_modified: 2026-04-30 15:04:29
 	name: Desolate Cemetery
 	image: image328
 	image_2: 
@@ -11880,7 +11887,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2026-04-20 17:34:21
+	time_modified: 2026-04-30 15:04:34
 	name: Desolate Garrison
 	image: image329
 	image_2: 
@@ -11898,7 +11905,7 @@ card:
 	rule_text:
 		As this land enters, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If you do, it enters tapped.
 		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>W</sym-auto>.
-		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Create two 1/1 white Human creature tokens. Activate only if there are seven or more cards in your graveyard.
+		<sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Create two tapped 1/1 white Human creature tokens. Activate only if there are seven or more cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Chang-Wei Chen
 	card_code_text: 
@@ -11922,7 +11929,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2026-04-20 17:34:29
+	time_modified: 2026-04-30 15:04:24
 	name: Desolate Harbor
 	image: image330
 	image_2: 
@@ -11964,7 +11971,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2026-04-20 17:37:26
+	time_modified: 2026-04-30 15:04:39
 	name: Desolate Pinnacle
 	image: image331
 	image_2: 
@@ -11982,7 +11989,7 @@ card:
 	rule_text:
 		As this land enters, you may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. If you do, it enters tapped.
 		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>R</sym-auto>.
-		<sym-auto>2R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: It deals 3 damage to any target. Activate only if there are seven or more cards in your graveyard.
+		<sym-auto>2R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: It deals 3 damage to target player or planeswalker. Activate only if there are seven or more cards in your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: David Frasheski
 	card_code_text: 
@@ -12006,7 +12013,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 09:05:09
-	time_modified: 2026-04-20 17:36:56
+	time_modified: 2026-04-30 15:04:13
 	name: Desolate Thicket
 	image: image332
 	image_2: 
@@ -12048,7 +12055,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-11-11 20:04:50
-	time_modified: 2026-02-26 20:08:33
+	time_modified: 2026-04-28 14:12:03
 	card_color: land, multicolor
 	name: Drowned Homestead
 	image: image333
@@ -12069,7 +12076,7 @@ card:
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
 		<sym-auto>T</sym-auto>, Sacrifice this land: Return target land card from your graveyard to your hand.
 	flavor_text: <i-flavor>The <error-spelling:en_US>Drowntide</error-spelling:en_US> claims what it will.</i-flavor>
-	illustrator: markus-luotero
+	illustrator: Markus Luotero
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12088,7 +12095,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-08 00:32:18
-	time_modified: 2025-11-06 14:15:52
+	time_modified: 2026-04-28 14:01:17
 	name: Evolving Wilds
 	image: image334
 	image_2: 
@@ -12107,7 +12114,7 @@ card:
 	flavor_text:
 		<i-flavor>“Something is stirring here. I can feel it in the air—a new chill in my fingertips.”<soft-line>
 		—Thalia, the Guiding Blade</soft-line></i-flavor>
-	illustrator: jon-pintar
+	illustrator: Jon Pintar
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12126,7 +12133,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-04-20 17:38:37
+	time_modified: 2026-04-23 17:29:16
 	name: Flooded Grafyards
 	image: image335
 	image_2: 
@@ -12145,7 +12152,7 @@ card:
 		As this land enters, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Zombie</param-name>.</key></nospellcheck> If you don’t, it enters tapped.<atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Zombie</param-name>, choose <param-a>a</param-a> <param-name>Zombie</param-name> you control or reveal <param-a>a</param-a> <param-name>Zombie</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
 	flavor_text: <i-flavor><error-spelling:en_US>Skaabs</error-spelling:en_US> from waterlogged <error-spelling:en_US>grafs</error-spelling:en_US> are imbued with the inexorable persistence of the tides.</i-flavor>
-	illustrator: andre-bruniera
+	illustrator: Andre Bruniera
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12204,7 +12211,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-04-20 17:39:17
+	time_modified: 2026-04-23 17:34:20
 	name: Marzela’s Sanctum
 	image: image337
 	image_2: 
@@ -12223,7 +12230,7 @@ card:
 		As this land enters, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Vampire</param-name>.</key></nospellcheck> If you don’t, it enters tapped.<atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Vampire</param-name>, choose <param-a>a</param-a> <param-name>Vampire</param-name> you control or reveal <param-a>a</param-a> <param-name>Vampire</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
 	flavor_text: <i-flavor>The ancient seat of the <error-spelling:en_US>Falkenrath</error-spelling:en_US> progenitor still radiates her great and terrible <error-spelling:en_US>bloodlust</error-spelling:en_US>.</i-flavor>
-	illustrator: bx-moon-art-studio
+	illustrator: BX Moon Art Studio
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12242,7 +12249,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-02-14 16:45:21
-	time_modified: 2026-04-20 17:39:25
+	time_modified: 2026-04-28 14:26:33
 	name: Niblis’s Haunt
 	image: image338
 	image_2: 
@@ -12261,7 +12268,7 @@ card:
 		As this land enters, you may <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit</param-name>.</key></nospellcheck> If you don’t, it enters tapped.<atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>Spirit</param-name>, choose <param-a>a</param-a> <param-name>Spirit</param-name> you control or reveal <param-a>a</param-a> <param-name>Spirit</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
 	flavor_text: <i-flavor>An ever-present blanket of chilling fog shrouds <error-spelling:en_US>Herghast’s</error-spelling:en_US> domain from prying eyes. </i-flavor>
-	illustrator: shen-fei
+	illustrator: Shen Fei
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12319,7 +12326,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design Matt
 	time_created: 2025-08-31 13:23:54
 	time_modified: 2026-04-20 17:47:20
 	name: Odric, Accursed Slayer
@@ -12479,7 +12486,7 @@ card:
 	has_styling: false
 	notes: !exportname 34Angel
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:04:48
+	time_modified: 2026-04-28 13:42:34
 	card_color: white
 	name: Angel
 	image: image346
@@ -12498,7 +12505,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4
-	illustrator: emmanuel-bou-roldan
+	illustrator: Emmanuel Bou Roldan
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12601,7 +12608,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:06:24
+	time_modified: 2026-04-28 13:47:08
 	card_color: white
 	name: Human
 	image: image350
@@ -12620,7 +12627,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: giuseppe-de-iure
+	illustrator: Giuseppe De lure
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12661,7 +12668,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:08:45
+	time_modified: 2026-04-28 13:08:36
 	card_color: white
 	name: Spirit
 	image: image352
@@ -12677,7 +12684,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: christy-treekhem
+	illustrator: Christy Treekhem
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12690,10 +12697,10 @@ card:
 		!tokentag Infused 2/2 Zombie
 		!exportname Zombie2
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:11:10
+	time_modified: 2026-04-30 13:34:14
 	card_color: blue
 	name: Zombie
-	image: image353
+	image: image12.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12722,10 +12729,10 @@ card:
 		!tokentag Infused 3/3 Zombie
 		!exportname Zombie3
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:11:25
+	time_modified: 2026-04-30 13:33:15
 	card_color: blue
 	name: Zombie
-	image: image354
+	image: image11.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12754,10 +12761,10 @@ card:
 		!tokentag Infused 4/4 Zombie
 		!exportname Zombie4
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:11:26
+	time_modified: 2026-04-30 13:32:57
 	card_color: blue
 	name: Zombie
-	image: image355
+	image: image10.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12786,10 +12793,10 @@ card:
 		!tokentag Infused 8/8 Zombie
 		!exportname Zombie8
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:11:28
+	time_modified: 2026-04-30 13:32:31
 	card_color: blue
 	name: Zombie
-	image: image356
+	image: image9.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12818,10 +12825,10 @@ card:
 		!tokentag Infused */* Zombie
 		!exportname ZombieX
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:11:29
+	time_modified: 2026-04-30 13:34:21
 	card_color: blue
 	name: Zombie
-	image: image357
+	image: image13.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12848,7 +12855,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:11:53
+	time_modified: 2026-04-23 17:29:41
 	card_color: black
 	name: Bat
 	image: image358
@@ -12867,7 +12874,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: angelo-bortolini
+	illustrator: Angelo Bortolini
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12878,7 +12885,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:12:14
+	time_modified: 2026-04-23 16:44:37
 	card_color: black
 	name: Vampire
 	image: image359
@@ -12897,7 +12904,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: alessandra-gava
+	illustrator: Alessandra Gava
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12908,7 +12915,7 @@ card:
 	has_styling: false
 	notes: !exportname flying Vampire
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:13:59
+	time_modified: 2026-04-23 17:29:31
 	card_color: black
 	name: Vampire
 	image: image360
@@ -12927,7 +12934,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: andrew-clark
+	illustrator: Andrew Clark
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12938,7 +12945,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:14:26
+	time_modified: 2026-04-28 13:09:43
 	card_color: black
 	name: Zombie
 	image: image361
@@ -12957,7 +12964,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: crimson-clover
+	illustrator: Crimson Clover
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -12968,7 +12975,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:15:05
+	time_modified: 2026-04-28 13:57:54
 	card_color: red
 	name: Ardor
 	image: image362
@@ -12987,7 +12994,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
-	illustrator: jakub-bazyluk
+	illustrator: Jakub Bazyluk
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13090,7 +13097,7 @@ card:
 	has_styling: false
 	notes: !exportname red Vampire
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:17:20
+	time_modified: 2026-04-28 14:10:54
 	card_color: red
 	name: Vampire
 	image: image366
@@ -13109,7 +13116,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: margarita-bourkova
+	illustrator: Margarita Bourkova
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13150,7 +13157,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:18:43
+	time_modified: 2026-04-28 14:35:47
 	card_color: green
 	name: Wolf
 	image: image368
@@ -13169,7 +13176,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	illustrator: tanya-podolskaia
+	illustrator: Tanya Podolskaia
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13180,7 +13187,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-02-04 14:19:09
+	time_modified: 2026-04-28 14:12:38
 	card_color: white, black, multicolor, horizontal
 	name: Cleric
 	image: image369
@@ -13199,7 +13206,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
-	illustrator: martin-paz-
+	illustrator: martinpazromero
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13270,7 +13277,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-04-13 18:59:58
+	time_modified: 2026-04-28 14:18:06
 	card_color: artifact
 	name: Blood
 	image: image372
@@ -13289,7 +13296,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
-	illustrator: michael-katchan
+	illustrator: Michael Katchan
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13360,7 +13367,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-04-13 19:00:05
+	time_modified: 2026-04-28 14:08:12
 	card_color: artifact
 	name: Treasure
 	image: image375
@@ -13379,7 +13386,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
-	illustrator: lukas-svrcek
+	illustrator: Lukas Svrcek
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -13390,7 +13397,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-04 13:48:50
-	time_modified: 2026-04-13 19:00:19
+	time_modified: 2026-04-28 14:23:50
 	card_color: artifact
 	name: Weapon
 	image: image376
@@ -13411,7 +13418,634 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
-	illustrator: paolo-puggioni
+	illustrator: Paolo Puggioni
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		chop_bottom: 
+		frames: 
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !design tremor
+	time_created: 2026-04-30 14:41:28
+	time_modified: 2026-04-30 14:45:40
+	name: Worn Semblance
+	casting_cost: 2U
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Illusion</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		Whenever you cast an instant or sorcery spell, you may have this creature become a copy of another target creature you control until end of turn, except it has this ability and is a Horror in addition to its other types.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	power: 2
+	toughness: 4
+	card_stamp: none
+	illustrator: Michele Petrelli
+	partition_select: after normal, main set B
+	card_code_text: Worlds Championship 2026 — tremor
+	card_code_text_2: 
+	card_code_text_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,225,475,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — IWH
+		!promo Valir Bounty
+		!secret !design Matt
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 19:11:34
+	name: Restoring Presence
+	casting_cost: XW
+	image: image21
+	image_2: image61
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Exile up to X target creatures you control. Return the exiled cards to the battlefield under their owner’s control at the beginning of the next end step.
+		<sym-auto>3W</sym-auto>, Exile this card from your graveyard: Create a tapped 3/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Asur Misoa
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,375,435,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — IWH
+		!promo Valir Bounty
+		!secret !design Matt
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 19:11:53
+	name: Collected Thoughts
+	casting_cost: 2UU
+	image: image91
+	image_2: image94
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom in a random order.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tatiana Pavlova
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 9
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,375,70,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — IWH
+		!promo Valir Bounty
+		!secret !design Matt
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 19:12:55
+	name: Gloaming Demon
+	casting_cost: 1BBB
+	image: image131
+	image_2: image321
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
+		When this creature enters, <kw-0><nospellcheck><key><param-prefix>create a 0/1</param-prefix> Offering</key></nospellcheck></kw-0> artifact creature token that’s all colors.
+		For each colored mana in the cost of a spell, you may pay 1 life and sacrifice a permanent of that color rather than pay that mana.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 5
+	illustrator: Harshanand Singh
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,375,70,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — IWH
+		!promo Valir Bounty
+		!secret !design Matt
+		!append  (A creature is savage if it’s transformed or has power greater than its base power.)
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-28 15:50:57
+	name: Darkthicket Howler
+	casting_cost: 1G
+	image: image353
+	image_2: image354
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Whenever target savage creature you control deals combat damage to a player this turn, draw a card. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Azid Faizi
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,375,485,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — IWH
+		!promo Valir Bounty
+		!secret !design Matt
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 19:15:55
+	name: Wildcaster Devil
+	casting_cost: 2UR
+	image: image355
+	image_2: image356
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Devil</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one of those cards chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Alexey Krestyaninov
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		!design Matt
+	time_created: 2026-05-01 00:22:50
+	time_modified: 2026-04-30 20:55:55
+	name: Eerie Nightdrifter
+	casting_cost: 2WW
+	image: image383
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		When this creature enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put an enchantment or Spirit card milled this way into your hand.
+		<sym-auto>5WW</sym-auto>: Until end of turn, this creature’s base power and toughness each become equal to your life total.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_stamp: standard
+	illustrator: Andy Aslamov
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		!design Matt
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+	time_created: 2026-05-01 00:22:50
+	time_modified: 2026-04-30 20:55:59
+	name: Mysteries of the Forbidden
+	casting_cost: 1U
+	image: image384
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		Look at the top X cards of your library, where X is 1 plus the number of differently named instant and/or sorcery cards in your graveyard. Put one of those cards into your hand and the rest on the bottom in a random order. If X is 13 or greater, you may put all of those cards into your hand instead.
+		<soft-line><kw-0><nospellcheck><key>Flashback <param-cost><sym>3U</sym></soft-line></param-cost></key></nospellcheck></kw-0>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	card_stamp: standard
+	illustrator: Asfodelo
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		!design Matt
+	time_created: 2026-05-01 00:22:50
+	time_modified: 2026-04-30 20:56:04
+	name: Moonsilver Archangel
+	casting_cost: XXWWW
+	image: image385
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<margin:0:0:5><kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a></margin:0:0:5>
+		<margin:0:0:5>When this creature enters, choose X. You may choose the same mode more than once.</margin:0:0:5>
+		<li><bullet>• </bullet>Create a Monument token. <i-auto>(An artifact with “Creatures you control get +1/+1.”)</i-auto>
+		</li><li><bullet>• </bullet>Create a Cloister token. <i-auto>(A white enchantment with “When this enters, exile target nonland permanent until this leaves.”)</i-auto></li>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_stamp: standard
+	illustrator: Chengwei Pan
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		shrink_typeline_text: 2
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		!design Matt
+	time_created: 2026-05-01 00:22:50
+	time_modified: 2026-04-30 20:56:08
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: They/them
+	name: Lidern, the Goreblossom
+	casting_cost: XGUR
+	image: image386
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dryad</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> enters with three +1/+1 counters on it.
+		When <atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> enters, you may distribute X +1/+1 counters among creatures you control.
+		Whenever <atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> attacks, you may remove a counter from any number of creatures you control. When you do, draw that many cards and <atom-legname><nospellcheck>Lidern</nospellcheck></atom-legname> deals that much damage to each opponent.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	card_stamp: standard
+	illustrator: Yu Cheng Hong
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		!design Matt
+	time_created: 2026-05-01 00:22:50
+	time_modified: 2026-04-30 20:56:13
+	name: Ash-Addled Pyromaniac
+	casting_cost: 1R
+	image: image387
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Peasant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		When this creature dies, choose one —
+		<li><bullet>• </bullet>Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
+		</li><li><bullet>• </bullet>Create a red Ardor enchantment token with “Sacrifice this token: Target creature gets +1/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”</li>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	card_stamp: standard
+	illustrator: Fred Augis
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		!design Matt
+	time_created: 2026-05-01 00:22:50
+	time_modified: 2026-04-30 20:56:17
+	name: Teeming Secrets
+	casting_cost: GU
+	image: image388
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Look at the top three cards of your library. You may put a land card from among them onto the battlefield tapped. If you don’t, put one of those cards into your hand. Put the rest into your graveyard.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	card_stamp: standard
+	illustrator: Ngan Pham
+	partition_select: after normal, main set D
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		!design Matt
+	time_created: 2026-05-01 00:22:50
+	time_modified: 2026-04-30 20:56:22
+	name: Horrors Wrought
+	casting_cost: 4BRG
+	image: image389
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Return up to one target permanent card from your graveyard to the battlefield with an <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> counter on it. <atom-cardname><nospellcheck>Horrors Wrought</nospellcheck></atom-cardname> deals 10 damage to each other creature and planeswalker.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	card_stamp: standard
+	illustrator: Alexandra Roslik
+	partition_select: after normal, main set D
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

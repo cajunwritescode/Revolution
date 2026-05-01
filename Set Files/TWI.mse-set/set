@@ -16,6 +16,10 @@ styling:
 	magic-genevensis-70-token:
 		casting_cost_mana_symbols: magic-mana-genevensis-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-genevensis-small.mse-symbol-font
+	magic-kasu-legend_750:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-adventure:
 		frames: Reversed
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -32,6 +36,9 @@ styling:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-jinx:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-dfc:
 		front_style: auto-sizing planeswalker
 		back_style: auto-sizing planeswalker
@@ -56,6 +63,10 @@ styling:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-showcase-innistrad-double-feature:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-tapped-FULLART: text_box_mana_symbols: magic-mana-small.mse-symbol-font
 card:
 	has_styling: false
@@ -627,7 +638,6 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
-		!update
 	time_created: 2025-06-09 23:36:58
 	time_modified: 2026-04-01 11:15:53
 	name: Stargazing
@@ -4093,7 +4103,7 @@ card:
 		!tag Twiltrie
 		!tag Thistrel
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 14:54:13
+	time_modified: 2026-04-30 14:25:22
 	name: Courtly Intrigue
 	casting_cost: U
 	image: image89.png
@@ -4111,7 +4121,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted creature or another creature with the same name as enchanted creature deals combat damage to player or noncreature permanent, draw a card.
+		Whenever enchanted creature or another creature with the same name as enchanted creature deals combat damage to a player or noncreature permanent, draw a card.
 	flavor_text: <i-flavor>To be caught spying? Gaudy. To be worth spying on? A compliment.</i-flavor>
 	illustrator: Cherraluna
 	card_code_text: 
@@ -4158,23 +4168,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		 nerfed: Was {2}{R} with etb deal 2 to each creature you don’t control.
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Sunvrath
 		3
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2026-01-31 16:12:13
+	time_modified: 2026-04-30 13:37:05
 	name: Advance of Fire and Faith
 	casting_cost: 1R
 	image: image174.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -4211,22 +4221,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Dolcairn
 		4
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:23:31
+	time_modified: 2026-04-30 13:37:09
 	name: Advance of Rot and Ruin
 	casting_cost: 1G
 	image: image35.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -4412,22 +4423,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Lunate
 		4
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:22:53
+	time_modified: 2026-04-30 13:37:22
 	name: Advance of the Empty Throne
 	casting_cost: 1G
 	image: image152.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -4680,7 +4692,7 @@ card:
 		!tag Cidraeth
 		3
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:23:18
+	time_modified: 2026-04-30 13:37:13
 	name: Advance of Rune and Whisper
 	casting_cost: U
 	image: image37.png
@@ -4688,11 +4700,11 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	indicator: blue
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -4703,7 +4715,7 @@ card:
 	loyalty: 3
 	level_1_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Advance of Rune and Whisper</nospellcheck></atom-cardname> enters, return target creature to its owner’s hand.
+		When <atom-cardname><nospellcheck>Advance of Rune and Whisper</nospellcheck></atom-cardname> enters, return up to one target creature to its owner’s hand.
 	level_2_text: <margin:0:0:30>At the beginning of your upkeep, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.</margin:0:0:30>
 	level_3_text: ​
 	level_4_text: 
@@ -4717,7 +4729,7 @@ card:
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Advance of Rune and Whisper</nospellcheck></atom-cardname> enters, return target creature to its owner’s hand.
+		When <atom-cardname><nospellcheck>Advance of Rune and Whisper</nospellcheck></atom-cardname> enters, return up to one target creature to its owner’s hand.
 		<b>Defeated</b> — <margin:0:0:30>At the beginning of your upkeep, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.</margin:0:0:30>
 		 — ​
 
@@ -4868,22 +4880,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Thistrel
 		3
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:24:01
+	time_modified: 2026-04-30 13:36:57
 	name: Advance of Dreamwoven Law
 	casting_cost: 1U
 	image: image66.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -5495,22 +5508,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Thistrel
 		4
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:23:05
+	time_modified: 2026-04-30 13:37:18
 	name: Advance of the Blazing Court
 	casting_cost: 1R
 	image: image32.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -5519,7 +5533,7 @@ card:
 	rule_text_3: 
 	flavor_text_3: <i-flavor></i-flavor>
 	loyalty: 4
-	level_1_text: When <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Blood toke<param-*s>ns</param-*s></key></nospellcheck>. <atom-reminder-expert> <i-auto>(They’re artifacts with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: When <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Blood toke<param-*s>ns</param-*s></key></nospellcheck>. <atom-reminder-expert> <i-auto>(They’re artifacts with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <margin:0:0:30>Whenever you sacrifice a permanent, <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> deals 1 damage to any other noncreature permanent.</margin:0:0:30>
 	level_3_text: ​
 	level_4_text: 
@@ -5532,7 +5546,7 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
-		When <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Blood toke<param-*s>ns</param-*s></key></nospellcheck>. <atom-reminder-expert> <i-auto>(They’re artifacts with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> enters, create two <kw-A><nospellcheck><key>Blood toke<param-*s>ns</param-*s></key></nospellcheck>. <atom-reminder-expert> <i-auto>(They’re artifacts with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
 		<b>Defeated</b> — <margin:0:0:30>Whenever you sacrifice a permanent, <atom-cardname><nospellcheck>Advance of the Blazing Court</nospellcheck></atom-cardname> deals 1 damage to any other noncreature permanent.</margin:0:0:30>
 		 — ​
 
@@ -6107,22 +6121,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Lunate
 		4
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:22:18
+	time_modified: 2026-04-30 13:37:30
 	name: Advance of the Quiet Moon
 	casting_cost: 1WW
 	image: image30.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -6197,22 +6212,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Cidraeth
 		4
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:18:26
+	time_modified: 2026-04-30 13:37:42
 	name: Advance of the Umbral Bargain
 	casting_cost: 1B
 	image: image38.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -6311,22 +6327,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Sunvrath
 		3
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:18:48
+	time_modified: 2026-04-30 13:37:35
 	name: Advance of the Sainted March
 	casting_cost: 1W
 	image: image31.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -6406,22 +6423,23 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Dolcairn
 		4
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 22:22:31
+	time_modified: 2026-04-30 13:37:25
 	name: Advance of the Hollow Wake
 	casting_cost: 1BB
 	image: image34.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -6884,11 +6902,12 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Sylvia
 		5
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2025-08-31 22:10:25
+	time_modified: 2026-04-30 13:38:25
 	card_color: white
 	name: Thorn and Trial
 	casting_cost: 1W
@@ -6896,11 +6915,11 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -6932,12 +6951,13 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Aldegar
 		5
 		 nerfed: Was 5 defense and etb draw three cards.
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2026-02-28 18:03:45
+	time_modified: 2026-04-30 13:38:21
 	card_color: blue
 	name: Path of Scales
 	casting_cost: 2UU
@@ -6945,11 +6965,11 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -6981,11 +7001,12 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Kazimierz
 		6
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2025-08-31 22:04:01
+	time_modified: 2026-04-30 13:38:17
 	card_color: black
 	name: Pact Beyond Death
 	casting_cost: 1B
@@ -6993,11 +7014,11 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -7029,11 +7050,12 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Ameret
 		5
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2025-08-31 22:10:13
+	time_modified: 2026-04-30 13:38:08
 	card_color: red
 	name: Eclipse of the Divine
 	casting_cost: 1RR
@@ -7041,8 +7063,11 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -7074,11 +7099,12 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		!tag Devika
 		5
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2025-08-31 22:10:15
+	time_modified: 2026-04-30 13:38:12
 	card_color: green
 	name: Gravebound Oath
 	casting_cost: 1G
@@ -7086,11 +7112,11 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -7492,6 +7518,7 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		4
 		!tag Sunvrath
@@ -7500,18 +7527,18 @@ card:
 		OperationCycle
 		 reworked: Was 4 defense, @2 Defense "At the beginning of your end step, create a 1/1 white Soldier creature token.", @Defeated "Creature tokens you control get +1/+1 and have vigilance."
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2026-02-28 18:47:43
+	time_modified: 2026-04-30 13:37:46
 	name: Clash at Aureth Cross
 	casting_cost: 3WW
 	image: image6.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -7625,25 +7652,26 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
-		!tag Twiltrie
+		 nerfed: Now an enchantment
+		!tag Twiltrie 
 		4
 		!tag Sunvrath
 		!tag Thistrel
 		Winner: Thistrel
 		OperationCycle
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 22:10:06
+	time_modified: 2026-04-30 13:38:01
 	name: Clash at Scorchroot Bluff
 	casting_cost: 1RR
 	image: image309.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -8223,24 +8251,25 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
-		!tag Twiltrie
+		 nerfed: Now an enchantment
+		!tag Twiltrie 
 		!tag Cidraeth
 		!tag Dolcairn
 		Winner: Dolcairn
 		OperationCycle
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-09-04 17:32:18
+	time_modified: 2026-04-30 13:38:04
 	name: Clash at the Shaded Maw
 	casting_cost: 1B
 	image: image271.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -8314,6 +8343,7 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
+		 nerfed: Now an enchantment
 		!tag Twiltrie
 		4
 		!tag Dolcairn
@@ -8323,18 +8353,18 @@ card:
 		Winner: Lunate
 		OperationCycle
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 22:10:00
+	time_modified: 2026-04-30 13:37:52
 	name: Clash at Dawnbloom Grove
 	casting_cost: 2G
 	image: image1.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -8400,8 +8430,8 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
-		!tag Twiltrie
-		
+		 nerfed: Now an enchantment. Previously created a 1/1 Soldier each end step if you cast a noncreature spell that turn, at 2 Defense gave your creatures Prowess, and at Defeated made your noncreature spells cost {2} less.
+		!tag Twiltrie 
 		5
 		!tag Thistrel
 		!tag Cidraeth
@@ -8409,18 +8439,18 @@ card:
 		OperationCycle
 		 nerfed: Was 5 defense. Passive used to create a Soldier for each noncreature spell. First level returned an instant or sorcery card from grave to hand the first time it reached 3 defense.
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2026-03-01 14:18:43
+	time_modified: 2026-04-30 13:45:57
 	name: Clash at Mistwrit Vale
 	casting_cost: 1UU
 	image: image87.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -8429,11 +8459,11 @@ card:
 	rule_text_3: 
 	flavor_text_3: <i-flavor></i-flavor>
 	loyalty: 4
-	level_1_text: At the beginning of each end step, create a 1/1 white Soldier creature token if you’ve cast a noncreature spell this turn.
-	level_2_text: <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. <i-auto>(If a creature has multiple instances of <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>, each triggers separately.)</i-auto></margin:0:0:30>
-	level_3_text: <margin:0:0:30>Noncreature spells you cast cost <sym-auto>2</sym-auto> less to cast.</margin:0:0:30>
+	level_1_text: Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.
+	level_2_text: <margin:0:0:30>When this battle first <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> this stage, create two 1/1 white Soldier creature tokens.</margin:0:0:30>
+	level_3_text: <margin:0:0:30>When this battle first reaches this stage, tap up to two target nonland permanents and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on each of them. They lose all abilities for as long as they remain tapped.</margin:0:0:30>
 	level_4_text: 
-	level_9_text: <b>2 Defense</b>
+	level_9_text: <b>3 Defense</b>
 	level_10_text: <b>Defeated</b>
 	power: 
 	toughness: 
@@ -8443,9 +8473,9 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
-		At the beginning of each end step, create a 1/1 white Soldier creature token if you’ve cast a noncreature spell this turn.
-		<b>2 Defense</b> — <margin:0:0:30>Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. <i-auto>(If a creature has multiple instances of <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>, each triggers separately.)</i-auto></margin:0:0:30>
-		<b>Defeated</b> — <margin:0:0:30>Noncreature spells you cast cost <sym-auto>2</sym-auto> less to cast.</margin:0:0:30>
+		Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.
+		<b>3 Defense</b> — <margin:0:0:30>When this battle first <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> this stage, create two 1/1 white Soldier creature tokens.</margin:0:0:30>
+		<b>Defeated</b> — <margin:0:0:30>When this battle first reaches this stage, tap up to two target nonland permanents and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on each of them. They lose all abilities for as long as they remain tapped.</margin:0:0:30>
 
 card:
 	has_styling: false
@@ -9093,12 +9123,13 @@ card:
 card:
 	has_styling: false
 	notes:
+		 rework: Previously had "Whenever a creature you control enters, put a +1/+1 counter on it. If this is the second time this ability has resolved this turn, put a +1/+1 counter on each other creature you control." and "Whenever you attack, tap up to one target creature. If you attacked with total power 8 or more, instead tap up to three target creatures."
 		!tag Twiltrie
 		!tag Lunate
 		!tag Devika
 		Provcycle
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-08-11 17:14:32
+	time_modified: 2026-04-30 14:05:59
 	card_color: white, green, multicolor, horizontal
 	name: Honesty
 	casting_cost: GG/WW
@@ -9116,8 +9147,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever a creature you control enters, put a +1/+1 counter on it. If this is the second time this ability has resolved this turn, put a +1/+1 counter on each other creature you control.
-		Whenever you attack, tap up to one target creature. If you attacked with total power 8 or more, instead tap up to three target creatures.
+		Whenever a nontoken creature you control enters, create a 1/1 white Soldier creature token. 
+		Whenever you attack, tap target permanent defending player controls. It loses all abilities until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Veronica O Neill
 	card_code_text: 
@@ -9664,13 +9695,14 @@ card:
 		!tag Twiltrie
 		!tag Lunate
 		!tag Cyra
+		 reworked: Was {1}{G}{W} 2/3 that gained 1 life on the first creature etb, drew a card on the second, and put a +1 counter on each of your creatures on the third.
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-07-22 22:09:03
+	time_modified: 2026-04-30 13:49:43
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
 	name: Cyra, Blade of Memory
-	casting_cost: 1GW
+	casting_cost: 2GW
 	image: image14.png
 	image_2: 
 	mainframe_image: 
@@ -9684,10 +9716,13 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever <atom-cardname><nospellcheck>Cyra, Blade of Memory</nospellcheck></atom-cardname> or another creature you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, draw a card. If it’s the third time, put a +1/+1 counter on each creature you control.
+	rule_text:
+		This spell can’t be countered.
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		Your opponents can cast spells only during their own turns.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 3
+	power: 4
+	toughness: 5
 	illustrator: Qrz-11
 	card_code_text: 
 	card_code_text_2: 
@@ -10212,7 +10247,7 @@ card:
 	level_4_text: 
 	level_5_text: 
 	level_6_text: 
-	level_9_text: This planeswalker has <kw-0><nospellcheck><key>protection from <param-name>mana values less than the number of loyalty counters on him.</param-name></key></nospellcheck></kw-0>
+	level_9_text: This planeswalker has <kw-0><nospellcheck><key>protection from <param-name>mana values less than the number of loyalty counters on him</param-name>.</key></nospellcheck></kw-0>
 	level_10_text: <margin:130:0:0>Look at the top three cards of your library. Put two of them into your hand and the rest into your graveyard.</margin:130:0:0>
 	level_11_text: <margin:130:0:0>Exile target creature or planeswalker. You gain 5 life.</margin:130:0:0>
 	level_12_text: <margin:130:0:0>Exile the top X cards of each opponent’s library, where X is the number of cards in your graveyard.</margin:130:0:0>
@@ -10229,7 +10264,7 @@ card:
 		[+1]: <margin:130:0:0>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy target creature or planeswalker. You gain 2 life.</margin:130:0:0>
 	special_text_2:
-		This planeswalker has <kw-0><nospellcheck><key>protection from <param-name>mana values less than the number of loyalty counters on him.</param-name></key></nospellcheck></kw-0>
+		This planeswalker has <kw-0><nospellcheck><key>protection from <param-name>mana values less than the number of loyalty counters on him</param-name>.</key></nospellcheck></kw-0>
 		[+1]: <margin:130:0:0>Look at the top three cards of your library. Put two of them into your hand and the rest into your graveyard.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile target creature or planeswalker. You gain 5 life.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Exile the top X cards of each opponent’s library, where X is the number of cards in your graveyard.</margin:130:0:0>
@@ -12131,10 +12166,9 @@ card:
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
+	has_styling: false
 	notes:
+		
 		!tag Twiltrie
 		!tag Lunate
 		!tag Devika
@@ -12142,11 +12176,11 @@ card:
 		TWI !promo Twiltrie Decree
 		!design Zangy
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-09-04 17:09:52
+	time_modified: 2026-04-30 14:26:10
 	card_color: white, green, multicolor, horizontal
 	name: Honesty
 	casting_cost: GG/WW
-	image: image12
+	image: image43.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12160,8 +12194,8 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		Whenever a creature you control enters, put a +1/+1 counter on it. If this is the second time this ability has resolved this turn, put a +1/+1 counter on each other creature you control.
-		Whenever you attack, tap up to one target creature. If you attacked with total power 8 or more, instead tap up to three target creatures.
+		Whenever a nontoken creature you control enters, create a 1/1 white Soldier creature token. 
+		Whenever you attack, tap target permanent defending player controls. It loses all abilities until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -12617,20 +12651,21 @@ card:
 	notes:
 		!promo Eternal Excursion;Weft Terminal
 		 !secret !design Zangy
+		
 		!replacetoken Weftserker;2;Weftserker;1;
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-11-29 01:47:39
+	time_modified: 2026-04-30 13:56:34
 	name: Advance of the Sainted March
 	casting_cost: 1W
 	image: image14
 	image_2: 
-	mainframe_image: mainframe_image1.png
+	mainframe_image: mainframe_image3.png
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-battle>Operation</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type: <word-list-enchantment>Operation</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -13264,11 +13299,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret  !promo Solastere Calamity
+		  !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:09:42
+	time_modified: 2026-04-30 20:05:17
 	name: Uplifting Chorus
 	casting_cost: 1UR
 	image: image38
@@ -13294,7 +13329,7 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: CREADFECTUS
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Solastere Calamity
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13310,11 +13345,11 @@ card:
 		promo: no
 		overlay: 
 	notes:
-		!secret !promo Solastere Calamity
+		 !promo Solastere Calamity
 		!design Zangy
 		TWI
 	time_created: 2025-12-26 09:51:59
-	time_modified: 2025-12-31 17:09:50
+	time_modified: 2026-04-30 20:05:06
 	name: Crumbling Ruin
 	casting_cost: 
 	image: image40
@@ -13342,6 +13377,271 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Logan Feliciano
 	partition_select: after main set R
+	card_code_text: Solastere Calamity
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 0,0,375,340,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — TWI
+		!promo Valir Bounty
+		!secret !design Zangy
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 20:05:34
+	name: Matriarch of Veiled Kin
+	casting_cost: 2BB
+	image: image42
+	image_2: image43
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Other Horrors and Warlocks you control get +1/+1.
+		When Matriarch of Veiled Kin enters, reveal cards from the top of your library until you reveal a Horror or Warlock card with mana value 2 or less. Put that card onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Andreas Flouris
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 10
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (IWH)
+		!secret !promo Innistrad Haunt
+		 !design Zangy
+	time_created: 2026-04-20 21:16:53
+	time_modified: 2026-04-30 21:10:30
+	name: Aegis of Grace
+	casting_cost: 2WW
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		Prevent all damage that would be dealt to battles you protect.
+		You, battles you control, and other creatures you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>“Oh <error-spelling:en_US>Avacyn</error-spelling:en_US>, with wings on high . . .”</i-flavor>
+	power: 4
+	toughness: 4
+	card_stamp: standard
+	illustrator: Marcello Chall
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-showcase-innistrad-double-feature
+	stylesheet_version: 2024-10-01
+	has_styling: true
+	styling_data:
+		chop_text_box: ,7
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design Zangy
+	time_created: 2026-04-20 21:02:34
+	time_modified: 2026-04-30 21:37:20
+	name: Voice of a Fallen Covenant
+	casting_cost: 2U
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Instant and sorcery spells you cast cost <sym-auto>1</sym-auto> less to cast for each other Warlock you control.
+		Whenever another Horror you control attacks, you may exile an instant or sorcery card from you graveyard. You may cast a copy of that card. <i-auto>(You still pay its costs.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	card_stamp: standard
+	illustrator: Tyler James
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: kasu-legend_750
+	stylesheet_version: 2024-08-01
+	has_styling: true
+	styling_data:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design Zangy
+	time_created: 2026-04-20 21:10:19
+	time_modified: 2026-04-30 21:10:19
+	name: Vardo's Scalpel
+	casting_cost: B
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Vardo’s Scalpel</nospellcheck></atom-cardname> attacks, it deals 2 damage to you.
+	flavor_text:
+		<i-flavor>Wrenching bones and gnashing teeth<soft-line>
+		Beware the one that creeps beneath</soft-line></i-flavor>
+	level_2_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_stamp: standard
+	illustrator: Diana Franco
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-jinx
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (IWH)
+		!secret !promo Innistrad Haunt
+		 !design Zangy
+	time_created: 2026-04-20 21:10:19
+	time_modified: 2026-04-30 21:10:16
+	name: Reaper of Blossoms
+	casting_cost: 1G
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text: Whenever <atom-cardname><nospellcheck>Reaper of Blossoms</nospellcheck></atom-cardname> attacks, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Then you may pay <sym-auto>G</sym-auto>. If you do, return a land card from your graveyard to your hand. Otherwise, you gain 1 life.
+	flavor_text: <i-flavor>“A bountiful harvest season.”</i-flavor>
+	level_2_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	card_stamp: standard
+	illustrator: redpencilart
+	partition_select: after main set S
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 8
+		frames: borderless art
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!secret !promo Innistrad Haunt
+		 !design Zangy
+	time_created: 2026-04-20 21:20:58
+	time_modified: 2026-04-30 21:10:11
+	name: Bogspawn Witness
+	casting_cost: 3BG
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Frog</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: special
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key><i>Vigor</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if you’ve gained or lost life this turn, choose one. If you’ve gained and lost life this turn, choose both instead.
+		<li><bullet>• </bullet>Each opponent sacrifices a creature or planeswalker unless they discard a card.
+		</li><li><bullet>• </bullet>Return a creature or planeswalker card from your graveyard to your hand.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_stamp: standard
+	illustrator: Andrew Baker
+	partition_select: after main set S
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

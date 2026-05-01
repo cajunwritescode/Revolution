@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, inverted
+		popout_image_style: 70,15,140,70,
+		other_options: auto nyx crowns, pride pinlines, popunder art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes:
+		PROMO — ERR
+		!promo Valir Bounty
+		!secret !design DrChipmunk
+	time_created: 2026-04-26 15:41:16
+	time_modified: 2026-04-30 19:14:49
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/Her
+	name: Aurore, Buffer Exec
+	casting_cost: 1GGGG
+	image: image85
+	image_2: image86
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aurore</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or attacks, <kw-0><nospellcheck><key>surveil <param-number>3</param-number></key></nospellcheck></kw-0>, then return all land cards from your graveyard to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Jackson Tjota
+	partition_select: after normal, main set C
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

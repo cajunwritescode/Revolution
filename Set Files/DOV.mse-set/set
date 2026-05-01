@@ -3341,7 +3341,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		!update
+		
 		!inpend until end of turn./add/ (It becomes a legendary Rebel with base power and toughness 4/4 in addition to its other types until end of turn.)
 	time_created: 2020-06-17 15:40:53
 	time_modified: 2026-04-15 23:26:35
@@ -4237,11 +4237,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: Was {U} and could flicker planeswalkers. Can now put a +1/+1 counter on a creature.
 	time_created: 2020-06-18 15:03:21
-	time_modified: 2023-10-31 22:54:45
+	time_modified: 2026-04-22 15:33:22
 	name: Experimental Flight
-	casting_cost: U
+	casting_cost: 1U
 	image: image44
 	image_2: 
 	mainframe_image: 
@@ -4249,7 +4249,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Exile target artifact, creature, or planeswalker you control, then return that card to the battlefield under its owner’s control. If it enters as a creature, it enters with a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on it.
+	rule_text: Exile target artifact or creature you control, then return that card to the battlefield under its owner’s control. If it enters as a creature, it enters with your choice of a +1/+1 counter or a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on it.
 	flavor_text: <i-flavor>The Enlightened Foundation experiment with mastering all the <error-spelling:en_US>wordly</error-spelling:en_US> elements of <error-spelling:en_US>Vereaux</error-spelling:en_US>.</i-flavor>
 	illustrator: michele tanner
 	card_code_text: 
@@ -6720,7 +6720,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Target creature gains <kw-0><nospellcheck><key>protection from <param-name>the color of your choice until end of turn.</param-name></key></nospellcheck></kw-0> <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. 
+	rule_text: Target creature gains <kw-0><nospellcheck><key>protection from <param-name>the color of your choice until end of turn</param-name>.</key></nospellcheck></kw-0> <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. 
 	flavor_text:
 		<i-flavor>“I’ll cross swords with anyone who questions my loyalty to this cause.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Cathette</error-spelling:en_US>, Righteous Princess</i-flavor>

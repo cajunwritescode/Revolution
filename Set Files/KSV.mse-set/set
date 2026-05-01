@@ -7227,7 +7227,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value 3 or greater.</param-name></key></nospellcheck></kw-0>
+		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value 3 or greater</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor>With nothing but treachery to the west, <error-spelling:en_US>Andarli</error-spelling:en_US> sought new allies in the burning east and ageless south.</i-flavor>
 	power: 2
 	toughness: 1
@@ -7359,7 +7359,7 @@ card:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto> 
 		Whenever you attack, each defending player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Each defending player loses 3 life unless they sacrifice a nonland permanent or discard a card.
-		[f], [f] — Return a creature card from a graveyard to the battlefield tapped under your control. 
+		Return a creature card from a graveyard to the battlefield tapped under your control. 
 
 card:
 	stylesheet: m15-mainframe-planeswalker
@@ -7454,7 +7454,7 @@ card:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto> 
 		Whenever you attack, exile the top two cards of your library. You may play a card exiled with <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> this turn.
 		Create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.
-		[f], [f] — When you next cast a spell this turn, <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> deals damage equal to that spell’s mana value to any target.
+		When you next cast a spell this turn, <atom-cardname><nospellcheck>Raise the Iron Banner</nospellcheck></atom-cardname> deals damage equal to that spell’s mana value to any target.
 
 card:
 	has_styling: true
@@ -7827,7 +7827,7 @@ card:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto>
 		When <atom-cardname><nospellcheck>The Battle Beneath</nospellcheck></atom-cardname> enters, up to two target creatures can’t block or become blocked this turn.
 		Whenever one or more creatures you control deal damage to an opponent this turn, draw a card.
-		[f] — Whenever one or more creatures you control deal damage to an opponent this turn, that player discards a card.
+		Whenever one or more creatures you control deal damage to an opponent this turn, that player discards a card.
 
 card:
 	stylesheet: m15-saga
@@ -8359,7 +8359,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2020-09-01 20:25:29
-	time_modified: 2023-11-30 22:03:53
+	time_modified: 2026-04-22 01:21:33
 	name: Last Grimoire of Nir’Gabal
 	casting_cost: 3
 	image: image27
@@ -8367,7 +8367,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		Equipped creature is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nir’Gabal</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 7/7 black Demon creature with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and loses all other types and abilities.
@@ -8425,7 +8431,7 @@ card:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto> 
 		Whenever you attack, create two tapped and attacking 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		Attacking creatures get +1/+1 until end of turn.
-		[f], [f] — Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
+		Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
 
 card:
 	has_styling: false
@@ -9396,7 +9402,7 @@ card:
 		<i-auto>(Whenever you attack, put a strategy counter on one of this card’s modes. Sacrifice it after all are marked.)</i-auto>
 		Whenever you attack, create two tapped and attacking 1/1 white Soldier creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		Attacking creatures get +1/+1 until end of turn.
-		[f], [f] — Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
+		Exile up to one target nonland permanent with mana value less than or equal to the number of attacking creatures.
 
 card:
 	stylesheet: fallout
