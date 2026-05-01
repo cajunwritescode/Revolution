@@ -620,6 +620,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Angler of the Crushing Sea_PRO_TWI</reverse-related>
  <reverse-related>Uplifting Chorus_PRO_TWI</reverse-related>
  <reverse-related>Darksun Migrant_PRO_SOL</reverse-related>
+ <reverse-related>Profane Scripture_PRO_VLR</reverse-related>
  <reverse-related>Emblem KDT</reverse-related>
  <reverse-related>Evil Plan VRD</reverse-related>
  <reverse-related>On an Adventure KDT</reverse-related>
@@ -5493,6 +5494,7 @@ This creature can't block.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Gloaming Demon</reverse-related>
+ <reverse-related>Gloaming Demon_PRO_IWH</reverse-related>
  <set num="IWH26" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH26.jpg?v=20260330" rarity="token">tokens</set>
 </card>
 <card>
@@ -5552,6 +5554,7 @@ This creature can't block.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Restoring Presence</reverse-related>
+ <reverse-related>Restoring Presence_PRO_IWH</reverse-related>
  <set num="IWH2" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH2.jpg?v=20260330" rarity="token">tokens</set>
 </card>
 <card>
@@ -5605,7 +5608,7 @@ Equip {2}</text>
  <reverse-related>Volwood Deadeye</reverse-related>
  <reverse-related count="2">Wharf Forgemaster</reverse-related>
  <reverse-related count="2">Wharf Forgemaster_PRO_VLR</reverse-related>
- <set num="VLR9" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR9.jpg?v=20260330" rarity="token">tokens</set>
+ <set num="VLR9" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR9.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>Treasure VLR</name>
@@ -5630,7 +5633,9 @@ Equip {2}</text>
  <reverse-related>Split the Loot</reverse-related>
  <reverse-related>Tale of Bedlam</reverse-related>
  <reverse-related>Tragic Accident</reverse-related>
- <set num="VLR8" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR8.jpg?v=20260330" rarity="token">tokens</set>
+ <reverse-related count="2">Avarice_PRO_VLR</reverse-related>
+ <reverse-related>League of Their Own_PRO_VLR</reverse-related>
+ <set num="VLR8" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR8.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>white Citizen 11VLR</name>
@@ -5643,7 +5648,7 @@ Equip {2}</text>
  <reverse-related count="2">Backalley Minstrel</reverse-related>
  <reverse-related>Kindly Tavernkeep</reverse-related>
  <reverse-related count="2">Rowdy Mob</reverse-related>
- <set num="VLR3" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR3.jpg?v=20260330" rarity="token">tokens</set>
+ <set num="VLR3" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR3.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>red Skeleton Dragon 55VLR</name>
@@ -5655,9 +5660,9 @@ Equip {2}</text>
  <tablerow>2</tablerow>
  <reverse-related>Bedlam's Vessel</reverse-related>
  <reverse-related>Heart of Bedlam</reverse-related>
- <reverse-related>Heart of Bedlam </reverse-related>
  <reverse-related>Tale of Bedlam</reverse-related>
- <set num="VLR4" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR4.jpg?v=20260330" rarity="token">tokens</set>
+ <reverse-related>Heart of Bedlam_PRO_VLR</reverse-related>
+ <set num="VLR4" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR4.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>Copy VLR</name>
@@ -5669,7 +5674,8 @@ Equip {2}</text>
  <reverse-related>Chicanery</reverse-related>
  <reverse-related>Herald of Emergence</reverse-related>
  <reverse-related>Het, False God</reverse-related>
- <set num="VLR1" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR1.jpg?v=20260330" rarity="token">tokens</set>
+ <reverse-related>Het, False God_PRO_VLR</reverse-related>
+ <set num="VLR1" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR1.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Spirit 11VLR</name>
@@ -5681,7 +5687,7 @@ Equip {2}</text>
  <tablerow>2</tablerow>
  <reverse-related>City's Memory</reverse-related>
  <reverse-related>Depart</reverse-related>
- <set num="VLR2" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR2.jpg?v=20260330" rarity="token">tokens</set>
+ <set num="VLR2" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR2.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Elemental VLR</name>
@@ -5694,7 +5700,7 @@ Equip {2}</text>
  <reverse-related>Juniper's Awakening</reverse-related>
  <reverse-related>The Setral Shaper</reverse-related>
  <reverse-related>Juni, Shaper Unbound</reverse-related>
- <set num="VLR5" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR5.jpg?v=20260330" rarity="token">tokens</set>
+ <set num="VLR5" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR5.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>black and green Mercenary 11VLR</name>
@@ -5707,7 +5713,7 @@ Equip {2}</text>
  <reverse-related>Ruthless Duo</reverse-related>
  <reverse-related>Soya, Nal Executioner</reverse-related>
  <reverse-related>Soya, Guild Pariah</reverse-related>
- <set num="VLR7" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR7.jpg?v=20260330" rarity="token">tokens</set>
+ <set num="VLR7" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR7.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Elf 13REV</name>
@@ -5865,7 +5871,7 @@ Equip {1}</text>
  <pt>0/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <set num="VLR6" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR6.jpg?v=20260330" rarity="token">tokens</set>
+ <set num="VLR6" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR6.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Aura PLANE 2</name>
@@ -6617,218 +6623,6 @@ Wastes have “{T}: Add {C}” and lose other names, types, supertypes, and abil
  <set num="OLD16" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/OLD16.jpg?v=0" rarity="token">tokens</set>
 </card>
 		<card>
-			<name>Getaway Proxy</name>
-			<text>Flash
-When Getaway Proxy enters, you may choose another creature you control. Move any number of counters from that creature onto Getaway Proxy. Attach to Getaway Proxy any number of Auras that are attached to that creature. Then return that creature to its owner's hand.</text>
-			<prop>
-				<side>front</side>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Human Rebel</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="297" muid="20260330" picURL="https://lackeybot.com/revolution/front/297/CNY" rarity="uncommon">CNY</set>
-		</card>
-		<card>
-			<name>End of Mutations</name>
-			<text>This spell can't be countered.
-First strike, haste
-Whenever an opponent casts a noncreature spell, if they haven't attacked this turn, End of Mutations deals 5 damage to them.</text>
-			<prop>
-				<side>front</side>
-				<manacost>3RRR</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Legendary Creature — Alien Mutant</type>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="296" muid="20260330" picURL="https://lackeybot.com/revolution/front/296/CCR" rarity="rare">CCR</set>
-		</card>
-		<card>
-			<name>Aurore, Buffer Exec</name>
-			<text>Trample
-Whenever Aurore enters or attacks, surveil 3, then return all land cards from your graveyard to the battlefield tapped.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1GGGG</manacost>
-				<cmc>5</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Legendary Creature — Human Druid</type>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="327" muid="20260330" picURL="https://lackeybot.com/revolution/front/327/ERR" rarity="rare">ERR</set>
-		</card>
-		<card>
-			<name>Pass Judgment</name>
-			<text>This spell costs {1} less to cast for each tapped creature you control.
-Counter target spell unless its controller pays {X}.</text>
-			<prop>
-				<side>front</side>
-				<manacost>XU</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="336" muid="20260330" picURL="https://lackeybot.com/revolution/front/336/KDT" rarity="uncommon">KDT</set>
-		</card>
-		<card>
-			<name>Matriarch of Veiled Kin</name>
-			<text>Menace
-Other Horrors and Warlocks you control get +1/+1.
-When Matriarch of Veiled Kin enters, reveal cards from the top of your library until you reveal a Horror or Warlock card with mana value 2 or less. Put that card onto the battlefield, then shuffle.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2BB</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Azra Warlock</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="348" muid="20260330" picURL="https://lackeybot.com/revolution/front/348/TWI" rarity="mythic rare">TWI</set>
-		</card>
-		<card>
-			<name>Mercenary of Dusk</name>
-			<text>Menace
-Whenever Mercenary of Dusk enters or attacks, any number of target players each mill two cards.</text>
-			<prop>
-				<side>front</side>
-				<manacost>BB</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Moonfolk Mercenary</type>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/SOL" rarity="uncommon">SOL</set>
-		</card>
-		<card>
-			<name>Collected Thoughts</name>
-			<text>Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom in a random order.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="314" muid="20260330" picURL="https://lackeybot.com/revolution/front/314/IWH" rarity="rare">IWH</set>
-		</card>
-		<card>
-			<name>Darkthicket Howler</name>
-			<text>{T}: Add {R} or {G}.
-{1}, {T}: Whenever target savage creature you control deals combat damage to a player this turn, draw a card. Activate only as a sorcery. (A creature is savage if it's transformed or has power greater than its base power.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>GR</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Wolf</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="316" muid="20260330" picURL="https://lackeybot.com/revolution/front/316/IWH" rarity="uncommon">IWH</set>
-		</card>
-		<card>
-			<name>Gloaming Demon</name>
-			<text>Flying, deathtouch
-When this creature enters, create a 0/1 Offering artifact creature token that's all colors.
-For each colored mana in the cost of a spell, you may pay 1 life and sacrifice a permanent of that color rather than pay that mana.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1BBB</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Demon</type>
-				<pt>3/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="315" muid="20260330" picURL="https://lackeybot.com/revolution/front/315/IWH" rarity="mythic rare">IWH</set>
-		</card>
-		<card>
-			<name>Restoring Presence</name>
-			<text>Exile up to X target creatures you control. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.
-{3}{W}, Exile this card from your graveyard: Create a tapped 3/4 white Angel creature token with flying.</text>
-			<prop>
-				<side>front</side>
-				<manacost>XW</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="313" muid="20260330" picURL="https://lackeybot.com/revolution/front/313/IWH" rarity="rare">IWH</set>
-		</card>
-		<card>
-			<name>Wildcaster Devil</name>
-			<text>When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one of those cards chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2UR</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>UR</coloridentity>
-				<colors>UR</colors>
-				<type>Creature — Devil</type>
-				<pt>3/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="317" muid="20260330" picURL="https://lackeybot.com/revolution/front/317/IWH" rarity="rare">IWH</set>
-		</card>
-		<card>
-			<name>Heart of Bedlam </name>
-			<text>At the beginning of your end step, you may sacrifice three nonland permanents. If you do, create a 5/5 red Skeleton Dragon creature token with flying.</text>
-			<prop>
-				<side>front</side>
-				<manacost>6</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Artifact</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/VLR" rarity="rare">VLR</set>
-		</card>
-		<card>
 			<name>Cryptology_PRO_CNY</name>
 			<text>As an additional cost to cast this spell, exile a card from your graveyard.
 Search your library for a card with the same mana value as the exiled card, reveal it, put it into your hand, then shuffle. You lose 2 life.</text>
@@ -6864,6 +6658,24 @@ Enchanted creature has decayed. (It can't block. When it attacks, sacrifice it a
 			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/CNY" rarity="special">CNY</set>
 		</card>
 		<card>
+			<name>Getaway Proxy_PRO_CNY</name>
+			<text>Flash
+When Getaway Proxy enters, you may choose another creature you control. Move any number of counters from that creature onto Getaway Proxy. Attach to Getaway Proxy any number of Auras that are attached to that creature. Then return that creature to its owner's hand.</text>
+			<prop>
+				<side>front</side>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>W</coloridentity>
+				<colors>W</colors>
+				<type>Creature — Human Rebel</type>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
 			<name>Martyrize_PRO_CNY</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Exile the top X cards of your library, where X is the sacrificed creature's power. Until the end of your next turn, you may play those cards.</text>
@@ -6895,6 +6707,25 @@ Exile the top X cards of your library, where X is the sacrificed creature's powe
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="299" muid="0" picURL="https://lackeybot.com/revolution/front/299/CNY" rarity="special">CNY</set>
+		</card>
+		<card>
+			<name>End of Mutations_PRO_CCR</name>
+			<text>This spell can't be countered.
+First strike, haste
+Whenever an opponent casts a noncreature spell, if they haven't attacked this turn, End of Mutations deals 5 damage to them.</text>
+			<prop>
+				<side>front</side>
+				<manacost>3RRR</manacost>
+				<cmc>6</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>R</coloridentity>
+				<colors>R</colors>
+				<type>Legendary Creature — Alien Mutant</type>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="296" muid="0" picURL="https://lackeybot.com/revolution/front/296/CCR" rarity="special">CCR</set>
 		</card>
 		<card>
 			<name>Nocturne, Monstrous Krasis_PRO_CCR</name>
@@ -6967,6 +6798,24 @@ Surface {6}{U}{U}{B}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/CCR" rarity="special">CCR</set>
+		</card>
+		<card>
+			<name>Aurore, Buffer Exec_PRO_ERR</name>
+			<text>Trample
+Whenever Aurore enters or attacks, surveil 3, then return all land cards from your graveyard to the battlefield tapped.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1GGGG</manacost>
+				<cmc>5</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<colors>G</colors>
+				<type>Legendary Creature — Human Druid</type>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="327" muid="0" picURL="https://lackeybot.com/revolution/front/327/ERR" rarity="special">ERR</set>
 		</card>
 		<card>
 			<name>Catabolist_PRO_ERR</name>
@@ -7074,6 +6923,23 @@ Whenever you discard a card, each opponent loses 1 life.</text>
 			<set num="337" muid="0" picURL="https://lackeybot.com/revolution/front/337/KDT" rarity="special">KDT</set>
 		</card>
 		<card>
+			<name>Pass Judgment_PRO_KDT</name>
+			<text>This spell costs {1} less to cast for each tapped creature you control.
+Counter target spell unless its controller pays {X}.</text>
+			<prop>
+				<side>front</side>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>U</coloridentity>
+				<colors>U</colors>
+				<type>Instant</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="336" muid="0" picURL="https://lackeybot.com/revolution/front/336/KDT" rarity="special">KDT</set>
+		</card>
+		<card>
 			<name>Spiteful Banditry_PRO_KDT</name>
 			<text>When this enchantment enters, it deals X damage to each creature.
 Whenever one or more creatures your opponents control die, you create a Treasure token. This ability triggers only once each turn.</text>
@@ -7147,6 +7013,25 @@ You, battles you control, and other creatures you control have hexproof.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="353" muid="0" picURL="https://lackeybot.com/revolution/front/353/TWI" rarity="special">TWI</set>
+		</card>
+		<card>
+			<name>Matriarch of Veiled Kin_PRO_TWI</name>
+			<text>Menace
+Other Horrors and Warlocks you control get +1/+1.
+When Matriarch of Veiled Kin enters, reveal cards from the top of your library until you reveal a Horror or Warlock card with mana value 2 or less. Put that card onto the battlefield, then shuffle.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Creature — Azra Warlock</type>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="348" muid="0" picURL="https://lackeybot.com/revolution/front/348/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
 			<name>Reaper of Blossoms (IWH)</name>
@@ -7272,6 +7157,24 @@ Exile Last Wish.</text>
 			<set num="322" muid="0" picURL="https://lackeybot.com/revolution/front/322/SOL" rarity="special">SOL</set>
 		</card>
 		<card>
+			<name>Mercenary of Dusk_PRO_SOL</name>
+			<text>Menace
+Whenever Mercenary of Dusk enters or attacks, any number of target players each mill two cards.</text>
+			<prop>
+				<side>front</side>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Creature — Moonfolk Mercenary</type>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/SOL" rarity="special">SOL</set>
+		</card>
+		<card>
 			<name>Ash-Addled Pyromaniac_PRO_IWH</name>
 			<text>When this creature dies, choose one —
 • Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
@@ -7291,6 +7194,40 @@ Exile Last Wish.</text>
 			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/IWH" rarity="special">IWH</set>
 		</card>
 		<card>
+			<name>Collected Thoughts_PRO_IWH</name>
+			<text>Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom in a random order.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>U</coloridentity>
+				<colors>U</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="314" muid="0" picURL="https://lackeybot.com/revolution/front/314/IWH" rarity="special">IWH</set>
+		</card>
+		<card>
+			<name>Darkthicket Howler_PRO_IWH</name>
+			<text>{T}: Add {R} or {G}.
+{1}, {T}: Whenever target savage creature you control deals combat damage to a player this turn, draw a card. Activate only as a sorcery. (A creature is savage if it's transformed or has power greater than its base power.)</text>
+			<prop>
+				<side>front</side>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>GR</coloridentity>
+				<colors>G</colors>
+				<type>Creature — Wolf</type>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="316" muid="0" picURL="https://lackeybot.com/revolution/front/316/IWH" rarity="special">IWH</set>
+		</card>
+		<card>
 			<name>Eerie Nightdrifter_PRO_IWH</name>
 			<text>Flying, lifelink
 When this creature enters, mill five cards. You may put an enchantment or Spirit card milled this way into your hand.
@@ -7308,6 +7245,25 @@ When this creature enters, mill five cards. You may put an enchantment or Spirit
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="318" muid="0" picURL="https://lackeybot.com/revolution/front/318/IWH" rarity="special">IWH</set>
+		</card>
+		<card>
+			<name>Gloaming Demon_PRO_IWH</name>
+			<text>Flying, deathtouch
+When this creature enters, create a 0/1 Offering artifact creature token that's all colors.
+For each colored mana in the cost of a spell, you may pay 1 life and sacrifice a permanent of that color rather than pay that mana.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Creature — Demon</type>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="315" muid="0" picURL="https://lackeybot.com/revolution/front/315/IWH" rarity="special">IWH</set>
 		</card>
 		<card>
 			<name>Horrors Wrought_PRO_IWH</name>
@@ -7383,6 +7339,23 @@ Flashback {3}{U} (You may cast this card from your graveyard for its flashback c
 			<set num="320" muid="0" picURL="https://lackeybot.com/revolution/front/320/IWH" rarity="special">IWH</set>
 		</card>
 		<card>
+			<name>Restoring Presence_PRO_IWH</name>
+			<text>Exile up to X target creatures you control. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.
+{3}{W}, Exile this card from your graveyard: Create a tapped 3/4 white Angel creature token with flying.</text>
+			<prop>
+				<side>front</side>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>W</coloridentity>
+				<colors>W</colors>
+				<type>Instant</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="313" muid="0" picURL="https://lackeybot.com/revolution/front/313/IWH" rarity="special">IWH</set>
+		</card>
+		<card>
 			<name>Teeming Secrets_PRO_IWH</name>
 			<text>Look at the top three cards of your library. You may put a land card from among them onto the battlefield tapped. If you don't, put one of those cards into your hand. Put the rest into your graveyard.</text>
 			<prop>
@@ -7399,6 +7372,61 @@ Flashback {3}{U} (You may cast this card from your graveyard for its flashback c
 			<set num="324" muid="0" picURL="https://lackeybot.com/revolution/front/324/IWH" rarity="special">IWH</set>
 		</card>
 		<card>
+			<name>Wildcaster Devil_PRO_IWH</name>
+			<text>When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one of those cards chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>UR</coloridentity>
+				<colors>UR</colors>
+				<type>Creature — Devil</type>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="317" muid="0" picURL="https://lackeybot.com/revolution/front/317/IWH" rarity="special">IWH</set>
+		</card>
+		<card>
+			<name>Avarice_PRO_VLR</name>
+			<text>Menace
+Whenever this creature enters or attacks, choose two —
+• Each player loses 2 life.
+• Discard your hand, then draw two cards.
+• Sacrifice a land. Create two tapped Treasure tokens.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2BBRR</manacost>
+				<cmc>6</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>BR</coloridentity>
+				<colors>BR</colors>
+				<type>Creature — Incarnation</type>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="294" muid="0" picURL="https://lackeybot.com/revolution/front/294/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Become the Hunted_PRO_VLR</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Pursuit {1}{B}{B} (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.) (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</text>
+			<prop>
+				<side>front</side>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="285" muid="0" picURL="https://lackeybot.com/revolution/front/285/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
 			<name>Call for Backup_PRO_VLR</name>
 			<text>Search your library for a creature card with mana value 3 or less, reveal it, put it into your hand, then shuffle.</text>
 			<prop>
@@ -7413,6 +7441,23 @@ Flashback {3}{U} (You may cast this card from your graveyard for its flashback c
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="302" muid="0" picURL="https://lackeybot.com/revolution/front/302/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Call of the Grove_PRO_VLR</name>
+			<text>As this enchantment enters, choose a creature type.
+When this enchantment enters and at the beginning of your upkeep, reveal the top five cards of your library. You may put a creature card of the chosen type or a land card from among them onto the battlefield, then put the rest on the bottom in a random order.</text>
+			<prop>
+				<side>front</side>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>G</coloridentity>
+				<colors>G</colors>
+				<type>Enchantment</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="291" muid="0" picURL="https://lackeybot.com/revolution/front/291/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Exultant Shepherd_PRO_VLR</name>
@@ -7432,6 +7477,163 @@ Flashback {3}{U} (You may cast this card from your graveyard for its flashback c
 			<set num="304" muid="0" picURL="https://lackeybot.com/revolution/front/304/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
+			<name>Forgotten Foundation_PRO_VLR</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<prop>
+				<side>front</side>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<layout>normal</layout>
+				<maintype>Land</maintype>
+				<coloridentity></coloridentity>
+				<colors></colors>
+				<type>Land</type>
+			</prop>
+			<tablerow>0</tablerow>
+			<set num="301" muid="0" picURL="https://lackeybot.com/revolution/front/301/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Forsaken Penitents_PRO_VLR</name>
+			<text>Whenever a token you control enters, create an Acolyte token. This ability triggers only once each turn. (It's a 0/1 white and black Warlock creature with “{1}, Sacrifice this token: Surveil 1.”) (It's a 0/1 white and black Warlock creature with “1, Sacrifice this token: Surveil 1.”)</text>
+			<prop>
+				<side>front</side>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>W</coloridentity>
+				<colors>W</colors>
+				<type>Creature — Human Warlock</type>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="279" muid="0" picURL="https://lackeybot.com/revolution/front/279/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Glimpse the Worldsoul_PRO_VLR</name>
+			<text>Return target card from your graveyard to your hand. Then if you're ancient, you may put a card from your graveyard on top of your library. (You're ancient as long as you have eight or more total lands in play or in your graveyard.) (You're ancient as long as you have eight or more total lands in play or in your graveyard.)
+Exile Glimpse the Worldsoul.</text>
+			<prop>
+				<side>front</side>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>GU</coloridentity>
+				<colors>GU</colors>
+				<type>Instant</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="295" muid="0" picURL="https://lackeybot.com/revolution/front/295/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Grand Larceny_PRO_VLR</name>
+			<text>Spectacle {U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Choose one. If this spell's spectacle cost was paid, choose both instead.
+• Grand Larceny deals 2 damage divided as you choose among one or two targets.
+• Draw a card.</text>
+			<prop>
+				<side>front</side>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>UR</coloridentity>
+				<colors>UR</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="296" muid="0" picURL="https://lackeybot.com/revolution/front/296/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Heart of Bedlam_PRO_VLR</name>
+			<text>At the beginning of your end step, you may sacrifice three nonland permanents. If you do, create a 5/5 red Skeleton Dragon creature token with flying.</text>
+			<prop>
+				<side>front</side>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity></coloridentity>
+				<colors></colors>
+				<type>Artifact</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="300" muid="20260401" picURL="https://lackeybot.com/revolution/front/300/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Het, False God_PRO_VLR</name>
+			<text>Flying, lifelink
+Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token that's a copy of it, except it's a 0/1 Warlock and it has “{1}, Sacrifice this creature: Surveil 1.”</text>
+			<prop>
+				<side>front</side>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Legendary Creature — Elder Spirit</type>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="286" muid="0" picURL="https://lackeybot.com/revolution/front/286/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Jump the Gap_PRO_VLR</name>
+			<text>Exile target creature you own. For as long as that card remains exiled, you may cast it without paying its mana cost. At the beginning of your next end step, if that card is still exiled, return it to your hand.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>U</coloridentity>
+				<colors>U</colors>
+				<type>Instant</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="282" muid="0" picURL="https://lackeybot.com/revolution/front/282/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>League of Their Own_PRO_VLR</name>
+			<text>Menace
+Whenever this creature enters or attacks, exile up to one target card from a graveyard. If a creature card is exiled this way, you gain 3 life. If a land card is exiled this way, you create a Treasure token. If a noncreature, nonland card is exiled this way, draw a card.</text>
+			<prop>
+				<side>front</side>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>B</coloridentity>
+				<colors>B</colors>
+				<type>Creature — Human Mercenary</type>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="287" muid="0" picURL="https://lackeybot.com/revolution/front/287/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Leybound Ritualist_PRO_VLR</name>
+			<text>If a land you control would enter tapped, it enters untapped instead.
+{3}{G}{G}{G}: Reveal the top three cards of your library. Put any number of permanent cards from among them into your hand and the rest on the bottom in a random order.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<colors>G</colors>
+				<type>Creature — Treefolk Druid</type>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="292" muid="0" picURL="https://lackeybot.com/revolution/front/292/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
 			<name>Memoriam_PRO_VLR</name>
 			<text>Mill four cards. When you do, return up to one target creature card and up to one target instant or sorcery card from your graveyard to your hand.
 Exile Memoriam.</text>
@@ -7447,6 +7649,38 @@ Exile Memoriam.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="306" muid="0" picURL="https://lackeybot.com/revolution/front/306/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>On Top of the World_PRO_VLR</name>
+			<text>Choose a creature. Return the rest to their owners' hands.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>U</coloridentity>
+				<colors>U</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="283" muid="0" picURL="https://lackeybot.com/revolution/front/283/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Profane Scripture_PRO_VLR</name>
+			<text>Search your library for a card, exile it face down, then shuffle. You may cast the exiled card by sacrificing a number of creatures equal to its mana value rather than paying its mana cost. Put the exiled card into your hand if it wasn't cast this way.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>WB</coloridentity>
+				<colors>WB</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Shape the Pattern_PRO_VLR</name>
@@ -7465,6 +7699,25 @@ Exile Memoriam.</text>
 			<set num="305" muid="0" picURL="https://lackeybot.com/revolution/front/305/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
+			<name>Shroudpiercer_PRO_VLR</name>
+			<text>Deathtouch
+When this creature enters, surveil 1.
+{1}{G}, Exile this card from your graveyard: Surveil 1.</text>
+			<prop>
+				<side>front</side>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>G</coloridentity>
+				<colors>G</colors>
+				<type>Creature — Horror</type>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
 			<name>Solemn Procession_PRO_VLR</name>
 			<text>Choose a creature type. For each mana value from 1 to X, you may return a creature card with that mana value and the chosen type to the battlefield. X can't be 0.
 Exile Solemn Procession.</text>
@@ -7480,6 +7733,168 @@ Exile Solemn Procession.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="303" muid="0" picURL="https://lackeybot.com/revolution/front/303/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Strangle_PRO_VLR</name>
+			<text>Strangle deals 3 damage to target creature or planeswalker.</text>
+			<prop>
+				<side>front</side>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>R</coloridentity>
+				<colors>R</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="288" muid="0" picURL="https://lackeybot.com/revolution/front/288/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Sunset Sentries_PRO_VLR</name>
+			<text>This spell costs {1} less to cast for each spell you've cast this turn.
+When this creature enters, draw a card.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>W</coloridentity>
+				<colors>W</colors>
+				<type>Creature — Human Rebel</type>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="281" muid="0" picURL="https://lackeybot.com/revolution/front/281/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Swift-Step Robber_PRO_VLR</name>
+			<text>Flash
+Flying
+This creature can't block.
+When this creature enters, put a robbed counter on up to one other target creature.
+Creatures with robbed counters on them have base power and toughness 2/1, have flying and “This creature can't block” and lose all other abilities.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>U</coloridentity>
+				<colors>U</colors>
+				<type>Creature — Human Rogue</type>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="284" muid="0" picURL="https://lackeybot.com/revolution/front/284/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Tesh, Fragmented Founder_PRO_VLR</name>
+			<text>When Tesh enters, exile all double-faced nonland permanents.
+[+2]: Tesh deals 3 damage to any target. You gain 3 life.
+[-3]: Each opponent discards two cards and you draw two cards.
+[-5]: For each opponent, choose up to one target nonland permanent that player controls. Gain control of those permanents.</text>
+			<prop>
+				<side>front</side>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<layout>normal</layout>
+				<maintype>Planeswalker</maintype>
+				<coloridentity></coloridentity>
+				<colors></colors>
+				<type>Legendary Planeswalker — Tesh</type>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="278" muid="0" picURL="https://lackeybot.com/revolution/front/278/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>The Great Singularity_PRO_VLR</name>
+			<text>Whenever a creature you control enters, attacks, or dies, you gain 1 life.
+At the beginning of your upkeep, if you have 50 or more life, you win the game.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2WWW</manacost>
+				<cmc>5</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>W</coloridentity>
+				<colors>W</colors>
+				<type>Legendary Enchantment</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="280" muid="0" picURL="https://lackeybot.com/revolution/front/280/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Unending Unrest_PRO_VLR</name>
+			<text>As this enchantment enters, choose a creature type.
+Whenever a creature you control of the chosen type enters, it deals damage equal to its power to any target.</text>
+			<prop>
+				<side>front</side>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>R</coloridentity>
+				<colors>R</colors>
+				<type>Enchantment</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="289" muid="0" picURL="https://lackeybot.com/revolution/front/289/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Valiant Firebrand_PRO_VLR</name>
+			<text>Creature tokens can't block.
+Whenever you attack, you may discard a card. If you do, draw a card.
+Whenever you discard a creature card, you may exile that card from your graveyard. If you do, you may play that card this turn.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>RW</coloridentity>
+				<colors>RW</colors>
+				<type>Creature — Human Rebel</type>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="298" muid="0" picURL="https://lackeybot.com/revolution/front/298/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Vie's Lieutenant_PRO_VLR</name>
+			<text>First strike
+Muster — Whenever you cast a creature spell, this creature gets +1/+0 until end of turn. If this is the second time this ability has resolved this turn, instead all nontoken creatures you control get +1/+0 until end of turn.</text>
+			<prop>
+				<side>front</side>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<layout>normal</layout>
+				<maintype>Creature</maintype>
+				<coloridentity>R</coloridentity>
+				<colors>R</colors>
+				<type>Creature — Cat Rebel</type>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/VLR" rarity="special">VLR</set>
+		</card>
+		<card>
+			<name>Wanton Destruction_PRO_VLR</name>
+			<text>Each player sacrifices all nonland permanents they control. You may return a permanent card you own sacrificed this way from your graveyard to your hand.</text>
+			<prop>
+				<side>front</side>
+				<manacost>3BBG</manacost>
+				<cmc>6</cmc>
+				<layout>normal</layout>
+				<maintype>undefined</maintype>
+				<coloridentity>BG</coloridentity>
+				<colors>BG</colors>
+				<type>Sorcery</type>
+			</prop>
+			<tablerow>1</tablerow>
+			<set num="299" muid="0" picURL="https://lackeybot.com/revolution/front/299/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Wharf Forgemaster_PRO_VLR</name>

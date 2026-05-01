@@ -10991,7 +10991,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: Reword  101: Changed from Warrior to Mercenary
+	notes: 
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2026-04-30 14:11:33
 	card_color: black
@@ -13088,6 +13088,7 @@ card:
 		PROMO — SOL
 		!promo Valir Bounty
 		!secret !design Scribbl
+		
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:13:53
 	name: Mercenary of Dusk

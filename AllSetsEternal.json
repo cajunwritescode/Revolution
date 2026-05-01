@@ -225384,6 +225384,57 @@
      "uuid": "Gerrymanderer_CNY"
     },
     {
+     "artist": "Jarek Nocon",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Stasis",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Getaway Proxy_CNY",
+     "imageName": "getaway proxy",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{W}",
+     "identifiers": {
+      "scryfallId": 4680,
+      "multiverseId": 20260401
+     },
+     "name": "Getaway Proxy",
+     "number": "12",
+     "power": "1",
+     "rarity": "uncommon",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Rebel"
+     ],
+     "text": "Flash\nWhen Getaway Proxy enters, you may choose another creature you control. Move any number of counters from that creature onto Getaway Proxy. Attach to Getaway Proxy any number of Auras that are attached to that creature. Then return that creature to its owner's hand.",
+     "toughness": "1",
+     "type": "Creature — Human Rebel",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Getaway Proxy_CNY"
+    },
+    {
      "artist": "Bastien Jez",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -235470,8 +235521,8 @@
      "uuid": "Work Safety Violation_PRO_CNY"
     }
    ],
-   "baseSetSize": 305,
-   "totalSetSize": 305,
+   "baseSetSize": 306,
+   "totalSetSize": 306,
    "cardsphereSetId": 16,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -240226,6 +240277,60 @@
       "Instant"
      ],
      "uuid": "Empty Shell_CCR"
+    },
+    {
+     "artist": "Chris Hohl",
+     "convertedManaCost": 6,
+     "faceConvertedManaCost": 6,
+     "manaValue": 6,
+     "faceManaValue": 6,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Cajun",
+     "flavor": "Forged of the stars, what of this earth could hope to rival its speed or fury?\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "End of Mutations_CCR",
+     "imageName": "end of mutations",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{3}{R}{R}{R}",
+     "identifiers": {
+      "scryfallId": 4942,
+      "multiverseId": 20260401
+     },
+     "name": "End of Mutations",
+     "number": "129",
+     "power": "5",
+     "rarity": "rare",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Alien",
+      "Mutant"
+     ],
+     "supertypes": [
+      "Legendary"
+     ],
+     "text": "This spell can't be countered.\nFirst strike, haste\nWhenever an opponent casts a noncreature spell, if they haven't attacked this turn, End of Mutations deals 5 damage to them.",
+     "toughness": "5",
+     "type": "Legendary Creature — Alien Mutant",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "End of Mutations_CCR"
     },
     {
      "artist": "Chris Hohl",
@@ -255761,8 +255866,8 @@
      "uuid": "Weather Elemental_PRO_CCR"
     }
    ],
-   "baseSetSize": 399,
-   "totalSetSize": 399,
+   "baseSetSize": 400,
+   "totalSetSize": 400,
    "cardsphereSetId": 17,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -256426,6 +256531,60 @@
       "Creature"
      ],
      "uuid": "Assert Mediator_ERR"
+    },
+    {
+     "artist": "Matt Zeilinger",
+     "convertedManaCost": 5,
+     "faceConvertedManaCost": 5,
+     "manaValue": 5,
+     "faceManaValue": 5,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Aurore, Buffer Exec_ERR",
+     "imageName": "aurore, buffer exec",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{G}{G}{G}{G}",
+     "identifiers": {
+      "scryfallId": 5286,
+      "multiverseId": 20260401
+     },
+     "name": "Aurore, Buffer Exec",
+     "number": "157",
+     "power": "5",
+     "rarity": "rare",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Druid"
+     ],
+     "supertypes": [
+      "Legendary"
+     ],
+     "text": "Trample\nWhenever Aurore enters or attacks, surveil 3, then return all land cards from your graveyard to the battlefield tapped.",
+     "toughness": "5",
+     "type": "Legendary Creature — Human Druid",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Aurore, Buffer Exec_ERR"
     },
     {
      "artist": "Mack Illu",
@@ -272007,8 +272166,8 @@
      "uuid": "Weft Dancer_PRO_ERR"
     }
    ],
-   "baseSetSize": 330,
-   "totalSetSize": 330,
+   "baseSetSize": 331,
+   "totalSetSize": 331,
    "cardsphereSetId": 18,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -281757,6 +281916,51 @@
      "uuid": "Painted Officer_KDT"
     },
     {
+     "artist": "IrenBee",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Provocative",
+     "flavor": "Nothing appeases a dragon more than total supplication.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Pass Judgment_KDT",
+     "imageName": "pass judgment",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{X}{U}",
+     "identifiers": {
+      "scryfallId": 5752,
+      "multiverseId": 20260401
+     },
+     "name": "Pass Judgment",
+     "number": "54",
+     "rarity": "uncommon",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "This spell costs {1} less to cast for each tapped creature you control.\nCounter target spell unless its controller pays {X}.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Pass Judgment_KDT"
+    },
+    {
      "artist": "Sui Sui",
      "convertedManaCost": 5,
      "faceConvertedManaCost": 5,
@@ -288715,8 +288919,8 @@
      "uuid": "Welkin Eviction_PRO_KDT"
     }
    ],
-   "baseSetSize": 335,
-   "totalSetSize": 335,
+   "baseSetSize": 336,
+   "totalSetSize": 336,
    "cardsphereSetId": 19,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -297104,6 +297308,57 @@
       "Sorcery"
      ],
      "uuid": "Mass Conjuration_TWI"
+    },
+    {
+     "artist": "AphroditeVT",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Zangy",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Matriarch of Veiled Kin_TWI",
+     "imageName": "matriarch of veiled kin",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{B}{B}",
+     "identifiers": {
+      "scryfallId": 6117,
+      "multiverseId": 20260401
+     },
+     "name": "Matriarch of Veiled Kin",
+     "number": "101",
+     "power": "2",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Azra",
+      "Warlock"
+     ],
+     "text": "Menace\nOther Horrors and Warlocks you control get +1/+1.\nWhen Matriarch of Veiled Kin enters, reveal cards from the top of your library until you reveal a Horror or Warlock card with mana value 2 or less. Put that card onto the battlefield, then shuffle.",
+     "toughness": "2",
+     "type": "Creature — Azra Warlock",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Matriarch of Veiled Kin_TWI"
     },
     {
      "artist": "Monkae",
@@ -305518,8 +305773,8 @@
      "uuid": "Witchery_PRO_TWI"
     }
    ],
-   "baseSetSize": 342,
-   "totalSetSize": 342,
+   "baseSetSize": 343,
+   "totalSetSize": 343,
    "cardsphereSetId": 20,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -314448,6 +314703,57 @@
      "uuid": "Medari Ley-Spire_SOL"
     },
     {
+     "artist": "Rayden Chen",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Scribbl",
+     "flavor": "“Our allegiance is to those who came to our aid, not the ones who idly watched.”\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Mercenary of Dusk_SOL",
+     "imageName": "mercenary of dusk",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{B}{B}",
+     "identifiers": {
+      "scryfallId": 6620,
+      "multiverseId": 20260401
+     },
+     "name": "Mercenary of Dusk",
+     "number": "95",
+     "power": "3",
+     "rarity": "uncommon",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Moonfolk",
+      "Mercenary"
+     ],
+     "text": "Menace\nWhenever Mercenary of Dusk enters or attacks, any number of target players each mill two cards.",
+     "toughness": "2",
+     "type": "Creature — Moonfolk Mercenary",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Mercenary of Dusk_SOL"
+    },
+    {
      "artist": "Robert Ardy",
      "convertedManaCost": 7,
      "faceConvertedManaCost": 7,
@@ -321474,8 +321780,8 @@
      "uuid": "Zymith Windreader_SOL"
     }
    ],
-   "baseSetSize": 319,
-   "totalSetSize": 319,
+   "baseSetSize": 320,
+   "totalSetSize": 320,
    "cardsphereSetId": 21,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -323845,6 +324151,51 @@
      "uuid": "Cloistered Haunt_IWH"
     },
     {
+     "artist": "jim-dreadjim",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Matt",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Collected Thoughts_IWH",
+     "imageName": "collected thoughts",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{U}{U}",
+     "identifiers": {
+      "scryfallId": 6862,
+      "multiverseId": 20260401
+     },
+     "name": "Collected Thoughts",
+     "number": "53",
+     "rarity": "rare",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom in a random order.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Collected Thoughts_IWH"
+    },
+    {
      "artist": "Daniele Salis",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -324789,6 +325140,57 @@
       "Enchantment"
      ],
      "uuid": "Curse of Wretched Secrets_IWH"
+    },
+    {
+     "artist": "Carlos Palma Cruchaga",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G",
+      "R"
+     ],
+     "designer": "Matt",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Darkthicket Howler_IWH",
+     "imageName": "darkthicket howler",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{G}",
+     "identifiers": {
+      "scryfallId": 6881,
+      "multiverseId": 20260401
+     },
+     "name": "Darkthicket Howler",
+     "number": "202",
+     "power": "2",
+     "rarity": "uncommon",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Wolf"
+     ],
+     "text": "{T}: Add {R} or {G}.\n{1}, {T}: Whenever target savage creature you control deals combat damage to a player this turn, draw a card. Activate only as a sorcery. (A creature is savage if it's transformed or has power greater than its base power.)",
+     "toughness": "3",
+     "type": "Creature — Wolf",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Darkthicket Howler_IWH"
     },
     {
      "artist": "Dan Rossi",
@@ -328074,6 +328476,56 @@
       "Creature"
      ],
      "uuid": "Gitrog's Spawn_IWH"
+    },
+    {
+     "artist": "Nate Rose — edit",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Matt",
+     "flavor": "To him, everything is an oblation.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Gloaming Demon_IWH",
+     "imageName": "gloaming demon",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{B}{B}{B}",
+     "identifiers": {
+      "scryfallId": 6942,
+      "multiverseId": 20260401
+     },
+     "name": "Gloaming Demon",
+     "number": "118",
+     "power": "3",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Demon"
+     ],
+     "text": "Flying, deathtouch\nWhen this creature enters, create a 0/1 Offering artifact creature token that's all colors.\nFor each colored mana in the cost of a spell, you may pay 1 life and sacrifice a permanent of that color rather than pay that mana.",
+     "toughness": "5",
+     "type": "Creature — Demon",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Gloaming Demon_IWH"
     },
     {
      "artist": "Dan Rossi",
@@ -334111,6 +334563,51 @@
      ]
     },
     {
+     "artist": "algenpfleger",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Matt",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Restoring Presence_IWH",
+     "imageName": "restoring presence",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{X}{W}",
+     "identifiers": {
+      "scryfallId": 7046,
+      "multiverseId": 20260401
+     },
+     "name": "Restoring Presence",
+     "number": "38",
+     "rarity": "rare",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Exile up to X target creatures you control. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.\n{3}{W}, Exile this card from your graveyard: Create a tapped 3/4 white Angel creature token with flying.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Restoring Presence_IWH"
+    },
+    {
      "artist": "Dominik Mayer",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -338730,6 +339227,58 @@
      ]
     },
     {
+     "artist": "Mauricio Herrera",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "U",
+      "R"
+     ],
+     "colorIdentity": [
+      "U",
+      "R"
+     ],
+     "designer": "Matt",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Wildcaster Devil_IWH",
+     "imageName": "wildcaster devil",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{U}{R}",
+     "identifiers": {
+      "scryfallId": 7127,
+      "multiverseId": 20260401
+     },
+     "name": "Wildcaster Devil",
+     "number": "285",
+     "power": "3",
+     "rarity": "rare",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Devil"
+     ],
+     "text": "When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one of those cards chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.",
+     "toughness": "1",
+     "type": "Creature — Devil",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Wildcaster Devil_IWH"
+    },
+    {
      "artist": "Lunart Christophe LuNyarlathotep",
      "convertedManaCost": 5,
      "faceConvertedManaCost": 5,
@@ -338973,8 +339522,8 @@
      "uuid": "Worn Semblance_IWH"
     }
    ],
-   "baseSetSize": 343,
-   "totalSetSize": 343,
+   "baseSetSize": 348,
+   "totalSetSize": 348,
    "cardsphereSetId": 22,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -339031,7 +339580,7 @@
      "manaCost": "{3}",
      "identifiers": {
       "scryfallId": 7132,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Ancient Sentry",
      "number": "241",
@@ -339085,7 +339634,7 @@
      "manaCost": "{2}{W}{W/B}{B}",
      "identifiers": {
       "scryfallId": 7133,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Arital, Grand Adjudicator",
      "number": "226",
@@ -339139,7 +339688,7 @@
      "manaCost": "{1}{W}{W}",
      "identifiers": {
       "scryfallId": 7134,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Ascendant Judge",
      "number": "2",
@@ -339190,7 +339739,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 7135,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Ascension Ritualist",
      "number": "3",
@@ -339241,7 +339790,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 7136,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Aspiring Shaper",
      "number": "39",
@@ -339292,7 +339841,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7137,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Attuned Rebuttal",
      "number": "40",
@@ -339333,7 +339882,7 @@
      "manaCost": "{4}",
      "identifiers": {
       "scryfallId": 7138,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Autonomous Accomplice",
      "number": "242",
@@ -339386,7 +339935,7 @@
      "manaCost": "{2}{B}{B}{R}{R}",
      "identifiers": {
       "scryfallId": 7139,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Avarice",
      "number": "185",
@@ -339436,7 +339985,7 @@
      "manaCost": "{3}{W}{W}",
      "identifiers": {
       "scryfallId": 7140,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Backalley Minstrel",
      "number": "4",
@@ -339487,7 +340036,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7141,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Become the Hunted",
      "number": "76",
@@ -339532,7 +340081,7 @@
      "manaCost": "{2}{B}{B}",
      "identifiers": {
       "scryfallId": 7142,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Bedlam's Vessel",
      "number": "77",
@@ -339583,7 +340132,7 @@
      "manaCost": "{3}{U}",
      "identifiers": {
       "scryfallId": 7143,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Beneath the Tide",
      "number": "41",
@@ -339628,7 +340177,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7144,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Beyond the Shroud",
      "number": "78",
@@ -339673,7 +340222,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7145,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Blade Flourish",
      "number": "113",
@@ -339718,7 +340267,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 7146,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Blessed Proselytism",
      "number": "5",
@@ -339765,7 +340314,7 @@
      "manaCost": "{2}{W/U}",
      "identifiers": {
       "scryfallId": 7147,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Blinded Arbiter",
      "number": "227",
@@ -339815,7 +340364,7 @@
      "manaCost": "{1}{B}{B}",
      "identifiers": {
       "scryfallId": 7148,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Bloodletting",
      "number": "79",
@@ -339860,7 +340409,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7149,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Blossoming Steward",
      "number": "149",
@@ -339907,7 +340456,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 7150,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Bounty Wall",
      "number": "243",
@@ -339952,7 +340501,7 @@
      "manaCost": "{1}{R}{R}",
      "identifiers": {
       "scryfallId": 7151,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Brazen Burglar",
      "number": "114",
@@ -340003,7 +340552,7 @@
      "manaCost": "{1}{R}{R}",
      "identifiers": {
       "scryfallId": 7152,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Burn It All Down",
      "number": "115",
@@ -340048,7 +340597,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7154,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Call for Backup",
      "number": "6",
@@ -340093,7 +340642,7 @@
      "manaCost": "{4}{G}{G}{G}",
      "identifiers": {
       "scryfallId": 7222,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Call of the Grove",
      "number": "150",
@@ -340138,7 +340687,7 @@
      "manaCost": "{2}{U}{U}",
      "identifiers": {
       "scryfallId": 7155,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Chandelier Slink",
      "number": "42",
@@ -340189,7 +340738,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 7156,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Chapel Crasher",
      "number": "7",
@@ -340240,7 +340789,7 @@
      "manaCost": "{3}{W}",
      "identifiers": {
       "scryfallId": 7157,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Chapel Specter",
      "number": "8",
@@ -340290,7 +340839,7 @@
      "manaCost": "{3}{U}",
      "identifiers": {
       "scryfallId": 7158,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Chicanery",
      "number": "43",
@@ -340335,7 +340884,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7159,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "City's Memory",
      "number": "9",
@@ -340380,7 +340929,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7160,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Clash of Courage",
      "number": "10",
@@ -340425,7 +340974,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 7161,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Coffers Altar",
      "number": "80",
@@ -340472,7 +341021,7 @@
      "manaCost": "{1}{G/U}",
      "identifiers": {
       "scryfallId": 7162,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Concord Alchemist",
      "number": "228",
@@ -340523,7 +341072,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7163,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Congregation Minister",
      "number": "11",
@@ -340574,7 +341123,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 7164,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Consult the Offerings",
      "number": "12",
@@ -340619,7 +341168,7 @@
      "manaCost": "{3}{G}{G}",
      "identifiers": {
       "scryfallId": 7165,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Corner the Prey",
      "number": "151",
@@ -340664,7 +341213,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 7166,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Covet",
      "number": "44",
@@ -340709,7 +341258,7 @@
      "manaCost": "{X}{X}{G}",
      "identifiers": {
       "scryfallId": 7167,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Creeping Overgrowth",
      "number": "152",
@@ -340754,7 +341303,7 @@
      "manaCost": "{3}{B}",
      "identifiers": {
       "scryfallId": 7168,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Crypt Caretaker",
      "number": "81",
@@ -340805,7 +341354,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7169,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Crypt Tiller",
      "number": "82",
@@ -340856,7 +341405,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7170,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Culvert Inspector",
      "number": "153",
@@ -340907,7 +341456,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 7171,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Daring Escapees",
      "number": "116",
@@ -340958,7 +341507,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7172,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Defend the Groves",
      "number": "154",
@@ -341004,7 +341553,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7173,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Delias, Savvy Smuggler",
      "number": "117",
@@ -341058,7 +341607,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 7174,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Depart",
      "number": "13",
@@ -341103,7 +341652,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7175,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Desperate Ambusher",
      "number": "83",
@@ -341154,7 +341703,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 7176,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Disciple of Surola",
      "number": "84",
@@ -341205,7 +341754,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7177,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Disgruntled Crook",
      "number": "118",
@@ -341252,7 +341801,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 7178,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Disposable Dagger",
      "number": "244",
@@ -341299,7 +341848,7 @@
      "manaCost": "{2}{R}{W}",
      "identifiers": {
       "scryfallId": 7179,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Divine Liberation",
      "number": "186",
@@ -341344,7 +341893,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7180,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Dockside Hawker",
      "number": "155",
@@ -341395,7 +341944,7 @@
      "manaCost": "{2}{B}{B}",
      "identifiers": {
       "scryfallId": 7181,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Done Deal",
      "number": "85",
@@ -341436,7 +341985,7 @@
      "manaCost": "{4}",
      "identifiers": {
       "scryfallId": 7182,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Dormant Godkiller",
      "number": "245",
@@ -341487,7 +342036,7 @@
      "manaCost": "{G}",
      "identifiers": {
       "scryfallId": 7183,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Due Reward",
      "number": "156",
@@ -341534,7 +342083,7 @@
      "manaCost": "{2}{W}{B}",
      "identifiers": {
       "scryfallId": 7294,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Eerie Gathering",
      "number": "187",
@@ -341579,7 +342128,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7185,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Elite Aspirant",
      "number": "86",
@@ -341632,7 +342181,7 @@
      "manaCost": "{1}{B/R}",
      "identifiers": {
       "scryfallId": 7186,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Encroaching Voidborn",
      "number": "229",
@@ -341682,7 +342231,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7187,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "End the Chase",
      "number": "157",
@@ -341727,7 +342276,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7188,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Enigmatic Apothecary",
      "number": "45",
@@ -341780,7 +342329,7 @@
      "manaCost": "{1}{G}{G/U}{U}",
      "identifiers": {
       "scryfallId": 7189,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Ery, Leyfused",
      "number": "230",
@@ -341834,7 +342383,7 @@
      "manaCost": "{2}{G}{G}",
      "identifiers": {
       "scryfallId": 7190,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Esteemed Exterminator",
      "number": "158",
@@ -341885,7 +342434,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 7191,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Evasive Flourish",
      "number": "46",
@@ -341932,7 +342481,7 @@
      "manaCost": "{5}{G}{U}",
      "identifiers": {
       "scryfallId": 7192,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Evrax, Enlightened Endling",
      "number": "188",
@@ -341986,7 +342535,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 7193,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Expert Infiltration",
      "number": "47",
@@ -342034,7 +342583,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7194,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Exultant Shepherd",
      "number": "87",
@@ -342085,7 +342634,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7195,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Eyes of the Overseer",
      "number": "88",
@@ -342136,7 +342685,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7196,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Fell the Nonbeliever",
      "number": "14",
@@ -342181,7 +342730,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7197,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Find Your Prey",
      "number": "159",
@@ -342228,7 +342777,7 @@
      "manaCost": "{W/B}",
      "identifiers": {
       "scryfallId": 7198,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Fledgling Sycophant",
      "number": "231",
@@ -342278,7 +342827,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7199,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Flooded Morass",
      "number": "256",
@@ -342326,7 +342875,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7200,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Flourishing Crevasse",
      "number": "257",
@@ -342373,7 +342922,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7201,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Forest_VLR",
      "number": "277",
@@ -342420,7 +342969,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7202,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Forgotten Foundation",
      "number": "258",
@@ -342465,7 +343014,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7203,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Forsaken Penitents",
      "number": "15",
@@ -342516,7 +343065,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 7204,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Forsaken Shroudguard",
      "number": "89",
@@ -342569,7 +343118,7 @@
      "manaCost": "{1}{B}{R}",
      "identifiers": {
       "scryfallId": 7205,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Founder's Echo",
      "number": "189",
@@ -342622,7 +343171,7 @@
      "manaCost": "{1}{U}{B}",
      "identifiers": {
       "scryfallId": 7206,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Founder's Malice",
      "number": "190",
@@ -342667,7 +343216,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7207,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Friendly Misdirection",
      "number": "119",
@@ -342715,7 +343264,7 @@
      "manaCost": "{1}{R}{R}",
      "identifiers": {
       "scryfallId": 7208,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Frontline Victor",
      "number": "120",
@@ -342765,7 +343314,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7209,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Frostfire Geysers",
      "number": "259",
@@ -342813,7 +343362,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7210,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Fungal Mire",
      "number": "260",
@@ -342862,7 +343411,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7211,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Furious Resolve",
      "number": "121",
@@ -342909,7 +343458,7 @@
      "manaCost": "{G}{U}",
      "identifiers": {
       "scryfallId": 7212,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Glimpse the Worldsoul",
      "number": "191",
@@ -342953,7 +343502,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7213,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Gloomcover Steppe",
      "number": "261",
@@ -343002,7 +343551,7 @@
      "manaCost": "{X}{B}",
      "identifiers": {
       "scryfallId": 7214,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Go for the Gut",
      "number": "91",
@@ -343049,7 +343598,7 @@
      "manaCost": "{U}{R}",
      "identifiers": {
       "scryfallId": 7215,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Grand Larceny",
      "number": "192",
@@ -343057,7 +343606,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Spectacle {U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)\nChoose one. If this spell's spectacle cost was paid, choose both instead.\n• Grand Larceny deals 2 damage divided as you choose between one or two targets.\n• Draw a card.",
+     "text": "Spectacle {U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)\nChoose one. If this spell's spectacle cost was paid, choose both instead.\n• Grand Larceny deals 2 damage divided as you choose among one or two targets.\n• Draw a card.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -343096,7 +343645,7 @@
      "manaCost": "{1}{U}{R}",
      "identifiers": {
       "scryfallId": 7216,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Greedy Deserter",
      "number": "193",
@@ -343149,7 +343698,7 @@
      "manaCost": "{B}{G}",
      "identifiers": {
       "scryfallId": 7217,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Guild Elite",
      "number": "194",
@@ -343201,7 +343750,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7218,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Gutter Rat",
      "number": "160",
@@ -343252,7 +343801,7 @@
      "manaCost": "{3}{B}{B}",
      "identifiers": {
       "scryfallId": 7219,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Hand of the Overseer",
      "number": "92",
@@ -343299,7 +343848,7 @@
      "manaCost": "{6}",
      "identifiers": {
       "scryfallId": 7220,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Heart of Bedlam",
      "number": "247",
@@ -343343,7 +343892,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7221,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Heart of the Glade",
      "number": "262",
@@ -343392,7 +343941,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 7223,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Heist Lookout",
      "number": "48",
@@ -343443,7 +343992,7 @@
      "manaCost": "{3}{R}{R}",
      "identifiers": {
       "scryfallId": 7224,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Herald of Emergence",
      "number": "122",
@@ -343489,7 +344038,7 @@
      "manaCost": "{1}",
      "identifiers": {
       "scryfallId": 7225,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Herbalist's Satchel",
      "number": "248",
@@ -343534,7 +344083,7 @@
      "manaCost": "{5}{B}{B}",
      "identifiers": {
       "scryfallId": 7226,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Het, False God",
      "number": "93",
@@ -343588,7 +344137,7 @@
      "manaCost": "{3}{B}{B}",
      "identifiers": {
       "scryfallId": 7227,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Het's Call",
      "number": "94",
@@ -343634,7 +344183,7 @@
      "manaCost": "{2}{B}{B}",
      "identifiers": {
       "scryfallId": 7228,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "High Priestess Symi",
      "number": "95",
@@ -343688,7 +344237,7 @@
      "manaCost": "{4}{G}",
      "identifiers": {
       "scryfallId": 7229,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Hired Hand",
      "number": "161",
@@ -343735,7 +344284,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7230,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Humming Furnace",
      "number": "263",
@@ -343780,7 +344329,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7231,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Hymn of the Overseer",
      "number": "96",
@@ -343821,7 +344370,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7153,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Illicit Marketplace",
      "number": "264",
@@ -343866,7 +344415,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 7232,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Impatient Bandits",
      "number": "123",
@@ -343917,7 +344466,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7233,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Impromptu Exit",
      "number": "124",
@@ -343964,7 +344513,7 @@
      "manaCost": "{3}{G}{U}",
      "identifiers": {
       "scryfallId": 7234,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "In Tune",
      "number": "195",
@@ -344011,7 +344560,7 @@
      "manaCost": "{1}{R/W}",
      "identifiers": {
       "scryfallId": 7235,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Incursion Vanguard",
      "number": "232",
@@ -344062,7 +344611,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 7236,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Innovative Alchemist",
      "number": "49",
@@ -344113,7 +344662,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 7237,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Intangibility",
      "number": "50",
@@ -344161,7 +344710,7 @@
      "manaCost": "{4}{U}{U}",
      "identifiers": {
       "scryfallId": 7238,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Into the Grove",
      "number": "51",
@@ -344204,7 +344753,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7239,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Island_VLR",
      "number": "274",
@@ -344255,7 +344804,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7240,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "It's Just Business",
      "number": "97",
@@ -344301,7 +344850,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7241,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Ivari, Liberated Mentor",
      "number": "17",
@@ -344355,7 +344904,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7242,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Jump the Gap",
      "number": "52",
@@ -344400,7 +344949,7 @@
      "manaCost": "{3}{U}{U}",
      "identifiers": {
       "scryfallId": 7243,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Juniper's Awakening",
      "number": "53",
@@ -344447,7 +344996,7 @@
      "manaCost": "{2}{R}{W}",
      "identifiers": {
       "scryfallId": 7244,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Kane, Unyielding",
      "number": "196",
@@ -344503,7 +345052,7 @@
      "manaCost": "{2}{B/G}{B/G}",
      "identifiers": {
       "scryfallId": 7245,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Killer-for-Hire",
      "number": "233",
@@ -344556,7 +345105,7 @@
      "manaCost": "{2}{G/W}",
      "identifiers": {
       "scryfallId": 7246,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Kindly Tavernkeep",
      "number": "234",
@@ -344606,7 +345155,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7247,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Lavatorn Fields",
      "number": "265",
@@ -344655,7 +345204,7 @@
      "manaCost": "{3}{B}{B}",
      "identifiers": {
       "scryfallId": 7248,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "League of Their Own",
      "number": "98",
@@ -344707,7 +345256,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7249,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Leiowen, Escape Artist // Leiowen, Ghost of Vicuro",
      "faceName": "Leiowen, Escape Artist",
@@ -344768,7 +345317,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7249,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Leiowen, Escape Artist // Leiowen, Ghost of Vicuro",
      "faceName": "Leiowen, Ghost of Vicuro",
@@ -344828,7 +345377,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7250,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Leonin Revivalist",
      "number": "162",
@@ -344879,7 +345428,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7251,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Leybound Ritualist",
      "number": "163",
@@ -344930,7 +345479,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7252,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Liberated Convert",
      "number": "125",
@@ -344981,7 +345530,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7253,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Life from Death",
      "number": "164",
@@ -345026,7 +345575,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7254,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Listen In",
      "number": "99",
@@ -345072,7 +345621,7 @@
      "manaCost": "{3}{U}{U}",
      "identifiers": {
       "scryfallId": 7255,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Loresk, Ever-Curious",
      "number": "55",
@@ -345128,7 +345677,7 @@
      "manaCost": "{2}{U/R}",
      "identifiers": {
       "scryfallId": 7256,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Lucrative Larcenist",
      "number": "235",
@@ -345178,7 +345727,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7257,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Lush Oasis",
      "number": "266",
@@ -345227,7 +345776,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7258,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Madness of Ages",
      "number": "100",
@@ -345272,7 +345821,7 @@
      "manaCost": "{6}{R}{R}",
      "identifiers": {
       "scryfallId": 7259,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Make a Break for It",
      "number": "126",
@@ -345317,7 +345866,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7260,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Makeshift Justice",
      "number": "127",
@@ -345362,7 +345911,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7261,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Malicious Pactmaker",
      "number": "101",
@@ -345415,7 +345964,7 @@
      "manaCost": "{1}{W}{B}",
      "identifiers": {
       "scryfallId": 7262,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Malicious Throng",
      "number": "197",
@@ -345468,7 +346017,7 @@
      "manaCost": "{U}{U/R}{R}",
      "identifiers": {
       "scryfallId": 7263,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Marle, Vicuro Head",
      "number": "236",
@@ -345524,7 +346073,7 @@
      "manaCost": "{R}{G}",
      "identifiers": {
       "scryfallId": 7264,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Melodious Mallard",
      "number": "198",
@@ -345571,7 +346120,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 7265,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Memorial to the First Shaper",
      "number": "249",
@@ -345618,7 +346167,7 @@
      "manaCost": "{2}{U}{B}",
      "identifiers": {
       "scryfallId": 7266,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Memoriam",
      "number": "199",
@@ -345663,7 +346212,7 @@
      "manaCost": "{4}{W}{W}",
      "identifiers": {
       "scryfallId": 7267,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Midnight Warden",
      "number": "18",
@@ -345709,7 +346258,7 @@
      "manaCost": "{3}",
      "identifiers": {
       "scryfallId": 7268,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Morbid Missive",
      "number": "250",
@@ -345752,7 +346301,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7269,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Mountain_VLR",
      "number": "276",
@@ -345803,7 +346352,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 7270,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Observe the Pattern",
      "number": "56",
@@ -345848,7 +346397,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 7271,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Offer Yourself",
      "number": "19",
@@ -345893,7 +346442,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7272,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Offer the Faithless",
      "number": "102",
@@ -345938,7 +346487,7 @@
      "manaCost": "{2}{U}{U}",
      "identifiers": {
       "scryfallId": 7273,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "On Top of the World",
      "number": "57",
@@ -345985,7 +346534,7 @@
      "manaCost": "{1}{B}{G}",
      "identifiers": {
       "scryfallId": 7274,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Orliss's Edict",
      "number": "200",
@@ -346032,7 +346581,7 @@
      "manaCost": "{1}{B}{B/G}{G}",
      "identifiers": {
       "scryfallId": 7275,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Orliss of the Elite",
      "number": "237",
@@ -346087,7 +346636,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 7276,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Outskirts Mentor",
      "number": "20",
@@ -346138,7 +346687,7 @@
      "manaCost": "{G}",
      "identifiers": {
       "scryfallId": 7277,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Outskirts Steward",
      "number": "165",
@@ -346191,7 +346740,7 @@
      "manaCost": "{1}{U}{R}",
      "identifiers": {
       "scryfallId": 7278,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Overprepared Accomplice",
      "number": "201",
@@ -346242,7 +346791,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7279,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Overseer's Chosen",
      "number": "21",
@@ -346293,7 +346842,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7280,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Overseer's Entrancer",
      "number": "22",
@@ -346344,7 +346893,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7281,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Overseer's Shackles",
      "number": "23",
@@ -346392,7 +346941,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 7282,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Patient Executioner",
      "number": "103",
@@ -346443,7 +346992,7 @@
      "manaCost": "{3}{R}",
      "identifiers": {
       "scryfallId": 7283,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Patrol Veteran",
      "number": "128",
@@ -346494,7 +347043,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7284,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Pattern's Abundance",
      "number": "166",
@@ -346539,7 +347088,7 @@
      "manaCost": "{2}{U}{U}",
      "identifiers": {
       "scryfallId": 7285,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Perfect Plan",
      "number": "58",
@@ -346584,7 +347133,7 @@
      "manaCost": "{G}",
      "identifiers": {
       "scryfallId": 7286,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Pick Your Poison",
      "number": "167",
@@ -346629,7 +347178,7 @@
      "manaCost": "{1}{U}{U}",
      "identifiers": {
       "scryfallId": 7287,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Pickpocket",
      "number": "59",
@@ -346672,7 +347221,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7288,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Plains_VLR",
      "number": "273",
@@ -346723,7 +347272,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7289,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Planar Archives",
      "number": "60",
@@ -346767,7 +347316,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7290,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Pool of Light",
      "number": "267",
@@ -346816,7 +347365,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 7291,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Preacher of Singularity",
      "number": "24",
@@ -346863,7 +347412,7 @@
      "manaCost": "{1}",
      "identifiers": {
       "scryfallId": 7292,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Prized Possession",
      "number": "251",
@@ -346911,7 +347460,7 @@
      "manaCost": "{2}{U}{U}",
      "identifiers": {
       "scryfallId": 7293,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Prodigious Cultivator",
      "number": "61",
@@ -346964,7 +347513,7 @@
      "manaCost": "{2}{W}{B}",
      "identifiers": {
       "scryfallId": 7295,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Profane Scripture",
      "number": "202",
@@ -347009,7 +347558,7 @@
      "manaCost": "{1}{B}{B}",
      "identifiers": {
       "scryfallId": 7296,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Race for the Glory",
      "number": "104",
@@ -347056,7 +347605,7 @@
      "manaCost": "{R}{W}",
      "identifiers": {
       "scryfallId": 7297,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Rally the Rabble",
      "number": "203",
@@ -347105,7 +347654,7 @@
      "manaCost": "{3}{R}",
      "identifiers": {
       "scryfallId": 7298,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Reap the Rewards",
      "number": "129",
@@ -347150,7 +347699,7 @@
      "manaCost": "{3}{R}{R}",
      "identifiers": {
       "scryfallId": 7299,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Reckless Show-Off",
      "number": "130",
@@ -347201,7 +347750,7 @@
      "manaCost": "{3}{G}{G}",
      "identifiers": {
       "scryfallId": 7300,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Reckless Smashing",
      "number": "168",
@@ -347246,7 +347795,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7301,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Reclaimed Convert",
      "number": "25",
@@ -347297,7 +347846,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 7302,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Renegade's Intercession",
      "number": "29",
@@ -347342,7 +347891,7 @@
      "manaCost": "{3}{W}",
      "identifiers": {
       "scryfallId": 7303,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Renegade Banneret",
      "number": "26",
@@ -347393,7 +347942,7 @@
      "manaCost": "{2}{W}{W}",
      "identifiers": {
       "scryfallId": 7304,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Renegade Recruiter",
      "number": "27",
@@ -347444,7 +347993,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7305,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Renegade Trueheart",
      "number": "28",
@@ -347495,7 +348044,7 @@
      "manaCost": "{3}{U}",
      "identifiers": {
       "scryfallId": 7306,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Rooftop Observer",
      "number": "62",
@@ -347546,7 +348095,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7307,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Rooftop Runner",
      "number": "63",
@@ -347599,7 +348148,7 @@
      "manaCost": "{2}{G}{W}",
      "identifiers": {
       "scryfallId": 7308,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Rowdy Mob",
      "number": "204",
@@ -347644,7 +348193,7 @@
      "manaCost": "{3}{G}",
      "identifiers": {
       "scryfallId": 7309,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Ruthless Duo",
      "number": "169",
@@ -347697,7 +348246,7 @@
      "manaCost": "{B}{G}",
      "identifiers": {
       "scryfallId": 7310,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Ruthless Stalker",
      "number": "205",
@@ -347750,7 +348299,7 @@
      "manaCost": "{R}{R/W}{W}",
      "identifiers": {
       "scryfallId": 7311,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sahra, Siege Captain",
      "number": "238",
@@ -347806,7 +348355,7 @@
      "manaCost": "{W}{B}",
      "identifiers": {
       "scryfallId": 7312,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sanctum Deathspeaker",
      "number": "206",
@@ -347857,7 +348406,7 @@
      "manaCost": "{3}{W}",
      "identifiers": {
       "scryfallId": 7313,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sanctum Enforcer",
      "number": "30",
@@ -347908,7 +348457,7 @@
      "manaCost": "{1}{R}{R}",
      "identifiers": {
       "scryfallId": 7314,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Scatter Evidence",
      "number": "131",
@@ -347953,7 +348502,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7315,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Scrawny Pursesnatcher",
      "number": "132",
@@ -348000,7 +348549,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 7316,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Scrounging Sensor",
      "number": "252",
@@ -348048,7 +348597,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7317,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Secluded Courtyard",
      "number": "268",
@@ -348093,7 +348642,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 7318,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Semari Pilferer",
      "number": "64",
@@ -348144,7 +348693,7 @@
      "manaCost": "{3}{W}",
      "identifiers": {
       "scryfallId": 7319,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Semari Weaponsmith",
      "number": "31",
@@ -348195,7 +348744,7 @@
      "manaCost": "{G}",
      "identifiers": {
       "scryfallId": 7320,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Setral Arborist",
      "number": "170",
@@ -348246,7 +348795,7 @@
      "manaCost": "{2}{G}{G}",
      "identifiers": {
       "scryfallId": 7321,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Setral Mender",
      "number": "171",
@@ -348297,7 +348846,7 @@
      "manaCost": "{3}{U}{U}",
      "identifiers": {
       "scryfallId": 7322,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Setral Sentry",
      "number": "65",
@@ -348348,7 +348897,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 7323,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Setral Shoresculptor",
      "number": "66",
@@ -348399,7 +348948,7 @@
      "manaCost": "{G}",
      "identifiers": {
       "scryfallId": 7324,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Shape the Pattern",
      "number": "173",
@@ -348444,7 +348993,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 7325,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Shaper's Rites",
      "number": "67",
@@ -348489,7 +349038,7 @@
      "manaCost": "{4}{B}{B}",
      "identifiers": {
       "scryfallId": 7326,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Shriek of the Shroud",
      "number": "105",
@@ -348541,7 +349090,7 @@
      "manaCost": "{2}{U/B}{U/B}",
      "identifiers": {
       "scryfallId": 7327,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Shroud Scholar",
      "number": "239",
@@ -348592,7 +349141,7 @@
      "manaCost": "{G}",
      "identifiers": {
       "scryfallId": 7328,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Shroudpiercer",
      "number": "174",
@@ -348642,7 +349191,7 @@
      "manaCost": "{5}{R}",
      "identifiers": {
       "scryfallId": 7329,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Shroudwalker",
      "number": "133",
@@ -348695,7 +349244,7 @@
      "manaCost": "{2}{R}{G}",
      "identifiers": {
       "scryfallId": 7330,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Shroudwarder Phoenix",
      "number": "207",
@@ -348745,7 +349294,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7331,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sieging Volleymage",
      "number": "134",
@@ -348799,7 +349348,7 @@
      "manaCost": "{2}{W}{U}",
      "identifiers": {
       "scryfallId": 7332,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Silent Warden",
      "number": "208",
@@ -348850,7 +349399,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 7333,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Siurne, Eternal Sentinel // Siurne, Covetous Creation",
      "faceName": "Siurne, Eternal Sentinel",
@@ -348911,7 +349460,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7333,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Siurne, Eternal Sentinel // Siurne, Covetous Creation",
      "faceName": "Siurne, Covetous Creation",
@@ -348973,7 +349522,7 @@
      "manaCost": "{2}{B}{R}",
      "identifiers": {
       "scryfallId": 7334,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Siurne's Betrayal",
      "number": "209",
@@ -349018,7 +349567,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 7335,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Slinking Swiftblade",
      "number": "106",
@@ -349069,7 +349618,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 7412,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Slip Through the Streets",
      "number": "68",
@@ -349110,7 +349659,7 @@
      "manaCost": "{3}",
      "identifiers": {
       "scryfallId": 7336,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Smoke Bomb",
      "number": "253",
@@ -349157,7 +349706,7 @@
      "manaCost": "{1}{B}{R}",
      "identifiers": {
       "scryfallId": 7337,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Smolder Away",
      "number": "210",
@@ -349204,7 +349753,7 @@
      "manaCost": "{1}{U}{R}",
      "identifiers": {
       "scryfallId": 7338,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Smooth Operation",
      "number": "211",
@@ -349249,7 +349798,7 @@
      "manaCost": "{X}{W}{W}",
      "identifiers": {
       "scryfallId": 7339,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Solemn Procession",
      "number": "33",
@@ -349296,7 +349845,7 @@
      "manaCost": "{2}{W}{U}",
      "identifiers": {
       "scryfallId": 7340,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Soulcage",
      "number": "212",
@@ -349341,7 +349890,7 @@
      "manaCost": "{3}{B}",
      "identifiers": {
       "scryfallId": 7341,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "South-Street Scoundrel",
      "number": "107",
@@ -349393,7 +349942,7 @@
      "manaCost": "{1}{B}{B}",
      "identifiers": {
       "scryfallId": 7342,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Soya, Nal Executioner // Soya, Guild Pariah",
      "faceName": "Soya, Nal Executioner",
@@ -349454,7 +350003,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7342,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Soya, Nal Executioner // Soya, Guild Pariah",
      "faceName": "Soya, Guild Pariah",
@@ -349514,7 +350063,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 7343,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Spice of Life",
      "number": "135",
@@ -349558,7 +350107,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7344,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Spiraling Canyon",
      "number": "270",
@@ -349607,7 +350156,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7345,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Spit Venom",
      "number": "175",
@@ -349652,7 +350201,7 @@
      "manaCost": "{3}{W}{W}",
      "identifiers": {
       "scryfallId": 7346,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Spite of the Founder",
      "number": "34",
@@ -349697,7 +350246,7 @@
      "manaCost": "{4}{R}{R}",
      "identifiers": {
       "scryfallId": 7347,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Split the Loot",
      "number": "136",
@@ -349742,7 +350291,7 @@
      "manaCost": "{5}{G}{G}",
      "identifiers": {
       "scryfallId": 7348,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sprouting Sproutling",
      "number": "176",
@@ -349788,7 +350337,7 @@
      "manaCost": "{3}",
      "identifiers": {
       "scryfallId": 7349,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Stalker's Cowl",
      "number": "254",
@@ -349836,7 +350385,7 @@
      "manaCost": "{3}{W}",
      "identifiers": {
       "scryfallId": 7350,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Stand Ready",
      "number": "36",
@@ -349881,7 +350430,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7351,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Stand as One",
      "number": "35",
@@ -349928,7 +350477,7 @@
      "manaCost": "{1}{W}{U}",
      "identifiers": {
       "scryfallId": 7352,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Starry-Eyed Scholar",
      "number": "213",
@@ -349979,7 +350528,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7353,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Strangle",
      "number": "137",
@@ -350024,7 +350573,7 @@
      "manaCost": "{4}{R}",
      "identifiers": {
       "scryfallId": 7354,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Streetwise Surveyor",
      "number": "138",
@@ -350075,7 +350624,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7355,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Subtle Touch",
      "number": "69",
@@ -350120,7 +350669,7 @@
      "manaCost": "{2}{R}{R}{R}",
      "identifiers": {
       "scryfallId": 7356,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sunder the Cage",
      "number": "139",
@@ -350165,7 +350714,7 @@
      "manaCost": "{2}{R}{R}",
      "identifiers": {
       "scryfallId": 7357,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sunset Champion",
      "number": "140",
@@ -350216,7 +350765,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7358,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sunset Recruit",
      "number": "141",
@@ -350267,7 +350816,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 7359,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Sunset Sentries",
      "number": "37",
@@ -350320,7 +350869,7 @@
      "manaCost": "{W}{B}",
      "identifiers": {
       "scryfallId": 7360,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Surola, Vile Preacher",
      "number": "214",
@@ -350374,7 +350923,7 @@
      "manaCost": "{3}{U}",
      "identifiers": {
       "scryfallId": 7361,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Survivalist Mentor",
      "number": "70",
@@ -350423,7 +350972,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7362,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Swamp_VLR",
      "number": "275",
@@ -350474,7 +351023,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7363,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Swift-Step Robber",
      "number": "71",
@@ -350527,7 +351076,7 @@
      "manaCost": "{5}{R}{G}",
      "identifiers": {
       "scryfallId": 7364,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Tale of Bedlam",
      "number": "215",
@@ -350572,7 +351121,7 @@
      "manaCost": "{3}{R}",
      "identifiers": {
       "scryfallId": 7365,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Tear Down",
      "number": "142",
@@ -350617,7 +351166,7 @@
      "manaCost": "{3}{R}",
      "identifiers": {
       "scryfallId": 7366,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Tenacious Thief",
      "number": "143",
@@ -350665,7 +351214,7 @@
      "manaCost": "{8}",
      "identifiers": {
       "scryfallId": 7367,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Tesh, Fragmented Founder",
      "number": "1",
@@ -350712,7 +351261,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 7368,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "The Founder's Cage",
      "number": "246",
@@ -350760,7 +351309,7 @@
      "manaCost": "{3}{B}{B}",
      "identifiers": {
       "scryfallId": 7369,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "The Founder's Hunt Begins",
      "number": "90",
@@ -350805,7 +351354,7 @@
      "manaCost": "{2}{W}{W}{W}",
      "identifiers": {
       "scryfallId": 7370,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "The Great Singularity",
      "number": "16",
@@ -350854,7 +351403,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7371,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "The Setral Shaper // Juni, Shaper Unbound",
      "faceName": "The Setral Shaper",
@@ -350915,7 +351464,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7371,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "The Setral Shaper // Juni, Shaper Unbound",
      "faceName": "Juni, Shaper Unbound",
@@ -350971,7 +351520,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7372,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "The Shrouded Seas",
      "number": "269",
@@ -351015,7 +351564,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7373,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "The Volwood",
      "number": "272",
@@ -351060,7 +351609,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7374,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Thing in the Dark",
      "number": "109",
@@ -351112,7 +351661,7 @@
      "manaCost": "{2}{R/G}",
      "identifiers": {
       "scryfallId": 7375,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Thoroughfare Busker",
      "number": "240",
@@ -351163,7 +351712,7 @@
      "manaCost": "{2}{U}{U}",
      "identifiers": {
       "scryfallId": 7376,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Tireless Refutation",
      "number": "72",
@@ -351208,7 +351757,7 @@
      "manaCost": "{6}{G}",
      "identifiers": {
       "scryfallId": 7377,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Titanic Mycoid",
      "number": "177",
@@ -351255,7 +351804,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7378,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Tomb of the Founder",
      "number": "271",
@@ -351302,7 +351851,7 @@
      "manaCost": "{3}{B}{G}",
      "identifiers": {
       "scryfallId": 7379,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Torvel, Scion of Rot",
      "number": "216",
@@ -351356,7 +351905,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7380,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Toxin Peddler",
      "number": "178",
@@ -351407,7 +351956,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 7381,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Tragic Accident",
      "number": "110",
@@ -351452,7 +352001,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7382,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Trespass the Volwood",
      "number": "179",
@@ -351499,7 +352048,7 @@
      "manaCost": "{1}{U}{R}",
      "identifiers": {
       "scryfallId": 7383,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Turen, Untouchable",
      "number": "217",
@@ -351555,7 +352104,7 @@
      "manaCost": "{1}{G}{U}",
      "identifiers": {
       "scryfallId": 7384,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Umber Grovetender",
      "number": "218",
@@ -351606,7 +352155,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7385,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Undergrowth Steward",
      "number": "73",
@@ -351657,7 +352206,7 @@
      "manaCost": "{2}{R}{R}",
      "identifiers": {
       "scryfallId": 7386,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Unending Unrest",
      "number": "144",
@@ -351702,7 +352251,7 @@
      "manaCost": "{3}{G}{G}",
      "identifiers": {
       "scryfallId": 7387,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Unerring Killer",
      "number": "180",
@@ -351755,7 +352304,7 @@
      "manaCost": "{1}{R}{W}",
      "identifiers": {
       "scryfallId": 7388,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Valiant Firebrand",
      "number": "219",
@@ -351806,7 +352355,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 7389,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Veteran Hunter",
      "number": "111",
@@ -351857,7 +352406,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 7390,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Vicuro Informant",
      "number": "74",
@@ -351908,7 +352457,7 @@
      "manaCost": "{3}{U}{U}",
      "identifiers": {
       "scryfallId": 7391,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Vicuro Pathmaker",
      "number": "75",
@@ -351960,7 +352509,7 @@
      "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 7392,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Vie, the First Hero // Vie, Fallen Hope",
      "faceName": "Vie, the First Hero",
@@ -352021,7 +352570,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7392,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Vie, the First Hero // Vie, Fallen Hope",
      "faceName": "Vie, Fallen Hope",
@@ -352081,7 +352630,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7393,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Vie's Lieutenant",
      "number": "146",
@@ -352134,7 +352683,7 @@
      "manaCost": "{G}{U}",
      "identifiers": {
       "scryfallId": 7394,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Voice of the Old Grove",
      "number": "220",
@@ -352185,7 +352734,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 7395,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Volwood Deadeye",
      "number": "181",
@@ -352238,7 +352787,7 @@
      "manaCost": "{1}{U}{B}",
      "identifiers": {
       "scryfallId": 7396,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Volwood Defilers",
      "number": "221",
@@ -352289,7 +352838,7 @@
      "manaCost": "{3}{G}",
      "identifiers": {
       "scryfallId": 7397,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Volwood Sentry",
      "number": "182",
@@ -352342,7 +352891,7 @@
      "manaCost": "{2}{R}{W}",
      "identifiers": {
       "scryfallId": 7398,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Volwood Stalwart",
      "number": "222",
@@ -352393,7 +352942,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 7399,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Volwood Warder",
      "number": "38",
@@ -352446,7 +352995,7 @@
      "manaCost": "{3}{B}{B}{G}",
      "identifiers": {
       "scryfallId": 7400,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Wanton Destruction",
      "number": "223",
@@ -352492,7 +353041,7 @@
      "manaCost": "{2}{G}{G}",
      "identifiers": {
       "scryfallId": 7401,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Waylen, Bloodhunter",
      "number": "183",
@@ -352548,7 +353097,7 @@
      "manaCost": "{2}{G}{W}",
      "identifiers": {
       "scryfallId": 7402,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Wharf Forgemaster",
      "number": "224",
@@ -352595,7 +353144,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 7403,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Wharf Patrol",
      "number": "255",
@@ -352648,7 +353197,7 @@
      "manaCost": "{1}{G}{W}",
      "identifiers": {
       "scryfallId": 7404,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Wharf Vendor",
      "number": "225",
@@ -352699,7 +353248,7 @@
      "manaCost": "{1}{G}{G}",
      "identifiers": {
       "scryfallId": 7405,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Winding Assailant",
      "number": "184",
@@ -352750,7 +353299,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7406,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Wistful Strategist",
      "number": "147",
@@ -352801,7 +353350,7 @@
      "manaCost": "{3}{B}",
      "identifiers": {
       "scryfallId": 7407,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "With Impunity",
      "number": "112",
@@ -352846,7 +353395,7 @@
      "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 7408,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Yoink!",
      "number": "148",

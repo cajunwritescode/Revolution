@@ -10727,7 +10727,7 @@ card:
 		
 		Draw two cards, then discard two cards unless this spell’s spectacle cost was paid. When you do, you may have Grand Larceny deal 2 damage to any target.
 	time_created: 2022-02-06 05:30:50
-	time_modified: 2026-04-20 22:02:00
+	time_modified: 2026-05-01 01:24:40
 	name: Grand Larceny
 	casting_cost: UR
 	image: image99.png
@@ -10746,7 +10746,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Spectacle <param-cost><sym-auto>UR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto></atom-reminder-expert></kw-A>
 		<margin:0:0:5>Choose one. If this spell’s spectacle cost was paid, choose both instead.</margin:0:0:5>
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>Grand Larceny</nospellcheck></atom-cardname> deals 2 damage divided as you choose between one or two targets.
+		<li><bullet>• </bullet><atom-cardname><nospellcheck>Grand Larceny</nospellcheck></atom-cardname> deals 2 damage divided as you choose among one or two targets.
 		</li><li><bullet>• </bullet>Draw a card.</li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
@@ -11845,8 +11845,8 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 14:27:24
-	name: Heart of Bedlam 
+	time_modified: 2026-05-01 01:14:25
+	name: Heart of Bedlam
 	casting_cost: 6
 	image: image59
 	image_2: image60
@@ -11924,7 +11924,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
+		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
@@ -11972,7 +11972,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
+		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
@@ -12022,7 +12022,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
+		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
@@ -12071,7 +12071,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
+		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
@@ -12117,7 +12117,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
+		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
@@ -12167,7 +12167,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
+		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11

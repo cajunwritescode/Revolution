@@ -9475,7 +9475,7 @@ card:
 	notes:
 		Deoxys 
 		!hasshiny
-		 buffed: Was 5/3 and triggered whenever an opponent cast a spell during your turn.
+		
 		!change replaced below with punisher
 		Each player can’t cast noncreature spells unless they’ve attacked this turn.
 		The first spell cast each turn costs X less to cast, where X is the amount of damage dealt to players this turn.
@@ -14740,6 +14740,7 @@ card:
 		PROMO — CCR
 		!promo Valir Bounty
 		!secret !design Cajun
+		
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 20:00:25
 	name: End of Mutations

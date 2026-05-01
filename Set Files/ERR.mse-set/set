@@ -11975,7 +11975,6 @@ card:
 		!design DrChipmunk
 		!promo Kitsuo Mythmaker
 		!addtoken RedHot;1;
-
 	time_created: 2025-04-11 13:20:32
 	time_modified: 2025-10-30 13:41:40
 	name: Red-Hot Rider
@@ -13648,6 +13647,7 @@ card:
 		PROMO — ERR
 		!promo Valir Bounty
 		!secret !design DrChipmunk
+		
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 20:02:48
 	extra_data:
