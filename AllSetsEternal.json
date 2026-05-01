@@ -323751,10 +323751,10 @@
     },
     {
      "artist": "Calder Moore",
-     "convertedManaCost": 2,
-     "faceConvertedManaCost": 2,
-     "manaValue": 2,
-     "faceManaValue": 2,
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
      "colors": [
       "R"
      ],
@@ -323776,10 +323776,10 @@
       "planechase": "Legal",
       "archaeologist": "Legal"
      },
-     "manaCost": "{1}{R}",
+     "manaCost": "{R}",
      "identifiers": {
       "scryfallId": 6860,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Claret Ascendance",
      "number": "154",
@@ -323787,7 +323787,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Claret Ascendance deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.\n{3}{R}, Exile this card from your graveyard: You may have target creature you control gorge. Activate only as a sorcery. (To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)",
+     "text": "Claret Ascendance deals 2 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.\n{2}{R}, Exile this card from your graveyard: You may have target creature you control gorge. Activate only as a sorcery. (To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -327248,10 +327248,10 @@
     },
     {
      "artist": "Ardika Priyata",
-     "convertedManaCost": 1,
-     "faceConvertedManaCost": 1,
-     "manaValue": 1,
-     "faceManaValue": 1,
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
      "colors": [
       "R"
      ],
@@ -327273,10 +327273,10 @@
       "planechase": "Legal",
       "archaeologist": "Legal"
      },
-     "manaCost": "{R}",
+     "manaCost": "{1}{R}",
      "identifiers": {
       "scryfallId": 6928,
-      "multiverseId": 20260330
+      "multiverseId": 20260401
      },
      "name": "Full-Moon Assault",
      "number": "168",
@@ -327284,7 +327284,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "If you control two or more savage creatures, you may cast this spell as though it had flash. (A creature is savage if it's transformed or has power greater than its base power.)\nFull-Moon Assault deals 3 damage to target creature or planeswalker.",
+     "text": "If you control a savage creature, you may cast this spell as though it had flash. (A creature is savage if it's transformed or has power greater than its base power.)\nFull-Moon Assault deals 3 damage to target creature or planeswalker.",
      "type": "Sorcery",
      "types": [
       "Sorcery"

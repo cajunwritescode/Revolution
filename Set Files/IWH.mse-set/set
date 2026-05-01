@@ -6139,11 +6139,13 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !uncommonremoval
+	notes:
+		!uncommonremoval
+		
 	time_created: 2025-03-31 20:27:33
-	time_modified: 2026-04-23 17:34:29
+	time_modified: 2026-05-01 00:21:45
 	name: Claret Ascendance
-	casting_cost: 1R
+	casting_cost: R
 	image: image167
 	image_2: 
 	mainframe_image: 
@@ -6158,8 +6160,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<atom-cardname><nospellcheck>Claret Ascendance</nospellcheck></atom-cardname> deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.
-		<sym-auto>3R</sym-auto>, Exile this card from your graveyard: You may have target creature you control gorge. Activate only as a sorcery. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto>
+		<atom-cardname><nospellcheck>Claret Ascendance</nospellcheck></atom-cardname> deals 2 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.
+		<sym-auto>2R</sym-auto>, Exile this card from your graveyard: You may have target creature you control gorge. Activate only as a sorcery. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on that creature and draw a card.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Calder Moore
 	card_code_text: 
@@ -6674,11 +6676,13 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !commonremoval
+	notes:
+		!commonremoval
+		
 	time_created: 2025-03-31 22:43:35
-	time_modified: 2026-04-23 17:31:14
+	time_modified: 2026-05-01 00:21:19
 	name: Full-Moon Assault
-	casting_cost: R
+	casting_cost: 1R
 	image: image181
 	image_2: 
 	mainframe_image: 
@@ -6692,7 +6696,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		If you control two or more savage creatures, you may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
+		If you control a savage creature, you may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>. <i-auto>(A creature is savage if it’s transformed or has power greater than its base power.)</i-auto>
 		Full-Moon Assault deals 3 damage to target creature or planeswalker.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ardika Priyata
