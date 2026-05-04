@@ -13646,10 +13646,10 @@ card:
 	notes:
 		PROMO — ERR
 		!promo Valir Bounty
-		!secret !design DrChipmunk
-		
+		 !design DrChipmunk
+
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 20:02:48
+	time_modified: 2026-05-04 15:25:38
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
@@ -13674,9 +13674,10 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
+	card_stamp: none
 	illustrator: Jackson Tjota
 	partition_select: after main set U
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13728,10 +13729,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (IWH)
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		 !design DrChipmunk
 	time_created: 2026-04-20 21:10:19
-	time_modified: 2026-04-30 21:17:47
+	time_modified: 2026-05-04 15:30:26
 	name: Exorcist of Errors
 	casting_cost: 1B
 	image: image257
@@ -13752,10 +13753,10 @@ card:
 	level_2_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Sam Kanios
 	partition_select: after main set U
-	card_code_text: 
+	card_code_text: Forever Haunting kumrac
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13773,10 +13774,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (IWH)
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		 !design Stasis
 	time_created: 2026-04-28 16:29:07
-	time_modified: 2026-04-30 21:17:53
+	time_modified: 2026-05-04 15:30:47
 	name: Fabricated Anomaly
 	casting_cost: 2R
 	image: image258
@@ -13798,10 +13799,10 @@ card:
 	flavor_text: <i-flavor>Twisted minds conjure twisted creatures.</i-flavor>
 	power: 2
 	toughness: 3
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Matias Tapia
 	partition_select: after main set U
-	card_code_text: 
+	card_code_text: Forever Haunting kumrac
 	card_code_text_2: 
 	card_code_text_3: 
 

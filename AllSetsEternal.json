@@ -234552,6 +234552,57 @@
      "uuid": "Genotype Splicer_PRO_CNY"
     },
     {
+     "artist": "Matteo Spirito",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Stasis",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Getaway Proxy_PRO_CNY",
+     "imageName": "getaway proxy_pro_cny",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{W}",
+     "identifiers": {
+      "scryfallId": 7454,
+      "multiverseId": 20260404
+     },
+     "name": "Getaway Proxy_PRO_CNY",
+     "number": "297",
+     "power": "1",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Rebel"
+     ],
+     "text": "Flash\nWhen Getaway Proxy enters, you may choose another creature you control. Move any number of counters from that creature onto Getaway Proxy. Attach to Getaway Proxy any number of Auras that are attached to that creature. Then return that creature to its owner's hand.",
+     "toughness": "1",
+     "type": "Creature — Human Rebel",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Getaway Proxy_PRO_CNY"
+    },
+    {
      "artist": "ishir0se",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -235521,8 +235572,8 @@
      "uuid": "Work Safety Violation_PRO_CNY"
     }
    ],
-   "baseSetSize": 306,
-   "totalSetSize": 306,
+   "baseSetSize": 307,
+   "totalSetSize": 307,
    "cardsphereSetId": 16,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -270653,6 +270704,60 @@
      "uuid": "Ardent Rise_PRO_ERR"
     },
     {
+     "artist": "Jackson Tjota",
+     "convertedManaCost": 5,
+     "faceConvertedManaCost": 5,
+     "manaValue": 5,
+     "faceManaValue": 5,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Aurore, Buffer Exec_PRO_ERR",
+     "imageName": "aurore, buffer exec_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{G}{G}{G}{G}",
+     "identifiers": {
+      "scryfallId": 7456,
+      "multiverseId": 20260404
+     },
+     "name": "Aurore, Buffer Exec_PRO_ERR",
+     "number": "327",
+     "power": "5",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Druid"
+     ],
+     "supertypes": [
+      "Legendary"
+     ],
+     "text": "Trample\nWhenever Aurore enters or attacks, surveil 3, then return all land cards from your graveyard to the battlefield tapped.",
+     "toughness": "5",
+     "type": "Legendary Creature — Human Druid",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Aurore, Buffer Exec_PRO_ERR"
+    },
+    {
      "artist": "Jajang Sopandi",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -271037,6 +271142,57 @@
      "uuid": "Exorcist of Errors_PRO_ERR"
     },
     {
+     "artist": "Sam Kanios",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Exorcist of Errors (IWH)_PRO_ERR",
+     "imageName": "exorcist of errors (iwh)",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{B}",
+     "identifiers": {
+      "scryfallId": 7426,
+      "multiverseId": 20260404
+     },
+     "name": "Exorcist of Errors (IWH)",
+     "number": "329",
+     "power": "2",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Warlock"
+     ],
+     "text": "When this creature enters, target opponent separates their hand into a face-up pile and a face-down pile. Choose one of those piles, reveal it, and choose a nonland card from it. Exile that card until this creature leaves the battlefield.",
+     "toughness": "3",
+     "type": "Creature — Human Warlock",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Exorcist of Errors (IWH)_PRO_ERR"
+    },
+    {
      "artist": "Balancesheet",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -271085,6 +271241,56 @@
       "Creature"
      ],
      "uuid": "Fabricated Anomaly_PRO_ERR"
+    },
+    {
+     "artist": "Matias Tapia",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Stasis",
+     "flavor": "Twisted minds conjure twisted creatures.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Fabricated Anomaly (IWH)_PRO_ERR",
+     "imageName": "fabricated anomaly (iwh)",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{R}",
+     "identifiers": {
+      "scryfallId": 7427,
+      "multiverseId": 20260404
+     },
+     "name": "Fabricated Anomaly (IWH)",
+     "number": "330",
+     "power": "2",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Elemental"
+     ],
+     "text": "When this creature enters, create The Puzzlebox, a legendary colorless artifact token with “{T}, Discard a card: Draw a card.”\nWhenever a creature you control attacks, you may exile a number of cards from your graveyard equal to its power. If you do, put a +1/+1 counter on it.",
+     "toughness": "3",
+     "type": "Creature — Elemental",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Fabricated Anomaly (IWH)_PRO_ERR"
     },
     {
      "artist": "Matthew Attard",
@@ -272166,8 +272372,8 @@
      "uuid": "Weft Dancer_PRO_ERR"
     }
    ],
-   "baseSetSize": 331,
-   "totalSetSize": 331,
+   "baseSetSize": 334,
+   "totalSetSize": 334,
    "cardsphereSetId": 18,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -287434,6 +287640,51 @@
      "uuid": "Ayeshi, Time's Jailer_PRO_KDT"
     },
     {
+     "artist": "Kevin McKenna",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Provocative",
+     "flavor": "Only worthy vampires are permitted to bloodhunt in Voldaren-owned territory.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Bleeding Out_PRO_KDT",
+     "imageName": "bleeding out_pro_kdt",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{R}{R}",
+     "identifiers": {
+      "scryfallId": 7429,
+      "multiverseId": 20260404
+     },
+     "name": "Bleeding Out_PRO_KDT",
+     "number": "338",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Bleeding Out deals 3 damage to any target. Excess damage dealt to a creature or planeswalker this way is dealt to its controller instead.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Bleeding Out_PRO_KDT"
+    },
+    {
      "artist": "Liiga Smilshkane",
      "convertedManaCost": 13,
      "faceConvertedManaCost": 13,
@@ -288175,6 +288426,57 @@
       "Enchantment"
      ],
      "uuid": "Mastery_PRO_KDT"
+    },
+    {
+     "artist": "Daria Klushina",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Provocative",
+     "flavor": "“On a night much like this one . . .”\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Moonlight Adversary_PRO_KDT",
+     "imageName": "moonlight adversary_pro_kdt",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{B}",
+     "identifiers": {
+      "scryfallId": 7430,
+      "multiverseId": 20260404
+     },
+     "name": "Moonlight Adversary_PRO_KDT",
+     "number": "337",
+     "power": "2",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Nightmare",
+      "Noble"
+     ],
+     "text": "When this creature enters, you may pay X life. When you do, return X target cards you discarded this turn from your graveyard to your hand.\nWhenever you discard a card, each opponent loses 1 life.",
+     "toughness": "1",
+     "type": "Creature — Nightmare Noble",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Moonlight Adversary_PRO_KDT"
     },
     {
      "artist": "Ognjen Sporin",
@@ -288919,8 +289221,8 @@
      "uuid": "Welkin Eviction_PRO_KDT"
     }
    ],
-   "baseSetSize": 336,
-   "totalSetSize": 336,
+   "baseSetSize": 338,
+   "totalSetSize": 338,
    "cardsphereSetId": 19,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -304439,6 +304741,57 @@
      "uuid": "Zealforged Pathfinder_TWI"
     },
     {
+     "artist": "Marcello Chall",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Zangy",
+     "flavor": "“Oh Avacyn, with wings on high . . .”\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Aegis of Grace (IWH)_PRO_TWI",
+     "imageName": "aegis of grace (iwh)",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{W}{W}",
+     "identifiers": {
+      "scryfallId": 7432,
+      "multiverseId": 20260404
+     },
+     "name": "Aegis of Grace (IWH)",
+     "number": "349",
+     "power": "4",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Angel",
+      "Knight"
+     ],
+     "text": "Flying, lifelink\nPrevent all damage that would be dealt to battles you protect.\nYou, battles you control, and other creatures you control have hexproof.",
+     "toughness": "4",
+     "type": "Creature — Angel Knight",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Aegis of Grace (IWH)_PRO_TWI"
+    },
+    {
      "artist": "Ognjen Sporin",
      "convertedManaCost": 7,
      "faceConvertedManaCost": 7,
@@ -305773,8 +306126,8 @@
      "uuid": "Witchery_PRO_TWI"
     }
    ],
-   "baseSetSize": 343,
-   "totalSetSize": 343,
+   "baseSetSize": 344,
+   "totalSetSize": 344,
    "cardsphereSetId": 20,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -322167,7 +322520,7 @@
      "manaCost": "{1}{G}{G}",
      "identifiers": {
       "scryfallId": 6827,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Arlinn's Kindred",
      "number": "194",
@@ -322179,7 +322532,7 @@
      "subtypes": [
       "Wolf"
      ],
-     "text": "Flash\nWhen this creature enters, choose one —\n• Target Wolf or Werewolf you control gains hexproof until end of turn.\n• You may transform target Wolf or Werewolf creature.",
+     "text": "Flash\nWhen this creature enters, choose one —\n• Target Wolf or Werewolf you control gains hexproof until end of turn.\n• You may transform target Wolf or Werewolf creature you control.",
      "toughness": "1",
      "type": "Creature — Wolf",
      "types": [
@@ -325992,7 +326345,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 6899,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Devotion to Ghrin-Danu // Ghrin-Danu's Dark Return",
      "faceName": "Devotion to Ghrin-Danu",
@@ -326026,7 +326379,8 @@
      "manaValue": 0,
      "faceManaValue": 0,
      "colors": [
-      "B"
+      "B",
+      "G"
      ],
      "colorIdentity": [
       "G",
@@ -326051,7 +326405,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 6899,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Devotion to Ghrin-Danu // Ghrin-Danu's Dark Return",
      "faceName": "Ghrin-Danu's Dark Return",
@@ -329009,7 +329363,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 6952,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Greedy Duelist",
      "number": "120",
@@ -329022,8 +329376,8 @@
       "Vampire",
       "Soldier"
      ],
-     "text": "Whenever this creature deals combat damage to a player, you may have it gorge. (To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)\n{2}{B}: Return this card from your graveyard to your hand.",
-     "toughness": "1",
+     "text": "{1}{B}: You may have this creature gorge. Activate only once each turn and only if this creature attacked this turn. (To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)\n{2}{B}: Return this card from your graveyard to your hand.",
+     "toughness": "2",
      "type": "Creature — Vampire Soldier",
      "types": [
       "Creature"
@@ -330359,7 +330713,7 @@
      "manaCost": "{2}{B}{B}",
      "identifiers": {
       "scryfallId": 6975,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Horrific Stitching",
      "number": "121",
@@ -330367,7 +330721,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Stitch 3. When you do, you may choose one. (To stitch 3, you may exile a creature card and an instant or sorcery card from your graveyard to create a 3/3 blue Zombie creature token.)\n• Each player sacrifices two creatures.\n• Each player discards two cards.",
+     "text": "Stitch 3. (You may exile a creature card and an instant or sorcery card from your graveyard to create a 3/3 blue Zombie creature token.)\nChoose up to one —\n• Each player sacrifices two creatures.\n• Each player discards two cards.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -334639,7 +334993,7 @@
      "manaCost": "{W}{U}",
      "identifiers": {
       "scryfallId": 7047,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Riding the Geistroads",
      "number": "272",
@@ -334647,7 +335001,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Nontoken Spirits you control get +1/+1.\nWhenever this enchantment or another enchantment you control enters, create a 1/1 white Spirit creature token with flying.",
+     "text": "Spirits you control get +1/+1.\nWhenever this enchantment or another enchantment you control enters, you may mill two cards. Put up to one Spirit cards milled this way on top of your library. ",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -335100,7 +335454,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 7055,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Saint's Salvation",
      "number": "42",
@@ -335108,7 +335462,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "As an additional cost to cast this spell, behold a Spirit or pay {2}. (To behold a Spirit, choose a Spirit you control or reveal a Spirit card from your hand.)\nReturn target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.",
+     "text": "As an additional cost to cast this spell, behold a Spirit or pay {1}. (To behold a Spirit, choose a Spirit you control or reveal a Spirit card from your hand.)\nYou may tap or untap target nonland permanent.\nDraw a card.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -337881,7 +338235,7 @@
      "manaCost": "{W}{B}",
      "identifiers": {
       "scryfallId": 7103,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Tinua, of Whispered Pains",
      "number": "279",
@@ -337897,7 +338251,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "Deathtouch\nWhenever Tinua dies, create a 1/1 white and black Cleric creature token.\n{W}{B}, {T}, Sacrifice three creatures: Each opponent exiles a creature they control, discards a card, and loses 3 life. You gain 3 life. Activate only as a sorcery.",
+     "text": "Deathtouch\nWhen Tinua dies, create a 1/1 white and black Cleric creature token.\n{W}{B}, {T}, Sacrifice three creatures: Each opponent exiles a creature they control, discards a card, and loses 3 life. You gain 3 life. Activate only as a sorcery.",
      "toughness": "2",
      "type": "Legendary Creature — Human Cleric",
      "types": [
@@ -339520,10 +339874,102 @@
       "Creature"
      ],
      "uuid": "Worn Semblance_IWH"
+    },
+    {
+     "artist": "Asur Misoa",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Matt",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Restoring Presence_PRO_IWH",
+     "imageName": "restoring presence_pro_iwh",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{X}{W}",
+     "identifiers": {
+      "scryfallId": 7486,
+      "multiverseId": 20260404
+     },
+     "name": "Restoring Presence_PRO_IWH",
+     "number": "313",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Exile up to X target creatures you control. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.\n{3}{W}, Exile this card from your graveyard: Create a tapped 3/4 white Angel creature token with flying.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Restoring Presence_PRO_IWH"
+    },
+    {
+     "artist": "Ngan Pham",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "G",
+      "U"
+     ],
+     "colorIdentity": [
+      "G",
+      "U"
+     ],
+     "designer": "Matt",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Teeming Secrets_PRO_IWH",
+     "imageName": "teeming secrets_pro_iwh",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{G}{U}",
+     "identifiers": {
+      "scryfallId": 7447,
+      "multiverseId": 20260404
+     },
+     "name": "Teeming Secrets_PRO_IWH",
+     "number": "324",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Look at the top three cards of your library. You may put a land card from among them onto the battlefield tapped. If you don't, put one of those cards into your hand. Put the rest into your graveyard.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Teeming Secrets_PRO_IWH"
     }
    ],
-   "baseSetSize": 348,
-   "totalSetSize": 348,
+   "baseSetSize": 350,
+   "totalSetSize": 350,
    "cardsphereSetId": 22,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -344850,7 +345296,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7241,
-      "multiverseId": 20260401
+      "multiverseId": 20260404
      },
      "name": "Ivari, Liberated Mentor",
      "number": "17",
@@ -344866,7 +345312,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "If you casting a creature spell would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nAs you cast creature spells, you may pay an additional {R}. If you do, that spell can't be countered and gains haste.",
+     "text": "If you casting a creature spell would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nAs an additional cost to cast creature spells, you may pay {R}. If you do, that spell can't be countered and gains haste.",
      "toughness": "3",
      "type": "Legendary Creature — Snake Rebel",
      "types": [
@@ -345428,7 +345874,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 7251,
-      "multiverseId": 20260401
+      "multiverseId": 20260404
      },
      "name": "Leybound Ritualist",
      "number": "163",
@@ -345441,7 +345887,7 @@
       "Treefolk",
       "Druid"
      ],
-     "text": "If a land you control would enter tapped, it enters untapped instead.\n{3}{G}{G}{G}: Reveal the top three cards of your library. Put any number of permanent cards from among them into your hand and the rest on the bottom in a random order.",
+     "text": "Lands you control enter untapped.\n{3}{G}{G}{G}: Reveal the top three cards of your library. Put any number of permanent cards from among them into your hand and the rest on the bottom in a random order.",
      "toughness": "3",
      "type": "Creature — Treefolk Druid",
      "types": [
@@ -347575,10 +348021,10 @@
     },
     {
      "artist": "Omar Samy",
-     "convertedManaCost": 2,
-     "faceConvertedManaCost": 2,
-     "manaValue": 2,
-     "faceManaValue": 2,
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
      "colors": [
       "R",
       "W"
@@ -347602,10 +348048,10 @@
       "planechase": "Legal",
       "archaeologist": "Legal"
      },
-     "manaCost": "{R}{W}",
+     "manaCost": "{1}{R}{W}",
      "identifiers": {
       "scryfallId": 7297,
-      "multiverseId": 20260401
+      "multiverseId": 20260404
      },
      "name": "Rally the Rabble",
      "number": "203",
@@ -347613,7 +348059,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Muster — Whenever you cast a creature spell, exile the top card of your library. During your next turn, you may play that card from exile.",
+     "text": "Muster — Whenever you cast a creature spell, if you cast it from your hand, exile the top card of your library. During your next turn, you may play that card from exile.",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -349601,7 +350047,7 @@
       "U"
      ],
      "designer": "CovetedPeacock",
-     "flavor": "“Let's see what you're up to...”\n",
+     "flavor": "“Don't worry — I know a shortcut.”\n",
      "frameType": "normal",
      "frameVersion": "2015",
      "id": "Slip Through the Streets_VLR",
@@ -349618,7 +350064,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 7412,
-      "multiverseId": 20260401
+      "multiverseId": 20260404
      },
      "name": "Slip Through the Streets",
      "number": "68",
@@ -353409,10 +353855,192 @@
       "Sorcery"
      ],
      "uuid": "Yoink!_VLR"
+    },
+    {
+     "artist": "Angelica Donarini",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "CovetedPeacock",
+     "flavor": "His sermons are the dying breaths of the wicked, and his flock are the worms that feast upon their corpses.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Exultant Shepherd_PRO_VLR",
+     "imageName": "exultant shepherd_pro_vlr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{B}",
+     "identifiers": {
+      "scryfallId": 7449,
+      "multiverseId": 20260404
+     },
+     "name": "Exultant Shepherd_PRO_VLR",
+     "number": "304",
+     "power": "2",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Spirit",
+      "Warlock"
+     ],
+     "text": "At the beginning of your upkeep, draw a card. Then you lose 3 life unless you sacrifice another creature.",
+     "toughness": "1",
+     "type": "Creature — Spirit Warlock",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Exultant Shepherd_PRO_VLR"
+    },
+    {
+     "artist": "Ondrej Hrdina",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [],
+     "designer": "CovetedPeacock",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Forgotten Foundation_PRO_VLR",
+     "imageName": "forgotten foundation_pro_vlr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Legal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 7463,
+      "multiverseId": 20260404
+     },
+     "name": "Forgotten Foundation_PRO_VLR",
+     "number": "301",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "This land enters the battlefield tapped.\nWhen this land enters, surveil 1.\n{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
+     "type": "Land",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Forgotten Foundation_PRO_VLR"
+    },
+    {
+     "artist": "Adrian Kubiak",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "CovetedPeacock",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Shape the Pattern_PRO_VLR",
+     "imageName": "shape the pattern_pro_vlr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{G}",
+     "identifiers": {
+      "scryfallId": 7451,
+      "multiverseId": 20260404
+     },
+     "name": "Shape the Pattern_PRO_VLR",
+     "number": "305",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Search your library for a basic land card. If you're ancient, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. (You're ancient as long as you have eight or more total lands in play or in your graveyard.)",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Shape the Pattern_PRO_VLR"
+    },
+    {
+     "artist": "fluorescence911",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "CovetedPeacock",
+     "flavor": "“Come, my sisters! For all that is good and righteous, come!”\n—Bruna, the Fading Light\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Solemn Procession_PRO_VLR",
+     "imageName": "solemn procession_pro_vlr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{X}{W}{W}",
+     "identifiers": {
+      "scryfallId": 7452,
+      "multiverseId": 20260404
+     },
+     "name": "Solemn Procession_PRO_VLR",
+     "number": "303",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Choose a creature type. For each mana value from 1 to X, you may return a creature card with that mana value and the chosen type to the battlefield. X can't be 0.\nExile Solemn Procession.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Solemn Procession_PRO_VLR"
     }
    ],
-   "baseSetSize": 282,
-   "totalSetSize": 282,
+   "baseSetSize": 286,
+   "totalSetSize": 286,
    "cardsphereSetId": 23,
    "isFoilOnly": false,
    "isOnlineOnly": false,

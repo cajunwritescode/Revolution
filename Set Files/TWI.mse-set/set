@@ -11782,7 +11782,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		
+
 	time_created: 2025-06-11 14:29:48
 	time_modified: 2025-08-31 15:56:19
 	name: Matriarch of Veiled Kin
@@ -13400,7 +13400,7 @@ card:
 		PROMO — TWI
 		!promo Valir Bounty
 		!secret !design Zangy
-		
+
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 20:05:34
 	name: Matriarch of Veiled Kin
@@ -13445,10 +13445,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (IWH)
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		 !design Zangy
 	time_created: 2026-04-20 21:16:53
-	time_modified: 2026-04-30 21:10:30
+	time_modified: 2026-05-04 15:28:48
 	name: Aegis of Grace
 	casting_cost: 2WW
 	image: image44
@@ -13471,10 +13471,10 @@ card:
 	flavor_text: <i-flavor>“Oh <error-spelling:en_US>Avacyn</error-spelling:en_US>, with wings on high . . .”</i-flavor>
 	power: 4
 	toughness: 4
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Marcello Chall
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Forever Haunting SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 

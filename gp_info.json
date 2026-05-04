@@ -421,5 +421,12 @@
     "name": "Silver Glade",
     "set": "KSV",
     "count": 4
+  },
+  "26_05": {
+    "year": 2026,
+    "month": 5,
+    "name": "Thraben",
+    "set": "IWH",
+    "count": 1
   }
 }

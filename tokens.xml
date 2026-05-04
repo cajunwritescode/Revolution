@@ -5327,7 +5327,6 @@ Equip {2}</text>
  <reverse-related>Desperate Exorcism</reverse-related>
  <reverse-related count="3">Geist-Honored Warden</reverse-related>
  <reverse-related>Hollowhenge Martyr</reverse-related>
- <reverse-related>Riding the Geistroads</reverse-related>
  <reverse-related count="2">Scourge of Drunau Port</reverse-related>
  <reverse-related count="2">Traft's Embrace</reverse-related>
  <set num="IWH7" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH7.jpg?v=20260330" rarity="token">tokens</set>
@@ -6658,24 +6657,6 @@ Enchanted creature has decayed. (It can't block. When it attacks, sacrifice it a
 			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/CNY" rarity="special">CNY</set>
 		</card>
 		<card>
-			<name>Getaway Proxy_PRO_CNY</name>
-			<text>Flash
-When Getaway Proxy enters, you may choose another creature you control. Move any number of counters from that creature onto Getaway Proxy. Attach to Getaway Proxy any number of Auras that are attached to that creature. Then return that creature to its owner's hand.</text>
-			<prop>
-				<side>front</side>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Human Rebel</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/CNY" rarity="special">CNY</set>
-		</card>
-		<card>
 			<name>Martyrize_PRO_CNY</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Exile the top X cards of your library, where X is the sacrificed creature's power. Until the end of your next turn, you may play those cards.</text>
@@ -6800,24 +6781,6 @@ Surface {6}{U}{U}{B}</text>
 			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/CCR" rarity="special">CCR</set>
 		</card>
 		<card>
-			<name>Aurore, Buffer Exec_PRO_ERR</name>
-			<text>Trample
-Whenever Aurore enters or attacks, surveil 3, then return all land cards from your graveyard to the battlefield tapped.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1GGGG</manacost>
-				<cmc>5</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Legendary Creature — Human Druid</type>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="327" muid="0" picURL="https://lackeybot.com/revolution/front/327/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
 			<name>Catabolist_PRO_ERR</name>
 			<text>When this creature dies, create a black Subroutine enchantment token named TICK() with “Whenever this Subroutine runs, each opponent loses 1 life and you gain 1 life.” (Insert it into one of your three programs.)
 {1}{B}: Return this card from your graveyard to the battlefield tapped. Activate only if a card left your graveyard this turn.</text>
@@ -6836,41 +6799,6 @@ Whenever Aurore enters or attacks, surveil 3, then return all land cards from yo
 			<set num="328" muid="0" picURL="https://lackeybot.com/revolution/front/328/ERR" rarity="special">ERR</set>
 		</card>
 		<card>
-			<name>Exorcist of Errors (IWH)</name>
-			<text>When this creature enters, target opponent separates their hand into a face-up pile and a face-down pile. Choose one of those piles, reveal it, and choose a nonland card from it. Exile that card until this creature leaves the battlefield.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Human Warlock</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="329" muid="0" picURL="https://lackeybot.com/revolution/front/329/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Fabricated Anomaly (IWH)</name>
-			<text>When this creature enters, create The Puzzlebox, a legendary colorless artifact token with “{T}, Discard a card: Draw a card.”
-Whenever a creature you control attacks, you may exile a number of cards from your graveyard equal to its power. If you do, put a +1/+1 counter on it.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Elemental</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="330" muid="0" picURL="https://lackeybot.com/revolution/front/330/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
 			<name>Xeia, Record Chaser (Halana and Alena, Hunters)</name>
 			<text>Vigilance, haste
 Whenever you cast a spell, if its mana value is greater than Halana and Alena's power, put a number of +1/+1 counters on this creature equal to the difference and create a Treasure token.</text>
@@ -6887,40 +6815,6 @@ Whenever you cast a spell, if its mana value is greater than Halana and Alena's 
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="331" muid="0" picURL="https://lackeybot.com/revolution/front/331/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Bleeding Out_PRO_KDT</name>
-			<text>Bleeding Out deals 3 damage to any target. Excess damage dealt to a creature or planeswalker this way is dealt to its controller instead.</text>
-			<prop>
-				<side>front</side>
-				<manacost>RR</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="338" muid="0" picURL="https://lackeybot.com/revolution/front/338/KDT" rarity="special">KDT</set>
-		</card>
-		<card>
-			<name>Moonlight Adversary_PRO_KDT</name>
-			<text>When this creature enters, you may pay X life. When you do, return X target cards you discarded this turn from your graveyard to your hand.
-Whenever you discard a card, each opponent loses 1 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Nightmare Noble</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="337" muid="0" picURL="https://lackeybot.com/revolution/front/337/KDT" rarity="special">KDT</set>
 		</card>
 		<card>
 			<name>Pass Judgment_PRO_KDT</name>
@@ -6975,25 +6869,6 @@ Defeated — Whenever you attack, create a 1/1 red Berserker creature token that
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="333" muid="20260330" picURL="https://lackeybot.com/revolution/front/333/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Aegis of Grace (IWH)</name>
-			<text>Flying, lifelink
-Prevent all damage that would be dealt to battles you protect.
-You, battles you control, and other creatures you control have hexproof.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Angel Knight</type>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="349" muid="0" picURL="https://lackeybot.com/revolution/front/349/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
 			<name>Bogspawn Witness_PRO_TWI</name>
@@ -7339,39 +7214,6 @@ Flashback {3}{U} (You may cast this card from your graveyard for its flashback c
 			<set num="320" muid="0" picURL="https://lackeybot.com/revolution/front/320/IWH" rarity="special">IWH</set>
 		</card>
 		<card>
-			<name>Restoring Presence_PRO_IWH</name>
-			<text>Exile up to X target creatures you control. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.
-{3}{W}, Exile this card from your graveyard: Create a tapped 3/4 white Angel creature token with flying.</text>
-			<prop>
-				<side>front</side>
-				<manacost>XW</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="313" muid="0" picURL="https://lackeybot.com/revolution/front/313/IWH" rarity="special">IWH</set>
-		</card>
-		<card>
-			<name>Teeming Secrets_PRO_IWH</name>
-			<text>Look at the top three cards of your library. You may put a land card from among them onto the battlefield tapped. If you don't, put one of those cards into your hand. Put the rest into your graveyard.</text>
-			<prop>
-				<side>front</side>
-				<manacost>GU</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>GU</coloridentity>
-				<colors>GU</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="324" muid="0" picURL="https://lackeybot.com/revolution/front/324/IWH" rarity="special">IWH</set>
-		</card>
-		<card>
 			<name>Wildcaster Devil_PRO_IWH</name>
 			<text>When this creature enters, you may exile from your graveyard exactly an instant card and a sorcery card each with mana value 2 or less. If you do, put one of those cards chosen at random into your hand. Cast a copy of the other without paying its mana cost if able.</text>
 			<prop>
@@ -7458,41 +7300,6 @@ When this enchantment enters and at the beginning of your upkeep, reveal the top
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="291" muid="0" picURL="https://lackeybot.com/revolution/front/291/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Exultant Shepherd_PRO_VLR</name>
-			<text>At the beginning of your upkeep, draw a card. Then you lose 3 life unless you sacrifice another creature.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Spirit Warlock</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="304" muid="0" picURL="https://lackeybot.com/revolution/front/304/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Forgotten Foundation_PRO_VLR</name>
-			<text>This land enters tapped.
-When this land enters, surveil 1.
-{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<prop>
-				<side>front</side>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<layout>normal</layout>
-				<maintype>Land</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Land</type>
-			</prop>
-			<tablerow>0</tablerow>
-			<set num="301" muid="0" picURL="https://lackeybot.com/revolution/front/301/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Forsaken Penitents_PRO_VLR</name>
@@ -7683,22 +7490,6 @@ Exile Memoriam.</text>
 			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
-			<name>Shape the Pattern_PRO_VLR</name>
-			<text>Search your library for a basic land card. If you're ancient, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle. (You're ancient as long as you have eight or more total lands in play or in your graveyard.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="305" muid="0" picURL="https://lackeybot.com/revolution/front/305/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
 			<name>Shroudpiercer_PRO_VLR</name>
 			<text>Deathtouch
 When this creature enters, surveil 1.
@@ -7716,23 +7507,6 @@ When this creature enters, surveil 1.
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Solemn Procession_PRO_VLR</name>
-			<text>Choose a creature type. For each mana value from 1 to X, you may return a creature card with that mana value and the chosen type to the battlefield. X can't be 0.
-Exile Solemn Procession.</text>
-			<prop>
-				<side>front</side>
-				<manacost>XWW</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="303" muid="0" picURL="https://lackeybot.com/revolution/front/303/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Strangle_PRO_VLR</name>

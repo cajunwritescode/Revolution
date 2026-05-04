@@ -1520,7 +1520,7 @@ card:
 	has_styling: false
 	notes:
 		
-		
+
 	time_created: 2025-09-04 23:17:32
 	time_modified: 2026-04-13 19:39:14
 	card_color: white
@@ -1690,7 +1690,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 17:13:30
-	time_modified: 2026-04-28 14:36:30
+	time_modified: 2026-05-04 15:12:09
 	name: Saint’s Salvation
 	casting_cost: W
 	image: image46
@@ -1706,8 +1706,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As an additional cost to cast this spell, <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit or pay <sym>2</sym></param-name>.</key></nospellcheck></kw-0> <i-auto>(To <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit, choose a Spirit you control or reveal a Spirit card from your hand</param-name>.</key></nospellcheck></kw-0>)</i-auto>
-		Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+		As an additional cost to cast this spell, <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit or pay <sym>1</sym></param-name>.</key></nospellcheck></kw-0> <i-auto>(To <kw-0><nospellcheck><key>behold <param-a>a</param-a> <param-name>Spirit, choose a Spirit you control or reveal a Spirit card from your hand</param-name>.</key></nospellcheck></kw-0>)</i-auto>
+		You may tap or untap target nonland permanent.
+		Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Stephen Cornu
 	card_code_text: 
@@ -2131,7 +2132,7 @@ card:
 	has_styling: false
 	notes:
 		
-		
+
 	time_created: 2025-03-31 23:20:58
 	time_modified: 2026-04-20 17:00:10
 	name: Collected Thoughts
@@ -4734,7 +4735,7 @@ card:
 		overlay: 
 	notes:
 		
-		
+
 	time_created: 2024-08-08 17:03:33
 	time_modified: 2026-04-13 17:25:19
 	name: Gloaming Demon
@@ -4818,9 +4819,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: Previously gorged for free when dealing combat damage to a player.
 	time_created: 2024-08-09 20:38:05
-	time_modified: 2026-04-30 15:11:56
+	time_modified: 2026-05-04 15:13:15
 	name: Greedy Duelist
 	casting_cost: B
 	image: image140
@@ -4837,11 +4838,11 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever this creature deals combat damage to a player, you may have it gorge. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
+		<sym-auto>1B</sym-auto>: You may have this creature gorge. Activate only once each turn and only if this creature attacked this turn. <i-auto>(To gorge, discard a nonland card or sacrifice another creature to put a +1/+1 counter on this creature and draw a card.)</i-auto>
 		<sym-auto>2B</sym-auto>: Return this card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
-	toughness: 1
+	toughness: 2
 	illustrator: 2wenty
 	card_code_text: 
 	card_code_text_2: 
@@ -4861,9 +4862,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !replacetoken Infused 3/3 Zombie;1
+	notes:
+		!replacetoken Infused 3/3 Zombie;1
+		
 	time_created: 2024-07-29 00:01:32
-	time_modified: 2026-04-30 15:13:39
+	time_modified: 2026-05-04 15:07:40
 	name: Horrific Stitching
 	casting_cost: 2BB
 	image: image141
@@ -4877,7 +4880,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Stitch <param-number>3</param-number></key></nospellcheck>. When you do, you may choose one.<atom-reminder-action> <i-auto>(To stitch <param-number>3</param-number>, you may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>3</param-number>/<param-number>3</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Stitch <param-number>3</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may exile a creature card and an instant or sorcery card from your graveyard to create a <param-number>3</param-number>/<param-number>3</param-number> blue Zombie creature token.)</i-auto></atom-reminder-action></kw-A>
+		<margin:0:0:5>Choose up to one —</margin:0:0:5>
 		<li><bullet>• </bullet>Each player sacrifices two creatures.
 		</li><li><bullet>• </bullet>Each player discards two cards.</li>
 	flavor_text: <i-flavor></i-flavor>
@@ -6145,9 +6149,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!uncommonremoval
-
+	notes: !uncommonremoval
 	time_created: 2025-03-31 20:27:33
 	time_modified: 2026-05-01 00:21:45
 	name: Claret Ascendance
@@ -6682,9 +6684,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!commonremoval
-
+	notes: !commonremoval
 	time_created: 2025-03-31 22:43:35
 	time_modified: 2026-05-01 00:21:19
 	name: Full-Moon Assault
@@ -7761,7 +7761,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-09 20:35:08
-	time_modified: 2026-04-30 12:27:54
+	time_modified: 2026-05-04 15:06:12
 	name: Arlinn’s Kindred
 	casting_cost: 1GG
 	image: image215
@@ -7775,7 +7775,7 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<margin:0:0:5>When this creature enters, choose one —</margin:0:0:5>
 		<li><bullet>• </bullet>Target Wolf or Werewolf you control gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
-		</li><li><bullet>• </bullet>You may transform target Wolf or Werewolf creature.</li>
+		</li><li><bullet>• </bullet>You may transform target Wolf or Werewolf creature you control.</li>
 	flavor_text: <i-flavor>Even apart from the plane, <error-spelling:en_US>Arlinn</error-spelling:en_US> watches over <error-spelling:en_US>Innistrad’s</error-spelling:en_US> packs.</i-flavor>
 	power: 3
 	toughness: 1
@@ -8066,7 +8066,7 @@ card:
 		overlay: 
 	notes:
 		
-		
+
 	time_created: 2025-08-19 17:54:12
 	time_modified: 2026-04-23 17:26:38
 	name: Darkthicket Howler
@@ -8230,8 +8230,8 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-28 14:46:06
-	card_color_2: black
+	time_modified: 2026-05-04 15:06:49
+	card_color_2: black, green, multicolor, horizontal
 	name: Devotion to Ghrin-Danu
 	name_2: Ghrin-Danu’s Dark Return
 	casting_cost: 2G
@@ -11013,7 +11013,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-08-16 13:40:21
-	time_modified: 2026-04-28 13:26:47
+	time_modified: 2026-05-04 15:10:57
 	name: Riding the Geistroads
 	casting_cost: WU
 	image: image306
@@ -11024,8 +11024,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		Nontoken Spirits you control get +1/+1.
-		Whenever this enchantment or another enchantment you control enters, create a 1/1 white Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Spirits you control get +1/+1.
+		Whenever this enchantment or another enchantment you control enters, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Put up to one Spirit cards milled this way on top of your library. 
 	flavor_text: <i-flavor>They ride the same cobbled boundary road every night, <error-spelling:en_US>hoofbeats</error-spelling:en_US> sounding no longer.</i-flavor>
 	illustrator: Dominik Mayer
 	card_code_text: 
@@ -11270,7 +11270,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-31 23:19:18
-	time_modified: 2026-04-30 15:25:03
+	time_modified: 2026-05-04 15:12:22
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -11291,7 +11291,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever <atom-legname><nospellcheck>Tinua</nospellcheck></atom-legname> dies, create a 1/1 white and black Cleric creature token.
+		When <atom-legname><nospellcheck>Tinua</nospellcheck></atom-legname> dies, create a 1/1 white and black Cleric creature token.
 		<sym-auto>WB</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice three creatures: Each opponent exiles a creature they control, discards a card, and loses 3 life. You gain 3 life. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -11510,7 +11510,7 @@ card:
 		overlay: 
 	notes:
 		
-		
+
 	time_created: 2025-03-31 16:22:09
 	time_modified: 2026-04-30 15:26:25
 	name: Wildcaster Devil
@@ -13497,10 +13497,10 @@ card:
 	notes:
 		PROMO — IWH
 		!promo Valir Bounty
-		!secret !design Matt
-		
+		 !design Matt
+
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 19:11:34
+	time_modified: 2026-05-04 15:27:58
 	name: Restoring Presence
 	casting_cost: XW
 	image: image21
@@ -13520,9 +13520,10 @@ card:
 		Exile up to X target creatures you control. Return the exiled cards to the battlefield under their owner’s control at the beginning of the next end step.
 		<sym-auto>3W</sym-auto>, Exile this card from your graveyard: Create a tapped 3/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
+	card_stamp: none
 	illustrator: Asur Misoa
 	partition_select: after normal, main set C
-	card_code_text: 
+	card_code_text: Bounty Claimed by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13544,7 +13545,7 @@ card:
 		PROMO — IWH
 		!promo Valir Bounty
 		!secret !design Matt
-		
+
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:11:53
 	name: Collected Thoughts
@@ -13588,7 +13589,7 @@ card:
 		PROMO — IWH
 		!promo Valir Bounty
 		!secret !design Matt
-		
+
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:12:55
 	name: Gloaming Demon
@@ -13686,7 +13687,7 @@ card:
 		PROMO — IWH
 		!promo Valir Bounty
 		!secret !design Matt
-		
+
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:15:55
 	name: Wildcaster Devil
@@ -13988,11 +13989,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		!design Matt
 	time_created: 2026-05-01 00:22:50
-	time_modified: 2026-04-30 20:56:17
+	time_modified: 2026-05-04 15:33:19
 	name: Teeming Secrets
 	casting_cost: GU
 	image: image388
@@ -14016,10 +14016,10 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Ngan Pham
 	partition_select: after normal, main set D
-	card_code_text: 
+	card_code_text: Forever Haunting DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 

@@ -12673,7 +12673,7 @@ card:
 		PROMO — KDT
 		!promo Valir Bounty
 		!secret !design Provocative
-		
+
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 20:04:10
 	name: Pass Judgment
@@ -12715,10 +12715,10 @@ card:
 		overlay: 
 	notes:
 		
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		 !design Provocative
 	time_created: 2026-04-28 16:30:55
-	time_modified: 2026-04-30 21:13:36
+	time_modified: 2026-05-04 15:31:21
 	name: Moonlight Adversary
 	casting_cost: 1B
 	image: image299
@@ -12740,10 +12740,10 @@ card:
 	flavor_text: <i-flavor>“On a night much like this one . . .”</i-flavor>
 	power: 2
 	toughness: 1
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Daria Klushina
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Forever Hauntling Lih
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12759,10 +12759,10 @@ card:
 		overlay: 
 	notes:
 		
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		 !design Provocative
 	time_created: 2026-04-28 16:30:55
-	time_modified: 2026-04-30 21:13:41
+	time_modified: 2026-05-04 15:29:21
 	name: Bleeding Out
 	casting_cost: RR
 	image: image302
@@ -12780,10 +12780,10 @@ card:
 	rarity: special
 	rule_text: Bleeding Out deals 3 damage to any target. Excess damage dealt to a creature or planeswalker this way is dealt to its controller instead.
 	flavor_text: <i-flavor>Only worthy vampires are permitted to <error-spelling:en_US>bloodhunt</error-spelling:en_US> in <error-spelling:en_US>Voldaren</error-spelling:en_US>-owned territory.</i-flavor>
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Kevin McKenna
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Forever Haunting kumrac
 	card_code_text_2: 
 	card_code_text_3: 
 

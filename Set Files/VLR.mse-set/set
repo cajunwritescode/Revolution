@@ -1018,7 +1018,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-02-06 05:30:50
-	time_modified: 2026-04-20 19:40:04
+	time_modified: 2026-05-04 15:19:37
 	card_color: blue
 	name: Slip Through the Streets
 	casting_cost: U
@@ -1038,10 +1038,10 @@ card:
 	rule_text:
 		Target creature can’t be blocked this turn.
 		Draw a card.
-	flavor_text: <i-flavor>“Let’s see what you’re up to...”</i-flavor>
+	flavor_text: <i-flavor>“Don’t worry — I know a shortcut.”</i-flavor>
 	illustrator: Henri Tapio
-	additional_credit: 
-	additional_credit_brush: none
+	additional_credit: DrChipmunk
+	additional_credit_brush: flavor
 	card_code_text: 
 	card_code_text_2: Design by DrChillbrian
 	card_code_text_3: Design by DrChillbrian
@@ -4907,11 +4907,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes:  nerfed: now costs {1} more and requires casting from hand.
 	time_created: 2022-02-06 05:31:15
-	time_modified: 2026-04-20 22:04:53
+	time_modified: 2026-05-04 15:22:04
 	name: Rally the Rabble
-	casting_cost: RW
+	casting_cost: 1RW
 	image: image5.png
 	image_2: 
 	mainframe_image: 
@@ -4925,7 +4925,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: <kw-A><i-auto><nospellcheck><key>Muster</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell, exile the top card of your library. During your next turn, you may play that card from exile.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Muster</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell, if you cast it from your hand, exile the top card of your library. During your next turn, you may play that card from exile.
 	flavor_text:
 		<i-flavor>“It’s not the Founder that gives us strength, and it’s certainly not some would-be god.”<soft-line>
 		—Vie, liberated hero</soft-line></i-flavor>
@@ -7698,7 +7698,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-04-19 20:34:42
-	time_modified: 2026-04-20 21:37:24
+	time_modified: 2026-05-04 15:15:37
 	name: Leybound Ritualist
 	casting_cost: 2G
 	image: image69.png
@@ -7715,7 +7715,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		If a land you control would enter tapped, it enters untapped instead.
+		Lands you control enter untapped.
 		<sym-auto>3GGG</sym-auto>: Reveal the top three cards of your library. Put any number of permanent cards from among them into your hand and the rest on the bottom in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -10315,7 +10315,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-11 03:04:22
-	time_modified: 2026-04-30 17:29:04
+	time_modified: 2026-05-04 15:18:45
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
@@ -10336,7 +10336,7 @@ card:
 	rarity: rare
 	rule_text:
 		If you casting a creature spell would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
-		As you cast creature spells, you may pay an additional <sym-auto>R</sym-auto>. If you do, that spell can’t be countered and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		As an additional cost to cast creature spells, you may pay <sym-auto>R</sym-auto>. If you do, that spell can’t be countered and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>“Gear up. We have a city to reclaim.”</i-flavor>
 	power: 2
 	toughness: 3
@@ -11453,7 +11453,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2024-04-19 20:34:42
-	time_modified: 2026-04-30 19:05:54
+	time_modified: 2026-05-04 15:15:47
 	name: Leybound Ritualist
 	casting_cost: 2G
 	image: image40
@@ -11470,7 +11470,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		If a land you control would enter tapped, it enters untapped instead.
+		Lands you control enter untapped.
 		<sym-auto>3GGG</sym-auto>: Reveal the top three cards of your library. Put any number of permanent cards from among them into your hand and the rest on the bottom in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -11886,9 +11886,9 @@ card:
 	notes:
 		PROMO
 		!promo Valir Bounty
-		!secret !design CovetedPeacock
+		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 19:09:12
+	time_modified: 2026-05-04 15:26:06
 	name: Forgotten Foundation
 	image: image63
 	image_2: image65
@@ -11909,7 +11909,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ondrej Hrdina
 	partition_select: after normal, main set B
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11924,7 +11924,6 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
@@ -11972,11 +11971,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!noexport
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
-	time_modified: 2026-04-30 21:00:19
+	time_modified: 2026-05-04 15:32:26
 	name: Solemn Procession
 	casting_cost: XWW
 	image: image67
@@ -12004,10 +12002,10 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
-	card_stamp: standard
+	card_stamp: none
 	illustrator: fluorescence911
 	partition_select: after normal, main set C
-	card_code_text: 
+	card_code_text: Forever Haunting SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12022,11 +12020,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!noexport
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
-	time_modified: 2026-04-30 21:00:23
+	time_modified: 2026-05-04 15:29:57
 	name: Exultant Shepherd
 	casting_cost: 1B
 	image: image68
@@ -12052,10 +12049,10 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Angelica Donarini
 	partition_select: after normal, main set C
-	card_code_text: 
+	card_code_text: Forever Haunting kumrac
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 
@@ -12071,11 +12068,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!noexport
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
-	time_modified: 2026-04-30 21:01:35
+	time_modified: 2026-05-04 15:32:01
 	name: Shape the Pattern
 	casting_cost: G
 	image: image69
@@ -12099,10 +12095,10 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Adrian Kubiak
 	partition_select: after normal, main set C
-	card_code_text: 
+	card_code_text: Forever Haunting DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -12117,7 +12113,6 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
@@ -12167,7 +12162,6 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!noexport
 		!secret !promo Innistrad Haunt
 		!design CovetedPeacock
 	time_created: 2026-04-28 22:13:11
