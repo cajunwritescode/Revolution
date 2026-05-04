@@ -7719,9 +7719,9 @@ card:
 
 card:
 	has_styling: false
-	notes: nerfed: Now triggers once each turn.
+	notes: 
 	time_created: 2023-08-09 12:50:45
-	time_modified: 2026-04-30 14:09:39
+	time_modified: 2026-05-04 16:20:22
 	name: Kitsune Matriarch
 	casting_cost: W
 	image: image116
@@ -7730,7 +7730,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Fox</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever you create one or more tokens, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+	rule_text: Whenever one or more tokens you control enter, put a +1/+1 counter on this creature. This ability triggers only once each turn.
 	flavor_text: <i-flavor>Each <error-spelling:en_US>kitsune</error-spelling:en_US> pup receives a mask that allows them to take human form.</i-flavor>
 	power: 1
 	toughness: 1
@@ -12264,12 +12264,13 @@ card:
 	notes:
 		!promo Twiltrie Decree<soft-line>
 		!design Provocative
+		
 		</soft-line>
 	time_created: 2025-08-25 17:27:37
-	time_modified: 2026-04-30 20:26:49
+	time_modified: 2026-05-04 16:20:41
 	name: Kitsune Matriarch
 	casting_cost: W
-	image: image15.png
+	image: image32.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -12673,7 +12674,6 @@ card:
 		PROMO — KDT
 		!promo Valir Bounty
 		!secret !design Provocative
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 20:04:10
 	name: Pass Judgment

@@ -279656,7 +279656,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 5700,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Kitsune Matriarch",
      "number": "18",
@@ -279669,7 +279669,7 @@
       "Fox",
       "Noble"
      ],
-     "text": "Whenever you create one or more tokens, put a +1/+1 counter on this creature. This ability triggers only once each turn.",
+     "text": "Whenever one or more tokens you control enter, put a +1/+1 counter on this creature. This ability triggers only once each turn.",
      "toughness": "1",
      "type": "Creature — Fox Noble",
      "types": [
@@ -288256,7 +288256,7 @@
      "manaCost": "{W}",
      "identifiers": {
       "scryfallId": 6290,
-      "multiverseId": 20260330
+      "multiverseId": 20260404
      },
      "name": "Kitsune Matriarch_PRO_KDT",
      "number": "326",
