@@ -6947,7 +6947,7 @@ Whenever Vardo's Scalpel attacks, it deals 2 damage to you.</text>
 			<name>Voice of a Fallen Covenant_PRO_TWI</name>
 			<text>Flying
 Instant and sorcery spells you cast cost {1} less to cast for each other Warlock you control.
-Whenever another Horror you control attacks, you may exile an instant or sorcery card from you graveyard. You may cast a copy of that card. (You still pay its costs.)</text>
+Whenever another Horror you control attacks, exile up to one instant or sorcery card from your graveyard. You may cast a copy of that card. (You still pay its costs.)</text>
 			<prop>
 				<side>front</side>
 				<manacost>2U</manacost>

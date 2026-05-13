@@ -11680,7 +11680,7 @@ card:
 		!tag Cidraeth
 		TribalCouple Cycle
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-07-09 15:58:56
+	time_modified: 2026-05-12 19:35:23
 	name: Voice of a Fallen Covenant
 	casting_cost: 2U
 	image: image316.png
@@ -11699,7 +11699,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Instant and sorcery spells you cast cost <sym-auto>1</sym-auto> less to cast for each other Warlock you control.
-		Whenever another Horror you control attacks, you may exile an instant or sorcery card from you graveyard. You may cast a copy of that card. <i-auto>(You still pay its costs.)</i-auto>
+		Whenever another Horror you control attacks, exile up to one instant or sorcery card from your graveyard. You may cast a copy of that card. <i-auto>(You still pay its costs.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -11782,7 +11782,6 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-
 	time_created: 2025-06-11 14:29:48
 	time_modified: 2025-08-31 15:56:19
 	name: Matriarch of Veiled Kin
@@ -13400,7 +13399,6 @@ card:
 		PROMO — TWI
 		!promo Valir Bounty
 		!secret !design Zangy
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 20:05:34
 	name: Matriarch of Veiled Kin
@@ -13492,7 +13490,7 @@ card:
 		!secret !promo Innistrad Haunt
 		 !design Zangy
 	time_created: 2026-04-20 21:02:34
-	time_modified: 2026-04-30 21:37:20
+	time_modified: 2026-05-12 19:38:14
 	name: Voice of a Fallen Covenant
 	casting_cost: 2U
 	image: image45
@@ -13511,7 +13509,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Instant and sorcery spells you cast cost <sym-auto>1</sym-auto> less to cast for each other Warlock you control.
-		Whenever another Horror you control attacks, you may exile an instant or sorcery card from you graveyard. You may cast a copy of that card. <i-auto>(You still pay its costs.)</i-auto>
+		Whenever another Horror you control attacks, exile up to one instant or sorcery card from your graveyard. You may cast a copy of that card. <i-auto>(You still pay its costs.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

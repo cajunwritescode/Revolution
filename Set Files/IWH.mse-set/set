@@ -1518,9 +1518,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		
-
+	notes: 
 	time_created: 2025-09-04 23:17:32
 	time_modified: 2026-04-13 19:39:14
 	card_color: white
@@ -2130,9 +2128,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		
-
+	notes: 
 	time_created: 2025-03-31 23:20:58
 	time_modified: 2026-04-20 17:00:10
 	name: Collected Thoughts
@@ -4733,9 +4729,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		
-
+	notes: 
 	time_created: 2024-08-08 17:03:33
 	time_modified: 2026-04-13 17:25:19
 	name: Gloaming Demon
@@ -4819,7 +4813,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: Previously gorged for free when dealing combat damage to a player.
+	notes: nerfed: Previously gorged for free when dealing combat damage to a player.
 	time_created: 2024-08-09 20:38:05
 	time_modified: 2026-05-04 15:13:15
 	name: Greedy Duelist
@@ -4864,7 +4858,7 @@ card:
 		overlay: 
 	notes:
 		!replacetoken Infused 3/3 Zombie;1
-		
+
 	time_created: 2024-07-29 00:01:32
 	time_modified: 2026-05-04 15:07:40
 	name: Horrific Stitching
@@ -8064,9 +8058,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		
-
+	notes: 
 	time_created: 2025-08-19 17:54:12
 	time_modified: 2026-04-23 17:26:38
 	name: Darkthicket Howler
@@ -10191,9 +10183,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2024-07-27 20:28:39
-	time_modified: 2026-04-28 13:11:47
+	time_modified: 2026-05-05 19:47:37
 	card_color_2: red, green, multicolor, horizontal
 	name: Fangrite Mistress
 	name_2: Lunar-Zenith Alpha
@@ -10211,7 +10203,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When this creature enters, it deals damage damage to each opponent equal to the number of spells all of your opponents have cast this turn.
+		When this creature enters, it deals damage to each opponent equal to the number of spells all of your opponents have cast this turn.
 		At the beginning of each upkeep, if no spells were cast last turn, transform this creature.
 	rule_text_2:
 		Whenever this creature transforms into <atom-cardname><nospellcheck>Lunar-Zenith Alpha</nospellcheck></atom-cardname>, put a +1/+1 counter on each other Wolf and Werewolf you control.
@@ -11508,9 +11500,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		
-
+	notes: 
 	time_created: 2025-03-31 16:22:09
 	time_modified: 2026-04-30 15:26:25
 	name: Wildcaster Devil
@@ -13498,7 +13488,6 @@ card:
 		PROMO — IWH
 		!promo Valir Bounty
 		 !design Matt
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-05-04 15:27:58
 	name: Restoring Presence
@@ -13545,7 +13534,6 @@ card:
 		PROMO — IWH
 		!promo Valir Bounty
 		!secret !design Matt
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:11:53
 	name: Collected Thoughts
@@ -13589,7 +13577,6 @@ card:
 		PROMO — IWH
 		!promo Valir Bounty
 		!secret !design Matt
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:12:55
 	name: Gloaming Demon
@@ -13687,7 +13674,6 @@ card:
 		PROMO — IWH
 		!promo Valir Bounty
 		!secret !design Matt
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:15:55
 	name: Wildcaster Devil

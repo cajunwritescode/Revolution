@@ -90341,7 +90341,7 @@
       "Horror",
       "Warlock"
      ],
-     "text": "Flying\nInstant and sorcery spells you cast cost {1} less to cast for each other Warlock you control.\nWhenever another Horror you control attacks, you may exile an instant or sorcery card from you graveyard. You may cast a copy of that card. (You still pay its costs.)",
+     "text": "Flying\nInstant and sorcery spells you cast cost {1} less to cast for each other Warlock you control.\nWhenever another Horror you control attacks, exile up to one instant or sorcery card from your graveyard. You may cast a copy of that card. (You still pay its costs.)",
      "toughness": "3",
      "type": "Creature — Horror Warlock",
      "types": [
