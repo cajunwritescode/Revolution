@@ -1927,9 +1927,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: No longer hits battles.
 	time_created: 2022-02-06 05:30:50
-	time_modified: 2026-02-18 22:57:55
+	time_modified: 2026-05-30 22:15:58
 	name: Listen In
 	casting_cost: B
 	image: image293.png
@@ -1945,7 +1945,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Target opponent reveals their hand. You choose a creature, enchantment, or battle card from it, then choose a creature, enchantment, or battle card from their graveyard. Exile the chosen cards.
+	rule_text: Target opponent reveals their hand. You choose a creature or enchantment card from it, then choose a creature, enchantment, or battle card from their graveyard. Exile the chosen cards.
 	flavor_text:
 		<i-flavor>“The illusion of privacy makes fools out of us all. Well, most of us, anyways.”<soft-line>
 		—<error-spelling:en_US>Soya</error-spelling:en_US>, elite’s assassin</soft-line></i-flavor>
@@ -4907,7 +4907,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes:  nerfed: now costs {1} more and requires casting from hand.
+	notes: nerfed: now costs {1} more and requires casting from hand.
 	time_created: 2022-02-06 05:31:15
 	time_modified: 2026-05-04 15:22:04
 	name: Rally the Rabble
@@ -6549,9 +6549,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: Used to give all spells flash.
 	time_created: 2022-09-10 21:26:25
-	time_modified: 2026-04-30 17:30:52
+	time_modified: 2026-05-30 21:16:39
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: They/He
@@ -6573,7 +6573,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
-		You may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
+		You may cast Druid spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
 		At the beginning of your end step, untap all lands you control if you’re <kw-A><nospellcheck><key>ancient</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You’re ancient as long as you have eight or more total lands in play or in your graveyard.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>“The Pattern is lost. I shall replace it.”</i-flavor>
 	power: 4
@@ -7250,9 +7250,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: No longer gives three counters when ancient. Now gains flying and vigilance while ancient from native vigilance.
 	time_created: 2023-02-06 20:35:58
-	time_modified: 2026-04-30 18:43:06
+	time_modified: 2026-05-30 22:50:44
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: 
@@ -7272,8 +7272,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, put a +1/+1 counter on target creature you control. If you’re <kw-A><nospellcheck><key>ancient</key></nospellcheck>, put three +1/+1 counters on that creature instead.<atom-reminder-custom> <i-auto>(You’re ancient as long as you have eight or more total lands in play or in your graveyard.)</i-auto></atom-reminder-custom></kw-A>
+		This creature has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> as long as you’re <kw-A><nospellcheck><key>ancient</key></nospellcheck>.<atom-reminder-custom> <i-auto>(You’re ancient as long as you have eight or more total lands in play or in your graveyard.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-A> — Whenever a land you control enters, put a +1/+1 counter on target creature you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -7549,7 +7549,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-04-19 20:34:42
-	time_modified: 2026-03-09 20:34:40
+	time_modified: 2026-05-30 22:59:51
 	name: Stand Ready
 	casting_cost: 3W
 	image: image202.png
@@ -7567,7 +7567,7 @@ card:
 	rarity: rare
 	rule_text:
 		Put a +1/+1 counter on each creature you control. Untap them.
-		Prevent all damage that would be dealt to you and permanents you control this turn by sources you don’t control
+		Prevent all damage that would be dealt to you and permanents you control this turn by sources you don’t control.
 	flavor_text:
 		<i-flavor>“Alone, we live. United, we thrive.”<soft-line>
 		</soft-line>—Kane, <error-spelling:en_US>Volwood</error-spelling:en_US> defender</i-flavor>
@@ -9372,9 +9372,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: -2 changed to -3, and returns non-Elder instead of non-Spirit.
 	time_created: 2022-02-07 00:17:27
-	time_modified: 2026-04-20 21:13:38
+	time_modified: 2026-05-30 22:37:37
 	extra_data:
 		magic-m15-altered:
 			pride_pin: 
@@ -9407,12 +9407,12 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: other magic symbols aetherprint
 	loyalty_cost_10: 0
-	loyalty_cost_11: -2
+	loyalty_cost_11: -3
 	loyalty_cost_12: -X
 	loyalty_2: 
 	level_9_text: Sacrifice a creature: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>. Put a loyalty counter on <atom-legname><nospellcheck>Siurne</nospellcheck></atom-legname>. Activate only as a sorcery.
 	level_10_text: <margin:130:0:0>Create two <kw-1><nospellcheck><key>Acolyte toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re 0/1 white and black Warlock creatures with “<sym>1</sym>, Sacrifice this token: Surveil 1.”)</i-auto></atom-reminder-custom></kw-1></margin:130:0:0>
-	level_11_text: <margin:130:0:0>Return target non-Angel, non-Spirit creature card from your graveyard to the battlefield.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Return target non-Angel, non-Elder creature card from your graveyard to the battlefield.</margin:130:0:0>
 	level_12_text: <margin:130:0:0>Exile target nonland permanent with mana value X.</margin:130:0:0>
 	power: 3
 	toughness: 3
@@ -9429,7 +9429,7 @@ card:
 	special_text_2:
 		Sacrifice a creature: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>. Put a loyalty counter on <atom-legname><nospellcheck>Siurne</nospellcheck></atom-legname>. Activate only as a sorcery.
 		[0]: <margin:130:0:0>Create two <kw-1><nospellcheck><key>Acolyte toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re 0/1 white and black Warlock creatures with “<sym>1</sym>, Sacrifice this token: Surveil 1.”)</i-auto></atom-reminder-custom></kw-1></margin:130:0:0>
-		[-2]: <margin:130:0:0>Return target non-Angel, non-Spirit creature card from your graveyard to the battlefield.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Return target non-Angel, non-Elder creature card from your graveyard to the battlefield.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Exile target nonland permanent with mana value X.</margin:130:0:0>
 
 card:
@@ -9601,9 +9601,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: No longer gains first strike on muster.
 	time_created: 2022-02-07 00:35:46
-	time_modified: 2026-04-30 18:42:02
+	time_modified: 2026-05-30 22:48:49
 	extra_data:
 		magic-m15-altered: vorthos_box: She/Her
 		magic-m15-mainframe-dfc:
@@ -9624,7 +9624,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key>Muster</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell, put a loyalty counter on <atom-legname><nospellcheck>Vie</nospellcheck></atom-legname>. Then if it’s your turn, she gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><i-auto><nospellcheck><key>Muster</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell, put a loyalty counter on <atom-legname><nospellcheck>Vie</nospellcheck></atom-legname>.
 		<sym-auto>1W</sym-auto>: Put a loyalty counter on <atom-legname><nospellcheck>Vie</nospellcheck></atom-legname> and transform her. Activate only as a sorcery.
 	rule_text_3: 
 	flavor_text: <i-flavor>The Overseer Cult took her future. She chose to make a new one without them.</i-flavor>
@@ -9664,6 +9664,7 @@ card:
 		popout_image_style: 468,25,262,65,
 		front_chop: 5,5,
 		back_style: 4 ability planeswalker
+		back_font_cap: 10
 		back_chop: 
 		other_options: use hovering pt, wider planeswalker images, unindent nonloyalty abilities, automate type frames, auto nyx crowns
 		level_1_chop: 
@@ -9673,9 +9674,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: +1 changed to -1; 0 changed to +1 and no longer adds a stun counter; -2 changed to -3.
 	time_created: 2022-02-07 00:35:46
-	time_modified: 2026-04-20 21:53:13
+	time_modified: 2026-05-30 21:28:30
 	extra_data:
 		magic-m15-altered: vorthos_box: She/Her
 	card_color_2: blue, green, multicolor, horizontal
@@ -9705,12 +9706,12 @@ card:
 	flavor_text_3: <i-flavor></i-flavor>
 	watermark: other magic symbols aetherprint
 	loyalty_cost_10: +1
-	loyalty_cost_11: 0
-	loyalty_cost_12: -2
+	loyalty_cost_11: -1
+	loyalty_cost_12: -3
 	loyalty_2: 
 	level_9_text: As long as you’re <kw-1><nospellcheck><key>ancient</key></nospellcheck>, you may activate the loyalty abilities of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Juni</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> twice each turn rather than only once.<atom-reminder-custom> <i-auto>(You’re ancient as long as you have eight or more total lands in play or in your graveyard.)</i-auto></atom-reminder-custom></kw-1>
-	level_10_text: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.</margin:130:0:0>
-	level_11_text: <margin:130:0:0>Tap target nonland permanent. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
+	level_10_text: <margin:130:0:0>Tap up to one target nonland permanent.</margin:130:0:0>
+	level_11_text: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.</margin:130:0:0>
 	level_12_text: <margin:130:0:0>Create an X/X green Elemental creature token, where X is the number of lands you control.</margin:130:0:0>
 	power: 2
 	toughness: 3
@@ -9726,9 +9727,9 @@ card:
 	secondary_copyright_2: She/Her
 	special_text_2:
 		As long as you’re <kw-1><nospellcheck><key>ancient</key></nospellcheck>, you may activate the loyalty abilities of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Juni</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> twice each turn rather than only once.<atom-reminder-custom> <i-auto>(You’re ancient as long as you have eight or more total lands in play or in your graveyard.)</i-auto></atom-reminder-custom></kw-1>
-		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.</margin:130:0:0>
-		[0]: <margin:130:0:0>Tap target nonland permanent. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Create an X/X green Elemental creature token, where X is the number of lands you control.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Tap up to one target nonland permanent.</margin:130:0:0>
+		[-1]: <margin:130:0:0><kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create an X/X green Elemental creature token, where X is the number of lands you control.</margin:130:0:0>
 
 card:
 	has_styling: false
@@ -10313,14 +10314,14 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: Was {1}{W}.
 	time_created: 2025-04-11 03:04:22
-	time_modified: 2026-05-04 15:18:45
+	time_modified: 2026-05-30 21:23:02
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
 	name: Ivari, Liberated Mentor
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image19
 	image_2: 
 	mainframe_image: 
@@ -10388,11 +10389,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  reworked: Was 1/2 for {W} that surveil 1’d, drew a card, or got two +1/+1 counters on respective muster triggers.
 	time_created: 2026-01-17 19:10:58
-	time_modified: 2026-04-20 20:15:32
+	time_modified: 2026-05-30 23:18:39
 	name: Volwood Warder
-	casting_cost: W
+	casting_cost: 3WW
 	image: image63.png
 	image_2: 
 	mainframe_image: 
@@ -10406,10 +10407,12 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: <kw-A><i-auto><nospellcheck><key>Muster</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0> if this is the first time this ability resolved this turn. If it’s the second time, draw a card. If it’s the third time, put two +1/+1 counters on this creature.
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Muster</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell, put a +1/+1 counter on each nontoken creature you control.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 2
+	power: 4
+	toughness: 4
 	illustrator: Márton Gyula Kiss
 	card_code_text: 
 	card_code_text_2: 
@@ -10775,9 +10778,9 @@ card:
 	notes:
 		PROMO
 		!promo Valir Bounty
-		!secret !design DrChipmunk
+		 !design DrChipmunk
 	time_created: 2022-02-07 00:29:36
-	time_modified: 2026-04-14 00:21:26
+	time_modified: 2026-05-30 23:25:59
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: 
@@ -10795,7 +10798,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: mythic rare
+	rarity: special
 	loyalty_cost_1: 
 	loyalty_cost_2: +2
 	loyalty_cost_3: -3
@@ -10807,11 +10810,12 @@ card:
 	level_4_text: <margin:130:0:5>For each opponent, choose up to one target nonland permanent that player controls. Gain control of those permanents.</margin:130:0:5>
 	level_5_text: 
 	level_6_text: 
+	card_stamp: none
 	illustrator: Ric Galar
 	additional_credit: DrChipmunk
 	additional_credit_brush: mechanics
 	partition_select: after normal, main set B
-	card_code_text: 
+	card_code_text: Bounty Claimed by CoolBeens
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Unofficial — NFS
@@ -10939,7 +10943,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 14:36:03
+	time_modified: 2026-05-30 23:23:00
 	name: Sunset Sentries
 	casting_cost: 2W
 	image: image13
@@ -10962,7 +10966,7 @@ card:
 	toughness: 2
 	illustrator: Oldgun-K
 	partition_select: after normal, main set B
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11071,9 +11075,9 @@ card:
 	notes:
 		PROMO
 		!promo Valir Bounty
-		!secret !design DrChipmunk
+		 !design DrChipmunk
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 19:02:03
+	time_modified: 2026-05-30 23:25:55
 	name: Swift-Step Robber
 	casting_cost: 1U
 	image: image23
@@ -11088,7 +11092,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
@@ -11098,11 +11102,12 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
+	card_stamp: none
 	illustrator: Matheus Bartz
 	additional_credit: DrChipmunk
 	additional_credit_brush: mechanics
 	partition_select: after normal, main set B
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11272,9 +11277,9 @@ card:
 	notes:
 		PROMO
 		!promo Valir Bounty
-		!secret !design CovetedPeacock
+		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 14:46:24
+	time_modified: 2026-05-30 23:25:51
 	name: Strangle
 	casting_cost: R
 	image: image31
@@ -11289,11 +11294,12 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: special
 	rule_text: <atom-legname><nospellcheck>Strangle</nospellcheck></atom-legname> deals 3 damage to target creature or planeswalker.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sam Jones
 	partition_select: after normal, main set B
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11359,9 +11365,9 @@ card:
 	notes:
 		PROMO
 		!promo Valir Bounty
-		!secret !design CovetedPeacock
+		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 19:04:48
+	time_modified: 2026-05-30 23:26:03
 	name: Vie’s Lieutenant
 	casting_cost: 1R
 	image: image36
@@ -11376,16 +11382,17 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
 		<kw-A><i-auto><nospellcheck><key>Muster</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell, this creature gets +1/+0 until end of turn. If this is the second time this ability has resolved this turn, instead all nontoken creatures you control get +1/+0 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
+	card_stamp: none
 	illustrator: Yunior Susanto
 	partition_select: after normal, main set B
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -11888,7 +11895,7 @@ card:
 		!promo Valir Bounty
 		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-05-04 15:26:06
+	time_modified: 2026-05-30 23:25:34
 	name: Forgotten Foundation
 	image: image63
 	image_2: image65
@@ -11902,6 +11909,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: special
 	rule_text:
 		This land enters tapped.
 		When this land enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.

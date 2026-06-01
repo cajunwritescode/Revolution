@@ -14739,10 +14739,10 @@ card:
 	notes:
 		PROMO — CCR
 		!promo Valir Bounty
-		!secret !design Cajun
-		
+		 !design Cajun
+
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 20:00:25
+	time_modified: 2026-05-30 23:21:11
 	name: End of Mutations
 	casting_cost: 3RRR
 	image: image404
@@ -14767,7 +14767,7 @@ card:
 	toughness: 5
 	illustrator: Alexander Usevich
 	partition_select: after normal, main set F
-	card_code_text: 
+	card_code_text: Bounty Claimed by AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -14910,11 +14910,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		 !design DrChillbrain
 	time_created: 2026-04-28 16:27:21
-	time_modified: 2026-04-30 21:21:58
+	time_modified: 2026-05-30 23:27:11
 	name: Warden of Depths
 	casting_cost: 3UUB
 	image: image409
@@ -14937,10 +14936,9 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 6
-	card_stamp: standard
 	illustrator: Alejandro Mirabal
 	partition_select: after normal, main set F
-	card_code_text: 
+	card_code_text: Forever Haunting cftsoc
 	card_code_text_2: 
 	card_code_text_3: 
 

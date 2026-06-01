@@ -1,0 +1,2414 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-mainframe-planes
+stylesheet_version: 2024-09-23
+set_info:
+	set_code: PLANE
+	symbol: 
+	masterpiece_symbol: 
+	mainframe_rarity_name: pl/REV.png
+styling:
+	magic-m15-mainframe-planes:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-mainframe-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: !vst
+	time_created: 2025-02-06 06:47:25
+	time_modified: 2025-02-06 06:53:02
+	name: Fragile Haven
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vastuum</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your end step, create a 1/1 white Nomad creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, journey three times, <kw-0><nospellcheck><key><param-prefix>then planes</param-prefix>walk</key></nospellcheck></kw-0>. <i-auto>(Exile the top three cards of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)</i-auto></margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: joan pique llorens
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!vst
+		
+	time_created: 2025-02-06 06:47:25
+	time_modified: 2026-05-31 18:57:37
+	name: Goresand
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vastuum</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a creature enters the battlefield under your control, <atom-cardname><nospellcheck>Goresand</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create two 2/2 red Hyena creature tokens.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Noah Bradley
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !vst
+	time_created: 2025-02-06 06:47:25
+	time_modified: 2025-02-09 20:36:47
+	name: The Source Chamber
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vastuum</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: You may play cards you own from outside the game.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, until end of turn, permanents you control gain “<sym-auto>T</sym-auto>: Add one mana of any color.”</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: KnightOfAnsatsu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !src
+	time_created: 2025-02-09 13:22:09
+	time_modified: 2025-02-13 00:21:52
+	name: Cawyer Station
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Detrosse</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player disturbs the peace, that player may create a 2/2 white Soldier creature token. They may do so only once each turn. <i-auto>(Casting a spell on an opponent’s turn and one or more creatures dealing combat damage to an opponent <kw-0><nospellcheck><key>disturb <param-cost>the</param-cost></key></nospellcheck></kw-0> peace.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, detain up to three target nonland permanents you don’t control. <i-auto>(Until your next turn, those permanents can’t attack or block and their activated abilities can’t be activated.)</i-auto> </margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Arch Apolar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!src
+		!gp
+	time_created: 2025-02-09 13:22:09
+	time_modified: 2025-03-22 22:59:37
+	name: Fourth Street
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Detrosse</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your end step, <atom-cardname><nospellcheck>Fourth Street</nospellcheck></atom-cardname> deals damage to each opponent equal to the number of spells you’ve cast this turn.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost. Then you may roll the planar die.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Yujin Choo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !src
+	time_created: 2025-02-09 13:22:09
+	time_modified: 2025-03-22 21:23:45
+	name: Jericho’s Abandoned Office
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Detrosse</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player casts their second spell each turn, that player investigates. <i-auto>(Create a Clue token. It’s an artifact with “<sym-auto>2</sym-auto>, Sacrifice this artifact: Draw a card.”)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, each noncreature artifact you control becomes a green Horror creature with base power and toughness 4/4 until end of turn. <i-auto>(They aren’t artifacts for the duration.)</i-auto></margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Jonathan Kiem
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !src
+	time_created: 2025-02-09 13:22:01
+	time_modified: 2025-02-13 00:21:43
+	name: Veda’s Club
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Detrosse</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: During each player’s turn, nonland cards in their hand have spectacle. The spectacle cost is equal to its mana cost reduced by up to <sym>2</sym>. <i-auto>(You may cast a card for its spectacle cost rather than its mana cost if an opponent lost life this turn.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, target creature gets +1/+0 until end of turn it and can’t block or be blocked this turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Virtuos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!mon
+		!gp
+	time_created: 2024-10-31 05:01:16
+	time_modified: 2025-02-11 00:07:59
+	name: Kochiba Port
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Each spell a player casts during another player’s turn costs <sym-auto>1</sym-auto> less to cast.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, target opponent sacrifices a nonland permanent.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: RavenseyeTravisLacey
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !mon
+	time_created: 2024-10-30 21:04:45
+	time_modified: 2024-10-30 21:16:46
+	name: Professor Maple’s Lab
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key><param-prefix>Whenever you planes</param-prefix>walk</key></nospellcheck></kw-0> to Professor Maple’s Lab and at the beginning of your upkeep, put a +1/+1 counter on target creature you control with power 3 or less.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create a 2/1 red Weasel with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, a 1/3 blue Crocodile with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or a 3/2 green Plant creature token. </margin:480:0:0>
+	illustrator: Aonik
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!mon
+		
+	time_created: 2024-10-31 05:08:34
+	time_modified: 2025-03-31 21:49:00
+	name: Remembrance Tower
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key><param-prefix>Whenever you begin on or planes</param-prefix>walk</key></nospellcheck></kw-0> to Remembrance Tower or a creature dies, each player <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-0>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, return a creature card with mana value X or less from your graveyard to the battlefield, where X is the number of cards in your graveyard.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: ameizhao
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!mon
+		
+	time_created: 2024-10-30 21:23:28
+	time_modified: 2025-03-31 21:32:55
+	name: Ruins of Missing Notes
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		If a card would leave the battlefield, instead exile it and put an unknown counter on it.
+		<kw-0><nospellcheck><key><param-prefix>If you would planes</param-prefix>walk</key></nospellcheck></kw-0> away from Ruins of Missing Notes, you may have chaos ensue instead.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may remove an unknown counter from an exiled card. If you do, you may play that card as long as it remains exiled, and you may spend mana of any type to cast it.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: PURPLECHUG
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !kut
+	time_created: 2025-03-22 21:20:25
+	time_modified: 2025-03-22 23:49:41
+	name: The Veilgate
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Kuutalya</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a permanent enters, its controller may <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may shuffle your hand and graveyard into your library, then draw five cards.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: david-metzger
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!kut
+		!check
+	time_created: 2025-03-22 21:20:25
+	time_modified: 2025-03-28 22:44:44
+	name: Khembul, the Sacred Valley
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Kuutalya</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key><param-prefix>When you begin on or planes</param-prefix>walk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Khembul, the Sacred Valley</nospellcheck></atom-cardname>, permanents and players gain <kw-0><nospellcheck><key>protection from <param-name>everything until the start of your next turn</param-name>.</key></nospellcheck></kw-0>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, the next time you cast a spell this turn, you may copy that spell for each card with the same name as that spell in your graveyard. You may choose new targets for the copies.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: philipp-a-urlich
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!kut
+		!check
+	time_created: 2025-03-22 21:20:25
+	time_modified: 2025-03-28 22:45:07
+	name: Ruins of Paro Katsang
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Kuutalya</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>Ruins of Paro Katsang</nospellcheck></atom-cardname>, each player discards a card, sacrifices a creature, sacrifices a land, and loses 3 life. <i-auto>(This doesn’t trigger if you begin the game on <atom-cardname><nospellcheck>Ruins of Paro Katsang</nospellcheck></atom-cardname>.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, choose target card in a graveyard. You may play that card this turn. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: apeldille — edit
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !kut
+	time_created: 2025-03-22 21:20:25
+	time_modified: 2025-03-22 23:50:23
+	name: Butani Pass
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Kuutalya</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a land enters, its controller creates a 2/2 red Yeti creature token.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may have target creature you control deal damage equal to its power to any target. If the creature you control is a Yeti, it deals double that damage instead.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: jeremy-anninos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!kut
+		!gp
+	time_created: 2025-03-22 21:20:25
+	time_modified: 2025-03-22 23:51:46
+	name: Tambara Totem-Forest
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Kuutalya</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>Tambara Totem-Forest</nospellcheck></atom-cardname>, each player may create a colorless Aura enchantment token attached to a permanent they control. The token has <kw-0><nospellcheck><key>enchant <param-name>permanent and umbra armor</param-name>.</key></nospellcheck></kw-0> <i-auto>(If enchanted permanent would be destroyed, instead remove all damage from it and destroy the Aura.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, enchanted creatures you control gain <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: shimamoto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !gqc
+	time_created: 2025-02-20 09:39:25
+	time_modified: 2025-02-27 18:26:09
+	name: Before the Chasmal Rift
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Ghariv</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you play a card from anywhere other than your hand, create a 0/1 colorless Eldrazi Spawn creature token with “Sacrifice this creature: Add <sym-auto>C</sym-auto>.”
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create two 0/1 colorless Eldrazi Spawn creature tokens with “Sacrifice this creature: Add <sym-auto>C</sym-auto>.” Then colorless creatures you control get +X/+0 until end of turn, where X is the number of times you’ve rolled the planar die this turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Mohammad Qureshi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		font_size: 15.5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		!gqc
+		!gp
+	time_created: 2025-02-21 23:27:28
+	time_modified: 2025-03-22 21:45:11
+	name: Greenglade Campsite
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Ghariv</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>Greenglade Campsite</nospellcheck></atom-cardname> and at the beginning of your upkeep, create a 2/2 white Centaur creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, creatures you control gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: liminalbean
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!gqc
+		!gp
+	time_created: 2025-02-21 23:34:20
+	time_modified: 2025-02-27 18:28:58
+	name: Thorne Chapel
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Ghariv</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Creatures can’t attack unless they’re reverent. <i-auto>(Angels, Clerics, and Demons are reverent.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, flips a coin. If you win the flip, you gain 3 life and create a 3/3 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. If you lose the flip, you lose 3 life and create a 5/5 black Demon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Nicolas Mendoza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !svg
+	time_created: 2025-02-21 23:46:34
+	time_modified: 2025-03-22 23:54:17
+	name: Halls of Valor
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Svergard</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a creature you control dies while attacking, create a colorless Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature you control and “Enchanted creature gets +2/+2</param-name>.</key></nospellcheck></kw-a>”
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Linus Alstergren
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!svg
+		!check
+	time_created: 2025-02-21 23:46:34
+	time_modified: 2025-03-28 22:46:06
+	name: Remains of Morrig Moor
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Svergard</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key><param-prefix>When you begin on or planes</param-prefix>walk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Remains of Morrig Moor</nospellcheck></atom-cardname> and whenever you draw a card, create a Glyph token. <i-auto>(It’s an artifact with “<sym>1</sym>, Sacrifice this: <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.”)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, abilities of artifacts you activate this turn cost <sym-auto>1</sym-auto> less to activate.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Drew Cichy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !vrd
+	time_created: 2025-03-22 21:49:46
+	time_modified: 2025-03-22 23:52:16
+	name: Den of the First Dream
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Madia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: During each player’s turn, each instant and sorcery card in their graveyard has flashback. The flashback cost is equal to its mana cost.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>ten</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Nele Diel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !vrd
+	time_created: 2025-03-22 21:49:46
+	time_modified: 2025-03-22 21:51:58
+	name: Justiciar Test Lab
+	image: image7.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Madia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>Justiciar Test Lab</nospellcheck></atom-cardname> and at the beginning of your upkeep, choose <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>. Create a Gadget of that type. <i-auto>(It’s an Equipment artifact with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> that grants that ability.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, untap each <kw-A><nospellcheck><key>modified</key></nospellcheck> creature you control. After this main phase, there’s an additional combat phase followed by an additional main phase.<atom-reminder-action> <i-auto>(Equipment, Auras you control, and counters are modifications.)</i-auto></atom-reminder-action></kw-A></margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Mars NX-Z
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !vrd
+	time_created: 2025-03-22 21:49:46
+	time_modified: 2025-03-22 21:52:55
+	name: Queen Solena’s Private Collection
+	image: image8.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Madia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player casts a spell, they create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create a colorless artifact token named Gilded Lotus with “<sym-auto>T</sym-auto>: Add three mana of any one color.”</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: STEREOFORMA
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!vrd
+		!gp
+	time_created: 2025-03-22 21:49:46
+	time_modified: 2025-03-22 21:56:06
+	name: New Tellison
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Madia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>New Tellison</nospellcheck></atom-cardname> and at the beginning of your upkeep, add the top card of your library to your evil plan. <i-auto>(Look at the top card of your library, then exile it face-down. You may pay <sym>7</sym> once a turn as a sorcery to cast any number of cards in your evil plan without paying their mana costs.)</i-auto>
+	rule_text_2: <margin:480:0:0>When chaos ensues, you may pay <sym>0</sym> rather than <sym>7</sym> to cast your evil plan this turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: LPS DC
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !krs
+	time_created: 2025-02-27 19:34:15
+	time_modified: 2025-03-22 21:56:43
+	name: Ukshu Wilds
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Karsus</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	rule_text: <kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Ukshu Wilds</nospellcheck></atom-cardname> and at the beginning of your upkeep, crystallize. <i-auto>(Put a +1/+1 counter on a creature you control or create a Treasure.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, each player chooses the creature they control with the highest power or tied for the highest power among creatures they control, then sacrifices the rest.</margin:480:0:0>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Travis Anderson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !krs
+	time_created: 2025-02-27 19:34:15
+	time_modified: 2025-03-22 22:49:47
+	name: Prismatic Pool
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Karsus</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	rule_text: Whenever a player casts a spell that targets a spell or permanent of an enemy color, they draw a card. <i-auto>(White’s enemies are black and red, blue’s are red and green, black’s are white and green, red’s are white and blue, and green’s are blue and black.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, choose a color among permanents you control. Then for each of that color’s enemies, you may destroy up to one target permanent of that enemy color.</margin:480:0:0>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Stable Diffusion AI
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !krs
+	time_created: 2025-02-27 19:34:15
+	time_modified: 2025-02-28 15:13:13
+	name: Karsi’s Spine
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Karsus</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	rule_text: Dragon spells cost <sym-auto>2</sym-auto> less to cast.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>, then each player creates a 4/4 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. </margin:480:0:0>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Wiek Luijken
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		
+		!ksv
+	time_created: 2025-02-15 15:43:11
+	time_modified: 2025-03-22 21:59:34
+	name: The Ashen Forges
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Karslav</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you cast a spell, create a Weapon token. The next time you activate an <kw-0><nospellcheck><key>equip <param-name>ability this turn, it costs</param-name> <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> less to activate. <i-auto>(A Weapon token is an Equipment artifact with <kw-0><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> and “Equipped creature gets +1/+1.”)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, sacrifice up to three artifacts and/or creatures. Draw that many cards and add twice that much <sym>C</sym>.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: karakter (Studio)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		
+		!ksv
+	time_created: 2025-02-15 15:43:11
+	time_modified: 2025-03-22 22:00:08
+	name: The Silenced Court
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Karslav</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>The Silenced Court</nospellcheck></atom-cardname>, exile all creatures. When you are no longer on this plane, return each creature exiled this way to the battlefield under their owner’s control with a -1/-1 counter on it.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may put a creature card exiled with this plane onto the battlefield tapped under your control.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Jérôme Bonamy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		
+		!ksv
+	time_created: 2025-02-15 15:43:11
+	time_modified: 2025-02-24 15:39:19
+	name: The Broken Fields
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Karslav</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Each creature that has attacked this turn has <kw-A><nospellcheck><key>persist</key></nospellcheck>.<atom-reminder-expert> <i-auto>(When that creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, choose any number of permanents. You may remove a counter from each of those permanents.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Samuele Bandini
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!gp
+		!ksv
+	time_created: 2025-02-15 16:38:21
+	time_modified: 2025-02-24 15:41:02
+	name: The Five-Thorn Maw
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Karslav</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever you tap a creature you control, it deals 1 damage to each opponent. 
+		<sym-auto>1</sym-auto>, Tap two untapped creatures you control: Exile the top card of your library. You may play it this turn.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, untap any number of tapped creatures and/or lands you control. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on each of them.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Florian Zenz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!blr
+		!gp
+	time_created: 2025-02-10 23:56:19
+	time_modified: 2025-02-10 23:57:49
+	name: Eltensia’s Toll
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Eltensia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player draws a card, each of their opponents lose 1 life.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, draw three cards, then discard two cards.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Connor Sheehan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !blr
+	time_created: 2025-02-10 23:56:19
+	time_modified: 2025-03-22 22:39:29
+	name: The Tugae
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Eltensia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>The Tugae</nospellcheck></atom-cardname> and at the beginning of your upkeep, untap up to one target land you control. It becomes a 4/4 green Elemental creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. It’s still a land.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, search your library for a land card, put it onto the battlefield, then shuffle.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Andreas Rocha
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !blr
+	time_created: 2025-02-10 23:56:19
+	time_modified: 2025-02-10 23:58:59
+	name: Kywon’s Testing Grounds
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Eltensia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may return target instant or sorcery card from your graveyard to your hand.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Florian Herold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !blr
+	time_created: 2025-02-10 23:56:19
+	time_modified: 2025-02-11 00:09:24
+	name: Starfoul Glade
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Eltensia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your end step, exile up to one target nonland permanent you control, then return it to the battlefield under your control.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, exile any number of nonland permanents you control, then return them to the battlefield under your control.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Chris Falkenberg
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !blr
+	time_created: 2025-02-10 23:56:19
+	time_modified: 2025-02-11 00:11:13
+	name: Seat of the Rose Court
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Eltensia</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player loses 2 or more life, each of that player’s opponents create a <kw-A><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-expert> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, when you next cast a spell this turn, you may sacrifice two permanents. If you do, copy that spell. You may choose new targets for the copy.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Sean Vo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !dov
+	time_created: 2025-03-22 22:04:09
+	time_modified: 2025-03-22 22:07:10
+	name: Zolo's Ring
+	image: image11.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vereaux</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Zolo’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Ring and at the beginning of your upkeep, create a 3/3 red and green Ox creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. It attacks this combat if able.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, any number of target creatures you control each dare 5 until end of turn. <i-auto>(It becomes a legendary Rebel with base power and toughness 5/5 in addition to its other types until end of turn.)</i-auto></margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Triclore Painting
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !dov
+	time_created: 2025-03-22 22:04:09
+	time_modified: 2025-03-22 22:47:34
+	name: The Golden Palace
+	image: image12.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vereaux</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your end step, if you gained 3 or more life and/or drew two or more cards this turn, you may tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you draw a card and gain 3 life.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: hayden-tremblay
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!dov
+		!check
+	time_created: 2025-03-22 22:04:09
+	time_modified: 2025-03-28 22:44:20
+	name: Foundation Headquarters
+	image: image13.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vereaux</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key><param-prefix>When you begin on or planes</param-prefix>walk</key></nospellcheck></kw-0> to Foundation Headquarters, each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>eight</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may exile target instant or sorcery card from a graveyard and cast a copy of it without paying its mana cost. If it had mana value 5 or greater, you may cast two copies of that spell instead.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: dean-ilango
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!dov
+		!gp
+	time_created: 2025-03-22 22:04:09
+	time_modified: 2025-03-22 22:13:44
+	name: The Bastion d'Orlet
+	image: image15.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vereaux</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you attack, <atom-cardname><nospellcheck>The Bastion d’Orlet</nospellcheck></atom-cardname> deals 1 damage to defending player for each creature attacking that player.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create a 3/2 artifact Construct creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> named Battering Ram.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Nathan Humphrey
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !dov
+	time_created: 2025-03-22 22:04:09
+	time_modified: 2025-03-22 22:47:15
+	name: Beauclaire Manor
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vereaux</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of combat on your turn, you may sacrifice a nonland permanent. If you do, create a 2/2 white, blue and black Noble creature token.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, <kw-0><nospellcheck><key><param-prefix>you may exchange control of target nonland permanent you control and target nonland permanent you don’t control until you planes</param-prefix>walk</key></nospellcheck></kw-0> away from <atom-cardname><nospellcheck>Beauclaire Manor</nospellcheck></atom-cardname>.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Anastasiya Osichkina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !dov
+	time_created: 2025-03-22 22:04:09
+	time_modified: 2025-03-22 22:16:16
+	name: Vaudlin's Laboratory
+	image: image17.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Vereaux</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>Vaudlin’s Laboratory</nospellcheck></atom-cardname>, each player may return up to two creature cards in their graveyard to their hand.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may put a <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> counter on target creature you control.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Giulia Gentilini
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: https://www.artstation.com/artwork/oABAbL?collection_id=1114430
+	time_created: 2025-02-19 22:43:11
+	time_modified: 2025-02-24 19:47:25
+	name: Corgan-Ozzen Command
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Prismavera</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of each player’s upkeep, that player may <kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, look at the top twelve cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order. You lose 2 life.</margin:480:0:0>
+	illustrator: Ismail Inceoglu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: https://www.artstation.com/artwork/XBRkQD?collection_id=1114430
+	time_created: 2025-02-19 22:43:11
+	time_modified: 2025-03-23 12:49:03
+	name: Holo Arts District
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Prismavera</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Lands have “<sym-auto>3</sym-auto>: Until end of turn, this land becomes a 3/3 green Elemental creature with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. It’s still a land.”
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, return all land cards from your graveyard to the battlefield.</margin:480:0:0>
+	illustrator: Tiago Sousa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: https://www.artstation.com/artwork/qQn3QL?collection_id=1114430
+	time_created: 2025-02-19 22:43:11
+	time_modified: 2025-02-24 19:41:03
+	name: Rio Mancuna
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Prismavera</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Whenever a player casts a permanent spell that shares no card types with a permanent they control, that player draws a card.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create an X/X black Horror creature token, where X is the number of card types among cards in your graveyard.</margin:480:0:0>
+	illustrator: Thomas van den Heuvel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: https://www.artstation.com/artwork/R3N48X?collection_id=1114430
+	time_created: 2025-02-19 22:43:11
+	time_modified: 2025-02-24 19:41:06
+	name: San Jera Raceway
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Prismavera</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: The second spell each player casts each turn costs <sym-auto>2</sym-auto> less to cast.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, untap all creatures you control. After this phase, there is an additional combat phase followed by an additional main phase.</margin:480:0:0>
+	illustrator: Brandon Moore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !trx
+	time_created: 2025-02-09 13:22:09
+	time_modified: 2025-02-13 00:23:58
+	name: Ruins of Olantin
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Theros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your end step, you may pay <sym-auto>X</sym-auto>. If you do, create a token that’s a copy of a nonland permanent you control with mana value X or less.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, choose a color. Create an X/X colorless enchantment artifact creature token named Follower, where X is your <kw-0><nospellcheck><key>devotion to <param-one_word>the</param-one_word></key></nospellcheck></kw-0> chosen color.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Chloe Amiot
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !trx
+	time_created: 2025-02-09 13:22:09
+	time_modified: 2025-02-13 00:26:25
+	name: The Underworld
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Theros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player casts a spell, that player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may exile a creature card from your graveyard. If you do, create a white Aura enchantment token attached to target creature you control with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gains all activated and triggered abilities of the exiled card and gets +X/+Y, where X is equal to the exiled card’s power and Y is equal to its toughness</param-name>.</key></nospellcheck></kw-a>”</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Simeon Schaffner
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !trx
+	time_created: 2025-02-09 13:22:10
+	time_modified: 2025-03-22 23:56:34
+	name: Setessa
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Theros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of your second main phase, add <sym-auto>CC</sym-auto>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Vincent Gros
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !trx
+	time_created: 2025-02-09 13:22:11
+	time_modified: 2025-03-22 23:55:34
+	name: Akros
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Theros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <soft-line>Whenever a player attacks, creatures they control get +1/+0 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.</soft-line>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, exile up to two target creatures you control, then return them to the battlefield under their owner’s control. They gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Lidan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !old
+	time_created: 2025-03-22 22:20:23
+	time_modified: 2025-03-22 23:53:39
+	name: Boorah Depths
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Oldun</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: During each player’s ending phase, their opponents may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, draw a card, then untap up to three lands.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Hada Bagus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !old
+	time_created: 2025-03-22 22:20:23
+	time_modified: 2025-03-22 22:32:45
+	name: Mokar Valley
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Oldun</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Creature spells cost <sym-auto>1</sym-auto> less to cast.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, look at the top ten cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom in a random order.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: 진우 허
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: true
+	styling_data:
+		font_size: 14
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		!old
+		!gp
+		!check
+	time_created: 2025-03-22 22:20:23
+	time_modified: 2025-03-28 22:46:51
+	name: Whitecliff
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Oldun</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-0><nospellcheck><key><param-prefix>When you begin on or planes</param-prefix>walk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Whitecliff</nospellcheck></atom-cardname>, put a bait counter on it.
+		<kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> away from <atom-cardname><nospellcheck>Whitecliff</nospellcheck></atom-cardname>, for each bait counter on it, create a 3/3 green Yeti creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, put two bait counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Whitecliff</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Lessi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !cyb
+	time_created: 2025-02-15 12:21:12
+	time_modified: 2025-03-22 22:36:05
+	name: Heaven’s Impact
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Cybaros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Artifact creatures get +1/+1.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, up to one target creature you control becomes a copy of another target creature, except it’s an artifact in addition to its other types.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Csaba Martinak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		!cyb
+		!gp
+	time_created: 2025-02-15 12:50:27
+	time_modified: 2025-02-20 20:48:51
+	name: Lower Teqien
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Cybaros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player draws or discards a card, that player loses 1 life.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, each player with fewer than seven cards in hand draws cards equal to the difference. <kw-0><nospellcheck><key><param-prefix>Then planes</param-prefix>walk</key></nospellcheck></kw-0>.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !cyb
+	time_created: 2025-02-15 12:50:27
+	time_modified: 2025-02-21 20:06:57
+	name: Tower of the Techmagi
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Cybaros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you cast an instant or sorcery spell, untap a permanent you control. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, gain control of target permanent until end of turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Leon Tukker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !cyb
+	time_created: 2025-02-15 12:50:27
+	time_modified: 2025-03-22 23:57:56
+	name: Castle Stehlia
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Cybaros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to Castle <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Stehlia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and at the beginning of your upkeep, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		Spells cost <sym-auto>1</sym-auto> more to cast.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, untap each artifact you control, then you gain 1 life for each artifact you control.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Jayson Blasko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		!cyb
+		!addtoken RedRagtag;1;
+	time_created: 2025-02-15 12:50:27
+	time_modified: 2025-02-18 21:52:15
+	name: The Crossroads
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Cybaros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you attack, up to one target creature gets +X/+0 until end of turn, where X is the number of creature types among attacking non-Coward creatures you control.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, choose a creature type. Create a 1/1 red creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> of the chosen type.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Brandon Liao
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !cyb
+	time_created: 2025-02-15 12:50:27
+	time_modified: 2025-03-22 23:58:11
+	name: The Ozanwood
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Cybaros</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>The Ozanwood</nospellcheck></atom-cardname> and at the beginning of your upkeep, exile the top card of your library.
+		Spells cast from anywhere other than a player’s hand cost <sym-auto>1</sym-auto> less to cast.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, you may play cards exiled with The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ozanwood</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> until end of turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Julio Grimaldo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		options: 
+		font_size: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		Sillaman Tower
+		!cny
+	time_created: 2025-02-10 21:18:58
+	time_modified: 2025-03-22 22:38:05
+	name: Skycrest Estates
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Nylin</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Skycrest Estates</nospellcheck></atom-cardname> is white.
+		<kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Skycrest Estates</nospellcheck></atom-cardname> and at the beginning of your upkeep, make a pledge. <i-auto>(Create any white Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, put a +1/+1 counter on each creature you control.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Ridell Apellanes
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		Tiril Bureau Tunnels
+		!cny
+	time_created: 2025-02-10 21:18:58
+	time_modified: 2025-03-22 22:38:08
+	name: Data Channels
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Nylin</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Data Channels</nospellcheck></atom-cardname> is blue.
+		<kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Data Channels</nospellcheck></atom-cardname> and at the beginning of your upkeep, make a pledge. <i-auto>(Create any blue Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>, then return up to one noncreature card from your graveyard to your hand.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Tuomas Korpi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		
+		!cny
+	time_created: 2025-02-10 21:18:58
+	time_modified: 2025-03-22 22:38:11
+	name: Gravelgate Underpass
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Nylin</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Gravelgate Underpass</nospellcheck></atom-cardname> is black.
+		<kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Gravelgate Underpass</nospellcheck></atom-cardname> and at the beginning of your upkeep, make a pledge. <i-auto>(Create any black Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, put a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on target creature an opponent controls.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A></margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Eddie Mendoza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		Penrath Chokepoint
+		!cny
+	time_created: 2025-02-10 21:18:58
+	time_modified: 2025-03-22 22:38:16
+	name: Goldpeak Gateway
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Nylin</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Goldpeak Gateway</nospellcheck></atom-cardname> is red.
+		<kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Goldpeak Gateway</nospellcheck></atom-cardname> and at the beginning of your upkeep, make a pledge. <i-auto>(Create any red Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, teach target creature you control <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>. <i-auto>(To teach <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, put a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> counter on it. If it already has <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, put a +1/+1 counter on it instead.)</i-auto></margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Envar Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		font_size: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		Vishanki Corporate Headquarters
+		!cny
+	time_created: 2025-02-10 21:18:58
+	time_modified: 2025-03-22 22:38:21
+	name: Test Site: Syzygy
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Nylin</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<atom-cardname><nospellcheck>Test Site: Syzygy</nospellcheck></atom-cardname> is green.
+		<kw-a><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-a> to <atom-cardname><nospellcheck>Test Site: Syzygy</nospellcheck></atom-cardname> and at the beginning of your upkeep, make a pledge. <i-auto>(Create any green Clique enchantment token. If you already control a Clique, instead activate its Pledge without paying its cost.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, choose a color, then you add four mana of that color.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Volodymyr Donchenko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !ccr
+	time_created: 2025-01-14 13:29:55
+	time_modified: 2025-01-14 16:20:08
+	name: Minamo City Contest Hall
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: At the beginning of each combat, each player chooses a creature. Those creatures must attack or block this combat if able.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, each player puts a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on a creature you don’t control of their choice.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Oomura Yuusuke
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !ccr
+	time_created: 2025-01-14 16:56:07
+	time_modified: 2025-03-22 23:58:53
+	name: Mysterious Ruins
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player casts a spell, target player of their choice <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>X</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, where X is that spell’s mana value.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, exile a card from your graveyard. You may play that card until the end of your next turn.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: I<b>bui Matsumoto</b>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		https://poqu.tumblr.com/post/707279440657432576/slateport-city-market-o-i-drew-this-for
+		!ccr
+	time_created: 2025-01-14 17:12:23
+	time_modified: 2025-03-28 16:32:15
+	name: Kaina City Market
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever a player spends mana, they may <kw-0><nospellcheck><key>amass <param-name>Toys </sym>X<sym>, where</param-name> <param-number>X</param-number></key></nospellcheck></kw-0> is the amount of mana spent. They may do so only once each turn. <i-auto>(To amass Toy </sym>X<sym>, put X +1/+1 counters on an Army you control. It’s also a Toy. If you don’t control an Army, create a 0/0 black Toy Army creature token first.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, create a token that’s a copy of a token on the battlefield. For each counter on it, put a counter of that kind on the copy.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: poqu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes:
+		!ccr
+		!gp
+		!check
+	time_created: 2025-02-04 21:40:38
+	time_modified: 2025-03-28 22:43:59
+	name: Mishiro Town
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Chikyu</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key><param-prefix>When you begin on or planes</param-prefix>walk</key></nospellcheck></kw-0> to <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mishiro</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Town, each player searches their library for a basic land card, reveals it, puts it into their hand, then shuffles.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: brxne
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: !fusion
+	time_created: 2025-03-22 22:41:50
+	time_modified: 2025-03-22 22:43:14
+	name: Towashi
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Kamigawa</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-A><nospellcheck><key>Modified</key></nospellcheck> creatures you control have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature deals combat damage to a player or planeswalker, draw a card.”<atom-reminder-action> <i-auto>(Equipment, Auras you control, and counters are modifications.)</i-auto></atom-reminder-action></kw-A>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, distribute three +1/+1 counters among one, two, or three target creatures you control.</margin:480:0:0>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Kamila Szutenberg
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !got
+	time_created: 2019-09-17 03:48:27
+	time_modified: 2019-10-02 00:43:00
+	name: Clue
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Clue</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text: <sym-auto>2</sym-auto>, Sacrifice this artifact: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Greg Bobrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		https://www.pixiv.net/en/artworks/124796258
+		!got
+	time_created: 2025-03-22 23:01:39
+	time_modified: 2025-03-22 23:06:36
+	card_color: red
+	name: Weasel
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Weasel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: kumolin33
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		https://www.pixiv.net/en/artworks/124796258
+		!got
+	time_created: 2025-03-22 23:01:39
+	time_modified: 2025-03-22 23:06:02
+	card_color: blue
+	name: Crocodile
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Crocodile</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: kumolin33
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		https://www.pixiv.net/en/artworks/120761849
+		!got
+	time_created: 2025-03-22 23:01:39
+	time_modified: 2025-03-22 23:10:05
+	card_color: green
+	name: Plant
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: aKira
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!exportname red Yeti
+		!got
+	time_created: 2025-03-22 23:11:56
+	time_modified: 2025-03-23 00:22:36
+	card_color: red
+	name: Yeti
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Yeti</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Alex Carbonneau
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !exportname Umbra Aura
+	time_created: 2025-03-22 23:12:37
+	time_modified: 2025-03-23 00:27:01
+	name: Aura
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>permanent</param-name></key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Umbra armor</key></nospellcheck><atom-reminder-expert> <i-auto>(If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Kyle Pearson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !exportname Glory Aura
+	time_created: 2025-03-22 23:12:37
+	time_modified: 2025-03-23 00:25:16
+	name: Aura
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +2/+2.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: Vassilios Bayiokos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !got
+	time_created: 2025-03-22 23:34:24
+	time_modified: 2025-03-23 00:28:48
+	card_color: blue
+	name: Drake
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Drake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Katinka Thorondor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !got
+	time_created: 2020-07-25 19:16:38
+	time_modified: 2025-03-23 00:36:39
+	name: Blood
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Blood</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Martin Schrimpel
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design: Bergland
+	copyright_2: Design: Bergland
+	copyright_3: Design: Bergland
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !got
+	time_created: 2025-03-22 23:37:53
+	time_modified: 2025-03-23 00:27:24
+	card_color: white, blue, black, multicolor, horizontal
+	name: Noble
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Noble</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <i-auto>(This creature is white, blue, and black.)</i-auto>
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Natalia Romero Núñez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: tall
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!exportname Bestow Aura
+		!got
+	time_created: 2025-03-22 23:40:54
+	time_modified: 2025-03-23 00:24:53
+	name: Aura
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gains all activated and triggered abilities of the exiled card and gets +X/+Y, where X is equal to the exiled card’s power and Y is equal to its toughness.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: ANDREW NGOVVO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		https://www.pixiv.net/en/artworks/93029528
+		!got
+	time_created: 2025-03-22 23:44:09
+	time_modified: 2025-03-23 00:44:44
+	card_color: black
+	name: Toy Army
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Toy</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Army</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: ささ茶
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 17:16:42
+	time_modified: 2025-04-05 23:09:46
+	name: Cessasion Zone
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Weft</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you roll a blank on the planar die, you may exile a permanent you control until the next time a player <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>planeswalks</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, exile up to one target nonland permanent until the next time a player <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>planeswalks</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:480:0:0>
+	illustrator: Finnian MacManus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 17:16:42
+	time_modified: 2025-04-11 19:36:52
+	name: Fourblade Loop
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Weft</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you cast a spell, if you control a permanent with greater mana value, you may copy it. You may choose new targets for the copy. Do so only only once during each of your turns.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, exile the top three cards of your library. You may play those cards this turn.</margin:480:0:0>
+	illustrator: Artem Katalkin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 20:55:46
+	time_modified: 2025-04-06 17:05:39
+	name: The Glitchlands
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Weft</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you roll a blank on the planar die, you may sacrifice a nonland permanent. If you do, you draw a card and gain 2 life.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, choose a nonland permanent. Each player creates a token that’s a copy of that permanent, except it isn’t legendary.</margin:480:0:0>
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 18:48:47
+	time_modified: 2025-04-11 19:38:21
+	name: Iteratorium
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Weft</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key><param-prefix>When you begin on or planes</param-prefix>walk</key></nospellcheck></kw-0> to <atom-cardname><nospellcheck>Iteratorium</nospellcheck></atom-cardname>, each player creates <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Noop</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 3/3 <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>colorles</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Construct artifact creature token with <kw-0><nospellcheck><key>defender</key></nospellcheck></kw-0>.
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, target Construct you control gets +2/+2 and gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn, and can attack as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> this turn.</margin:480:0:0>
+	illustrator: Leon Tukker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 18:11:12
+	time_modified: 2025-04-11 19:39:07
+	name: Nascent Virtualization
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-plane-en>Weft</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-0><nospellcheck><key>When you planeswalk</key></nospellcheck></kw-0> away from <atom-cardname><nospellcheck>Nascent Virtualization</nospellcheck></atom-cardname>, each player creates an enchantment token named Access with “<sym-auto>2</sym-auto>, Sacrifice this token: Chaos ensues. Activate only as a sorcery.”
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, <kw-0><nospellcheck><key>planeswalk</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key><param-prefix>then you may planes</param-prefix>walk</key></nospellcheck></kw-0> again.</margin:480:0:0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Samtheconceptartist
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-planes
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2025-03-28 17:16:39
+	time_modified: 2025-04-02 05:44:15
+	name: The Overflow Sea
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Plane</word-list-type-en>
+	sub_type: <word-list-plane-en>Weft</word-list-plane-en><soft><atom-sep> </atom-sep></soft><word-list-plane-en></word-list-plane-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Creature spells have <kw-0><nospellcheck><key>affinity for <param-name>enchantments</param-name>.</key></nospellcheck></kw-0> <i-auto>(They cost <sym-auto>1</sym-auto> less to cast for each enchantment their controller controls.)</i-auto>
+	rule_text_2: <margin:480:0:0>Whenever chaos ensues, cache up to two cards from your graveyard. <i-auto>(Exile them. For each of them, create a Memory enchantment token with “<sym-auto>2</sym-auto>, Sacrifice this: You may play the cached card this turn.”)</i-auto></margin:480:0:0>
+	illustrator: Fabian Cobos
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+keyword:
+	keyword: 
+	match: planeswalk
+	reminder: 
+	rules: 
+	mode: core
+keyword:
+	keyword: 
+	match: When you planeswalk
+	reminder: 
+	rules: 
+	mode: core
+version_control:
+	type: none
+apprentice_code: 

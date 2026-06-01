@@ -8175,14 +8175,15 @@ card:
 		overlay: 
 	notes:
 		Art Validated
+		 nerfed: Was {1}{U}, on enter look at the top three, put one in hand and the rest in grave.
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-10-30 00:53:05
+	time_modified: 2026-05-30 22:28:15
 	card_color: blue
 	card_color_2: blue
 	name: Research Grant
 	name_2: Progress
-	casting_cost: 1U
+	casting_cost: 2U
 	transformation: custom symbol one
 	transformation_2: custom symbol two
 	image: image4
@@ -8203,7 +8204,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+	level_1_text: When Research Grant enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, you may return a noncreature, nonland card from your graveyard to your hand.
 	level_2_text: You’ve cast two or more spells this turn.
 	level_3_text: You’ve drawn two or more cards this turn.
 	illustrator: Vladislav Dostavalov
@@ -8216,7 +8217,7 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+		When Research Grant enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, you may return a noncreature, nonland card from your graveyard to your hand.
 		You’ve cast two or more spells this turn.
 		You’ve drawn two or more cards this turn.
 
@@ -11109,9 +11110,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		 nerfed: Now checks if it was cast rather than if it’s a token.
 	time_created: 2023-09-02 22:02:45
-	time_modified: 2024-02-25 21:11:02
+	time_modified: 2026-05-30 22:41:48
 	name: Survivors of the New World
 	casting_cost: 2GW
 	image: image478
@@ -11122,7 +11125,7 @@ card:
 	sub_type: <word-list-race-en>Mutant</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Survivors of the New World</nospellcheck></atom-cardname> enters, if it isn’t a token, create two tokens that are copies of it.
+		When <atom-cardname><nospellcheck>Survivors of the New World</nospellcheck></atom-cardname> enters, if you cast it, create two tokens that are copies of it.
 		When <atom-cardname><nospellcheck>Survivors of the New World</nospellcheck></atom-cardname> dies, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -12988,15 +12991,15 @@ card:
 		!promo Weft Terminal
 		!altleader {ql},{ql},{ql},{ql},{ql},{ql},
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2025-11-29 00:15:13
+	time_modified: 2026-05-30 22:28:53
 	card_color: blue
 	card_color_2: blue
 	name: Research Grant
 	name_2: Progress
-	casting_cost: 1U
+	casting_cost: 2U
 	image: image143
 	image_2: image144
-	mainframe_image: mainframe_image1.png
+	mainframe_image: mainframe_image4.png
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en>Legendary Enchantment</word-list-type-en>
@@ -13012,7 +13015,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	level_1_text: When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+	level_1_text: When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, you may return a noncreature, nonland card from your graveyard to your hand.
 	level_2_text: You’ve cast two or more spells this turn.
 	level_3_text: You’ve drawn two or more cards this turn.
 	illustrator: Leon Tukker
@@ -13027,7 +13030,7 @@ card:
 	copyright_3: Stasis
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
-		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, you may return a noncreature, nonland card from your graveyard to your hand.
 		You’ve cast two or more spells this turn.
 		You’ve drawn two or more cards this turn.
 
@@ -13290,11 +13293,12 @@ card:
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
 		  !design Stasis
+		
 	time_created: 2025-11-19 17:58:00
-	time_modified: 2026-02-28 18:12:51
+	time_modified: 2026-05-31 13:07:22
 	name: Survivors of the New World
 	casting_cost: 2GW
-	image: image151
+	image: image8.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -13713,7 +13717,6 @@ card:
 		PROMO — CNY
 		!promo Valir Bounty
 		 !design Stasis
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-05-04 15:27:11
 	name: Getaway Proxy

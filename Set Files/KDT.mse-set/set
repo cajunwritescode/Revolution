@@ -12673,9 +12673,9 @@ card:
 	notes:
 		PROMO — KDT
 		!promo Valir Bounty
-		!secret !design Provocative
+		 !design Provocative
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 20:04:10
+	time_modified: 2026-05-30 23:22:02
 	name: Pass Judgment
 	casting_cost: XU
 	image: image293
@@ -12697,7 +12697,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Maarten Pelders
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 

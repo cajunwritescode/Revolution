@@ -1965,9 +1965,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !addtoken Westvale Cult Induction Token;1
+	notes:
+		!addtoken Westvale Cult Induction Token;1
+		 nerfed: Previously was an enchantment that gave +2/+2 and created a 1/1 Human
 	time_created: 2024-08-08 17:20:34
-	time_modified: 2026-04-20 18:01:31
+	time_modified: 2026-05-30 21:19:18
 	card_color_2: white
 	name: Westvale Cult Induction
 	name_2: Faceless Procession
@@ -1979,22 +1981,22 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	super_type_2: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en>Creature</word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	sub_type_2: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
 	rule_text:
 		When this enchantment enters, you may create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature loses all abilities and has base power and toughness 3/3” attached to target creature</param-name>.</key></nospellcheck></kw-a> 
 		<sym-auto>2WW</sym-auto>: Transform this enchantment. Activate only as a sorcery.
-	rule_text_2:
-		When this permanent transforms into <atom-cardname><nospellcheck>Faceless Procession</nospellcheck></atom-cardname>, create a 1/1 white Human creature token.
-		Creatures you control with no abilities get +2/+2.
+	rule_text_2: Creatures you control with no abilities get +1/+1.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>They walk silent streets, ceaseless and unerring.</i-flavor>
+	power_2: 3
+	toughness_2: 3
 	illustrator: Karol Bem
 	illustrator_2: Nachomolina
 	card_code_text: 
@@ -2276,7 +2278,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-02-07 20:58:55
-	time_modified: 2026-04-30 13:29:11
+	time_modified: 2026-05-30 22:59:06
 	name: Demented Pyro-Alchemist
 	casting_cost: 1U
 	image: image1.png
@@ -2294,7 +2296,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		At the beginning of each combat, if you’ve cast an instant or sorcery spell this turn, create a 1/1 red Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t block.”
-		<sym-auto>1R</sym-auto>: Whenever a creature you control with power 2 or less enters this turn, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn
+		<sym-auto>1R</sym-auto>: Whenever a creature you control with power 2 or less enters this turn, that creature gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -4033,16 +4035,16 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: You may reveal a planeswalker, Eldrazi or Horror card you own from outside the game and put it into your hand. If you don’t, you lose 2 life, surveil 2, then draw two cards.
+	notes:  nerfed: Now a sorcery.
 	time_created: 2025-03-31 23:20:58
-	time_modified: 2026-04-23 17:33:37
+	time_modified: 2026-05-30 21:14:46
 	name: Beckon the Beyond
 	casting_cost: 2B
 	image: image112
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -4856,9 +4858,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!replacetoken Infused 3/3 Zombie;1
-
+	notes: !replacetoken Infused 3/3 Zombie;1
 	time_created: 2024-07-29 00:01:32
 	time_modified: 2026-05-04 15:07:40
 	name: Horrific Stitching
@@ -8661,16 +8661,19 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Midnight Hunt Planeswalker Guide
+	notes:
+		Midnight Hunt Planeswalker Guide
+		!renameof Harvesttide Procession
+		 nerfed: Now legendary.
 	time_created: 2025-01-03 02:03:53
-	time_modified: 2026-04-27 12:34:38
-	name: Harvesttide Procession
+	time_modified: 2026-05-30 21:22:31
+	name: The Harvesttide Procession
 	casting_cost: 3G
 	image: image242
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -10183,7 +10186,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2024-07-27 20:28:39
 	time_modified: 2026-05-05 19:47:37
 	card_color_2: red, green, multicolor, horizontal
@@ -13533,9 +13536,9 @@ card:
 	notes:
 		PROMO — IWH
 		!promo Valir Bounty
-		!secret !design Matt
+		 !design Matt
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 19:11:53
+	time_modified: 2026-05-30 23:20:56
 	name: Collected Thoughts
 	casting_cost: 2UU
 	image: image91
@@ -13553,9 +13556,10 @@ card:
 	rarity: rare
 	rule_text: Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom in a random order.
 	flavor_text: <i-flavor></i-flavor>
+	card_stamp: none
 	illustrator: Tatiana Pavlova
 	partition_select: after normal, main set C
-	card_code_text: 
+	card_code_text: Bounty Claimed by CovetedPeacock
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13814,11 +13818,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		!design Matt
 	time_created: 2026-05-01 00:22:50
-	time_modified: 2026-04-30 20:56:04
+	time_modified: 2026-05-30 23:26:32
 	name: Moonsilver Archangel
 	casting_cost: XXWWW
 	image: image385
@@ -13849,10 +13852,10 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Chengwei Pan
 	partition_select: after normal, main set D
-	card_code_text: 
+	card_code_text: Forever Haunting AllWhoWander
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13925,10 +13928,10 @@ card:
 		overlay: 
 	notes:
 		
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		!design Matt
 	time_created: 2026-05-01 00:22:50
-	time_modified: 2026-04-30 20:56:13
+	time_modified: 2026-05-30 23:24:39
 	name: Ash-Addled Pyromaniac
 	casting_cost: 1R
 	image: image387
@@ -13957,10 +13960,10 @@ card:
 	flavor_text_4: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Fred Augis
 	partition_select: after normal, main set D
-	card_code_text: 
+	card_code_text: Forever Haunting DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 
