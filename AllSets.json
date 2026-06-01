@@ -129862,7 +129862,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7199,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Flooded Morass",
      "number": "256",
@@ -129910,7 +129910,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7200,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Flourishing Crevasse",
      "number": "257",
@@ -130349,7 +130349,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7209,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Frostfire Geysers",
      "number": "259",
@@ -130397,7 +130397,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7210,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Fungal Mire",
      "number": "260",
@@ -130537,7 +130537,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7213,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Gloomcover Steppe",
      "number": "261",
@@ -130586,7 +130586,7 @@
      "manaCost": "{X}{B}",
      "identifiers": {
       "scryfallId": 7214,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Go for the Gut",
      "number": "91",
@@ -130927,7 +130927,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7221,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Heart of the Glade",
      "number": "262",
@@ -131364,7 +131364,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7231,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Hymn of the Overseer",
      "number": "96",
@@ -132190,7 +132190,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7247,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Lavatorn Fields",
      "number": "265",
@@ -132610,7 +132610,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7254,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Listen In",
      "number": "99",
@@ -132618,7 +132618,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Target opponent reveals their hand. You choose a creature or enchantment card from it, then choose a creature, enchantment, or battle card from their graveyard. Exile the chosen cards.",
+     "text": "Target opponent reveals their hand. You choose a creature or enchantment card from it, then choose a creature or enchantment card from their graveyard. Exile the chosen cards.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -132762,7 +132762,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7257,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Lush Oasis",
      "number": "266",
@@ -132856,7 +132856,7 @@
      "manaCost": "{6}{R}{R}",
      "identifiers": {
       "scryfallId": 7259,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Make a Break for It",
      "number": "126",
@@ -134307,7 +134307,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7289,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Planar Archives",
      "number": "60",
@@ -134351,7 +134351,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7290,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Pool of Light",
      "number": "267",
@@ -134447,7 +134447,7 @@
      "manaCost": "{1}",
      "identifiers": {
       "scryfallId": 7292,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Prized Possession",
      "number": "251",
@@ -135079,7 +135079,7 @@
      "manaCost": "{3}{U}",
      "identifiers": {
       "scryfallId": 7306,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Rooftop Observer",
      "number": "62",
@@ -137142,7 +137142,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7344,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Spiraling Canyon",
      "number": "270",
@@ -138058,7 +138058,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7363,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Swift-Step Robber",
      "number": "71",
@@ -138249,7 +138249,7 @@
      "manaCost": "{8}",
      "identifiers": {
       "scryfallId": 7367,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Tesh, Fragmented Founder",
      "number": "1",
@@ -139718,7 +139718,7 @@
      "manaCost": "{G}{U}",
      "identifiers": {
       "scryfallId": 7394,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Voice of the Old Grove",
      "number": "220",
@@ -140076,7 +140076,7 @@
      "manaCost": "{2}{G}{G}",
      "identifiers": {
       "scryfallId": 7401,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Waylen, Bloodhunter",
      "number": "183",
@@ -140702,7 +140702,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7476,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Swift-Step Robber_PRO_VLR",
      "number": "298",
@@ -140750,7 +140750,7 @@
      "manaCost": "{8}",
      "identifiers": {
       "scryfallId": 7477,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Tesh, Fragmented Founder_PRO_VLR",
      "number": "297",

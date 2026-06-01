@@ -1927,9 +1927,9 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: No longer hits battles.
+	notes: 
 	time_created: 2022-02-06 05:30:50
-	time_modified: 2026-05-30 22:15:58
+	time_modified: 2026-06-01 02:48:32
 	name: Listen In
 	casting_cost: B
 	image: image293.png
@@ -1945,7 +1945,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Target opponent reveals their hand. You choose a creature or enchantment card from it, then choose a creature, enchantment, or battle card from their graveyard. Exile the chosen cards.
+	rule_text: Target opponent reveals their hand. You choose a creature or enchantment card from it, then choose a creature or enchantment card from their graveyard. Exile the chosen cards.
 	flavor_text:
 		<i-flavor>“The illusion of privacy makes fools out of us all. Well, most of us, anyways.”<soft-line>
 		—<error-spelling:en_US>Soya</error-spelling:en_US>, elite’s assassin</soft-line></i-flavor>
@@ -6549,7 +6549,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: Used to give all spells flash.
+	notes: nerfed: Used to give all spells flash.
 	time_created: 2022-09-10 21:26:25
 	time_modified: 2026-05-30 21:16:39
 	extra_data:
@@ -7250,7 +7250,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: No longer gives three counters when ancient. Now gains flying and vigilance while ancient from native vigilance.
+	notes: nerfed: No longer gives three counters when ancient. Now gains flying and vigilance while ancient from native vigilance.
 	time_created: 2023-02-06 20:35:58
 	time_modified: 2026-05-30 22:50:44
 	extra_data:
@@ -9372,7 +9372,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: -2 changed to -3, and returns non-Elder instead of non-Spirit.
+	notes: nerfed: -2 changed to -3, and returns non-Elder instead of non-Spirit.
 	time_created: 2022-02-07 00:17:27
 	time_modified: 2026-05-30 22:37:37
 	extra_data:
@@ -9601,7 +9601,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: No longer gains first strike on muster.
+	notes: nerfed: No longer gains first strike on muster.
 	time_created: 2022-02-07 00:35:46
 	time_modified: 2026-05-30 22:48:49
 	extra_data:
@@ -9674,7 +9674,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: +1 changed to -1; 0 changed to +1 and no longer adds a stun counter; -2 changed to -3.
+	notes: nerfed: +1 changed to -1; 0 changed to +1 and no longer adds a stun counter; -2 changed to -3.
 	time_created: 2022-02-07 00:35:46
 	time_modified: 2026-05-30 21:28:30
 	extra_data:
@@ -10314,7 +10314,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: Was {1}{W}.
+	notes: nerfed: Was {1}{W}.
 	time_created: 2025-04-11 03:04:22
 	time_modified: 2026-05-30 21:23:02
 	extra_data:
@@ -10389,7 +10389,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  reworked: Was 1/2 for {W} that surveil 1’d, drew a card, or got two +1/+1 counters on respective muster triggers.
+	notes: reworked: Was 1/2 for {W} that surveil 1’d, drew a card, or got two +1/+1 counters on respective muster triggers.
 	time_created: 2026-01-17 19:10:58
 	time_modified: 2026-05-30 23:18:39
 	name: Volwood Warder
