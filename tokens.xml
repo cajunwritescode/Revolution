@@ -5347,11 +5347,9 @@ Equip {2}</text>
  <reverse-related>Gatstaf Butcher</reverse-related>
  <reverse-related>Fleshpound Stalker</reverse-related>
  <reverse-related>Gavony Watchman</reverse-related>
- <reverse-related>Harvesttide Procession</reverse-related>
  <reverse-related>Practiced Occultist</reverse-related>
  <reverse-related count="x">Rally to Thraben</reverse-related>
- <reverse-related>Westvale Cult Induction</reverse-related>
- <reverse-related>Faceless Procession</reverse-related>
+ <reverse-related>The Harvesttide Procession</reverse-related>
  <set num="IWH5" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH5.jpg?v=20260330" rarity="token">tokens</set>
 </card>
 <card>
@@ -5458,8 +5456,8 @@ This creature can't block.</text>
  <tablerow>1</tablerow>
  <reverse-related>Gavony Watchman</reverse-related>
  <reverse-related>Getander Wildlander</reverse-related>
- <reverse-related>Harvesttide Procession</reverse-related>
  <reverse-related>Hope's Trail Pilgrim</reverse-related>
+ <reverse-related>The Harvesttide Procession</reverse-related>
  <set num="IWH30" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH30.jpg?v=20260330" rarity="token">tokens</set>
 </card>
 <card>
@@ -6690,25 +6688,6 @@ Exile the top X cards of your library, where X is the sacrificed creature's powe
 			<set num="299" muid="0" picURL="https://lackeybot.com/revolution/front/299/CNY" rarity="special">CNY</set>
 		</card>
 		<card>
-			<name>End of Mutations_PRO_CCR</name>
-			<text>This spell can't be countered.
-First strike, haste
-Whenever an opponent casts a noncreature spell, if they haven't attacked this turn, End of Mutations deals 5 damage to them.</text>
-			<prop>
-				<side>front</side>
-				<manacost>3RRR</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Legendary Creature — Alien Mutant</type>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="296" muid="0" picURL="https://lackeybot.com/revolution/front/296/CCR" rarity="special">CCR</set>
-		</card>
-		<card>
 			<name>Nocturne, Monstrous Krasis_PRO_CCR</name>
 			<text>When Nocturne, Monstrous Krasis enters and at the beginning of your upkeep, put X +1/+1 counters on Nocturne, where X is the number of different kinds of counters on permanents you control.</text>
 			<prop>
@@ -6762,25 +6741,6 @@ You may cast The Queen of Brambles from your graveyard.</text>
 			<set num="299" muid="0" picURL="https://lackeybot.com/revolution/front/299/CCR" rarity="special">CCR</set>
 		</card>
 		<card>
-			<name>Warden of Depths_PRO_CCR</name>
-			<text>The first spell you cast during each of your opponent's turns cost {U}{B} less to cast.
-During each ending phase, nonland cards in your graveyard have flash and surface. The surface cost is equal to their mana cost. (You may cast a copy of it from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)
-Surface {6}{U}{U}{B}</text>
-			<prop>
-				<side>front</side>
-				<manacost>3UUB</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>UB</coloridentity>
-				<colors>UB</colors>
-				<type>Legendary Creature — Leviathan Avatar</type>
-				<pt>6/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/CCR" rarity="special">CCR</set>
-		</card>
-		<card>
 			<name>Catabolist_PRO_ERR</name>
 			<text>When this creature dies, create a black Subroutine enchantment token named TICK() with “Whenever this Subroutine runs, each opponent loses 1 life and you gain 1 life.” (Insert it into one of your three programs.)
 {1}{B}: Return this card from your graveyard to the battlefield tapped. Activate only if a card left your graveyard this turn.</text>
@@ -6815,23 +6775,6 @@ Whenever you cast a spell, if its mana value is greater than Halana and Alena's 
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="331" muid="0" picURL="https://lackeybot.com/revolution/front/331/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Pass Judgment_PRO_KDT</name>
-			<text>This spell costs {1} less to cast for each tapped creature you control.
-Counter target spell unless its controller pays {X}.</text>
-			<prop>
-				<side>front</side>
-				<manacost>XU</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="336" muid="0" picURL="https://lackeybot.com/revolution/front/336/KDT" rarity="special">KDT</set>
 		</card>
 		<card>
 			<name>Spiteful Banditry_PRO_KDT</name>
@@ -7050,41 +6993,6 @@ Whenever Mercenary of Dusk enters or attacks, any number of target players each 
 			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/SOL" rarity="special">SOL</set>
 		</card>
 		<card>
-			<name>Ash-Addled Pyromaniac_PRO_IWH</name>
-			<text>When this creature dies, choose one —
-• Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
-• Create a red Ardor enchantment token with “Sacrifice this token: Target creature gets +1/+0 and gains haste until end of turn.”</text>
-			<prop>
-				<side>front</side>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Human Peasant</type>
-				<pt>3/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/IWH" rarity="special">IWH</set>
-		</card>
-		<card>
-			<name>Collected Thoughts_PRO_IWH</name>
-			<text>Look at the top six cards of your library. Put one of those cards into your hand, then you may cast an instant or sorcery card with mana value 3 or less from among the cards without paying its mana cost. Put the rest on the bottom in a random order.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="314" muid="0" picURL="https://lackeybot.com/revolution/front/314/IWH" rarity="special">IWH</set>
-		</card>
-		<card>
 			<name>Darkthicket Howler_PRO_IWH</name>
 			<text>{T}: Add {R} or {G}.
 {1}, {T}: Whenever target savage creature you control deals combat damage to a player this turn, draw a card. Activate only as a sorcery. (A creature is savage if it's transformed or has power greater than its base power.)</text>
@@ -7174,27 +7082,6 @@ Whenever Lidern attacks, you may remove a counter from any number of creatures y
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="323" muid="0" picURL="https://lackeybot.com/revolution/front/323/IWH" rarity="special">IWH</set>
-		</card>
-		<card>
-			<name>Moonsilver Archangel_PRO_IWH</name>
-			<text>Flash
-Flying
-When this creature enters, choose X. You may choose the same mode more than once.
-• Create a Monument token. (An artifact with “Creatures you control get +1/+1.”)
-• Create a Cloister token. (A white enchantment with “When this enters, exile target nonland permanent until this leaves.”)</text>
-			<prop>
-				<side>front</side>
-				<manacost>XXWWW</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Angel</type>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="319" muid="0" picURL="https://lackeybot.com/revolution/front/319/IWH" rarity="special">IWH</set>
 		</card>
 		<card>
 			<name>Mysteries of the Forbidden_PRO_IWH</name>
@@ -7509,22 +7396,6 @@ When this creature enters, surveil 1.
 			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
-			<name>Strangle_PRO_VLR</name>
-			<text>Strangle deals 3 damage to target creature or planeswalker.</text>
-			<prop>
-				<side>front</side>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="288" muid="0" picURL="https://lackeybot.com/revolution/front/288/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
 			<name>Sunset Sentries_PRO_VLR</name>
 			<text>This spell costs {1} less to cast for each spell you've cast this turn.
 When this creature enters, draw a card.</text>
@@ -7541,47 +7412,6 @@ When this creature enters, draw a card.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="281" muid="0" picURL="https://lackeybot.com/revolution/front/281/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Swift-Step Robber_PRO_VLR</name>
-			<text>Flash
-Flying
-This creature can't block.
-When this creature enters, put a robbed counter on up to one other target creature.
-Creatures with robbed counters on them have base power and toughness 2/1, have flying and “This creature can't block” and lose all other abilities.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Creature — Human Rogue</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="284" muid="0" picURL="https://lackeybot.com/revolution/front/284/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Tesh, Fragmented Founder_PRO_VLR</name>
-			<text>When Tesh enters, exile all double-faced nonland permanents.
-[+2]: Tesh deals 3 damage to any target. You gain 3 life.
-[-3]: Each opponent discards two cards and you draw two cards.
-[-5]: For each opponent, choose up to one target nonland permanent that player controls. Gain control of those permanents.</text>
-			<prop>
-				<side>front</side>
-				<manacost>8</manacost>
-				<cmc>8</cmc>
-				<layout>normal</layout>
-				<maintype>Planeswalker</maintype>
-				<coloridentity></coloridentity>
-				<colors></colors>
-				<type>Legendary Planeswalker — Tesh</type>
-				<loyalty>6</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="278" muid="0" picURL="https://lackeybot.com/revolution/front/278/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>The Great Singularity_PRO_VLR</name>
@@ -7635,24 +7465,6 @@ Whenever you discard a creature card, you may exile that card from your graveyar
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="298" muid="0" picURL="https://lackeybot.com/revolution/front/298/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Vie's Lieutenant_PRO_VLR</name>
-			<text>First strike
-Muster — Whenever you cast a creature spell, this creature gets +1/+0 until end of turn. If this is the second time this ability has resolved this turn, instead all nontoken creatures you control get +1/+0 until end of turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Cat Rebel</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Wanton Destruction_PRO_VLR</name>
