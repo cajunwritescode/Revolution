@@ -16231,7 +16231,7 @@
      "colorIdentity": [
       "U"
      ],
-     "designer": "Stasis",
+     "designer": "false",
      "flavor": "",
      "frameType": "dfc-normal-normal",
      "frameVersion": "2015",
@@ -16249,7 +16249,7 @@
      "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 4769,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Research Grant // Progress",
      "faceName": "Research Grant",
@@ -16266,7 +16266,7 @@
      "subtypes": [
       "Policy"
      ],
-     "text": "(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)\nWhen Research Grant enters, mill four cards. When you do, you may return a noncreature, nonland card from your graveyard to your hand.\n{ql} — You've cast two or more spells this turn.\n{ql} — You've drawn two or more cards this turn.",
+     "text": "(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)\nWhen Research Grant enters, mill four cards. When you do, return target noncreature, nonland card from your graveyard to your hand.\n{ql} — You've cast two or more spells this turn.\n{ql} — You've drawn two or more cards this turn.",
      "type": "Enchantment — Policy",
      "types": [
       "Enchantment"
@@ -16284,7 +16284,7 @@
      "colorIdentity": [
       "U"
      ],
-     "designer": "Stasis",
+     "designer": "false",
      "flavor": "",
      "frameType": "dfc-normal-normal",
      "frameVersion": "2015",
@@ -16302,7 +16302,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 4769,
-      "multiverseId": 20260431
+      "multiverseId": 20260501
      },
      "name": "Research Grant // Progress",
      "faceName": "Progress",
@@ -21122,10 +21122,10 @@
     },
     {
      "artist": "Leon Tukker",
-     "convertedManaCost": 2,
-     "faceConvertedManaCost": 2,
-     "manaValue": 2,
-     "faceManaValue": 2,
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
      "colors": [
       "U"
      ],
@@ -21147,10 +21147,10 @@
       "planechase": "Legal",
       "archaeologist": "Legal"
      },
-     "manaCost": "{1}{U}",
+     "manaCost": "{2}{U}",
      "identifiers": {
       "scryfallId": 5947,
-      "multiverseId": 0
+      "multiverseId": 20260501
      },
      "name": "Research Grant_PRO_CNY // Progress_PRO_CNY",
      "faceName": "Research Grant_PRO_CNY",
@@ -21167,7 +21167,7 @@
      "subtypes": [
       "Policy"
      ],
-     "text": "(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)\nWhen Research Grant enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.\n{ql} — You've cast two or more spells this turn.\n{ql} — You've drawn two or more cards this turn.",
+     "text": "(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)\nWhen Research Grant enters, mill four cards. When you do, return target noncreature, nonland card from your graveyard to your hand.\n{ql} — You've cast two or more spells this turn.\n{ql} — You've drawn two or more cards this turn.",
      "type": "Enchantment — Policy",
      "types": [
       "Enchantment"
@@ -21179,10 +21179,6 @@
     },
     {
      "artist": "Leon Tukker",
-     "convertedManaCost": 2,
-     "faceConvertedManaCost": 2,
-     "manaValue": 2,
-     "faceManaValue": 2,
      "colors": [
       "U"
      ],
@@ -21207,7 +21203,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5947,
-      "multiverseId": 0
+      "multiverseId": 20260501
      },
      "name": "Research Grant_PRO_CNY // Progress_PRO_CNY",
      "faceName": "Progress_PRO_CNY",
@@ -130568,7 +130564,7 @@
      "colorIdentity": [
       "B"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "SilverParabellum",
      "flavor": "“Vital organs, precision... where's the pain? I'd rather feel them suffer.”\n—Torvel, feared hunter\n",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -131346,7 +131342,7 @@
      "colorIdentity": [
       "B"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "SilverParabellum",
      "flavor": "“A moment of pain is all you need to end a lifetime of suffering.”\n—Symi, first apostle\n",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -132592,7 +132588,7 @@
      "colorIdentity": [
       "B"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "PTM",
      "flavor": "“The illusion of privacy makes fools out of us all. Well, most of us, anyways.”\n—Soya, elite's assassin\n",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -132838,7 +132834,7 @@
      "colorIdentity": [
       "R"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "PTM",
      "flavor": "“We're almost outta here, just keep up!”\n—Turen, heist planner\n",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -134289,7 +134285,7 @@
      "colorIdentity": [
       "U"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "PTM & DrChipmunk",
      "flavor": "Ifaris shut out the world, seeking others beyond.\n",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -134429,7 +134425,7 @@
      "faceManaValue": 1,
      "colors": [],
      "colorIdentity": [],
-     "designer": "CovetedPeacock",
+     "designer": "SilverParabellum",
      "flavor": "",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -135061,7 +135057,7 @@
      "colorIdentity": [
       "U"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "PTM",
      "flavor": "",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -138040,7 +138036,7 @@
      "colorIdentity": [
       "U"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "DrChipmunk",
      "flavor": "",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -138230,7 +138226,7 @@
      "faceManaValue": 8,
      "colors": [],
      "colorIdentity": [],
-     "designer": "CovetedPeacock",
+     "designer": "DrChipmunk",
      "flavor": "",
      "frameType": "tallplaneswalker",
      "frameVersion": "2015",
@@ -139700,7 +139696,7 @@
       "G",
       "U"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "SilverParabellum",
      "flavor": "",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -140058,7 +140054,7 @@
       "G",
       "B"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "PTM",
      "flavor": "",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -140684,7 +140680,7 @@
      "colorIdentity": [
       "U"
      ],
-     "designer": "CovetedPeacock",
+     "designer": "DrChipmunk",
      "flavor": "",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -140731,7 +140727,7 @@
      "faceManaValue": 8,
      "colors": [],
      "colorIdentity": [],
-     "designer": "CovetedPeacock",
+     "designer": "DrChipmunk",
      "flavor": "",
      "frameType": "tallplaneswalker",
      "frameVersion": "2015",
