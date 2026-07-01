@@ -10777,6 +10777,7 @@ card:
 		overlay: 
 	notes:
 		PROMO
+		
 		!promo Valir Bounty
 		 !design DrChipmunk
 	time_created: 2022-02-07 00:29:36
@@ -10849,7 +10850,7 @@ card:
 		!secret !design CovetedPeacock
 		!append  (It’s a 0/1 white and black Warlock creature with “1, Sacrifice this token: Surveil 1.”)
 	time_created: 2022-02-06 05:31:01
-	time_modified: 2026-04-27 20:39:13
+	time_modified: 2026-06-30 21:23:31
 	name: Forsaken Penitents
 	casting_cost: 1W
 	image: image7
@@ -10864,7 +10865,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text: Whenever a token you control enters, create an <kw-A><nospellcheck><key>Acolyte toke<param-*s>n</param-*s></key></nospellcheck>. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(It’s a 0/1 white and black Warlock creature with “<sym>1</sym>, Sacrifice this token: Surveil 1.”)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -10896,7 +10897,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2025-04-11 03:04:22
-	time_modified: 2026-04-10 11:26:27
+	time_modified: 2026-06-30 21:24:08
 	name: The Great Singularity
 	casting_cost: 2WWW
 	image: image11
@@ -10911,7 +10912,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		Whenever a creature you control enters, attacks, or dies, you gain 1 life.
 		At the beginning of your upkeep, if you have 50 or more life, you win the game.
@@ -10941,9 +10942,9 @@ card:
 	notes:
 		PROMO
 		!promo Valir Bounty
-		!secret !design CovetedPeacock
+		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-05-30 23:23:00
+	time_modified: 2026-06-30 21:23:01
 	name: Sunset Sentries
 	casting_cost: 2W
 	image: image13
@@ -10958,6 +10959,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	rarity: special
 	rule_text:
 		This spell costs <sym-auto>1</sym-auto> less to cast for each spell you’ve cast this turn.
 		When this creature enters, draw a card.
@@ -10989,7 +10991,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 19:00:51
+	time_modified: 2026-06-30 21:23:20
 	name: Jump the Gap
 	casting_cost: 1U
 	image: image16
@@ -11004,7 +11006,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
+	rarity: special
 	rule_text: Exile target creature you own. For as long as that card remains exiled, you may cast it without paying its mana cost. At the beginning of your next end step, if that card is still exiled, return it to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Joshua Clarke
@@ -11032,7 +11034,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2025-08-11 17:44:38
-	time_modified: 2026-04-30 19:01:31
+	time_modified: 2026-06-30 21:23:46
 	name: On Top of the World
 	casting_cost: 2UU
 	image: image21
@@ -11047,7 +11049,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text: Choose a creature. Return the rest to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
 	flavor_text:
 		<i-flavor>“You chose wealth, respect, and power. You chased it with every waking moment. You knew who you were leaving behind. Do you still think it was all worth it?”<soft-line>
@@ -11074,6 +11076,7 @@ card:
 		overlay: 
 	notes:
 		PROMO
+		
 		!promo Valir Bounty
 		 !design DrChipmunk
 	time_created: 2026-04-26 15:41:16
@@ -11131,7 +11134,7 @@ card:
 		!secret !design CovetedPeacock
 		!append  (You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-28 19:32:57
+	time_modified: 2026-06-30 21:23:06
 	name: Become the Hunted
 	casting_cost: 1B
 	image: image25
@@ -11146,7 +11149,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
+	rarity: special
 	rule_text:
 		Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 		<kw-A><nospellcheck><key>Pursuit <param-cost><sym-auto>1BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast a copy of this card from your graveyard for its pursuit cost by exiling it and sacrificing a nonland permanent.)</i-auto></atom-reminder-custom></kw-A>
@@ -11176,7 +11179,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2022-02-06 22:25:00
-	time_modified: 2026-04-30 19:03:20
+	time_modified: 2026-06-30 21:24:12
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: It/Its
@@ -11194,7 +11197,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
 		Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token that’s a copy of it, except it’s a 0/1 Warlock and it has “<sym>1</sym>, Sacrifice this creature: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.”
@@ -11231,7 +11234,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-29 22:28:34
+	time_modified: 2026-06-30 21:23:39
 	name: League of Their Own
 	casting_cost: 3BB
 	image: image29
@@ -11246,7 +11249,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		Whenever this creature enters or attacks, exile up to one target card from a graveyard. If a creature card is exiled this way, you gain 3 life. If a land card is exiled this way, you create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. If a noncreature, nonland card is exiled this way, draw a card.
@@ -11276,6 +11279,7 @@ card:
 		overlay: 
 	notes:
 		PROMO
+		
 		!promo Valir Bounty
 		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
@@ -11322,7 +11326,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-29 01:59:05
+	time_modified: 2026-06-30 21:23:54
 	name: Unending Unrest
 	casting_cost: 2RR
 	image: image33
@@ -11337,7 +11341,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text:
 		As this enchantment enters, choose a creature type.
 		Whenever a creature you control of the chosen type enters, it deals damage equal to its power to any target.
@@ -11364,6 +11368,7 @@ card:
 		overlay: 
 	notes:
 		PROMO
+		
 		!promo Valir Bounty
 		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
@@ -11415,7 +11420,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-30 19:05:20
+	time_modified: 2026-06-30 21:23:27
 	name: Call of the Grove
 	casting_cost: 4GGG
 	image: image38
@@ -11430,7 +11435,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text:
 		As this enchantment enters, choose a creature type.
 		When this enchantment enters and at the beginning of your upkeep, reveal the top five cards of your library. You may put a creature card of the chosen type or a land card from among them onto the battlefield, then put the rest on the bottom in a random order.
@@ -11460,7 +11465,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2024-04-19 20:34:42
-	time_modified: 2026-05-04 15:15:47
+	time_modified: 2026-06-30 21:23:43
 	name: Leybound Ritualist
 	casting_cost: 2G
 	image: image40
@@ -11475,7 +11480,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text:
 		Lands you control enter untapped.
 		<sym-auto>3GGG</sym-auto>: Reveal the top three cards of your library. Put any number of permanent cards from among them into your hand and the rest on the bottom in a random order.
@@ -11510,7 +11515,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-29 00:30:40
+	time_modified: 2026-06-30 21:23:24
 	name: Shroudpiercer
 	casting_cost: G
 	image: image43
@@ -11525,7 +11530,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
 		When this creature enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
@@ -11558,7 +11563,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-01-16 20:57:49
-	time_modified: 2026-04-26 16:03:39
+	time_modified: 2026-06-30 21:24:04
 	name: Avarice
 	casting_cost: 2BBRR
 	image: image45
@@ -11573,7 +11578,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 		<margin:0:0:5>Whenever this creature enters or attacks, choose two —</margin:0:0:5>
@@ -11609,7 +11614,7 @@ card:
 		!secret !design CovetedPeacock
 		!inpend library./add/ (You’re ancient as long as you have eight or more total lands in play or in your graveyard.)
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-29 21:13:27
+	time_modified: 2026-06-30 21:23:13
 	name: Glimpse the Worldsoul
 	casting_cost: GU
 	image: image47
@@ -11624,7 +11629,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
+	rarity: special
 	rule_text:
 		Return target card from your graveyard to your hand. Then if you’re <kw-A><nospellcheck><key>ancient</key></nospellcheck>, you may put a card from your graveyard on top of your library.<atom-reminder-custom> <i-auto>(You’re ancient as long as you have eight or more total lands in play or in your graveyard.)</i-auto></atom-reminder-custom></kw-A>
 		Exile <atom-cardname><nospellcheck>Glimpse the Worldsoul</nospellcheck></atom-cardname>.
@@ -11657,7 +11662,7 @@ card:
 		!secret !design CovetedPeacock
 		!inpend [{]R[}]/add/ (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 	time_created: 2022-02-06 05:30:50
-	time_modified: 2026-04-30 19:07:15
+	time_modified: 2026-06-30 21:23:16
 	name: Grand Larceny
 	casting_cost: UR
 	image: image49
@@ -11672,7 +11677,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
+	rarity: special
 	rule_text:
 		<kw-0><nospellcheck><key>Spectacle <param-cost><sym-auto>UR</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<margin:0:0:5>Choose one. If this spell’s spectacle cost was paid, choose both instead.</margin:0:0:5>
@@ -11709,7 +11714,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2025-04-11 03:04:22
-	time_modified: 2026-04-30 19:07:57
+	time_modified: 2026-06-30 21:23:50
 	name: Profane Scripture
 	casting_cost: 2WB
 	image: image51
@@ -11725,7 +11730,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text: Search your library for a card, exile it face down, then shuffle. You may cast the exiled card by sacrificing a number of creatures equal to its mana value rather than paying its mana cost. Put the exiled card into your hand if it wasn’t cast this way.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Carlos Cabrera
@@ -11751,9 +11756,9 @@ card:
 	notes:
 		PROMO
 		!promo Valir Bounty
-		!secret !design CovetedPeacock
+		 !design CovetedPeacock
 	time_created: 2022-02-06 23:55:33
-	time_modified: 2026-04-30 14:12:42
+	time_modified: 2026-06-30 21:21:58
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: 
@@ -11771,7 +11776,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text:
 		Creature tokens can’t block.
 		Whenever you attack, you may discard a card. If you do, draw a card.
@@ -11781,7 +11786,7 @@ card:
 	toughness: 3
 	illustrator: Guilherme Santana
 	partition_select: after normal, main set B
-	card_code_text: 
+	card_code_text: Bounty Claimed by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Unofficial — NFS
@@ -11807,7 +11812,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2025-04-11 03:04:22
-	time_modified: 2026-04-07 14:04:23
+	time_modified: 2026-06-30 21:24:00
 	name: Wanton Destruction
 	casting_cost: 3BBG
 	image: image56
@@ -11822,7 +11827,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text: Each player sacrifices all nonland permanents they control. You may return a permanent card you own sacrificed this way from your graveyard to your hand.
 	flavor_text:
 		<i-flavor>“I offer no peace but that which is given to the dead.”<soft-line>
@@ -11852,7 +11857,7 @@ card:
 		!promo Valir Bounty
 		!secret !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-05-01 01:14:25
+	time_modified: 2026-06-30 21:23:35
 	name: Heart of Bedlam
 	casting_cost: 6
 	image: image59
@@ -11867,7 +11872,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: special
 	rule_text: At the beginning of your end step, you may sacrifice three nonland permanents. If you do, create a 5/5 red Skeleton Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Y - mir
@@ -11892,6 +11897,7 @@ card:
 		overlay: 
 	notes:
 		PROMO
+		
 		!promo Valir Bounty
 		 !design CovetedPeacock
 	time_created: 2026-04-26 15:41:16
@@ -11981,6 +11987,7 @@ card:
 	notes:
 		 !promo Innistrad Haunt
 		!design CovetedPeacock
+		
 	time_created: 2026-04-28 22:13:11
 	time_modified: 2026-05-04 15:32:26
 	name: Solemn Procession
@@ -12030,6 +12037,7 @@ card:
 	notes:
 		 !promo Innistrad Haunt
 		!design CovetedPeacock
+		
 	time_created: 2026-04-28 22:13:11
 	time_modified: 2026-05-04 15:29:57
 	name: Exultant Shepherd
@@ -12078,6 +12086,7 @@ card:
 	notes:
 		 !promo Innistrad Haunt
 		!design CovetedPeacock
+		
 	time_created: 2026-04-28 22:13:11
 	time_modified: 2026-05-04 15:32:01
 	name: Shape the Pattern

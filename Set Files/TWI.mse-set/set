@@ -4311,7 +4311,6 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth 
-		
 	time_created: 2025-06-10 00:06:12
 	time_modified: 2026-05-30 21:15:36
 	name: Discern
@@ -6331,14 +6330,14 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		 nerfed: Now an enchantment
+		 nerfed: Was {1}{W}.
 		!tag Twiltrie
 		!tag Sunvrath
 		3
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2026-04-30 13:37:35
+	time_modified: 2026-06-30 16:21:50
 	name: Advance of the Sainted March
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image31.png
 	image_2: 
 	mainframe_image: 
@@ -12665,12 +12664,12 @@ card:
 		
 		!replacetoken Weftserker;2;Weftserker;1;
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2026-04-30 13:56:34
+	time_modified: 2026-06-30 22:07:55
 	name: Advance of the Sainted March
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image14
 	image_2: 
-	mainframe_image: mainframe_image3.png
+	mainframe_image: mainframe_image8.png
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment Battle</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
@@ -13540,11 +13539,10 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	notes:
-		
-		!secret !promo Innistrad Haunt
+		  !promo Innistrad Haunt
 		 !design Zangy
 	time_created: 2026-04-20 21:10:19
-	time_modified: 2026-04-30 21:10:19
+	time_modified: 2026-06-30 21:28:30
 	name: Vardo's Scalpel
 	casting_cost: B
 	image: image46
@@ -13566,10 +13564,9 @@ card:
 	level_2_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
-	card_stamp: standard
 	illustrator: Diana Franco
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Forever Haunting magmadragon3
 	card_code_text_2: 
 	card_code_text_3: 
 

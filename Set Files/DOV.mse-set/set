@@ -4237,7 +4237,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: Was {U} and could flicker planeswalkers. Can now put a +1/+1 counter on a creature.
+	notes: nerfed: Was {U} and could flicker planeswalkers. Can now put a +1/+1 counter on a creature.
 	time_created: 2020-06-18 15:03:21
 	time_modified: 2026-04-22 15:33:22
 	name: Experimental Flight
@@ -12147,9 +12147,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		!secret  !design Matt & Chumbeque
+		  !design Matt & Chumbeque
 	time_created: 2020-06-17 16:03:14
-	time_modified: 2025-11-28 22:54:50
+	time_modified: 2026-06-30 21:12:58
 	name: Treasury Pilferer
 	casting_cost: 1G
 	image: image350
@@ -12167,7 +12167,7 @@ card:
 	toughness: 3
 	illustrator: Spareribs
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by ItaiUukl
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: © Wizards of the Coast and Matt

@@ -240,7 +240,6 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Equanimity</reverse-related>
  <reverse-related>Hyomon, Cloud Conductor</reverse-related>
  <reverse-related>Jun, Twinblade Master</reverse-related>
- <reverse-related>Natori Skyblade</reverse-related>
  <reverse-related>Vengeful Artificer</reverse-related>
  <reverse-related>Wisping Kirin</reverse-related>
  <reverse-related>Ambassador of Unseen Edges</reverse-related>
@@ -502,6 +501,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Red-Hot Rider</reverse-related>
  <reverse-related>Schematic Archer</reverse-related>
  <reverse-related>The Weftheart</reverse-related>
+ <reverse-related>Aonuma, Princely Traveler</reverse-related>
  <reverse-related>Ayeshi, Time's Jailer</reverse-related>
  <reverse-related>Ayeshi's Agent</reverse-related>
  <reverse-related>Deepborn Calamity</reverse-related>
@@ -614,6 +614,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Martyrize_PRO_CNY</reverse-related>
  <reverse-related>Crumbling Tower_PRO_CCR</reverse-related>
  <reverse-related>Red-Hot Rider_PRO_ERR</reverse-related>
+ <reverse-related>Aonuma, Princely Traveler_PRO_KDT</reverse-related>
  <reverse-related>Ayeshi, Time's Jailer_PRO_KDT</reverse-related>
  <reverse-related>Giyama, Scion of Kage_PRO_KDT</reverse-related>
  <reverse-related>Koraja, the Broken Blade_PRO_KDT</reverse-related>
@@ -3898,6 +3899,7 @@ When enchanted permanent dies, you draw two cards.</text>
  <tablerow>1</tablerow>
  <reverse-related>Architect of the Intangible</reverse-related>
  <reverse-related>Assert Mediator</reverse-related>
+ <reverse-related>Buoyant Datagrazer</reverse-related>
  <reverse-related>Cache Thrasher</reverse-related>
  <reverse-related>Carefree Mortalist</reverse-related>
  <reverse-related>Ecosystem Revivalists</reverse-related>
@@ -4139,6 +4141,7 @@ If you control a Subroutine, move to your next program as your first main phase 
  <reverse-related count="2">BYPASS()</reverse-related>
  <reverse-related>Catch Constable</reverse-related>
  <reverse-related>Centennial Maestro</reverse-related>
+ <reverse-related>Charming Exceptional</reverse-related>
  <reverse-related count="2">Charming Exceptional</reverse-related>
  <reverse-related>Common Laser Sword</reverse-related>
  <reverse-related count="x">Complementarity</reverse-related>
@@ -4215,22 +4218,6 @@ If you control a Subroutine, move to your next program as your first main phase 
  <set num="ERR7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/ERR7.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>colorless Construct ERR</name>
- <text></text>
- <colors></colors>
- <type>Token Artifact Creature — Construct</type>
- <pt>X/X</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <reverse-related>Error Tide</reverse-related>
- <reverse-related>Irreverent Modder</reverse-related>
- <reverse-related>Menagerie Mechanic</reverse-related>
- <reverse-related>RECURSE()</reverse-related>
- <reverse-related>Virtualized Onomastic</reverse-related>
- <reverse-related>RECURSE()_PRO_ERR</reverse-related>
- <set num="ERR23" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/ERR23.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
  <name>red Warrior 22ERR</name>
  <text>Whenever this creature deals combat damage to a player, exile the top card of your library. You may play that card this turn.</text>
  <colors>R</colors>
@@ -4289,6 +4276,21 @@ If you control a Subroutine, move to your next program as your first main phase 
  <tablerow>2</tablerow>
  <reverse-related>ITERATE()</reverse-related>
  <set num="ERR24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/ERR24.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Construct ERR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Artifact Creature — Construct</type>
+ <pt>X/X</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Irreverent Modder</reverse-related>
+ <reverse-related>Menagerie Mechanic</reverse-related>
+ <reverse-related>RECURSE()</reverse-related>
+ <reverse-related>Virtualized Onomastic</reverse-related>
+ <reverse-related>RECURSE()_PRO_ERR</reverse-related>
+ <set num="ERR23" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/ERR23.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Root Node ERR</name>
@@ -4502,7 +4504,6 @@ If you control a Subroutine, move to your next program as your first main phase 
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Menreiki, the Resplendent</reverse-related>
- <reverse-related>Portal to the Spirit Realm</reverse-related>
  <reverse-related>Wandering Thrumhorn</reverse-related>
  <set num="KDT13" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/KDT13.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -6637,24 +6638,6 @@ Search your library for a card with the same mana value as the exiled card, reve
 			<set num="298" muid="0" picURL="https://lackeybot.com/revolution/front/298/CNY" rarity="special">CNY</set>
 		</card>
 		<card>
-			<name>Defect (IWH)</name>
-			<text>Enchant creature
-You control enchanted creature.
-Enchanted creature has decayed. (It can't block. When it attacks, sacrifice it at end of combat.) (It can't block. When it attacks, sacrifice it at end of combat.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1UB</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>UB</coloridentity>
-				<colors>UB</colors>
-				<type>Enchantment — Aura</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/CNY" rarity="special">CNY</set>
-		</card>
-		<card>
 			<name>Martyrize_PRO_CNY</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Exile the top X cards of your library, where X is the sacrificed creature's power. Until the end of your next turn, you may play those cards.</text>
@@ -6801,8 +6784,8 @@ Defeated — Whenever you attack, create a 1/1 red Berserker creature token that
 — ​</text>
 			<prop>
 				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<layout>normal</layout>
 				<maintype>Battle</maintype>
 				<coloridentity>W</coloridentity>
@@ -6867,24 +6850,6 @@ When Matriarch of Veiled Kin enters, reveal cards from the top of your library u
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="352" muid="0" picURL="https://lackeybot.com/revolution/front/352/TWI" rarity="special">TWI</set>
-		</card>
-		<card>
-			<name>Vardo's Scalpel_PRO_TWI</name>
-			<text>Menace
-Whenever Vardo's Scalpel attacks, it deals 2 damage to you.</text>
-			<prop>
-				<side>front</side>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Zombie Assassin</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="351" muid="0" picURL="https://lackeybot.com/revolution/front/351/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
 			<name>Voice of a Fallen Covenant_PRO_TWI</name>
@@ -7396,24 +7361,6 @@ When this creature enters, surveil 1.
 			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
-			<name>Sunset Sentries_PRO_VLR</name>
-			<text>This spell costs {1} less to cast for each spell you've cast this turn.
-When this creature enters, draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Creature — Human Rebel</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="281" muid="0" picURL="https://lackeybot.com/revolution/front/281/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
 			<name>The Great Singularity_PRO_VLR</name>
 			<text>Whenever a creature you control enters, attacks, or dies, you gain 1 life.
 At the beginning of your upkeep, if you have 50 or more life, you win the game.</text>
@@ -7446,25 +7393,6 @@ Whenever a creature you control of the chosen type enters, it deals damage equal
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="289" muid="0" picURL="https://lackeybot.com/revolution/front/289/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Valiant Firebrand_PRO_VLR</name>
-			<text>Creature tokens can't block.
-Whenever you attack, you may discard a card. If you do, draw a card.
-Whenever you discard a creature card, you may exile that card from your graveyard. If you do, you may play that card this turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RW</coloridentity>
-				<colors>RW</colors>
-				<type>Creature — Human Rebel</type>
-				<pt>4/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="298" muid="0" picURL="https://lackeybot.com/revolution/front/298/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Wanton Destruction_PRO_VLR</name>

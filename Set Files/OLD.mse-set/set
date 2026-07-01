@@ -9115,7 +9115,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		
+
 	time_created: 2023-12-22 15:45:45
 	time_modified: 2025-11-28 23:46:36
 	name: Renowned Roughrider
@@ -9156,7 +9156,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		
+
 	time_created: 2023-12-22 15:48:00
 	time_modified: 2025-11-28 23:48:05
 	name: Audacious Roughrider
@@ -9197,7 +9197,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		
+
 	time_created: 2023-12-22 16:04:12
 	time_modified: 2025-11-28 23:48:28
 	name: Hearty Roughrider
@@ -9240,7 +9240,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
-		
+
 	time_created: 2023-12-22 16:29:05
 	time_modified: 2025-11-28 23:49:51
 	name: Thunderous Avalanche
@@ -9274,7 +9274,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
-		
+
 	time_created: 2023-12-22 16:51:13
 	time_modified: 2025-11-29 00:00:53
 	name: Firebolt
@@ -9316,7 +9316,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		
+
 	time_created: 2023-12-22 16:07:00
 	time_modified: 2025-11-28 23:47:05
 	name: Opulent Roughrider
@@ -9357,7 +9357,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		
+
 	time_created: 2023-12-22 15:40:13
 	time_modified: 2025-11-28 23:47:38
 	name: Barbarous Roughrider
@@ -9398,7 +9398,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
-		
+
 	time_created: 2023-12-22 16:20:17
 	time_modified: 2025-11-28 23:49:40
 	name: Swelling Terror
@@ -9429,7 +9429,7 @@ card:
 	notes:
 		!design Dodger
 		!promo Oldun Vision
-		
+
 	time_created: 2023-12-22 16:44:00
 	time_modified: 2025-11-28 23:51:35
 	name: Final Fate
@@ -9465,7 +9465,7 @@ card:
 	notes:
 		!promo Oldun Vision
 		!design Dodger
-		
+
 	time_created: 2023-12-22 16:49:33
 	time_modified: 2025-11-28 23:51:47
 	name: Elder Eras
@@ -9924,10 +9924,10 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		 !secret !design Dodger
+		 !design Dodger
 		!hidetag (KUT)
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 00:03:26
+	time_modified: 2026-06-30 21:14:49
 	name: Audacious Roughrider
 	casting_cost: 1RR
 	image: image315
@@ -9951,7 +9951,7 @@ card:
 	toughness: 3
 	illustrator: ertacaltinoz
 	partition_select: after main set T
-	card_code_text: 
+	card_code_text: Excursion Claimed by kattalist
 	card_code_text_2: 
 	card_code_text_3: 
 

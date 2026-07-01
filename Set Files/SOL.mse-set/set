@@ -562,7 +562,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-08-21 12:53:59
+	time_modified: 2026-06-30 16:38:34
 	card_color: white
 	name: Qaraz Monument
 	casting_cost: 1W
@@ -581,8 +581,10 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>Qaraz Monument</nospellcheck></atom-cardname> or another enchantment you control enters, put a charge counter on <atom-cardname><nospellcheck>Qaraz Monument</nospellcheck></atom-cardname>.
-		Whenever an artifact you control enters, remove a charge counter from <atom-cardname><nospellcheck>Qaraz Monument</nospellcheck></atom-cardname>. If you do, draw a card and it becomes a 3/3 Elemental enchantment creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. 
+		Once each turn, when an artifact you control enters, you may remove a charge counter from <atom-cardname><nospellcheck>Qaraz Monument</nospellcheck></atom-cardname>. If you do, draw a card and it becomes a 3/3 Elemental enchantment creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. 
+	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
 	illustrator: Federico Musetti
 	card_code_text: 
 	card_code_text_2: 
@@ -4342,9 +4344,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: Now triggers on first main instead of combat, and can’t sac Elementals.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-12-10 18:12:20
+	time_modified: 2026-06-30 16:32:12
 	card_color: red
 	name: Darkstar Severance
 	casting_cost: 2RR
@@ -4363,8 +4365,10 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Darkstar Severance</nospellcheck></atom-cardname> enters, create a <kw-A><nospellcheck><key>Chart toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It has “<sym>2</sym>, Sacrifice this artifact: Reveal cards from the top of your library until you reveal a land card. Put it into your hand and the rest on the bottom in a random order.”)</i-auto></atom-reminder-custom></kw-A>
-		At the beginning of combat on your turn, sacrifice a nonland permanent, then create a 3/1 red Elemental creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		At the beginning of your first main phase, sacrifice a nonland, non-Elemental permanent, then create a 3/1 red Elemental creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
 	illustrator: Yuliya Zabelina
 	card_code_text: 
 	card_code_text_2: 
@@ -13088,7 +13092,7 @@ card:
 		PROMO — SOL
 		!promo Valir Bounty
 		!secret !design Scribbl
-		
+
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:13:53
 	name: Mercenary of Dusk

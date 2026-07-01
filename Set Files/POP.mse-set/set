@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Hyperpop
 	description: Removal Album: https://imgur.com/a/swXNbGd
@@ -5889,7 +5889,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Electronegative Specialist</nospellcheck></atom-cardname> enters, choose a number. You and creatures you control gain <kw-0><nospellcheck><key>protection from <param-name>mana values equal to the chosen number until end of turn.</param-name></key></nospellcheck></kw-0>
+		When <atom-cardname><nospellcheck>Electronegative Specialist</nospellcheck></atom-cardname> enters, choose a number. You and creatures you control gain <kw-0><nospellcheck><key>protection from <param-name>mana values equal to the chosen number until end of turn</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -7348,7 +7348,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2021-05-13 01:03:19
@@ -8129,7 +8129,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8172,7 +8172,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8218,7 +8218,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2,4,
@@ -8265,7 +8265,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8313,7 +8313,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8362,7 +8362,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -8413,7 +8413,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8461,7 +8461,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8509,7 +8509,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8559,7 +8559,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8605,7 +8605,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8651,7 +8651,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8697,7 +8697,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8744,7 +8744,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8790,7 +8790,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8837,7 +8837,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8883,7 +8883,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -8928,7 +8928,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -8969,7 +8969,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8985,7 +8985,6 @@ card:
 		https://www.pixiv.net/en/artworks/118183705
 		!promo Chikyu Foil
 		!design platypeople
-
 	time_created: 2021-05-13 01:03:34
 	time_modified: 2025-11-28 23:13:19
 	name: Top of the Charts
@@ -9019,7 +9018,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art, frameless art, inverted
@@ -9062,7 +9061,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -9100,7 +9099,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -9173,13 +9172,18 @@ card:
 card:
 	stylesheet: m15-pixel
 	stylesheet_version: 2024-05-26
-	has_styling: false
+	has_styling: true
+	styling_data:
+		rarity_symbol: POP
+		shrink_type: 1
+		text_box_mana_symbols: magic-mana-pixel-small.mse-symbol-font
+		overlay: 
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		 !secret !design platypeople
+		 !design platypeople
 		!inpend > /replace/
 	time_created: 2021-03-02 00:41:47
-	time_modified: 2025-11-28 23:22:21
+	time_modified: 2026-06-30 21:08:46
 	name: Ozzen Enquirer
 	casting_cost: 1W
 	image: image2.png
@@ -9200,7 +9204,7 @@ card:
 	toughness: 2
 	illustrator: Io Tikhaya
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Claimed by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 

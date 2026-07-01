@@ -8218,8 +8218,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When Research Grant enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, return target noncreature, nonland card from your graveyard to your hand.
-		{ql} — You’ve cast two or more spells this turn.
-		{ql} — You’ve drawn two or more cards this turn.
+		You’ve cast two or more spells this turn.
+		You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-altered
@@ -13032,8 +13032,8 @@ card:
 	special_text:
 		<i-auto>(Once a turn, as a sorcery, mark a condition as complete. When all are complete, transform it.)</i-auto>
 		When <atom-cardname><nospellcheck>Research Grant</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, return target noncreature, nonland card from your graveyard to your hand.
-		{ql} — You’ve cast two or more spells this turn.
-		{ql} — You’ve drawn two or more cards this turn.
+		You’ve cast two or more spells this turn.
+		You’ve drawn two or more cards this turn.
 
 card:
 	stylesheet: m15-art-lair
@@ -13294,7 +13294,6 @@ card:
 	notes:
 		!promo Eternal Excursion;Twiltrie Decree
 		  !design Stasis
-
 	time_created: 2025-11-19 17:58:00
 	time_modified: 2026-05-31 13:07:22
 	name: Survivors of the New World
@@ -13338,9 +13337,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Vereaux Hero
-		 !secret !design Stasis
+		 !design Stasis
 	time_created: 2025-11-28 22:13:23
-	time_modified: 2025-11-29 00:31:17
+	time_modified: 2026-06-30 21:11:56
 	name: Aspiring Anarchist
 	casting_cost: G
 	image: image61
@@ -13370,7 +13369,7 @@ card:
 	toughness: 1
 	illustrator: ThemeFinland
 	partition_select: after main set S
-	card_code_text: 
+	card_code_text: Excursion Claimed by ItaiUukl
 	card_code_text_2: 
 	card_code_text_3: 
 
@@ -13832,10 +13831,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (IWH)
-		!secret !promo Innistrad Haunt
+		 !promo Innistrad Haunt
 		 !design Stasis
 	time_created: 2026-04-28 16:26:35
-	time_modified: 2026-04-30 21:23:52
+	time_modified: 2026-06-30 21:27:09
 	name: Defect
 	casting_cost: 1UB
 	image: image162
@@ -13856,10 +13855,10 @@ card:
 		You control enchanted creature.
 		Enchanted creature has <kw-A><nospellcheck><key>decayed</key></nospellcheck>. <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto><atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Dark powers hold easy sway over lesser minds.</i-flavor>
-	card_stamp: standard
+	card_stamp: none
 	illustrator: Gabriela Birchal
 	partition_select: after main set U
-	card_code_text: 
+	card_code_text: Forever Haunting magmadragon3
 	card_code_text_2: 
 	card_code_text_3: 
 
