@@ -318069,7 +318069,7 @@
      "colorIdentity": [
       "W"
      ],
-     "designer": "Scribbl",
+     "designer": "false",
      "flavor": "",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -318087,7 +318087,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 6671,
-      "multiverseId": 0
+      "multiverseId": 20260605
      },
      "name": "Qaraz Monument",
      "number": "25",
@@ -318095,7 +318095,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Whenever Qaraz Monument or another enchantment you control enters, put a charge counter on Qaraz Monument.\nWhenever an artifact you control enters, remove a charge counter from Qaraz Monument. If you do, draw a card and it becomes a 3/3 Elemental enchantment creature with flying until end of turn. ",
+     "text": "Whenever Qaraz Monument or another enchantment you control enters, put a charge counter on Qaraz Monument.\nOnce each turn, when an artifact you control enters, you may remove a charge counter from Qaraz Monument. If you do, draw a card and it becomes a 3/3 Elemental enchantment creature with flying until end of turn. ",
      "type": "Enchantment",
      "types": [
       "Enchantment"

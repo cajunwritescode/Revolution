@@ -560,7 +560,7 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: Now a perennial.
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2026-06-30 16:38:34
 	card_color: white
@@ -4344,7 +4344,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: Now triggers on first main instead of combat, and can’t sac Elementals.
+	notes: nerfed: Now triggers on first main instead of combat, and can’t sac Elementals.
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2026-06-30 16:32:12
 	card_color: red
@@ -13092,7 +13092,6 @@ card:
 		PROMO — SOL
 		!promo Valir Bounty
 		!secret !design Scribbl
-
 	time_created: 2026-04-26 15:41:16
 	time_modified: 2026-04-30 19:13:53
 	name: Mercenary of Dusk
