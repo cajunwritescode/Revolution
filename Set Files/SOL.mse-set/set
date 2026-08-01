@@ -97,9 +97,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-03-26 17:35:41
+	time_modified: 2026-07-30 19:17:55
 	card_color: white
 	name: Sarsupei Houndmaster
 	casting_cost: 2W
@@ -118,7 +118,7 @@ card:
 	rarity: common
 	rule_text:
 		When <atom-cardname><nospellcheck>Sarsupei Houndmaster</nospellcheck></atom-cardname> enters, put a -1/-1 counter on target creature you control.
-		<sym-auto>1W</sym-auto>, Remove a -1/-1 counter from <atom-cardname><nospellcheck>Sarsupei Houndmaster</nospellcheck></atom-cardname>: Create a 2/2 black Hound creature token. Activate only as a sorcery.
+		<sym-auto>1W</sym-auto>, Remove a -1/-1 counter from <atom-cardname><nospellcheck>Sarsupei Houndmaster</nospellcheck></atom-cardname>: Create a 2/2 black Dog creature token. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -560,7 +560,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: Now a perennial.
+	notes: nerfed: Now a perennial.
 	time_created: 2024-08-20 21:50:43
 	time_modified: 2026-06-30 16:38:34
 	card_color: white
@@ -2270,9 +2270,9 @@ card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: 
+	notes: !update reworked: Previously gave -2/-0 for every two counters and drew a card for every three.
 	time_created: 2024-12-05 11:11:51
-	time_modified: 2025-08-09 19:59:33
+	time_modified: 2026-07-30 19:56:43
 	name: Tamiyo, Sun-Seeking
 	casting_cost: XUU
 	image: image108
@@ -2292,9 +2292,9 @@ card:
 	loyalty_cost_2: +1
 	loyalty_cost_3: +1
 	loyalty: X
-	level_1_text: <margin:130:0:0>For each loyalty counter on Tamiyo, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>For every two loyalty counters on Tamiyo, up to one target creature gets -2/-0 until your next turn.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>For every three loyalty counters on Tamiyo, target player draws a card.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> for every loyalty counter on Tamiyo.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Draw a card for every two loyalty counters on Tamiyo. If you drew one or more cards this way, discard a card.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Tap target creature. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it for every three counters on Tamiyo.</margin:130:0:0>
 	level_4_text: 
 	illustrator: Sergio Roman
 	card_code_text: 
@@ -2302,9 +2302,9 @@ card:
 	card_code_text_3: 
 	secondary_copyright: She/Her
 	special_text:
-		[+1]: <margin:130:0:0>For each loyalty counter on Tamiyo, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
-		[+1]: <margin:130:0:0>For every two loyalty counters on Tamiyo, up to one target creature gets -2/-0 until your next turn.</margin:130:0:0>
-		[+1]: <margin:130:0:0>For every three loyalty counters on Tamiyo, target player draws a card.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> for every loyalty counter on Tamiyo.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Draw a card for every two loyalty counters on Tamiyo. If you drew one or more cards this way, discard a card.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Tap target creature. Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it for every three counters on Tamiyo.</margin:130:0:0>
 
 card:
 	has_styling: false
@@ -4511,15 +4511,15 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
-		chop_bottom: 5
+		chop_bottom: 7
 		font_cap: 12.4
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: 
+	notes: !update reworked: Lost menace, gained AA. Used to burn defending permanent when attacking them.
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-10-09 11:58:11
+	time_modified: 2026-07-31 21:55:04
 	card_color: red
 	name: Emblazoned Prophet
 	casting_cost: R
@@ -4537,8 +4537,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Emblazoned Prophet</nospellcheck></atom-cardname> attacks, it deals 1 damage to the player or permanent it’s attacking for each spell you’ve cast this turn.
+		Whenever <atom-cardname><nospellcheck>Emblazoned Prophet</nospellcheck></atom-cardname> attacks, it deals 1 damage to defending player for each spell you’ve cast this turn.
+		<sym-auto>4R</sym-auto>: Exile the top four cards of your library. You may cast a spell exiled this way with mana value 3 or less without paying its mana cost. Activate only as a sorcery.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Thubaran</error-spelling:en_US> teaches us that all must burn.”</i-flavor>
 	power: 1
 	toughness: 1

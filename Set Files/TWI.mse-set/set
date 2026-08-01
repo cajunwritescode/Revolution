@@ -7917,6 +7917,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Lunate
+		!update
 	time_created: 2025-06-10 00:47:24
 	time_modified: 2025-09-01 15:39:06
 	name: Dawnhymn Herald
@@ -12988,9 +12989,9 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Vereaux Hero
-		 !secret !design Zangy
+		 !update !design Zangy
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 02:04:27
+	time_modified: 2026-07-31 12:40:49
 	name: Aegis of Grace
 	casting_cost: 2WW
 	image: image31
@@ -13015,7 +13016,7 @@ card:
 	toughness: 4
 	illustrator: yutthaphong-kaewsuk
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Claimed by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 

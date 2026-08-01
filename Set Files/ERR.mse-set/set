@@ -253,7 +253,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 2-3
 	level_2: 4+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1W</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1W</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 	level_3_text: This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 	power: 2
@@ -768,7 +768,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2U</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2U</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: 
 	level_3_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 	power: 2
@@ -1090,7 +1090,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 	level_3_text: <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
 	power: 1
@@ -1132,7 +1132,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
 	level_3_text: <sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
 	power: 1
@@ -1219,7 +1219,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck> <atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck> <atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
 	level_3_text: <kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
 	power: 3
@@ -1592,7 +1592,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>3R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3R</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>3R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3R</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Sacrifice an artifact or enchantment: This creature gets +1/+1 until end of turn.
 	level_3_text: Sacrifice an artifact or enchantment: This creature gets +2/+2 until end of turn.
 	power: 2
@@ -1681,7 +1681,7 @@ card:
 		overlay: 
 	notes:
 		art3
-		
+
 	time_created: 2024-08-28 05:17:44
 	time_modified: 2025-04-11 19:24:01
 	name: Grip Pinch-Hitter
@@ -1696,7 +1696,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 2-5
 	level_2: 6+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1R</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1R</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
 	level_3_text: <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
 	power: 2
@@ -1717,7 +1717,7 @@ card:
 	has_styling: false
 	notes:
 		art3
-		
+
 	time_created: 2024-08-28 05:17:44
 	time_modified: 2025-04-11 17:56:25
 	name: Inversion’s Herald
@@ -2179,7 +2179,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>4GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>4GG</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>4GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>4GG</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 	level_3_text: <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 	power: 3
@@ -2682,7 +2682,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 2-4
 	level_2: 5+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1W/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1W/B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1W/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1W/B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
 	level_3_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
 	power: 2
@@ -2894,7 +2894,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 2-5
 	level_2: 6+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 	level_3_text: <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>
 	power: 4
@@ -3740,7 +3740,7 @@ card:
 		A midrange deck that curves out with efficient creatures and corrupt synergies.
 		art4
 		flagged (maybe)
-		
+
 	time_created: 2024-08-28 10:01:21
 	time_modified: 2025-04-11 18:16:39
 	card_color: black, red, multicolor, horizontal
@@ -4109,7 +4109,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-3
 	level_2: 4+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Other creatures you control get +1/+0.
 	level_3_text: Other creatures you control get +2/+0.
 	power: 4
@@ -4257,7 +4257,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1W</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1W</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Creatures you control with level up have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>.
 	level_3_text: Creatures you control with level up have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>ward <param-cost><sym-auto>4</sym-auto></param-cost></key></nospellcheck></kw-0>.
 	power: 2
@@ -4378,7 +4378,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-3
 	level_2: 4+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: When this creature dies, return it to its owner’s hand.
 	level_3_text: Whenever a creature you control dies, return it its owner’s hand.
 	power: 4
@@ -4940,7 +4940,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1R</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1R</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Whenever this creature deals combat damage to a player, target Subroutine you control runs.
 	level_3_text: Whenever this creature deals combat damage to a player, target Subroutine you control runs twice.
 	power: 0
@@ -5304,9 +5304,9 @@ card:
 		overlay: 
 	notes:
 		art4
-		 buffed: Was 2/2 for {1}{B} and entered untapped.
+		!update buffed: Was 2/1 base.
 	time_created: 2024-08-28 10:05:49
-	time_modified: 2026-06-30 17:10:32
+	time_modified: 2026-07-30 19:55:44
 	name: Grognard
 	casting_cost: B
 	image: image185
@@ -5322,13 +5322,13 @@ card:
 	level_2: 3+
 	level_1_text:
 		This creature enters tapped.
-		<kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: This creature gets +1/+1 for each creature and/or enchantment card in your graveyard.
 	level_3_text: This creature gets +1/+1 for each creature and/or enchantment card in all graveyards.
 	power: 2
 	power_2: 2
 	power_3: 2
-	toughness: 1
+	toughness: 2
 	toughness_2: 2
 	toughness_3: 2
 	illustrator: Ludovic Sanson
@@ -5396,7 +5396,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: When this creature dies, put its counters on another target creature you control with level up.
 	level_3_text: When this creature dies, put its counters on each creature you control with level up.
 	power: 4
@@ -5509,7 +5509,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-3
 	level_2: 4+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: At the beginning of your end step, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	level_3_text: At the beginning of your end step, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	power: 2
@@ -5964,7 +5964,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-1><nospellcheck><key>Level up <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+	level_1_text: <kw-1><nospellcheck><key>Level up <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text: Whenever you attack, target creature gets +2/+0 until end of turn.
 	level_3_text: Whenever you attack, target creature gets +5/+0 until end of turn.
 	power: 3
@@ -6463,7 +6463,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2U</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2U</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Whenever a land you control enters, <kw-0><nospellcheck><key>cache</key></nospellcheck></kw-0> the top card of your library face down.
 	level_3_text: Whenever a land you control enters, draw a card.
 	power: 1
@@ -7867,7 +7867,7 @@ card:
 		“Fighting can be fun!”
 		flagged (solid)
 		concern (power)
-		
+
 	time_created: 2024-08-28 10:56:53
 	time_modified: 2026-06-30 17:59:50
 	extra_data:
@@ -8742,7 +8742,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Other creatures get -1/-1.
 	level_3_text: Creatures your opponents control get -1/-1.
 	power: 3
@@ -9541,7 +9541,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>WWW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>WWW</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>WWW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>WWW</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.
@@ -9596,7 +9596,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>UUU</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>UUU</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.
@@ -9651,7 +9651,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>BBB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>BBB</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>BBB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>BBB</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.
@@ -9707,7 +9707,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>RRR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>RRR</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>RRR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>RRR</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.
@@ -9760,7 +9760,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>GGG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>GGG</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>GGG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>GGG</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text:
 		<kw-0><nospellcheck><key>W<kw-0>ard <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0><soft-line>
 		</soft-line>This land is also a creature.
@@ -9865,7 +9865,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-3
 	level_2: 4+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>B/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>B/G</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>B/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>B/G</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: <sym-auto>T</sym-auto>: Return to your hand target card from your graveyard that was put there from your library this turn.
 	level_3_text: <sym-auto>T</sym-auto>: Return to your hand all cards from your graveyard that were put there from your library this turn.
 	power: 1
@@ -9919,7 +9919,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>R/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>R/W</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>R/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>R/W</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Whenever a nontoken creature you control with a counter on it dies, create a 1/1 white Citizen creature token.
 	level_3_text: Whenever a nontoken creature you control with a counter on it dies, create a 4/4 red Error creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	power: 1
@@ -9968,7 +9968,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 3-5
 	level_2: 6+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>G/U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>G/U</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>G/U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>G/U</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Whenever this creature deals damage to a player, draw a card.
 	level_3_text: Whenever a creature you control deals damage to a player, draw a card.
 	power: 2
@@ -10032,7 +10032,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 2-6
 	level_2: 7+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>W/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>W/B</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>W/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>W/B</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: During each of your turns, you may play a land card from your graveyard.
 	level_3_text: During each of your turns, you may play a land and cast a permanent spell from your graveyard.
 	power: 2
@@ -10342,7 +10342,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1U</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1U</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: If an ability of a permanent you control triggers, it triggers an additional time.
 	level_3_text: If an ability of a permanent you control triggers, it triggers two additional times.
 	power: 2
@@ -10526,7 +10526,7 @@ card:
 	level_2: 3+
 	level_1_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a><soft-line>
-		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2R</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+		</soft-line><kw-A><nospellcheck><key>Level up <param-cost><sym-auto>2R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2R</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a><soft-line>
 		</soft-line>Whenever this creature attacks, it deals 2 damage to any target.
@@ -10619,7 +10619,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Whenever you cast a creature spell with power 3 or greater, draw a card.
 	level_3_text: Whenever you cast a creature spell with power 3 or greater, copy it.
 	power: 3
@@ -12048,7 +12048,7 @@ card:
 	notes:
 		!design DrChipmunk
 		!promo Kitsuo Mythmaker
-		
+
 	time_created: 2025-04-11 11:09:00
 	time_modified: 2026-06-30 16:40:55
 	name: Architect of the Intangible
@@ -12177,7 +12177,7 @@ card:
 	notes:
 		!design DrChipmunk
 		!promo Kitsuo Mythmaker
-		
+
 	time_created: 2025-04-11 11:05:16
 	time_modified: 2026-06-30 17:33:32
 	name: Masksmith
@@ -12387,7 +12387,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 1-2
 	level_2: 3+
-	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	level_1_text: <kw-A><nospellcheck><key>Level up <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
 	level_2_text: Whenever you cast a creature spell with power 3 or greater, draw a card.
 	level_3_text: Whenever you cast a creature spell with power 3 or greater, copy it.
 	power: 3
@@ -13099,7 +13099,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>UUU</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>UUU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>UUU</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.
@@ -13201,7 +13201,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>GGG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>GGG</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>GGG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>GGG</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0><soft-line>
 		</soft-line>This land is also a creature.
@@ -13389,7 +13389,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym>T</sym>: Add <sym>R</sym>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>RRR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>RRR</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>RRR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>RRR</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.
@@ -13448,7 +13448,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym>T</sym>: Add <sym>B</sym>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>BBB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>BBB</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>BBB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>BBB</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.
@@ -13772,7 +13772,7 @@ card:
 	level_1_text:
 		<i-auto>(<sym>T</sym>: Add <sym>W</sym>.)</i-auto><soft-line>
 		</soft-line>This land enters tapped.<soft-line>
-		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>WWW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>WWW</sym-auto></param-cost>: Put a level counter on this as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+		</soft-line><kw-1><nospellcheck><key>Level up <param-cost><sym-auto>WWW</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>WWW</sym-auto></param-cost>: Put a level counter on this. Level up only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
 	level_2_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a><soft-line>
 		</soft-line>This land is also a creature.

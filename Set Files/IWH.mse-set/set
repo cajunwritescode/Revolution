@@ -8741,7 +8741,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: Upgrade effect no longer buffs tokens.
+	notes: nerfed: Upgrade effect no longer buffs tokens.
 	time_created: 2025-03-31 23:19:18
 	time_modified: 2026-06-30 16:36:08
 	name: Hope’s Trail Ranger
@@ -13629,11 +13629,11 @@ card:
 	notes:
 		PROMO — IWH
 		!promo Valir Bounty
-		!secret !design Matt
+		!update !design Matt
 		
 		!append  (A creature is savage if it’s transformed or has power greater than its base power.)
 	time_created: 2026-04-26 15:41:16
-	time_modified: 2026-04-28 15:50:57
+	time_modified: 2026-07-30 19:58:56
 	name: Darkthicket Howler
 	casting_cost: 1G
 	image: image353
@@ -13657,7 +13657,7 @@ card:
 	toughness: 3
 	illustrator: Azid Faizi
 	partition_select: after normal, main set C
-	card_code_text: 
+	card_code_text: Bounty Claimed by kattalist
 	card_code_text_2: 
 	card_code_text_3: 
 

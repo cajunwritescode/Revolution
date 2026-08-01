@@ -391,7 +391,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  reworked: Was 1/1, Ninjutsu {2}{G}, and moved counters to creatures as they entered.
+	notes: reworked: Was 1/1, Ninjutsu {2}{G}, and moved counters to creatures as they entered.
 	time_created: 2023-03-18 23:04:47
 	time_modified: 2026-06-30 19:10:58
 	name: Ribbon Dancer
@@ -465,7 +465,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  reworked: Was 4/4 with ninjutsu {2}{G}{U} that made your first ninjutsu each turn free.
+	notes: reworked: Was 4/4 with ninjutsu {2}{G}{U} that made your first ninjutsu each turn free.
 	time_created: 2023-03-18 23:12:13
 	time_modified: 2026-06-30 19:02:25
 	name: Nimble Mentor
@@ -504,7 +504,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  buffed: Auto-attaching was previously to any Ninja. Now draws instead of reducing Ninjutsu costs by {1}. Changed from Equip {1}.
+	notes: buffed: Auto-attaching was previously to any Ninja. Now draws instead of reducing Ninjutsu costs by {1}. Changed from Equip {1}.
 	time_created: 2023-03-20 21:40:36
 	time_modified: 2026-06-30 18:20:16
 	name: Arushi, Shigane Heirloom
@@ -1166,11 +1166,13 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:
+		!renameof Demonic Reposession
+		!update
 	time_created: 2023-03-30 12:07:20
-	time_modified: 2025-03-29 16:53:58
+	time_modified: 2026-07-30 18:03:49
 	card_color: black, red, multicolor, horizontal
-	name: Demonic Reposession
+	name: Demonic Repossession
 	casting_cost: 4BR
 	image: image140
 	image_2: 
@@ -2832,7 +2834,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  reworked: Was 4/4 for {1}{G}{G} and untapped instead of giving a counter.
+	notes: reworked: Was 4/4 for {1}{G}{G} and untapped instead of giving a counter.
 	time_created: 2023-05-16 22:42:01
 	time_modified: 2026-06-30 18:36:33
 	name: Brutal Throatcrusher
@@ -3303,7 +3305,7 @@ card:
 		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:  adjusted: Was 3/3 for {2}{W}.
+	notes: adjusted: Was 3/3 for {2}{W}.
 	time_created: 2023-06-15 20:30:22
 	time_modified: 2026-06-30 18:39:23
 	extra_data:
@@ -3346,7 +3348,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  adjusted: Was {2}{U} and not perennial.
+	notes: adjusted: Was {2}{U} and not perennial.
 	time_created: 2023-06-15 21:09:02
 	time_modified: 2026-06-30 19:22:46
 	name: The God-Tree Chimes
@@ -3415,7 +3417,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  buffed: Trigger was previously "Whenever you pay life, draw seven cards."
+	notes: buffed: Trigger was previously "Whenever you pay life, draw seven cards."
 	time_created: 2023-07-09 12:39:46
 	time_modified: 2026-06-30 18:49:00
 	extra_data:
@@ -4276,7 +4278,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  buffed: Now an instant.
+	notes: buffed: Now an instant.
 	time_created: 2023-07-19 17:14:31
 	time_modified: 2026-06-30 18:38:22
 	name: Dynasty’s Benediction
@@ -5255,7 +5257,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  reworked: First ability triggered on nonland/nontoken permanents entering without being cast. Second ability was Creatures you control with power or toughness 1 or less can’t be blocked.
+	notes: reworked: First ability triggered on nonland/nontoken permanents entering without being cast. Second ability was Creatures you control with power or toughness 1 or less can’t be blocked.
 	time_created: 2023-08-05 18:12:01
 	time_modified: 2026-06-30 19:20:19
 	card_color: blue, green, multicolor, horizontal
@@ -5367,7 +5369,7 @@ card:
 		chapter_number_coordinates: 173, 246, 352,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:  reworked: Was {2}{G} with 1 — Create a 1/1 Spirit; 2 — Put a +1 counter on target creature; 3 — Put a +1 counter on each creature you control with a +1 counter.
+	notes: reworked: Was {2}{G} with 1 — Create a 1/1 Spirit; 2 — Put a +1 counter on target creature; 3 — Put a +1 counter on each creature you control with a +1 counter.
 	time_created: 2023-08-05 22:50:57
 	time_modified: 2026-06-30 19:07:09
 	name: Portal to the Spirit Realm
@@ -6026,7 +6028,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  buffed: Gained exalted.
+	notes: buffed: Gained exalted.
 	time_created: 2023-08-06 23:03:26
 	time_modified: 2026-06-30 18:37:32
 	extra_data:
@@ -6059,7 +6061,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  reworked: Was 2/2, {2}{U}, Ninjutsu {3}{U}{U} with "Whenever this creature deals combat damage to a player, create a token that’s a copy of target attacking creature you control that entered this turn."
+	notes: reworked: Was 2/2, {2}{U}, Ninjutsu {3}{U}{U} with "Whenever this creature deals combat damage to a player, create a token that’s a copy of target attacking creature you control that entered this turn."
 	time_created: 2023-08-07 21:42:33
 	time_modified: 2026-06-30 18:59:13
 	name: Natori Skyblade
@@ -7469,7 +7471,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  buffed: Was Ninjutsu {2}{G} and gave trample on etb instead of other effects.
+	notes: buffed: Was Ninjutsu {2}{G} and gave trample on etb instead of other effects.
 	time_created: 2023-08-09 12:03:13
 	time_modified: 2026-06-30 18:54:35
 	name: Master of Stances
@@ -7500,7 +7502,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  buffed: Gained trample.
+	notes: buffed: Gained trample.
 	time_created: 2023-08-09 12:06:45
 	time_modified: 2026-06-30 18:27:02
 	name: Shigane Cyclone
@@ -7562,7 +7564,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  buffed: Was ninjutsu {2}{U}. Now surveils.
+	notes: buffed: Was ninjutsu {2}{U}. Now surveils.
 	time_created: 2023-08-09 12:15:35
 	time_modified: 2026-06-30 18:56:52
 	name: Moonblade Ninja
@@ -7660,7 +7662,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  reworked: Was {U} Draw a card, the next ninjutsu this turn costs {1} less.
+	notes: reworked: Was {U} Draw a card, the next ninjutsu this turn costs {1} less.
 	time_created: 2023-08-09 12:33:29
 	time_modified: 2026-06-30 18:22:55
 	name: Expert Bladework
@@ -8673,7 +8675,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  buffed: Reduction now works for base casting.
+	notes: buffed: Reduction now works for base casting.
 	time_created: 2023-08-11 12:00:24
 	time_modified: 2026-06-30 18:29:54
 	name: Shigane Elder
@@ -9487,7 +9489,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  buffed: Was {6}{U}{U} and not perennial. Gained cycling.
+	notes: buffed: Was {6}{U}{U} and not perennial. Gained cycling.
 	time_created: 2024-03-06 21:43:34
 	time_modified: 2026-06-30 19:16:34
 	name: Sakura Dance
@@ -9570,7 +9572,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  buffed: Last AA reduced by {1}.
+	notes: buffed: Last AA reduced by {1}.
 	time_created: 2024-03-24 23:58:43
 	time_modified: 2026-06-30 18:46:38
 	card_color: land, multicolor
@@ -10517,7 +10519,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  buffed: Upkeep trigger changed to end step.
+	notes: buffed: Upkeep trigger changed to end step.
 	time_created: 2024-12-27 02:27:49
 	time_modified: 2026-06-30 18:34:43
 	name: Auspicious Return
@@ -11196,7 +11198,7 @@ card:
 	notes:
 		!promo Kitsuo Mythmaker
 		!design Provocative
-		
+
 	time_created: 2024-12-22 14:13:26
 	time_modified: 2026-06-30 18:49:05
 	extra_data:
@@ -11979,7 +11981,7 @@ card:
 	notes:
 		!promo Kitsuo Mythmaker
 		!design Provocative
-		
+
 	time_created: 2025-03-16 01:41:04
 	time_modified: 2026-06-30 19:20:26
 	card_color: blue, green, multicolor, horizontal
@@ -12306,7 +12308,7 @@ card:
 		 !promo Twiltrie Decree
 		!design Provocative
 		!hidetag (Decree)
-		
+
 	time_created: 2025-08-25 23:00:22
 	time_modified: 2026-06-30 19:03:31
 	name: Kage, Cursed Conqueror

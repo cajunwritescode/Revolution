@@ -9248,9 +9248,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Art Validated
+	notes:
+		Art Validated
+		!update
 	time_created: 2023-02-27 20:37:10
-	time_modified: 2023-09-13 14:54:00
+	time_modified: 2026-07-30 18:01:44
 	card_color: green, artifact, horizontal
 	name: Zeno, Planar Engineer
 	casting_cost: 2G
@@ -9265,7 +9267,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: rare
-	rule_text: Whenever a counter is put on another creature you control, you may put a counter of the same kind on <atom-legname><nospellcheck>Zeno</nospellcheck></atom-legname>. Then if there are no other counters of that kind on <atom-legname><nospellcheck>Zeno</nospellcheck></atom-legname>, draw a card. Do this only once each turn.
+	rule_text: Once each turn, when a counter is put on another creature you control, you may put a counter of that kind on Zeno. Draw a card if it’s the only counter of that kind on Zeno.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

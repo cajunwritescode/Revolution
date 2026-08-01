@@ -551,6 +551,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Draconos Magistus</reverse-related>
  <reverse-related>Draconos Tyrannos</reverse-related>
  <reverse-related>Eltanaan, the Silent Star</reverse-related>
+ <reverse-related>Emblazoned Prophet</reverse-related>
  <reverse-related>Ignavis Immatus</reverse-related>
  <reverse-related>Inner Inferno</reverse-related>
  <reverse-related>Leonis Concitare</reverse-related>
@@ -645,6 +646,17 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Ruins of Olantin</reverse-related>
  <reverse-related>Petros, Purphoros's Double_TRX</reverse-related>
  <set num="TRX17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TRX17.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Blood</name>
+ <text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.</text>
+ <colors></colors>
+ <type>Token Artifact — Blood</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Seat of the Rose Court</reverse-related>
+ <reverse-related count="2">Advance of the Blazing Court</reverse-related>
+ <set num="PLANE11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/PLANE11.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Weapon</name>
@@ -5194,6 +5206,7 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Relentless Huntmaster</reverse-related>
+ <reverse-related>Sarsupei Houndmaster</reverse-related>
  <set num="SOL11" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL11.jpg?v=20251131" rarity="token">tokens</set>
 </card>
 <card>
@@ -5367,6 +5380,19 @@ Equip {2}</text>
  <reverse-related>Niblis of the Gloom</reverse-related>
  <reverse-related>The Collabomination</reverse-related>
  <set num="IWH16" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH16.jpg?v=20260330" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Blood IWH</name>
+ <text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
+ <colors></colors>
+ <type>Token Artifact — Blood</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Bleeding Tithe</reverse-related>
+ <reverse-related count="2">Blood Bank</reverse-related>
+ <reverse-related>Covetous Neonate</reverse-related>
+ <reverse-related>Odric, Accursed Slayer</reverse-related>
+ <set num="IWH27" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH27.jpg?v=20260330" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Wolf 22IWH</name>
@@ -5607,6 +5633,33 @@ Equip {2}</text>
  <reverse-related count="2">Wharf Forgemaster</reverse-related>
  <reverse-related count="2">Wharf Forgemaster_PRO_VLR</reverse-related>
  <set num="VLR9" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR9.jpg?v=20260401" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Acolyte</name>
+ <text>{1}, Sacrifice this creature: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+ <colors>WB</colors>
+ <type>Token Creature — Warlock</type>
+ <pt>0/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Ascendant Judge</reverse-related>
+ <reverse-related count="2">Blessed Proselytism</reverse-related>
+ <reverse-related>Congregation Minister</reverse-related>
+ <reverse-related>Crypt Caretaker</reverse-related>
+ <reverse-related>Crypt Tiller</reverse-related>
+ <reverse-related>Disciple of Surola</reverse-related>
+ <reverse-related count="3">Eerie Gathering</reverse-related>
+ <reverse-related>Fledgling Sycophant</reverse-related>
+ <reverse-related>Forsaken Penitents</reverse-related>
+ <reverse-related>High Priestess Symi</reverse-related>
+ <reverse-related>Malicious Pactmaker</reverse-related>
+ <reverse-related>Malicious Throng</reverse-related>
+ <reverse-related>Offer Yourself</reverse-related>
+ <reverse-related>Offer the Faithless</reverse-related>
+ <reverse-related count="2">Siurne, Eternal Sentinel</reverse-related>
+ <reverse-related count="2">Siurne, Covetous Creation</reverse-related>
+ <reverse-related>Forsaken Penitents_PRO_VLR</reverse-related>
+ <set num="VLR6" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR6.jpg?v=20260401" rarity="token">tokens</set>
 </card>
 <card>
  <name>Treasure VLR</name>
@@ -5862,16 +5915,6 @@ Equip {1}</text>
  <set num="TWI16" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/TWI16.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>Acolyte VLR</name>
- <text>{1}, Sacrifice this creature: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
- <colors>WB</colors>
- <type>Token Creature — Warlock</type>
- <pt>0/1</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <set num="VLR6" muid="20260401" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/VLR6.jpg?v=20260401" rarity="token">tokens</set>
-</card>
-<card>
  <name>colorless Aura PLANE 2</name>
  <text>Enchant creature you control
 Enchanted creature gets +2/+2.</text>
@@ -5909,24 +5952,6 @@ Enchanted creature gains all activated and triggered abilities of the exiled car
  <token>1</token>
  <tablerow>1</tablerow>
  <set num="MSEMAR4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/MSEMAR4.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>colorless Blood PLANE</name>
- <text>{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.</text>
- <colors></colors>
- <type>Token Artifact — Blood</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="PLANE11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/PLANE11.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>colorless Blood IWH</name>
- <text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
- <colors></colors>
- <type>Token Artifact — Blood</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="IWH27" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/IWH27.jpg?v=20260330" rarity="token">tokens</set>
 </card>
 <card>
  <name>Blue Mana MSEMAR</name>
@@ -6958,24 +6983,6 @@ Whenever Mercenary of Dusk enters or attacks, any number of target players each 
 			<set num="321" muid="0" picURL="https://lackeybot.com/revolution/front/321/SOL" rarity="special">SOL</set>
 		</card>
 		<card>
-			<name>Darkthicket Howler_PRO_IWH</name>
-			<text>{T}: Add {R} or {G}.
-{1}, {T}: Whenever target savage creature you control deals combat damage to a player this turn, draw a card. Activate only as a sorcery. (A creature is savage if it's transformed or has power greater than its base power.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>GR</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Wolf</type>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="316" muid="0" picURL="https://lackeybot.com/revolution/front/316/IWH" rarity="special">IWH</set>
-		</card>
-		<card>
 			<name>Eerie Nightdrifter_PRO_IWH</name>
 			<text>Flying, lifelink
 When this creature enters, mill five cards. You may put an enchantment or Spirit card milled this way into your hand.
@@ -7257,24 +7264,6 @@ Whenever a nontoken creature dies, you may pay 3 life. If you do, create a token
 			<set num="282" muid="0" picURL="https://lackeybot.com/revolution/front/282/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
-			<name>League of Their Own_PRO_VLR</name>
-			<text>Menace
-Whenever this creature enters or attacks, exile up to one target card from a graveyard. If a creature card is exiled this way, you gain 3 life. If a land card is exiled this way, you create a Treasure token. If a noncreature, nonland card is exiled this way, draw a card.</text>
-			<prop>
-				<side>front</side>
-				<manacost>3BB</manacost>
-				<cmc>5</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Human Mercenary</type>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="287" muid="0" picURL="https://lackeybot.com/revolution/front/287/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
 			<name>Leybound Ritualist_PRO_VLR</name>
 			<text>If a land you control would enter tapped, it enters untapped instead.
 {3}{G}{G}{G}: Reveal the top three cards of your library. Put any number of permanent cards from among them into your hand and the rest on the bottom in a random order.</text>
@@ -7342,25 +7331,6 @@ Exile Memoriam.</text>
 			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
-			<name>Shroudpiercer_PRO_VLR</name>
-			<text>Deathtouch
-When this creature enters, surveil 1.
-{1}{G}, Exile this card from your graveyard: Surveil 1.</text>
-			<prop>
-				<side>front</side>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Horror</type>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
 			<name>The Great Singularity_PRO_VLR</name>
 			<text>Whenever a creature you control enters, attacks, or dies, you gain 1 life.
 At the beginning of your upkeep, if you have 50 or more life, you win the game.</text>
@@ -7376,23 +7346,6 @@ At the beginning of your upkeep, if you have 50 or more life, you win the game.<
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="280" muid="0" picURL="https://lackeybot.com/revolution/front/280/VLR" rarity="special">VLR</set>
-		</card>
-		<card>
-			<name>Unending Unrest_PRO_VLR</name>
-			<text>As this enchantment enters, choose a creature type.
-Whenever a creature you control of the chosen type enters, it deals damage equal to its power to any target.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="289" muid="0" picURL="https://lackeybot.com/revolution/front/289/VLR" rarity="special">VLR</set>
 		</card>
 		<card>
 			<name>Wanton Destruction_PRO_VLR</name>
