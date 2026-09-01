@@ -7146,7 +7146,7 @@ card:
 	linked_relation_3: 
 	linked_relation_4: 
 	time_created: 2025-07-20 11:20:01
-	time_modified: 2026-08-31 16:38:14
+	time_modified: 2026-08-31 22:37:26
 	name: Corpse Inspector
 	casting_cost: 1BB
 	image: image149.png
@@ -7164,7 +7164,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Once each turn, when <kw-A><nospellcheck><key>the void</key></nospellcheck> calls you, you may exile target card from your graveyard.<atom-reminder-custom> <i-auto>(The void calls you each time a card is put into your graveyard from your hand or library during your turn.)</i-auto></atom-reminder-custom></kw-A>
-		When this creature dies, create a 2/1 black Warlock creature token for each creature card exiled with it and a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> for each noncreature card exiled with it.
+		When this creature dies, create a 2/1 black Warlock creature token for each creature card exiled with it and a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a> for each noncreature card exiled with it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -9687,7 +9687,7 @@ card:
 	linked_relation_3: 
 	linked_relation_4: 
 	time_created: 2025-07-29 20:31:55
-	time_modified: 2026-08-31 16:41:35
+	time_modified: 2026-08-31 23:06:38
 	name: Ichor Winnower
 	casting_cost: 1R
 	image: image117.png
@@ -9706,7 +9706,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Devoid</key></nospellcheck><atom-reminder-expert> <i-auto>(This card has no color.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		Whenever an opponent casts a spell with an even mana value, this creature deals 2 damage to each player. <i-auto>(Zero is even.)</i-auto>
+		Whenever a player casts a spell with an even mana value, this creature deals 2 damage to that player. <i-auto>(Zero is even.)</i-auto>
 	flavor_text:
 		<i-flavor>“They bring new life to the places they pass over, but it is abhorrent and </i>wrong<i>...”<soft-line>
 		—Excerpt from <error-spelling:en_US>Lantha’s</error-spelling:en_US> journal</soft-line></i-flavor>
@@ -16018,7 +16018,7 @@ card:
 	linked_relation_3: 
 	linked_relation_4: 
 	time_created: 2026-08-23 02:28:36
-	time_modified: 2026-08-31 20:34:23
+	time_modified: 2026-08-31 23:01:14
 	name: Justiciar V
 	casting_cost: 2RW
 	image: image44
@@ -16037,7 +16037,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		Other artifact creatures you control get +1/+1 and have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
-		Whenever another nontoken artifact creature you control enters, you may pay <sym-auto>R/W</sym-auto>. If you do, <kw-A><nospellcheck><key>fragment</key></nospellcheck> it. <i-auto>(Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can’t be fragmented.)</i-auto><atom-reminder-custom> <i-auto>(Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can’t be fragmented.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever another nontoken artifact creature you control enters, you may pay <sym-auto>R/W</sym-auto>. If you do, <kw-A><nospellcheck><key>fragment</key></nospellcheck> it. <atom-reminder-custom> <i-auto>(Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can’t be fragmented.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
