@@ -435,5 +435,20 @@
     "name": "Volwood",
     "set": "VLR",
     "count": 1
+  },
+  "26_08": {
+    "year": 2026,
+    "month": 8,
+    "name": "Klemnae",
+    "set": "BLR",
+    "count": 4,
+    "format": "Pauper"
+  },
+  "26_09": {
+    "year": 2026,
+    "month": 9,
+    "name": "Goldport",
+    "set": "SGP",
+    "count": 1
   }
 }
