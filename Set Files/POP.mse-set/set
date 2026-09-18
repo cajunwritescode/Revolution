@@ -17,7 +17,7 @@ set_info:
 	custom_watermark_3: 
 	blend_with_colors: yes
 	custom_index: rarity,color,searchtype_Creature
-	custom_mana_symbol_name: platypeople/mana_v.png
+	custom_mana_symbol_name: mana/vp.png
 	mana_symbol_options: enable in casting costs, enable in text boxes
 styling:
 	magic-m15-altered:

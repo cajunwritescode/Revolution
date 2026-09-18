@@ -1163,7 +1163,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_divider_coordinates: 230,350,
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 275,370,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -1456,7 +1456,7 @@ card:
 		chapter_divider_coordinates: 260,345,
 		separated_text_size: 11.5
 		other_options: 
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 290,365,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -1665,7 +1665,7 @@ card:
 		chapter_divider_coordinates: 250,350,
 		reminder_coordinate: 
 		separated_text_size: 11.5
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 290,370,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -2274,7 +2274,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_divider_coordinates: 270,355,
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 297,374,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -2323,7 +2323,7 @@ card:
 		reminder_coordinate: 
 		separated_text_size: 11.5
 		alternate_reminder: 
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 310,380,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -2367,7 +2367,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_divider_coordinates: 240,330,
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 268,360,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7277,7 +7277,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_divider_coordinates: 240,
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 255,300,370,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7323,7 +7323,7 @@ card:
 		snap_chapter_to_box: 2,2,3,
 		chapter_divider_coordinates: 230,345,
 		separated_text_size: 12
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7418,7 +7418,7 @@ card:
 		snap_chapter_to_box: 2,2,3,
 		chapter_divider_coordinates: 250,320,
 		separated_text_size: 11
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 255,300,360,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7500,7 +7500,7 @@ card:
 	styling_data:
 		chapter_divider_coordinates: 270,348,
 		separated_text_size: 12
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 273,311,370,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7701,7 +7701,7 @@ card:
 		chapter_divider_coordinates: 255,350,
 		reminder_coordinate: 
 		separated_text_size: 11.5
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 290,375,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7745,7 +7745,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_divider_coordinates: 290,355,
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 309,375,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7793,7 +7793,7 @@ card:
 		separated_text_size: 10.5
 		alternate_reminder: 
 		custom_chapter_location: 
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -7837,7 +7837,7 @@ card:
 		chapter_divider_coordinates: 240,310,
 		separated_text_size: 12.5
 		custom_chapter_location: 
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 258,348,700,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -8396,7 +8396,7 @@ card:
 		snap_chapter_to_box: 2,2,3,
 		chapter_divider_coordinates: 250,310,
 		custom_chapter_name: 
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		chapter_number_coordinates: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -9365,7 +9365,7 @@ card:
 		snap_chapter_to_box: 2,2,3,
 		chapter_divider_coordinates: 250,310,
 		other_options: nyx
-		replacement_chapter_location: ksv/
+		replacement_chapter_location: sagas/campaign/
 		remove_from_autocount: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
