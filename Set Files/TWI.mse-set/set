@@ -15872,7 +15872,7 @@ card:
 	stylesheet_version: 2026-08-30
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		combined_chop: 3
 		shrink_name_text: 2
 		number_of_textboxes: automatic
@@ -18774,7 +18774,7 @@ card:
 	stylesheet_version: 2026-08-31
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no

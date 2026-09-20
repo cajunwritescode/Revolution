@@ -27194,7 +27194,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -27452,7 +27452,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -27706,7 +27706,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -27960,7 +27960,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -28214,7 +28214,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -28468,7 +28468,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -28722,7 +28722,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -28979,7 +28979,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -29232,7 +29232,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -29488,7 +29488,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -29744,7 +29744,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -30000,7 +30000,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -30256,7 +30256,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -30512,7 +30512,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -30768,7 +30768,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -31022,7 +31022,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -31278,7 +31278,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -31534,7 +31534,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -31790,7 +31790,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -32046,7 +32046,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -32302,7 +32302,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -32558,7 +32558,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no
@@ -33137,7 +33137,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: ancestral generic mana,avoid covering devoid
 		remove_from_autocount: no

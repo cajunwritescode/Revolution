@@ -13809,7 +13809,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 12,12
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -13957,7 +13957,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -14102,7 +14102,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 8,8
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -14244,7 +14244,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 10,10
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -14386,7 +14386,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 10,10
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -14532,7 +14532,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 9,9,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -14674,7 +14674,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 6,6
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -14890,7 +14890,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -15038,7 +15038,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 11,11,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -15188,7 +15188,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 9,9
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -15478,7 +15478,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 8, 8
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -15625,7 +15625,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -16453,7 +16453,7 @@ card:
 	stylesheet_version: 2026-08-31
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -16599,7 +16599,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -17282,7 +17282,7 @@ card:
 	stylesheet_version: 2026-08-30
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		combined_chop: 5,5
 		number_of_textboxes: 3
 		other_options: un-indent nonloyalty abilities
@@ -17607,7 +17607,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 9,9
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -17804,7 +17804,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -18391,7 +18391,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 8, 8
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: yes

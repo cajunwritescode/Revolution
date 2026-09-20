@@ -13992,7 +13992,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -14128,7 +14128,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 8,8
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -14265,7 +14265,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -14403,7 +14403,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -14642,7 +14642,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -14785,7 +14785,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 7,14
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -14927,7 +14927,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -15071,7 +15071,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -15212,7 +15212,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -15351,7 +15351,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -15488,7 +15488,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -15729,7 +15729,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -15877,7 +15877,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 0,0,5,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -16019,7 +16019,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -16163,7 +16163,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -16305,7 +16305,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -16447,7 +16447,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 1,1
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -16591,7 +16591,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 6,11
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -16734,7 +16734,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 1,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -16878,7 +16878,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,2
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17015,7 +17015,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17158,7 +17158,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17293,7 +17293,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17430,7 +17430,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,2
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17563,7 +17563,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17705,7 +17705,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: -1,3
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17851,7 +17851,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 12,12
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -17994,7 +17994,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -18136,7 +18136,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -18280,7 +18280,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -18423,7 +18423,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -18565,7 +18565,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,4
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -18707,7 +18707,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: ,,5,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -18849,7 +18849,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: ,,9,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -18993,7 +18993,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: ,,5,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -19137,7 +19137,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 4,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
