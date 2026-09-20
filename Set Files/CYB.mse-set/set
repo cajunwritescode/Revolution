@@ -36,7 +36,7 @@ styling:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -6182,7 +6182,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -6284,7 +6284,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -6389,7 +6389,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -6490,7 +6490,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -6590,7 +6590,7 @@ card:
 		chop_bottom: 5
 		frames: custom border
 		other_options: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -6693,7 +6693,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -6796,7 +6796,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -6914,7 +6914,7 @@ card:
 		chop_bottom: 7
 		frames: custom border
 		other_options: always center map names
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -7017,7 +7017,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -7121,7 +7121,7 @@ card:
 		frames: 
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -7223,7 +7223,7 @@ card:
 		chop_bottom: 7
 		frames: custom border
 		other_options: always center map names
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -7329,7 +7329,7 @@ card:
 		frames: 
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -8713,7 +8713,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -8820,7 +8820,7 @@ card:
 		chop_bottom: 5
 		frames: custom border
 		other_options: always center map names
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9132,7 +9132,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9441,7 +9441,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9544,7 +9544,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9751,7 +9751,7 @@ card:
 		frames: 
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9858,7 +9858,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9985,7 +9985,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.pn
+		custom_border_source: custom_border/CYB/colorless.pn
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10089,7 +10089,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10195,7 +10195,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10301,7 +10301,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10407,7 +10407,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10511,7 +10511,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10615,7 +10615,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11597,7 +11597,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12470,7 +12470,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -16191,7 +16191,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -16299,7 +16299,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -16586,7 +16586,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		colored_multicolor_land_name: no
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -17002,7 +17002,7 @@ card:
 		other_options: 
 		shrink_name_text: 
 		shrink_typeline_text: 1
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -18159,7 +18159,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -18469,7 +18469,7 @@ card:
 		frames: 
 		other_options: 
 		shrink_name_text: 2
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -18682,7 +18682,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -19093,7 +19093,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -19203,7 +19203,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -19611,7 +19611,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -19720,7 +19720,7 @@ card:
 		other_options: 
 		shrink_name_text: 
 		shrink_typeline_text: 1
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -20670,7 +20670,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.pn
+		custom_border_source: custom_border/CYB/colorless.pn
 		colored_multicolor_land_name: no
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -20779,7 +20779,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -21405,7 +21405,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -21620,7 +21620,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -21727,7 +21727,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -21943,7 +21943,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -22250,7 +22250,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -22571,7 +22571,7 @@ card:
 		other_options: 
 		shrink_name_text: 
 		shrink_typeline_text: 1
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -23923,7 +23923,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -24346,7 +24346,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_left.png
+		custom_border_source: custom_border/CYB/colorless_left.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -24455,7 +24455,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless_bottom.png
+		custom_border_source: custom_border/CYB/colorless_bottom.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -24984,7 +24984,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -26456,7 +26456,7 @@ card:
 		frames: custom border
 		other_options: 
 		shrink_name_text: 
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -27876,7 +27876,7 @@ card:
 		other_options: 
 		shrink_name_text: 
 		remove_from_autocount: yes
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -28098,7 +28098,7 @@ card:
 		other_options: 
 		shrink_name_text: 
 		remove_from_autocount: yes
-		custom_border_source: CYB/colorless.png
+		custom_border_source: custom_border/CYB/colorless.png
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -33999,7 +33999,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -34209,7 +34209,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -34419,7 +34419,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -34528,7 +34528,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -34640,7 +34640,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -34749,7 +34749,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -35044,7 +35044,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -35157,7 +35157,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -36709,7 +36709,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -37376,7 +37376,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -37745,7 +37745,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -38427,7 +38427,7 @@ card:
 		frames: 
 		left_style: none
 		right_style: name and type flat
-		page_decoration: CYB/light.png;color
+		page_decoration: decorations/CYB/light.png;color
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -39011,7 +39011,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: CYB/front.png
+		custom_symbol: custom_border/CYB/front.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -39151,7 +39151,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: CYB/back.png
+		custom_symbol: custom_border/CYB/back.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
