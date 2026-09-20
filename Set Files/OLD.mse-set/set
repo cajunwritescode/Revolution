@@ -101,7 +101,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -142,7 +142,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -178,7 +178,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -508,7 +508,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		font_cap: 13
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -651,7 +651,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		font_cap: 12.8
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -1040,7 +1040,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1107,7 +1107,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1143,7 +1143,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		font_cap: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -1355,7 +1355,7 @@ card:
 		chop_top: 3
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -1580,7 +1580,7 @@ card:
 		chop_top: 
 		chop_bottom: 
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1647,7 +1647,7 @@ card:
 		chop_top: 
 		chop_bottom: 
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1851,7 +1851,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1890,7 +1890,7 @@ card:
 		chop_top: 3
 		chop_bottom: 3
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -1929,7 +1929,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -1968,7 +1968,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -2084,7 +2084,7 @@ card:
 		chop_top: 7
 		chop_bottom: 7
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -2148,7 +2148,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -2214,7 +2214,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -2498,7 +2498,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -3071,7 +3071,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -3136,7 +3136,7 @@ card:
 		chop_top: 5
 		chop_bottom: 12
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -3444,7 +3444,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4095,7 +4095,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4131,7 +4131,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4374,7 +4374,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4410,7 +4410,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4446,7 +4446,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4587,7 +4587,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4625,7 +4625,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -4898,7 +4898,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -5250,7 +5250,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -5738,7 +5738,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -5831,7 +5831,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -5951,7 +5951,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -6695,7 +6695,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -6925,7 +6925,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7056,7 +7056,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7181,7 +7181,7 @@ card:
 		chop_top: 3
 		chop_bottom: 3
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7369,7 +7369,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7407,7 +7407,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7532,7 +7532,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7785,7 +7785,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7823,7 +7823,7 @@ card:
 		chop_top: 2
 		chop_bottom: 9
 		frames: custom border, legend
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -7955,7 +7955,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -8144,7 +8144,7 @@ card:
 		chop_top: 9
 		chop_bottom: 9
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -8536,7 +8536,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
@@ -9712,7 +9712,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: custom border
-		custom_border_source: stones.png
+		custom_border_source: custom_border/ruin.png
 		popout_image_style: 0,0,375,523,
 		remove_from_autocount: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
