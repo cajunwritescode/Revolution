@@ -13145,7 +13145,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update nerfed: Can now only affect creature tokens.
+	notes:  nerfed: Can now only affect creature tokens.
 	uid: 09050218404494725673711896236901
 	linked_card_1: 
 	linked_card_2: 
@@ -28484,7 +28484,7 @@ card:
 	notes:
 		!promo Kitsuo Mythmaker
 		!design Provocative
-		!update
+		
 	uid: 38447536477092743724783137985288
 	linked_card_1: 
 	linked_card_2: 
@@ -37125,7 +37125,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: KDT !update !promo Goldport Mystery
+	notes: KDT  !promo Goldport Mystery
 	uid: 42343956643735885297953467574903
 	linked_card_1: 
 	linked_card_2: 
@@ -37340,7 +37340,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		KDT !update !promo Goldport Mystery
+		KDT  !promo Goldport Mystery
 		!hidetag (Mystery)
 	uid: 46139079343989377251516393373050
 	linked_card_1: 

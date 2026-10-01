@@ -14257,7 +14257,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Lunate
-		!update adjusted: Previously triggered on LTB, which wouldn’t trigger on its own reprieve.
+		 adjusted: Previously triggered on LTB, which wouldn’t trigger on its own reprieve.
 	uid: 48394861029203953399675024895134
 	linked_card_1: 
 	linked_card_2: 
@@ -15377,7 +15377,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
-		!update nerfed: No longer enchants or counts opponent’s creatures.
+		 nerfed: No longer enchants or counts opponent’s creatures.
 	uid: 16922751567976970908903425538685
 	linked_card_1: 
 	linked_card_2: 

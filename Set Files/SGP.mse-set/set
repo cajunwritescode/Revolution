@@ -19186,7 +19186,7 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 
+		chop_top: 5,8,
 		chop_bottom: 
 		frames: devoid
 		shrink_typeline_text: 
@@ -19198,7 +19198,7 @@ card:
 		overlay: 
 	notes:
 		18 Aug 2025: Moved from U to 1U, and buffed from 1/2 to 2/2
-		
+		!update
 		Should this be constructed viable? Yes
 		
 		Does this currently seem constructed viable? Probably, but surveil specifically may be tough to enable
@@ -19277,7 +19277,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-07-29 20:30:30
-	time_modified: 2026-08-31 16:37:04
+	time_modified: 2026-09-30 23:12:47
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -19303,7 +19303,7 @@ card:
 	rule_text:
 		<kw-1><nospellcheck><key>Devoid</key></nospellcheck><atom-reminder-expert> <i-auto>(This card has no color.)</i-auto></atom-reminder-expert></kw-1>
 		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Devonia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, draw two cards, then discard two cards.
-		Once each turn, when <kw-A><nospellcheck><key>the void</key></nospellcheck> calls you, you may exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it this turn. That copy costs <sym-auto>1</sym-auto> less to cast.<atom-reminder-custom> <i-auto>(The void calls you each time a card is put into your graveyard from your hand or library during your turn.)</i-auto></atom-reminder-custom></kw-A>
+		Once during each of your turns, when <kw-A><nospellcheck><key>the void</key></nospellcheck> calls you, you may exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it this turn. That copy costs <sym-auto>1</sym-auto> less to cast.<atom-reminder-custom> <i-auto>(The void calls you each time a card is put into your graveyard from your hand or library during your turn.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: This creature can’t be blocked as long as you control a creature named Nascent Intern.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>“I told him to stay at his desk. Now we have to ring the Task Force </i>and<i> someone has to clean Harold off the floor.”</i-flavor>
@@ -22937,7 +22937,7 @@ card:
 	has_styling: false
 	notes:
 		Should this be constructed viable? If Vehicles are viable, then yes
-		!update nerfed: Damage amp was 2.
+		 nerfed: Damage amp was 2.
 		
 		Does this seem constructed viable? Probably not, since Vehicles are generally slow and this is a bit win-more
 		
@@ -24623,7 +24623,7 @@ card:
 	notes:
 		6 Aug 2025: Edited rules text so players would still get an ending phase (otherwise things get weird)
 		10 Aug 2025: Reworded slightly to pack into 8 lines
-		!update
+		
 		8 lines
 		
 		MAY 2026:
@@ -26060,7 +26060,7 @@ card:
 	notes:
 		!!exportname Plains Eldritch_SGP
 		!hidetag Eldritch
-		!update
+
 	uid: 47904496727133001398262064391929
 	linked_card_1: 
 	linked_card_2: 
@@ -32622,7 +32622,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP !update !promo Goldport Mystery
+	notes: SGP  !promo Goldport Mystery
 	uid: 21915317871533593578875745037438
 	linked_card_1: 
 	linked_card_2: 
@@ -32726,7 +32726,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP!update !promo Goldport Mystery
+	notes: SGP !promo Goldport Mystery
 	uid: 94506318736101306583332899562025
 	linked_card_1: 
 	linked_card_2: 
@@ -32833,7 +32833,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP !update !promo Goldport Mystery
+	notes: SGP  !promo Goldport Mystery
 	uid: 53235854545710768298387130691797
 	linked_card_1: 
 	linked_card_2: 
@@ -33050,7 +33050,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP !update !promo Goldport Mystery
+	notes: SGP  !promo Goldport Mystery
 	uid: 76839929590583718433708090557970
 	linked_card_1: 
 	linked_card_2: 
@@ -33270,7 +33270,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP !update !promo Goldport Mystery
+	notes: SGP  !promo Goldport Mystery
 	uid: 17708513982960798223232208541352
 	linked_card_1: 
 	linked_card_2: 
@@ -33707,7 +33707,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP !update !promo Goldport Mystery
+	notes: SGP  !promo Goldport Mystery
 	uid: 53104854463999465793901834016432
 	linked_card_1: 
 	linked_card_2: 
@@ -33816,7 +33816,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP !update !promo Goldport Mystery
+	notes: SGP  !promo Goldport Mystery
 	uid: 44404512205021885227915260896096
 	linked_card_1: 
 	linked_card_2: 
@@ -33922,7 +33922,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: SGP !update !promo Goldport Mystery
+	notes: SGP  !promo Goldport Mystery
 	uid: 87301540830844304309735074902598
 	linked_card_1: 
 	linked_card_2: 

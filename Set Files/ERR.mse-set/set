@@ -25152,7 +25152,7 @@ card:
 		overlay: 
 	notes:
 		!tokens Memory ERR
-		!update nerfed: Now targets.
+		 nerfed: Now targets.
 		art5
 		A daemon may outlive its purpose, but its instinct to nurture and aid never fades.    
 		flagged (maybe)
@@ -37684,7 +37684,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: ERR !update !promo Goldport Mystery
+	notes: ERR  !promo Goldport Mystery
 	uid: 93732821937627206721452765299225
 	linked_card_1: 
 	linked_card_2: 

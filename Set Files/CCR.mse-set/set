@@ -44763,7 +44763,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: CCR !update !promo Goldport Mystery
+	notes: CCR  !promo Goldport Mystery
 	uid: 63131351530146195059103061470207
 	linked_card_1: 
 	linked_card_2: 
@@ -44872,7 +44872,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: CCR !update !promo Goldport Mystery
+	notes: CCR  !promo Goldport Mystery
 	uid: 64026133399107215273600547318523
 	linked_card_1: 
 	linked_card_2: 

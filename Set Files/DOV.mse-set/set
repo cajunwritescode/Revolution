@@ -3542,7 +3542,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update nerfed: Now only triggers on one or more Rebels
+	notes:  nerfed: Now only triggers on one or more Rebels
 	uid: 80096709738248019549115376228934
 	linked_card_1: 
 	linked_card_2: 
@@ -28048,7 +28048,7 @@ card:
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
 		  !design Matt & Chumbeque
-		!update
+		
 	uid: 96944342100213661757943394439198
 	linked_card_1: 
 	linked_card_2: 

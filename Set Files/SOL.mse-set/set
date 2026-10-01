@@ -29441,7 +29441,7 @@ card:
 		opacity: 220
 		override_levels: automatic
 		clear: no
-	notes: !update reworked: +1 was "0: Create two 1/1 red Spirits with wither" and -3 was "-X: Freecast a copy of an instant or sorcery from your graveyard"
+	notes: !update
 	uid: 80584366647132816551770744270483
 	linked_card_1: 
 	linked_card_2: 
@@ -29508,7 +29508,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2026-09-30 14:27:45
+	time_modified: 2026-09-30 23:14:01
 	card_color: red
 	name: Caphella, Endlight Catalyst
 	casting_cost: 3RR
@@ -29535,7 +29535,7 @@ card:
 		Instant and sorcery spells you control have <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>.
 	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Caphella</nospellcheck></atom-legname> deals 2 damage to any target.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Add <sym-auto>R</sym-auto>. When that mana is spent to cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</margin:130:0:0>
-	level_4_text: <margin:130:0:0>Exile up to two target instant and/or sorcery cards from your graveyard. You may cast of a copy of each of those cards this turn.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Exile up to two target instant and/or sorcery cards from your graveyard. You may cast a copy of each of those cards this turn.</margin:130:0:0>
 	level_5_text: 
 	illustrator: AIFI才华有限的态爷
 	card_code_text: 
@@ -29551,7 +29551,7 @@ card:
 		Instant and sorcery spells you control have <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>.
 		[+2]: <margin:130:0:0><atom-legname><nospellcheck>Caphella</nospellcheck></atom-legname> deals 2 damage to any target.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. When that mana is spent to cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Exile up to two target instant and/or sorcery cards from your graveyard. You may cast of a copy of each of those cards this turn.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Exile up to two target instant and/or sorcery cards from your graveyard. You may cast a copy of each of those cards this turn.</margin:130:0:0>
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2026-09-06
@@ -36982,7 +36982,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		SOL !update !promo Goldport Mystery
+		SOL  !promo Goldport Mystery
 		!hidetag (Mystery)
 	uid: 05706018904950955125281647360437
 	linked_card_1: 
@@ -37201,7 +37201,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		SOL !update !promo Goldport Mystery
+		SOL  !promo Goldport Mystery
 		!design CanterburyEgg
 	uid: 86032233801141966550001635386507
 	linked_card_1: 

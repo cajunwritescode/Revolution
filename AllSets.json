@@ -80733,7 +80733,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nInstant and sorcery spells you control have wither.\n[+2]: Caphella deals 2 damage to any target.\n[+1]: Add {R}. When that mana is spent to cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\n[-3]: Exile up to two target instant and/or sorcery cards from your graveyard. You may cast of a copy of each of those cards this turn.",
+     "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nInstant and sorcery spells you control have wither.\n[+2]: Caphella deals 2 damage to any target.\n[+1]: Add {R}. When that mana is spent to cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\n[-3]: Exile up to two target instant and/or sorcery cards from your graveyard. You may cast a copy of each of those cards this turn.",
      "type": "Legendary Planeswalker — Caphella",
      "types": [
       "Planeswalker"
@@ -131018,7 +131018,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "Devoid (This card has no color.)\nWhen Devonia enters, draw two cards, then discard two cards.\nOnce each turn, when the void calls you, you may exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it this turn. That copy costs {1} less to cast. (The void calls you each time a card is put into your graveyard from your hand or library during your turn.)",
+     "text": "Devoid (This card has no color.)\nWhen Devonia enters, draw two cards, then discard two cards.\nOnce during each of your turns, when the void calls you, you may exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it this turn. That copy costs {1} less to cast. (The void calls you each time a card is put into your graveyard from your hand or library during your turn.)",
      "toughness": "2",
      "type": "Legendary Creature — Eldrazi Advisor",
      "types": [
