@@ -3125,6 +3125,7 @@ Equip {2}</text>
  <reverse-related>Savvy Smith_CYB</reverse-related>
  <reverse-related>Cogwork Harvester_REV</reverse-related>
  <reverse-related>Savvy Smith_REV</reverse-related>
+ <reverse-related>Steelsoul Foundry_REV</reverse-related>
  <reverse-related>Gift of Inspiration_PRO_CYB</reverse-related>
  <set num="CYB15" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/CYB15.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -5026,20 +5027,6 @@ Equip {2}</text>
  <set num="SOL36" muid="20260031" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL36.jpg?v=20260031" rarity="token">tokens</set>
 </card>
 <card>
- <name>red Spirit 11SOL</name>
- <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
- <colors>R</colors>
- <type>Token Creature — Spirit</type>
- <pt>1/1</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <reverse-related count="2">Caphella, Endlight Catalyst</reverse-related>
- <reverse-related>Radiant Pilgrim</reverse-related>
- <reverse-related>Star-Touched Devout</reverse-related>
- <reverse-related>Star-Touched Host</reverse-related>
- <set num="SOL23" muid="20260031" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL23.jpg?v=20260031" rarity="token">tokens</set>
-</card>
-<card>
  <name>green Bear 44SOL</name>
  <text></text>
  <colors>G</colors>
@@ -5218,6 +5205,19 @@ Equip {2}</text>
  <reverse-related>Noctere Ascentus</reverse-related>
  <reverse-related>Oberys, Ley-Pilgrim</reverse-related>
  <set num="SOL34" muid="20260031" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL34.jpg?v=20260031" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Spirit 11SOL</name>
+ <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+ <colors>R</colors>
+ <type>Token Creature — Spirit</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Radiant Pilgrim</reverse-related>
+ <reverse-related>Star-Touched Devout</reverse-related>
+ <reverse-related>Star-Touched Host</reverse-related>
+ <set num="SOL23" muid="20260031" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/SOL23.jpg?v=20260031" rarity="token">tokens</set>
 </card>
 <card>
  <name>black Dog 22SOL</name>
@@ -6130,7 +6130,7 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>1</tablerow>
  <reverse-related>Fateful Ascent_REV</reverse-related>
- <set num="REV17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/REV17.jpg?v=0" rarity="token">tokens</set>
+ <set num="REV17" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/Revolution/refs/heads/main/img/tokens/REV17.jpg?v=20260830" rarity="token">tokens</set>
 </card>
 <card>
  <name>Berry REV</name>
@@ -6980,23 +6980,6 @@ Exile the top X cards of your library, where X is the sacrificed creature's powe
 			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/CNY" rarity="special">CNY</set>
 		</card>
 		<card>
-			<name>Seafloor Treasures_PRO_CCR</name>
-			<text>Look at the top two cards of your library. Put one into your hand and the other into your graveyard.
-Surface {2}{U} (You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="302" muid="0" picURL="https://lackeybot.com/revolution/front/302/CCR" rarity="special">CCR</set>
-		</card>
-		<card>
 			<name>The Ruins Awaken_PRO_CCR</name>
 			<text>Create two 1/1 white Golem creature tokens.
 Landfall — {W}, Exile The Ruins Awaken from your graveyard: Create a 1/1 white Golem creature token. Activate only as a sorcery and only if a land entered the battlefield under your control this turn.</text>
@@ -7012,25 +6995,6 @@ Landfall — {W}, Exile The Ruins Awaken from your graveyard: Create a 1/1 white
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="301" muid="0" picURL="https://lackeybot.com/revolution/front/301/CCR" rarity="special">CCR</set>
-		</card>
-		<card>
-			<name>Warden of Tremors_PRO_CCR</name>
-			<text>The first spell you cast during each of your turns costs {R}{G} less to cast.
-You may play two additional lands on each of your turns.
-Landfall — Whenever a land you control enters, you may exile the top three cards of your library. You may play those cards from exile as long as you control Warden of Tremors.</text>
-			<prop>
-				<side>front</side>
-				<manacost>3RRG</manacost>
-				<cmc>6</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RG</coloridentity>
-				<colors>RG</colors>
-				<type>Legendary Creature — Dinosaur Avatar</type>
-				<pt>7/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="303" muid="0" picURL="https://lackeybot.com/revolution/front/303/CCR" rarity="special">CCR</set>
 		</card>
 		<card>
 			<name>Catabolist (Mystery)</name>
@@ -7049,24 +7013,6 @@ Landfall — Whenever a land you control enters, you may exile the top three car
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="332" muid="0" picURL="https://lackeybot.com/revolution/front/332/ERR" rarity="special">ERR</set>
-		</card>
-		<card>
-			<name>Errorsbane Deadshot_PRO_ERR</name>
-			<text>Reach, trample
-Fabric — At the beginning of combat on your turn, target creature gets +X/+X and gains trample until end of turn, where X is the number of enchantments you control.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Human Archer Ranger</type>
-				<pt>3/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="333" muid="0" picURL="https://lackeybot.com/revolution/front/333/ERR" rarity="special">ERR</set>
 		</card>
 		<card>
 			<name>RECURSE() (Mystery)</name>
@@ -7105,45 +7051,10 @@ Flow — {10}{W}{U}: Draw cards equal to half the number of cards in your librar
 			<set num="342" muid="0" picURL="https://lackeybot.com/revolution/front/342/KDT" rarity="special">KDT</set>
 		</card>
 		<card>
-			<name>Majesty (Mystery)</name>
-			<text>Whenever you cast a spell with mana value 4 or greater, create a 4/3 red and green Spirit Beast creature token.
-Whenever a creature you control deals 4 or more damage to a player, draw a card. This ability triggers only once each turn.</text>
-			<prop>
-				<side>front</side>
-				<manacost>RR/GG</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>RG</coloridentity>
-				<colors>RG</colors>
-				<type>Enchantment</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="343" muid="0" picURL="https://lackeybot.com/revolution/front/343/KDT" rarity="special">KDT</set>
-		</card>
-		<card>
-			<name>Sculptor's Replica_PRO_KDT</name>
-			<text>Flow — {4}{W}: Create a tapped 0/0 colorless Golem artifact creature token with “This creature gets +1/+1 for each artifact you control.” (Each creature you tap while activating pays for {1}.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Artifact Creature — Golem Monk</type>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="341" muid="0" picURL="https://lackeybot.com/revolution/front/341/KDT" rarity="special">KDT</set>
-		</card>
-		<card>
 			<name>Advance of the Sainted March_PRO_TWI</name>
 			<text>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)
 When Advance of the Sainted March enters, create two 1/1 red Berserker creature tokens.
-Defeated — Whenever you attack, create a 1/1 red Berserker creature token that's tapped and attacking.
-— ​</text>
+Defeated — Whenever you attack, create a 1/1 red Berserker creature token that's tapped and attacking.​</text>
 			<prop>
 				<side>front</side>
 				<manacost>2W</manacost>
@@ -7212,24 +7123,6 @@ As you cast an instant or sorcery spell, you may add the chants of any number of
 			<set num="354" muid="0" picURL="https://lackeybot.com/revolution/front/354/TWI" rarity="special">TWI</set>
 		</card>
 		<card>
-			<name>Interstellar Sage (Mystery)</name>
-			<text>Flash
-When Interstellar Sage enters, if it isn't a token, you may exile target instant card or card with flash from your graveyard and cast a copy of it. (You still pay its costs.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>GU</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>GU</coloridentity>
-				<colors>GU</colors>
-				<type>Creature — Human Wizard</type>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="327" muid="0" picURL="https://lackeybot.com/revolution/front/327/SOL" rarity="special">SOL</set>
-		</card>
-		<card>
 			<name>Psionic Sage_PRO_SOL</name>
 			<text>Whenever Psionic Sage enters or attacks, exile up to one target instant or sorcery card from your graveyard. You may cast a copy of it without paying its mana cost if its mana value is less than or equal to the number of cards exiled with Psionic Sage.</text>
 			<prop>
@@ -7245,22 +7138,6 @@ When Interstellar Sage enters, if it isn't a token, you may exile target instant
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="328" muid="0" picURL="https://lackeybot.com/revolution/front/328/SOL" rarity="special">SOL</set>
-		</card>
-		<card>
-			<name>Twilight Ambush_PRO_SOL</name>
-			<text>Destroy target creature with power or toughness 2 or less.</text>
-			<prop>
-				<side>front</side>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="326" muid="0" picURL="https://lackeybot.com/revolution/front/326/SOL" rarity="special">SOL</set>
 		</card>
 		<card>
 			<name>Beckon the Beyond_PRO_IWH</name>
@@ -7384,26 +7261,6 @@ Whenever a creature an opponent controls leaves the battlefield, this creature d
 			<set num="283" muid="0" picURL="https://lackeybot.com/revolution/front/283/SGP" rarity="special">SGP</set>
 		</card>
 		<card>
-			<name>Curious Botanist_PRO_SGP</name>
-			<text>Whenever this creature enters or attacks, choose one —
-• Investigate. (To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)
-• You may play an additional land this turn.
-• You gain 2 life.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1GG</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Artifact Creature — Construct</type>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="292" muid="0" picURL="https://lackeybot.com/revolution/front/292/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
 			<name>Emrakul, the Sky Sundered_PRO_SGP</name>
 			<text>When you cast this spell, each opponent exiles their hand. You may cast a spell from among those cards without paying its mana cost.
 Flying, trample
@@ -7420,7 +7277,7 @@ As long as an opponent has one or fewer cards in hand, Emrakul has hexproof.</te
 				<pt>14/14</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="284" muid="0" picURL="https://lackeybot.com/revolution/front/284/SGP" rarity="special">SGP</set>
+			<set num="284" muid="20260830" picURL="https://lackeybot.com/revolution/front/284/SGP" rarity="special">SGP</set>
 		</card>
 		<card>
 			<name>Essence Ripper_PRO_SGP</name>
@@ -7460,23 +7317,6 @@ Crew 4</text>
 			<set num="286" muid="0" picURL="https://lackeybot.com/revolution/front/286/SGP" rarity="special">SGP</set>
 		</card>
 		<card>
-			<name>Fade_PRO_SGP</name>
-			<text>Return target nonland permanent to its owner's hand.
-Investigate. (Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
-			<prop>
-				<side>front</side>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>U</coloridentity>
-				<colors>U</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="288" muid="0" picURL="https://lackeybot.com/revolution/front/288/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
 			<name>Gene Recombinators_PRO_SGP</name>
 			<text>{1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.
 Coalition — Whenever this creature attacks with one or more tokens, create a token that's a copy of target token you control.</text>
@@ -7493,25 +7333,6 @@ Coalition — Whenever this creature attacks with one or more tokens, create a t
 			</prop>
 			<tablerow>2</tablerow>
 			<set num="293" muid="0" picURL="https://lackeybot.com/revolution/front/293/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
-			<name>Gloamveil Trackers_PRO_SGP</name>
-			<text>Trample
-When this creature enters and whenever you cast your first creature spell each turn, investigate.
-At the beginning of combat on your turn, until end of turn, up to one target Clue you control becomes a 3/3 artifact creature with trample and “Whenever this creature deals combat damage to a player, sacrifice it. If you do, draw a card.”</text>
-			<prop>
-				<side>front</side>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>G</coloridentity>
-				<colors>G</colors>
-				<type>Creature — Human Dog Detective</type>
-				<pt>4/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="294" muid="0" picURL="https://lackeybot.com/revolution/front/294/SGP" rarity="special">SGP</set>
 		</card>
 		<card>
 			<name>Grand Awakening_PRO_SGP</name>
@@ -7564,43 +7385,6 @@ Whenever another creature you control with power 2 or less enters, you lose 1 li
 			<set num="297" muid="0" picURL="https://lackeybot.com/revolution/front/297/SGP" rarity="special">SGP</set>
 		</card>
 		<card>
-			<name>Insatiate Slasher_PRO_SGP</name>
-			<text>This creature can't block.
-You may cast this card from your graveyard as long as the void called you this turn. If you do, it gains haste until end of turn. (The void calls you each time a card is put into your graveyard from your hand or library during your turn.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>BB</manacost>
-				<cmc>2</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>B</coloridentity>
-				<colors>B</colors>
-				<type>Creature — Vampire Assassin</type>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="290" muid="0" picURL="https://lackeybot.com/revolution/front/290/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
-			<name>Justiciar V_PRO_SGP</name>
-			<text>Trample
-Other artifact creatures you control get +1/+1 and have trample.
-Whenever another nontoken artifact creature you control enters, you may pay {R/W}. If you do, fragment it. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.) (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)</text>
-			<prop>
-				<side>front</side>
-				<manacost>2RW</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>RW</coloridentity>
-				<colors>RW</colors>
-				<type>Artifact Creature — Golem Soldier</type>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="298" muid="0" picURL="https://lackeybot.com/revolution/front/298/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
 			<name>Neon Dreams_PRO_SGP</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Exile the top two cards of your library. You may play them this turn.</text>
@@ -7618,22 +7402,6 @@ Exile the top two cards of your library. You may play them this turn.</text>
 			<set num="291" muid="0" picURL="https://lackeybot.com/revolution/front/291/SGP" rarity="special">SGP</set>
 		</card>
 		<card>
-			<name>Never Seen Again_PRO_SGP</name>
-			<text>Exile target creature. Its controller creates a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”</text>
-			<prop>
-				<side>front</side>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>W</coloridentity>
-				<colors>W</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="287" muid="0" picURL="https://lackeybot.com/revolution/front/287/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
 			<name>Rend_PRO_SGP</name>
 			<text>Fragment target creature you control. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)</text>
 			<prop>
@@ -7648,41 +7416,6 @@ Exile the top two cards of your library. You may play them this turn.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<set num="285" muid="0" picURL="https://lackeybot.com/revolution/front/285/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
-			<name>Something in the Soil_PRO_SGP</name>
-			<text>You get two soil counters. Then mill X cards, where X is the number of soil counters you have. When you do, you may return target permanent card with mana value X or less from your graveyard to the battlefield.
-A deck can have any number of cards named Something in the Soil.</text>
-			<prop>
-				<side>front</side>
-				<manacost>1BG</manacost>
-				<cmc>3</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>BG</coloridentity>
-				<colors>BG</colors>
-				<type>Sorcery</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="299" muid="0" picURL="https://lackeybot.com/revolution/front/299/SGP" rarity="special">SGP</set>
-		</card>
-		<card>
-			<name>Subsume Reality_PRO_SGP</name>
-			<text>Choose one. If {C} was spent to cast this spell, you may choose both instead.
-• Put target spell or nonland permanent into its owner's library third from the top.
-• Look at the top three cards of your library. Put one into your hand, up to one back on top, and the rest on the bottom in a random order.</text>
-			<prop>
-				<side>front</side>
-				<manacost>2WU</manacost>
-				<cmc>4</cmc>
-				<layout>normal</layout>
-				<maintype>undefined</maintype>
-				<coloridentity>WU</coloridentity>
-				<colors>WU</colors>
-				<type>Instant</type>
-			</prop>
-			<tablerow>1</tablerow>
-			<set num="300" muid="0" picURL="https://lackeybot.com/revolution/front/300/SGP" rarity="special">SGP</set>
 		</card>
 </cards>
 </cockatrice_carddatabase>

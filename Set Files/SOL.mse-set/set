@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -29394,7 +29394,7 @@ card:
 	styling_data:
 		popout_image_style: 
 		combined_chop: 
-		shrink_name_text: 
+		shrink_name_text: 1
 		shrink_typeline_text: 
 		number_of_textboxes: automatic
 		use_tall_frame: default
@@ -29403,7 +29403,7 @@ card:
 		font_size: 
 		other_options: use short frame, un-indent nonloyalty abilities
 		custom_border_source: 
-		textbox_opacity_percentage: 
+		textbox_opacity_percentage: 50
 		textbox_color: rgb(255,255,255)
 		stripes_opacity_percentage: 
 		stripes_color: rgb(255,255,255)
@@ -29441,7 +29441,7 @@ card:
 		opacity: 220
 		override_levels: automatic
 		clear: no
-	notes: 
+	notes: !update reworked: +1 was "0: Create two 1/1 red Spirits with wither" and -3 was "-X: Freecast a copy of an instant or sorcery from your graveyard"
 	uid: 80584366647132816551770744270483
 	linked_card_1: 
 	linked_card_2: 
@@ -29508,7 +29508,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2024-08-20 21:50:43
-	time_modified: 2025-12-31 02:30:31
+	time_modified: 2026-09-30 14:27:45
 	card_color: red
 	name: Caphella, Endlight Catalyst
 	casting_cost: 3RR
@@ -29527,15 +29527,15 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	loyalty_cost_2: +2
-	loyalty_cost_3: 0
-	loyalty_cost_4: -X
+	loyalty_cost_3: +1
+	loyalty_cost_4: -3
 	loyalty: 4
 	level_1_text:
 		<kw-1><nospellcheck><key>Wither</key></nospellcheck><atom-reminder-expert> <i-auto>(This deals damage to creatures in the form of -1/-1 counters.)</i-auto></atom-reminder-expert></kw-1>
 		Instant and sorcery spells you control have <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>.
 	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Caphella</nospellcheck></atom-legname> deals 2 damage to any target.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Create two 1/1 red Spirit creature tokens with <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>.</margin:130:0:0>
-	level_4_text: <margin:130:0:0>Exile target instant or sorcery card with mana value X from your graveyard. You may cast a copy of it without paying its mana cost.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Add <sym-auto>R</sym-auto>. When that mana is spent to cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Exile up to two target instant and/or sorcery cards from your graveyard. You may cast of a copy of each of those cards this turn.</margin:130:0:0>
 	level_5_text: 
 	illustrator: AIFI才华有限的态爷
 	card_code_text: 
@@ -29550,8 +29550,8 @@ card:
 		<kw-1><nospellcheck><key>Wither</key></nospellcheck><atom-reminder-expert> <i-auto>(This deals damage to creatures in the form of -1/-1 counters.)</i-auto></atom-reminder-expert></kw-1>
 		Instant and sorcery spells you control have <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>.
 		[+2]: <margin:130:0:0><atom-legname><nospellcheck>Caphella</nospellcheck></atom-legname> deals 2 damage to any target.</margin:130:0:0>
-		[0]: <margin:130:0:0>Create two 1/1 red Spirit creature tokens with <kw-0><nospellcheck><key>wither</key></nospellcheck></kw-0>.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Exile target instant or sorcery card with mana value X from your graveyard. You may cast a copy of it without paying its mana cost.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. When that mana is spent to cast an instant or sorcery spell, copy it. You may choose new targets for the copy.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Exile up to two target instant and/or sorcery cards from your graveyard. You may cast of a copy of each of those cards this turn.</margin:130:0:0>
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2026-09-06
@@ -31700,7 +31700,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Blinded Herald;Light-Pierced Envoy
 	uid: 36737890140034925943266336876570
@@ -31793,7 +31793,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -31890,7 +31890,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Sarsupei Houndmaster;Relentless Huntmaster
 	uid: 90035442113488638335581570241376
@@ -31982,7 +31982,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Scintillation Scion;Cosmic Bounty;Comet Conduit;Rex Cerveste;Heaven’s Reach
 	uid: 19434995666048124628762252883192
@@ -32073,7 +32073,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Invasive Progenitor;Invasive ProgenitorX>
 	uid: 32277779166738037693297996120214
@@ -32165,7 +32165,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Moonsworn Vassal;Heaven’s Reach
 	uid: 27778832480774165783718622699533
@@ -32259,7 +32259,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Radiant Pilgrim;Caphella, Endlight Catalyst2>;Star-Touched Devout;Awakened Aberration;Star-Touched Host
@@ -32355,7 +32355,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		
@@ -32451,7 +32451,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Evangel of the Long Night;Evangel of the Long NightX>;Nightfall
 	uid: 65093773408570910704617857470138
@@ -32545,7 +32545,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Lightless Vigil2>;Zymith Windreader;Dire Visionary;Aureleth the Sun Shard;Aureleth the Sun ShardX>
 	uid: 23518065536250644115162159635239
@@ -32641,7 +32641,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Skyray Tender
 	uid: 02196509489814902407976923190576
@@ -32735,7 +32735,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Turelion Ley-Tower2>;Rift Tracing2>;Olfven Ley-Tower;Olfven Ley-TowerX>;Ethereal Exodus2>
 	uid: 84184216139023311876450406223512
@@ -32829,7 +32829,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Humbled Invoker;Nascent Vessel
@@ -32923,7 +32923,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Stardust Behemoth
 	uid: 62853443745330168966052253880967
@@ -33017,7 +33017,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Oblivion’s Escort;Leonis Excirtus2>;Foreign Frontiers4>;Aureola Crusaris4>;Orbital Vacuum2>;Celestial Insight;Stalking Delver;Stellar Migration1>;Stellar MigrationX>;Glimmermare;Anhamei, Star Sower;Zymith Skyguide;Starcrossed Vessel;Wayfinder Ibex2>;Cereus Aegosa;Cereus AegosaX>;Waypoint Armillary;Skyfall Sunderer;Lacufae Refuge
 	uid: 66604160824557765092788145947131
@@ -33111,7 +33111,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Piscus Duosia
 	uid: 49687326082145650675246006949799
@@ -33205,7 +33205,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Master of Null
 	uid: 11514766654643166228949506041819
@@ -33299,7 +33299,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Zukar, Null Champion
 	uid: 85756373822222248924064580283526
@@ -33393,7 +33393,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Zukar, Null Champion
 	uid: 09921282987854420415714809925101
@@ -33487,7 +33487,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Helia Extinguisher;Perilous Sojourn
@@ -33583,7 +33583,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Darkstar Envoy2>;Endlight CrusadeX>;Split the Sky2>
@@ -33679,7 +33679,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Invasion Campaign
@@ -33775,7 +33775,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Manticos Expurgis;Loam-Treader Titan;Blooming Scar2>
 	uid: 06707713066184893965989900434776
@@ -33869,7 +33869,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Blightseer
@@ -33967,7 +33967,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related One Night of Serenity2>;Elorys, the Pathfinder
@@ -34061,7 +34061,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Chasing Stars;Wildermoon Compulsion
 	uid: 83742509543597389776791165714952
@@ -34153,7 +34153,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Elorys, the Pathfinder
@@ -34249,7 +34249,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Reclaimed Cultivator
 	uid: 01898088131129454841346780901566
@@ -34343,7 +34343,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !related Reclaimed Cultivator;2/2 Green Elf Druid
 	uid: 14443363525397570440431025247121
@@ -34437,7 +34437,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Ecosa of the Old Blood
@@ -34533,7 +34533,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -36484,7 +36484,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Lightless Conquest;Lightless Conquest2>
@@ -36581,7 +36581,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Alwanor, the Humbled Star
@@ -36679,7 +36679,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Cascade Channeller
@@ -36773,7 +36773,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Alwanor, the Humbled Star
@@ -36870,7 +36870,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related Rites of the Dying Sun;Roeseaun Firebrand;Sunsower
@@ -36982,7 +36982,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		SOL !secret !promo Goldport Mystery
+		SOL !update !promo Goldport Mystery
 		!hidetag (Mystery)
 	uid: 05706018904950955125281647360437
 	linked_card_1: 
@@ -37050,7 +37050,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-11-13 20:15:50
-	time_modified: 2026-08-31 21:24:40
+	time_modified: 2026-09-30 14:09:12
 	name: Interstellar Sage
 	casting_cost: GU
 	image: image95
@@ -37077,7 +37077,7 @@ card:
 	illustrator: Peter Mohrbacher
 	additional_credit: Virgile
 	partition_select: after normal, main set D
-	card_code_text: 
+	card_code_text: Mystery Solved by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 card:
@@ -37201,7 +37201,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		SOL !secret !promo Goldport Mystery
+		SOL !update !promo Goldport Mystery
 		!design CanterburyEgg
 	uid: 86032233801141966550001635386507
 	linked_card_1: 
@@ -37269,7 +37269,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2026-08-23 02:28:36
-	time_modified: 2026-08-31 20:53:17
+	time_modified: 2026-09-30 14:13:58
 	name: Twilight Ambush
 	casting_cost: B
 	image: image107
@@ -37291,7 +37291,7 @@ card:
 	toughness: 
 	illustrator: Limo
 	partition_select: after normal, main set D
-	card_code_text: 
+	card_code_text: Mystery Solved by borfotron
 	card_code_text_2: 
 	card_code_text_3: 
 keyword:

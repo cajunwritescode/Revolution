@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -36455,7 +36455,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 51689367034961054273842209988488
@@ -36546,7 +36546,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!related
@@ -36640,7 +36640,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 91945340578452430844354424007433
@@ -36734,7 +36734,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 56867313475299387370782096732274
@@ -36828,7 +36828,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 08290221138397388958030668582127
@@ -36922,7 +36922,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 71987297508929315343297228940795
@@ -37016,7 +37016,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!tokentag Altaria
@@ -37114,7 +37114,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !tokentag Swellow
 	uid: 15339721867834406843692577665320
@@ -37208,7 +37208,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !tokentag Blaziken
 	uid: 79740505449197366885519666450281
@@ -37302,7 +37302,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!tokentag Goodra
@@ -37400,7 +37400,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 96884451925295644609838963492468
@@ -37494,7 +37494,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!tokentag Noivern
@@ -40984,7 +40984,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!tokentag Salamence
@@ -41082,7 +41082,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		Zinnia
@@ -41180,7 +41180,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 65764580414691338071316757196901
@@ -41273,7 +41273,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 24295722173119563325156530207189
@@ -41367,7 +41367,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 38407844010244953423558391556876
@@ -41463,7 +41463,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		remove_from_autocount: no
@@ -41562,7 +41562,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		remove_from_autocount: no
@@ -43144,7 +43144,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!tokentag ShinySwellow
@@ -43241,7 +43241,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!tokentag ShinyBlaziken
@@ -44763,7 +44763,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: CCR !secret !promo Goldport Mystery
+	notes: CCR !update !promo Goldport Mystery
 	uid: 63131351530146195059103061470207
 	linked_card_1: 
 	linked_card_2: 
@@ -44830,7 +44830,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2026-08-23 02:28:36
-	time_modified: 2026-08-31 20:45:33
+	time_modified: 2026-09-30 14:11:00
 	name: Seafloor Treasures
 	casting_cost: 1U
 	image: image412
@@ -44854,7 +44854,7 @@ card:
 	toughness: 
 	illustrator: Arvind T R
 	partition_select: after normal, main set G
-	card_code_text: 
+	card_code_text: Mystery Solved by SilverParabellum
 	card_code_text_2: 
 	card_code_text_3: 
 card:
@@ -44872,7 +44872,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: CCR !secret !promo Goldport Mystery
+	notes: CCR !update !promo Goldport Mystery
 	uid: 64026133399107215273600547318523
 	linked_card_1: 
 	linked_card_2: 
@@ -44939,7 +44939,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2026-08-23 02:28:36
-	time_modified: 2026-08-31 20:45:40
+	time_modified: 2026-09-30 14:11:17
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: 
@@ -44967,7 +44967,7 @@ card:
 	toughness: 6
 	illustrator: Jean_Phi
 	partition_select: after normal, main set G
-	card_code_text: 
+	card_code_text: Mystery Solved by kattalist
 	card_code_text_2: 
 	card_code_text_3: 
 	secondary_copyright: 

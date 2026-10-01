@@ -27071,6 +27071,51 @@
      "uuid": "Nocturne, Monstrous Krasis_PRO_CCR"
     },
     {
+     "artist": "Arvind T R",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Cajun",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Seafloor Treasures_PRO_CCR",
+     "imageName": "seafloor treasures_pro_ccr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Legal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{U}",
+     "identifiers": {
+      "scryfallId": 7775,
+      "multiverseId": 20260830
+     },
+     "name": "Seafloor Treasures_PRO_CCR",
+     "number": "302",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Look at the top two cards of your library. Put one into your hand and the other into your graveyard.\nSurface {2}{U} (You may cast a copy of this from your graveyard if there are six or more other cards there by exiling it and paying the surface cost.)",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Seafloor Treasures_PRO_CCR"
+    },
+    {
      "artist": "Nele Diel",
      "convertedManaCost": 6,
      "faceConvertedManaCost": 6,
@@ -27272,6 +27317,62 @@
      "uuid": "Warden of Depths_PRO_CCR"
     },
     {
+     "artist": "Jean_Phi",
+     "convertedManaCost": 6,
+     "faceConvertedManaCost": 6,
+     "manaValue": 6,
+     "faceManaValue": 6,
+     "colors": [
+      "R",
+      "G"
+     ],
+     "colorIdentity": [
+      "R",
+      "G"
+     ],
+     "designer": "DrChillbrain",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Warden of Tremors_PRO_CCR",
+     "imageName": "warden of tremors_pro_ccr",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{3}{R}{R}{G}",
+     "identifiers": {
+      "scryfallId": 7777,
+      "multiverseId": 20260830
+     },
+     "name": "Warden of Tremors_PRO_CCR",
+     "number": "303",
+     "power": "7",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Dinosaur",
+      "Avatar"
+     ],
+     "supertypes": [
+      "Legendary"
+     ],
+     "text": "The first spell you cast during each of your turns costs {R}{G} less to cast.\nYou may play two additional lands on each of your turns.\nLandfall — Whenever a land you control enters, you may exile the top three cards of your library. You may play those cards from exile as long as you control Warden of Tremors.",
+     "toughness": "6",
+     "type": "Legendary Creature — Dinosaur Avatar",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Warden of Tremors_PRO_CCR"
+    },
+    {
      "artist": "Adam Burke",
      "convertedManaCost": 5,
      "faceConvertedManaCost": 5,
@@ -27374,8 +27475,8 @@
      "uuid": "Weather Elemental_PRO_CCR"
     }
    ],
-   "baseSetSize": 405,
-   "totalSetSize": 405,
+   "baseSetSize": 407,
+   "totalSetSize": 407,
    "cardsphereSetId": 17,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -28260,7 +28361,7 @@
      "manaCost": "{X}{X}{B}",
      "identifiers": {
       "scryfallId": 5290,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "BORROW()",
      "number": "83",
@@ -29651,7 +29752,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5317,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Clearwater Grotto",
      "number": "246",
@@ -29698,7 +29799,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5317,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Clearwater Grotto",
      "number": "246",
@@ -35909,7 +36010,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5442,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Misty Peak",
      "number": "262",
@@ -35956,7 +36057,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5442,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Misty Peak",
      "number": "262",
@@ -37464,7 +37565,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5471,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Profane Grove",
      "number": "264",
@@ -37511,7 +37612,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5471,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Profane Grove",
      "number": "264",
@@ -39916,7 +40017,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5521,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Stark Expanse",
      "number": "271",
@@ -39963,7 +40064,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5521,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Stark Expanse",
      "number": "271",
@@ -41059,7 +41160,7 @@
      "manaCost": "{2}{G}",
      "identifiers": {
       "scryfallId": 5543,
-      "multiverseId": 20260530
+      "multiverseId": 20260830
      },
      "name": "Untethered Daemon",
      "number": "195",
@@ -41071,7 +41172,7 @@
      "subtypes": [
       "Plant"
      ],
-     "text": "When this creature enters, return up to one permanent card from your graveyard to your hand. If you do, cache a card from your hand face down. (Exile it and create a Memory enchantment token with “{2}, Sacrifice this: You may play the cached card this turn.”)\n{T}: Add {G}.",
+     "text": "When this creature enters, return up to one target permanent card from your graveyard to your hand. If you do, cache a card from your hand face down. (Exile it and create a Memory enchantment token with “{2}, Sacrifice this: You may play the cached card this turn.”)\n{T}: Add {G}.",
      "toughness": "3",
      "type": "Enchantment Creature — Plant",
      "types": [
@@ -41708,7 +41809,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5556,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Windbeaten Stones",
      "number": "275",
@@ -41755,7 +41856,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5556,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Windbeaten Stones",
      "number": "275",
@@ -42556,6 +42657,58 @@
       "Enchantment"
      ],
      "uuid": "EXIT()_PRO_ERR"
+    },
+    {
+     "artist": "Carlo Reynolds",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "DrChipmunk",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Errorsbane Deadshot_PRO_ERR",
+     "imageName": "errorsbane deadshot_pro_err",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{G}{G}",
+     "identifiers": {
+      "scryfallId": 7779,
+      "multiverseId": 20260830
+     },
+     "name": "Errorsbane Deadshot_PRO_ERR",
+     "number": "333",
+     "power": "3",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Archer",
+      "Ranger"
+     ],
+     "text": "Reach, trample\nFabric — At the beginning of combat on your turn, target creature gets +X/+X and gains trample until end of turn, where X is the number of enchantments you control.",
+     "toughness": "4",
+     "type": "Creature — Human Archer Ranger",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Errorsbane Deadshot_PRO_ERR"
     },
     {
      "artist": "Katrina Chiu",
@@ -43943,8 +44096,8 @@
      "uuid": "Halana and Alena, Hunters_PRO_ERR"
     }
    ],
-   "baseSetSize": 336,
-   "totalSetSize": 336,
+   "baseSetSize": 337,
+   "totalSetSize": 337,
    "cardsphereSetId": 18,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -44591,7 +44744,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 5571,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Aonuma's Students",
      "number": "129",
@@ -46994,7 +47147,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5619,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Desolate Path",
      "number": "281",
@@ -47144,7 +47297,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5622,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Distant Path",
      "number": "282",
@@ -47669,7 +47822,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 5632,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Elder Tattooist",
      "number": "8",
@@ -47922,7 +48075,7 @@
      "manaCost": "{W}{W/U}{U}",
      "identifiers": {
       "scryfallId": 5637,
-      "multiverseId": 0
+      "multiverseId": 20260830
      },
      "name": "Equanimity",
      "number": "240",
@@ -47930,7 +48083,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "If you would create one or more tokens, you may instead create that many tokens that are copies of a token you control. Do this only once each turn.\nWhenever you attack, you may create a 1/1 blue Bird creature token with flying.",
+     "text": "If you would create one or more creature tokens, you may instead create that many tokens that are copies of a creature token you control. Do this only once each turn.\nWhenever you attack, you may create a 1/1 blue Bird creature token with flying.",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -47966,7 +48119,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5638,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Erosive Path",
      "number": "283",
@@ -48201,7 +48354,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 5643,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Faces of the Faceless",
      "number": "263",
@@ -48484,7 +48637,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5649,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Forlorn Path",
      "number": "284",
@@ -52183,7 +52336,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5720,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Meandering Path",
      "number": "287",
@@ -52871,7 +53024,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5734,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Murky Path",
      "number": "288",
@@ -54010,7 +54163,7 @@
      "manaCost": "{1}{G}{U}",
      "identifiers": {
       "scryfallId": 5758,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Precognitive Combatant",
      "number": "221",
@@ -54779,7 +54932,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5774,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Rousing Path",
      "number": "291",
@@ -56298,7 +56451,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5806,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Sodden Path",
      "number": "293",
@@ -57487,7 +57640,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5830,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Thicketed Path",
      "number": "294",
@@ -57737,7 +57890,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 5835,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Torrid Path",
      "number": "295",
@@ -59377,7 +59530,7 @@
      "manaCost": "{2}{W}",
      "identifiers": {
       "scryfallId": 5945,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Elder Tattooist_PRO_KDT",
      "number": "321",
@@ -59430,7 +59583,7 @@
      "manaCost": "{W}{W/U}{U}",
      "identifiers": {
       "scryfallId": 6278,
-      "multiverseId": 0
+      "multiverseId": 20260830
      },
      "name": "Equanimity_PRO_KDT",
      "number": "317",
@@ -59438,7 +59591,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "If you would create one or more tokens, you may instead create that many tokens that are copies of a token you control. Do this only once each turn.\nWhenever you attack, you may create a 1/1 blue Bird creature token with flying.",
+     "text": "If you would create one or more creature tokens, you may instead create that many tokens that are copies of a creature token you control. Do this only once each turn.\nWhenever you attack, you may create a 1/1 blue Bird creature token with flying.",
      "type": "Enchantment",
      "types": [
       "Enchantment"
@@ -59952,6 +60105,53 @@
      "uuid": "Majesty_PRO_KDT"
     },
     {
+     "artist": "Pascal Blanché",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R",
+      "G"
+     ],
+     "colorIdentity": [
+      "R",
+      "G"
+     ],
+     "designer": "Provocative",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Majesty (Mystery)_PRO_KDT",
+     "imageName": "majesty (mystery)",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{R}{R/G}{G}",
+     "identifiers": {
+      "scryfallId": 7782,
+      "multiverseId": 20260830
+     },
+     "name": "Majesty (Mystery)",
+     "number": "342",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Whenever you cast a spell with mana value 4 or greater, create a 4/3 red and green Spirit Beast creature token.\nWhenever a creature you control deals 4 or more damage to a player, draw a card. This ability triggers only once each turn.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Majesty (Mystery)_PRO_KDT"
+    },
+    {
      "artist": "Sebastian Horoszko",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -60380,6 +60580,58 @@
       "Enchantment"
      ],
      "uuid": "Sakura Dance_PRO_KDT"
+    },
+    {
+     "artist": "Nicholas Maxson-Francombe",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Provocative",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Sculptor's Replica_PRO_KDT",
+     "imageName": "sculptor's replica_pro_kdt",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{W}",
+     "identifiers": {
+      "scryfallId": 7783,
+      "multiverseId": 20260830
+     },
+     "name": "Sculptor's Replica_PRO_KDT",
+     "number": "340",
+     "power": "2",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Golem",
+      "Monk"
+     ],
+     "text": "Flow — {4}{W}: Create a tapped 0/0 colorless Golem artifact creature token with “This creature gets +1/+1 for each artifact you control.” (Each creature you tap while activating pays for {1}.)",
+     "toughness": "2",
+     "type": "Artifact Creature — Golem Monk",
+     "types": [
+      "Artifact",
+      "Creature"
+     ],
+     "uuid": "Sculptor's Replica_PRO_KDT"
     },
     {
      "artist": "nurikabenuri",
@@ -60882,8 +61134,8 @@
      "uuid": "Welkin Eviction_PRO_KDT"
     }
    ],
-   "baseSetSize": 340,
-   "totalSetSize": 340,
+   "baseSetSize": 342,
+   "totalSetSize": 342,
    "cardsphereSetId": 19,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -60955,7 +61207,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Dreamwoven Law enters, tap up to one target creature and put two stun counters on it.\nDefeated — Whenever you attack, tap target creature.\n— ​\n\nStarting defense: 3",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Dreamwoven Law enters, tap up to one target creature and put two stun counters on it.\nDefeated — Whenever you attack, tap target creature.​\n\nStarting defense: 3",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61004,7 +61256,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Fire and Faith enters, it deals 2 damage to any nonbattle target and 1 damage to up to one other nonbattle target.\nDefeated — Creatures you control have haste.\n— ​\n\nStarting defense: 3",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Fire and Faith enters, it deals 2 damage to any nonbattle target and 1 damage to up to one other nonbattle target.\nDefeated — Creatures you control have haste.​\n\nStarting defense: 3",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61053,7 +61305,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Rot and Ruin enters, mill three cards. You gain 3 life.\nDefeated — You may play land cards from your graveyard.\n— ​\n\nStarting defense: 4",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of Rot and Ruin enters, mill three cards. You gain 3 life.\nDefeated — You may play land cards from your graveyard.​\n\nStarting defense: 4",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61102,7 +61354,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nFlash\nWhen Advance of Rune and Whisper enters, return up to one target creature to its owner's hand.\nDefeated — At the beginning of your upkeep, scry 1.\n— ​\n\nStarting defense: 3",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nFlash\nWhen Advance of Rune and Whisper enters, return up to one target creature to its owner's hand.\nDefeated — At the beginning of your upkeep, scry 1.​\n\nStarting defense: 3",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61151,7 +61403,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Blazing Court enters, create two Blood tokens. (They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)\nDefeated — Whenever you sacrifice a permanent, Advance of the Blazing Court deals 1 damage to any other noncreature permanent.\n— ​\n\nStarting defense: 4",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Blazing Court enters, create two Blood tokens. (They're artifacts with “{1}, {T}, Discard a card, Sacrifice this token: Draw a card.”)\nDefeated — Whenever you sacrifice a permanent, Advance of the Blazing Court deals 1 damage to any other noncreature permanent.​\n\nStarting defense: 4",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61200,7 +61452,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Empty Throne enters, return target nonbattle permanent card from your graveyard to your hand.\nDefeated — Whenever a land you control enters, create a 1/1 white Soldier creature token.\n— ​\n\nStarting defense: 4",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Empty Throne enters, return target nonbattle permanent card from your graveyard to your hand.\nDefeated — Whenever a land you control enters, create a 1/1 white Soldier creature token.​\n\nStarting defense: 4",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61249,7 +61501,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Hollow Wake enters, create two 2/2 black Zombie creature tokens with “This creature can't block.”\nDefeated — Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.\n— ​\n\nStarting defense: 4",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Hollow Wake enters, create two 2/2 black Zombie creature tokens with “This creature can't block.”\nDefeated — Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.​\n\nStarting defense: 4",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61298,7 +61550,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Quiet Moon enters, exile target nonland permanent you don't control until Advance of the Quiet Moon leaves the battlefield.\nDefeated — Whenever a nontoken creature you control leaves the battlefield, create a 1/1 white Soldier creature token.\n— ​\n\nStarting defense: 4",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Quiet Moon enters, exile target nonland permanent you don't control until Advance of the Quiet Moon leaves the battlefield.\nDefeated — Whenever a nontoken creature you control leaves the battlefield, create a 1/1 white Soldier creature token.​\n\nStarting defense: 4",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61347,7 +61599,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Sainted March enters, create two 1/1 red Berserker creature tokens.\nDefeated — Whenever you attack, create a 1/1 red Berserker creature token that's tapped and attacking.\n— ​\n\nStarting defense: 3",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Sainted March enters, create two 1/1 red Berserker creature tokens.\nDefeated — Whenever you attack, create a 1/1 red Berserker creature token that's tapped and attacking.​\n\nStarting defense: 3",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61396,7 +61648,7 @@
      "subtypes": [
       "Operation"
      ],
-     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Umbral Bargain enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If they do, you lose 1 life.\nDefeated — At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, they lose 2 life.\n— ​\n\nStarting defense: 4",
+     "text": "(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)\nWhen Advance of the Umbral Bargain enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If they do, you lose 1 life.\nDefeated — At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, they lose 2 life.​\n\nStarting defense: 4",
      "type": "Enchantment Battle — Operation",
      "types": [
       "Enchantment",
@@ -61978,7 +62230,7 @@
      "manaCost": "{3}{G}",
      "identifiers": {
       "scryfallId": 5969,
-      "multiverseId": 0
+      "multiverseId": 20260830
      },
      "name": "Architect of Resolve",
      "number": "169",
@@ -61991,7 +62243,7 @@
       "Human",
       "Soldier"
      ],
-     "text": "Reprieve (As this permanent enters, you may return a creature you control without reprieve to its owner's hand.)\nWhenever one or more other creatures you control leave the battlefield without dying, create two 1/1 white Soldier creature tokens.",
+     "text": "Reprieve (As this permanent enters, you may return a creature you control without reprieve to its owner's hand.)\nAt the beginning of your end step, if one or more other creatures you controlled left the battlefield without dying, create two 1/1 white Soldier creature tokens.",
      "toughness": "4",
      "type": "Creature — Human Soldier",
      "types": [
@@ -64152,7 +64404,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 6013,
-      "multiverseId": 20260330
+      "multiverseId": 20260830
      },
      "name": "Courtly Intrigue",
      "number": "48",
@@ -64163,7 +64415,7 @@
      "subtypes": [
       "Aura"
      ],
-     "text": "Enchant creature\nWhenever enchanted creature or another creature with the same name as enchanted creature deals combat damage to a player or noncreature permanent, draw a card.",
+     "text": "Enchant creature you contorl\nWhenever enchanted creature or another creature you control with the same name as enchanted creature deals combat damage to a player or noncreature permanent, draw a card.",
      "type": "Enchantment — Aura",
      "types": [
       "Enchantment"
@@ -65177,7 +65429,7 @@
      "manaCost": "{U}{B}",
      "identifiers": {
       "scryfallId": 6034,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Destructive Ambition",
      "number": "210",
@@ -67032,7 +67284,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 6072,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Gilded Court",
      "number": "294",
@@ -67815,7 +68067,7 @@
      "manaCost": "{1}{B}{B}",
      "identifiers": {
       "scryfallId": 6088,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Guardian of Ashen Oaths",
      "number": "97",
@@ -69253,7 +69505,7 @@
      "manaCost": "{5}{U}{R}",
      "identifiers": {
       "scryfallId": 6116,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Mass Conjuration",
      "number": "238",
@@ -73211,7 +73463,7 @@
      "manaCost": "{U}{U}{R}{R}",
      "identifiers": {
       "scryfallId": 6197,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Snow on Petals",
      "number": "240",
@@ -80467,7 +80719,7 @@
      "manaCost": "{3}{R}{R}",
      "identifiers": {
       "scryfallId": 6489,
-      "multiverseId": 0
+      "multiverseId": 20260830
      },
      "name": "Caphella, Endlight Catalyst",
      "number": "121",
@@ -80481,7 +80733,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nInstant and sorcery spells you control have wither.\n[+2]: Caphella deals 2 damage to any target.\n[0]: Create two 1/1 red Spirit creature tokens with wither.\n[-X]: Exile target instant or sorcery card with mana value X from your graveyard. You may cast a copy of it without paying its mana cost.",
+     "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nInstant and sorcery spells you control have wither.\n[+2]: Caphella deals 2 damage to any target.\n[+1]: Add {R}. When that mana is spent to cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\n[-3]: Exile up to two target instant and/or sorcery cards from your graveyard. You may cast of a copy of each of those cards this turn.",
      "type": "Legendary Planeswalker — Caphella",
      "types": [
       "Planeswalker"
@@ -94202,6 +94454,59 @@
      "uuid": "Interstellar Sage_PRO_SOL"
     },
     {
+     "artist": "Peter Mohrbacher",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "G",
+      "U"
+     ],
+     "colorIdentity": [
+      "G",
+      "U"
+     ],
+     "designer": "Scribbl",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Interstellar Sage (Mystery)_PRO_SOL",
+     "imageName": "interstellar sage (mystery)",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{G}{U}",
+     "identifiers": {
+      "scryfallId": 7787,
+      "multiverseId": 20260830
+     },
+     "name": "Interstellar Sage (Mystery)",
+     "number": "327",
+     "power": "2",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Wizard"
+     ],
+     "text": "Flash\nWhen Interstellar Sage enters, if it isn't a token, you may exile target instant card or card with flash from your graveyard and cast a copy of it. (You still pay its costs.)",
+     "toughness": "1",
+     "type": "Creature — Human Wizard",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Interstellar Sage (Mystery)_PRO_SOL"
+    },
+    {
      "artist": "SANTA FUNG",
      "convertedManaCost": 6,
      "faceConvertedManaCost": 6,
@@ -94343,10 +94648,55 @@
       "Creature"
      ],
      "uuid": "Mercenary of Dusk_PRO_SOL"
+    },
+    {
+     "artist": "Limo",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "CanterburyEgg",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Twilight Ambush_PRO_SOL",
+     "imageName": "twilight ambush_pro_sol",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Legal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 7789,
+      "multiverseId": 20260830
+     },
+     "name": "Twilight Ambush_PRO_SOL",
+     "number": "326",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Destroy target creature with power or toughness 2 or less.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Twilight Ambush_PRO_SOL"
     }
    ],
-   "baseSetSize": 325,
-   "totalSetSize": 325,
+   "baseSetSize": 327,
+   "totalSetSize": 327,
    "cardsphereSetId": 21,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -115996,7 +116346,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7199,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Flooded Morass",
      "number": "256",
@@ -116044,7 +116394,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7200,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Flourishing Crevasse",
      "number": "257",
@@ -116483,7 +116833,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7209,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Frostfire Geysers",
      "number": "259",
@@ -116531,7 +116881,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7210,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Fungal Mire",
      "number": "260",
@@ -116671,7 +117021,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7213,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Gloomcover Steppe",
      "number": "261",
@@ -116720,7 +117070,7 @@
      "manaCost": "{X}{B}",
      "identifiers": {
       "scryfallId": 7214,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Go for the Gut",
      "number": "91",
@@ -117061,7 +117411,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7221,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Heart of the Glade",
      "number": "262",
@@ -117498,7 +117848,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 7231,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Hymn of the Overseer",
      "number": "96",
@@ -118324,7 +118674,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7247,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Lavatorn Fields",
      "number": "265",
@@ -118744,7 +119094,7 @@
      "manaCost": "{B}",
      "identifiers": {
       "scryfallId": 7254,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Listen In",
      "number": "99",
@@ -118896,7 +119246,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7257,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Lush Oasis",
      "number": "266",
@@ -118990,7 +119340,7 @@
      "manaCost": "{6}{R}{R}",
      "identifiers": {
       "scryfallId": 7259,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Make a Break for It",
      "number": "126",
@@ -120441,7 +120791,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7289,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Planar Archives",
      "number": "60",
@@ -120485,7 +120835,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7290,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Pool of Light",
      "number": "267",
@@ -120581,7 +120931,7 @@
      "manaCost": "{1}",
      "identifiers": {
       "scryfallId": 7292,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Prized Possession",
      "number": "251",
@@ -121213,7 +121563,7 @@
      "manaCost": "{3}{U}",
      "identifiers": {
       "scryfallId": 7306,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Rooftop Observer",
      "number": "62",
@@ -123276,7 +123626,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7344,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Spiraling Canyon",
      "number": "270",
@@ -124192,7 +124542,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7363,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Swift-Step Robber",
      "number": "71",
@@ -124383,7 +124733,7 @@
      "manaCost": "{8}",
      "identifiers": {
       "scryfallId": 7367,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Tesh, Fragmented Founder",
      "number": "1",
@@ -125852,7 +126202,7 @@
      "manaCost": "{G}{U}",
      "identifiers": {
       "scryfallId": 7394,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Voice of the Old Grove",
      "number": "220",
@@ -126210,7 +126560,7 @@
      "manaCost": "{2}{G}{G}",
      "identifiers": {
       "scryfallId": 7401,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Waylen, Bloodhunter",
      "number": "183",
@@ -127650,7 +128000,7 @@
      "manaCost": "{1}{U}",
      "identifiers": {
       "scryfallId": 7476,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Swift-Step Robber_PRO_VLR",
      "number": "284",
@@ -127698,7 +128048,7 @@
      "manaCost": "{8}",
      "identifiers": {
       "scryfallId": 7477,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Tesh, Fragmented Founder_PRO_VLR",
      "number": "278",
@@ -131321,7 +131671,7 @@
      "faceManaValue": 14,
      "colors": [],
      "colorIdentity": [],
-     "designer": "Moxymeadow",
+     "designer": "itsparasitic",
      "flavor": "Goldport turned anxiously to the heavens. Its insensate dirge was the last thing they ever heard.\n",
      "frameType": "normal",
      "frameVersion": "2015",
@@ -131339,7 +131689,7 @@
      "manaCost": "{14}",
      "identifiers": {
       "scryfallId": 7560,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Emrakul, the Sky Sundered",
      "number": "8",
@@ -132852,7 +133202,7 @@
      "manaCost": "{2}{G}{G}",
      "identifiers": {
       "scryfallId": 7591,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Gloamveil Trackers",
      "number": "189",
@@ -134395,7 +134745,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7622,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Jetfoot Greaves",
      "number": "51",
@@ -135711,7 +136061,7 @@
      "manaCost": "{1}{U}{U}",
      "identifiers": {
       "scryfallId": 7647,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Malignant Manaphage",
      "number": "90",
@@ -137112,7 +137462,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 7675,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Plains Eldritch",
      "number": "273",
@@ -139847,7 +140197,7 @@
      "manaCost": "{2}{W}{U}",
      "identifiers": {
       "scryfallId": 7732,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Subsume Reality",
      "number": "239",
@@ -140177,7 +140527,7 @@
      "manaCost": "{2}{R}",
      "identifiers": {
       "scryfallId": 7739,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "The West District Hangar",
      "number": "168",
@@ -140188,7 +140538,7 @@
      "supertypes": [
       "Legendary"
      ],
-     "text": "As long as you control four or more artifacts with different names, if a source you control would deal damage to an opponent or permanent an opponent controls, it deals that much damage plus 2 instead.\n{T}: Add {R}{R}. This mana can't be spent to cast nonartifact spells.",
+     "text": "As long as you control four or more artifacts with different names, if a source you control would deal damage to an opponent or permanent an opponent controls, it deals that much damage plus 1 instead.\n{T}: Add {R}{R}. This mana can't be spent to cast nonartifact spells.",
      "type": "Legendary Artifact",
      "types": [
       "Artifact"
@@ -140620,7 +140970,7 @@
      "manaCost": "{3}{C}",
      "identifiers": {
       "scryfallId": 7748,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Ulamog's Augur",
      "number": "33",
@@ -141693,7 +142043,7 @@
      "manaCost": "{4}{W}{U}",
      "identifiers": {
       "scryfallId": 7770,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Zaila, Her Will Be Done",
      "number": "242",
@@ -141862,10 +142212,402 @@
       "Sorcery"
      ],
      "uuid": "Zeppelin Disaster_SGP"
+    },
+    {
+     "artist": "Sylvain Sarrailh",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Curious Botanist_PRO_SGP",
+     "imageName": "curious botanist_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{G}{G}",
+     "identifiers": {
+      "scryfallId": 7797,
+      "multiverseId": 20260830
+     },
+     "name": "Curious Botanist_PRO_SGP",
+     "number": "292",
+     "power": "3",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Construct"
+     ],
+     "text": "Whenever this creature enters or attacks, choose one —\n• Investigate. (To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)\n• You may play an additional land this turn.\n• You gain 2 life.",
+     "toughness": "3",
+     "type": "Artifact Creature — Construct",
+     "types": [
+      "Artifact",
+      "Creature"
+     ],
+     "uuid": "Curious Botanist_PRO_SGP"
+    },
+    {
+     "artist": "Boy Sichterman",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Fade_PRO_SGP",
+     "imageName": "fade_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{U}",
+     "identifiers": {
+      "scryfallId": 7801,
+      "multiverseId": 20260830
+     },
+     "name": "Fade_PRO_SGP",
+     "number": "288",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Return target nonland permanent to its owner's hand.\nInvestigate. (Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Fade_PRO_SGP"
+    },
+    {
+     "artist": "Peder Severin Krøyer",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "Laurel",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Gloamveil Trackers_PRO_SGP",
+     "imageName": "gloamveil trackers_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{G}{G}",
+     "identifiers": {
+      "scryfallId": 7803,
+      "multiverseId": 20260830
+     },
+     "name": "Gloamveil Trackers_PRO_SGP",
+     "number": "294",
+     "power": "4",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Dog",
+      "Detective"
+     ],
+     "text": "Trample\nWhen this creature enters and whenever you cast your first creature spell each turn, investigate.\nAt the beginning of combat on your turn, until end of turn, up to one target Clue you control becomes a 3/3 artifact creature with trample and “Whenever this creature deals combat damage to a player, sacrifice it. If you do, draw a card.”",
+     "toughness": "5",
+     "type": "Creature — Human Dog Detective",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Gloamveil Trackers_PRO_SGP"
+    },
+    {
+     "artist": "Milosz Wojtasik",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Insatiate Slasher_PRO_SGP",
+     "imageName": "insatiate slasher_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{B}{B}",
+     "identifiers": {
+      "scryfallId": 7807,
+      "multiverseId": 20260830
+     },
+     "name": "Insatiate Slasher_PRO_SGP",
+     "number": "290",
+     "power": "3",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Vampire",
+      "Assassin"
+     ],
+     "text": "This creature can't block.\nYou may cast this card from your graveyard as long as the void called you this turn. If you do, it gains haste until end of turn. (The void calls you each time a card is put into your graveyard from your hand or library during your turn.)",
+     "toughness": "2",
+     "type": "Creature — Vampire Assassin",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Insatiate Slasher_PRO_SGP"
+    },
+    {
+     "artist": "Andreas Husballe",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "R",
+      "W"
+     ],
+     "colorIdentity": [
+      "R",
+      "W"
+     ],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Justiciar V_PRO_SGP",
+     "imageName": "justiciar v_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{R}{W}",
+     "identifiers": {
+      "scryfallId": 7808,
+      "multiverseId": 20260830
+     },
+     "name": "Justiciar V_PRO_SGP",
+     "number": "298",
+     "power": "4",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Golem",
+      "Soldier"
+     ],
+     "text": "Trample\nOther artifact creatures you control get +1/+1 and have trample.\nWhenever another nontoken artifact creature you control enters, you may pay {R/W}. If you do, fragment it. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)",
+     "toughness": "4",
+     "type": "Artifact Creature — Golem Soldier",
+     "types": [
+      "Artifact",
+      "Creature"
+     ],
+     "uuid": "Justiciar V_PRO_SGP"
+    },
+    {
+     "artist": "Sam Perin",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Never Seen Again_PRO_SGP",
+     "imageName": "never seen again_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{W}",
+     "identifiers": {
+      "scryfallId": 7810,
+      "multiverseId": 20260830
+     },
+     "name": "Never Seen Again_PRO_SGP",
+     "number": "287",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Exile target creature. Its controller creates a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Never Seen Again_PRO_SGP"
+    },
+    {
+     "artist": "Josué Macías",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "B",
+      "G"
+     ],
+     "colorIdentity": [
+      "B",
+      "G"
+     ],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Something in the Soil_PRO_SGP",
+     "imageName": "something in the soil_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{1}{B}{G}",
+     "identifiers": {
+      "scryfallId": 7812,
+      "multiverseId": 20260830
+     },
+     "name": "Something in the Soil_PRO_SGP",
+     "number": "299",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "You get two soil counters. Then mill X cards, where X is the number of soil counters you have. When you do, you may return target permanent card with mana value X or less from your graveyard to the battlefield.\nA deck can have any number of cards named Something in the Soil.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Something in the Soil_PRO_SGP"
+    },
+    {
+     "artist": "exellero",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "W",
+      "U"
+     ],
+     "colorIdentity": [
+      "W",
+      "U"
+     ],
+     "designer": "Laurel",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Subsume Reality_PRO_SGP",
+     "imageName": "subsume reality_pro_sgp",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{W}{U}",
+     "identifiers": {
+      "scryfallId": 7813,
+      "multiverseId": 20260830
+     },
+     "name": "Subsume Reality_PRO_SGP",
+     "number": "300",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Choose one. If {C} was spent to cast this spell, you may choose both instead.\n• Put target spell or nonland permanent into its owner's library third from the top.\n• Look at the top three cards of your library. Put one into your hand, up to one back on top, and the rest on the bottom in a random order.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Subsume Reality_PRO_SGP"
     }
    ],
-   "baseSetSize": 282,
-   "totalSetSize": 282,
+   "baseSetSize": 290,
+   "totalSetSize": 290,
    "cardsphereSetId": 24,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -142411,7 +143153,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 7814,
-      "multiverseId": 0
+      "multiverseId": 20260830
      },
      "name": "Fateful Ascent_REV",
      "number": "115",
@@ -143260,6 +144002,51 @@
      "uuid": "Stargazing_REV"
     },
     {
+     "artist": "Evgeny Sedukhin",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "normal-renegade",
+     "frameVersion": "2015",
+     "id": "Steelsoul Foundry_REV",
+     "imageName": "steelsoul foundry_rev",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{R}",
+     "identifiers": {
+      "scryfallId": 7816,
+      "multiverseId": 0
+     },
+     "name": "Steelsoul Foundry_REV",
+     "number": "118",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When this artifact enters, create a 1/1 colorless Construct artifact creature token.\n{1}, {T}, Sacrifice this artifact: Target creature gets +1/+0 and gains haste until end of turn. Activate only as a sorcery.",
+     "type": "Artifact",
+     "types": [
+      "Artifact"
+     ],
+     "uuid": "Steelsoul Foundry_REV"
+    },
+    {
      "artist": "Leon Tukker",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -143536,7 +144323,7 @@
      "manaCost": "",
      "identifiers": {
       "scryfallId": 6324,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Windbeaten Stones_REV",
      "number": "98",
@@ -143680,7 +144467,7 @@
      "manaCost": "{4}{W}{U}",
      "identifiers": {
       "scryfallId": 7774,
-      "multiverseId": 20260731
+      "multiverseId": 20260830
      },
      "name": "Zaila, Her Will Be Done_REV",
      "number": "116",
@@ -143700,10 +144487,63 @@
       "Planeswalker"
      ],
      "uuid": "Zaila, Her Will Be Done_REV"
+    },
+    {
+     "artist": "Kanayo10798",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [],
+     "colorIdentity": [],
+     "designer": "kattalist",
+     "flavor": "",
+     "frameType": "adventure-renegade",
+     "frameVersion": "2015",
+     "id": "Zaila's Arbiter//Eerie Stillness_REV",
+     "imageName": "zaila's arbiter_rev",
+     "layout": "normal",
+     "legalities": {
+      "revolution": "Legal",
+      "brawl": "Legal",
+      "eternal": "Legal",
+      "eternal-pauper": "Illegal",
+      "planechase": "Legal",
+      "archaeologist": "Legal"
+     },
+     "manaCost": "{2}{C}",
+     "identifiers": {
+      "scryfallId": 7817,
+      "multiverseId": 0
+     },
+     "name": "Zaila's Arbiter_REV",
+     "number": "119",
+     "pageData": {
+      "name": "Eerie Stillness",
+      "manaCost": "{W}",
+      "type": "Sorcery — Mythos",
+      "text": "Until your next turn, spells costs {1} more to cast. *(Cast this from your hand or a copy from the battlefield once.)*"
+     },
+     "power": "3",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Eldrazi",
+      "Angel"
+     ],
+     "text": "Flash\nWhen you cast this spell, exile up to one target nonland permanent. For as long as it remains exiled, its owner may cast it by paying {2} rather than its mana cost.\n-----\nEerie Stillness {W}\nSorcery — Mythos\nUntil your next turn, spells costs {1} more to cast. *(Cast this from your hand or a copy from the battlefield once.)*",
+     "toughness": "3",
+     "type": "Creature — Eldrazi Angel",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Zaila's Arbiter//Eerie Stillness_REV"
     }
    ],
-   "baseSetSize": 36,
-   "totalSetSize": 36,
+   "baseSetSize": 38,
+   "totalSetSize": 38,
    "cardsphereSetId": 0,
    "isFoilOnly": false,
    "isOnlineOnly": false,
