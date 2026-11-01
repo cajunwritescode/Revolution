@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -18,10 +18,10 @@ set_info:
 	card_number_offsets: 
 	custom_watermark_1: revolution/wc2_3.png,File found,118x142px
 	blend_with_colors: yes
-	custom_symbol_1: transform_symbols/cybersoul_front.png,File loaded,706px,
-	custom_symbol_2: transform_symbols/cybersoul_back.png,File loaded,706px,
-	custom_symbol_3: transform_symbols/book_closed.png,File loaded,706px,
-	custom_symbol_4: transform_symbols/book_open.png,File loaded,706px,
+	custom_symbol_1: transform_symbols/cybersoul_front.png,File found,706px,
+	custom_symbol_2: transform_symbols/cybersoul_back.png,File found,706px,
+	custom_symbol_3: transform_symbols/book_closed.png,File found,706px,
+	custom_symbol_4: transform_symbols/book_open.png,File found,706px,
 styling:
 	magic-DayNight:
 		text box mana symbols: magic-mana-small.mse-symbol-font
@@ -7617,7 +7617,9 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !canoncard Expedition Map
+	notes:
+		!canoncard Expedition Map
+		!update
 	uid: 46347845928466799206487811813678
 	linked_card_1: 
 	linked_card_2: 
@@ -7684,7 +7686,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2020-05-08 18:52:25
-	time_modified: 2024-04-17 00:51:49
+	time_modified: 2026-10-17 02:27:00
 	name: Auto Sifter
 	casting_cost: 1
 	image: image287
@@ -7693,7 +7695,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
-	rule_text: <sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Auto Sifter</nospellcheck></atom-cardname>: Search your library for a basic land card, reveal it, put it into your hand, the shuffle.
+	rule_text: <sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Auto Sifter</nospellcheck></atom-cardname>: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 	flavor_text: <i-flavor>Wartime profiteers found many treasures in the battlefield wreckage.</i-flavor>
 	illustrator: Dante Liu
 	card_code_text: 
@@ -14644,9 +14646,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!canoncard Chromatic Sphere
-
+	notes: !canoncard Chromatic Sphere
 	uid: 34346319174789225584580554030880
 	linked_card_1: 
 	linked_card_2: 
@@ -31947,7 +31947,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Artificial Unlife1>;Extraction Ritual1>;Extraction Ritual2>;Extraction Ritual3>;Alcadia, Cardinal Judge1>;The Omnithority1>;Imposing Iteration3>;Wayward Drek1>;Reborn Herald1>;Escorted Captain1>;Welding Rig1>;First Contact1>;Offerings to Sky Gods1>;Matter Harvester1>;
 	uid: 73872933324869932230728602337219
@@ -32035,7 +32035,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear, M20
@@ -32905,7 +32905,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -32999,7 +32999,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Survey the Area1>;Drone Swarm2>;Minoan Engineer1>;
 	uid: 63565880467298389539813576732591
@@ -33089,7 +33089,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -33188,7 +33188,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Festered Effluvium1>;
 	uid: 37524948543859125578386685165915
@@ -33801,7 +33801,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Stand Strong2>;
 	uid: 59308422007217033965130977272873
@@ -34856,7 +34856,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Rebuilding of Londel1>;Inspired Denizen1>;
 	uid: 20987398206930946707448342431181
@@ -34945,7 +34945,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Ardor, Forefront of Freedom1>;Edgeland Pledge1>;
 	uid: 26399563700959746467180126226841
@@ -36232,7 +36232,7 @@ card:
 		[-4]: <margin:130:0:0>Target opponent exiles one or more cards from their hand. Then you may have that player exchange their hand and the exiled cards.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: tall, clear, M20
@@ -36329,7 +36329,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -36425,7 +36425,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -36521,7 +36521,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Gift of Inspiration1>;Savvy Smith1>;Decavolt Reactor1>;
 	uid: 31147839988825139022781348778804
@@ -36609,7 +36609,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Wildfang Cavalier1>;Ozanite Pledge1>;
 	uid: 80409482937955488514357532383691
@@ -36716,7 +36716,6 @@ card:
 	notes:
 		!canoncard Verazol, the Split Current
 		!replacetoken Leyshard;1;
-
 	uid: 88276681712450178432398053870616
 	linked_card_1: 
 	linked_card_2: 
@@ -37087,7 +37086,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Marilye, Dreaming Big1>;Rebuilding of Londel1>;Alcadia, Cardinal Judge1>;The Omnithority1>;Hallowed Chamber2>;
 	uid: 24357985272662049526824478107875
@@ -37177,7 +37176,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -37276,11 +37275,9 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
-	notes:
-		!related Ruin, the First Shard1>;
-
+	notes: !related Ruin, the First Shard1>;
 	uid: 22867948194545384328400220430538
 	linked_card_1: 
 	linked_card_2: 
@@ -38532,7 +38529,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Illustrious Sheng Fa1>;
 	uid: 08062692806501647757199607877811
@@ -38623,7 +38620,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -38718,7 +38715,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Vasilisa, Helping Hand1>;
 	uid: 26080549723013254106666245967279
@@ -38808,7 +38805,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Rebuilding of Londel1>;Brandish Greatness1>;Plasma Elite2>;Plasma Armory1>;
 	uid: 34607820694138413832709098371101
@@ -38900,7 +38897,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20

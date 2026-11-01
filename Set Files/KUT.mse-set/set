@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -3378,7 +3378,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	has_styling: false
-	notes: Asian
+	notes: Asian !update
 	uid: 42373538266331585529029160988590
 	linked_card_1: 
 	linked_card_2: 
@@ -3445,7 +3445,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2020-02-06 00:21:03
-	time_modified: 2020-06-06 21:05:32
+	time_modified: 2026-10-31 17:39:08
 	name: Ghostwarden’s Lantern
 	casting_cost: 2
 	image: image51
@@ -3453,10 +3453,16 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		Equipped creature gets +2/+0.
-		Whenever equipped creature attacks, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>. <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto><atom-reminder-action> <i-auto>(To surveil <param-number>1</param-number>, look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+		Whenever equipped creature attacks, <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: India-Lee Crews
@@ -14545,7 +14551,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	has_styling: false
-	notes: Asian
+	notes: Asian !update
 	uid: 93409983003821545115858138552088
 	linked_card_1: 
 	linked_card_2: 
@@ -14612,7 +14618,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2020-08-23 20:41:30
-	time_modified: 2020-10-26 16:19:48
+	time_modified: 2026-10-31 17:43:16
 	name: Narwa Wardrover
 	casting_cost: 2RWB
 	image: image185
@@ -14626,7 +14632,7 @@ card:
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
 		Sacrifice another creature: <atom-cardname><nospellcheck>Narwa Wardrover</nospellcheck></atom-cardname> gets +1/+0 until end of turn.
 	flavor_text:
-		<i-flavor>“Only those that pledge themselves to me will <error-spelling:en_US>recieve</error-spelling:en_US> <error-spelling:en_US>Seqineq’s</error-spelling:en_US> glorious blessings!”<soft-line>
+		<i-flavor>“Only those that pledge themselves to me will receive <error-spelling:en_US>Seqineq’s</error-spelling:en_US> glorious blessings!”<soft-line>
 		—<error-spelling:en_US>Solara</error-spelling:en_US>, Sun Speaker</soft-line></i-flavor>
 	power: 2
 	toughness: 6
@@ -24224,7 +24230,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Wilderkin Behemoth (Avatar)
@@ -24321,7 +24327,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -24425,7 +24431,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Caldera Elemental (Avatar)
@@ -24522,7 +24528,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -24625,7 +24631,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -24727,7 +24733,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -24830,7 +24836,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chop_text: 0,13
@@ -24932,7 +24938,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -25036,7 +25042,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Emberwind Visionary (Avatar)
@@ -25133,7 +25139,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Guru of Tumbling Stone (Avatar)
@@ -25231,7 +25237,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -25335,7 +25341,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Solara’s Pyromancer (Avatar)
@@ -25440,7 +25446,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Narwa Igniter (Avatar)
@@ -25537,7 +25543,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -25639,7 +25645,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Ujuraq, Elder Watcher (Avatar)
@@ -25737,7 +25743,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chop_text: 5,10,
@@ -25838,7 +25844,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -25940,7 +25946,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -26040,7 +26046,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -26144,7 +26150,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		frame_options: 
@@ -26357,7 +26363,7 @@ card:
 	special_text: 
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: false
 	notes:
 		!exportname Wrap in Flames (Avatar)
@@ -33389,7 +33395,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -33484,7 +33490,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -33579,7 +33585,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -33676,7 +33682,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -33779,7 +33785,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -33874,7 +33880,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -33969,7 +33975,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -34064,7 +34070,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -34159,7 +34165,7 @@ card:
 	copyright_3: © Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20

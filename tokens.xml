@@ -518,6 +518,7 @@ Umbra armor (If enchanted permanent would be destroyed, instead remove all damag
  <reverse-related>Shigane Manor Burns</reverse-related>
  <reverse-related>Angler of the Crushing Sea</reverse-related>
  <reverse-related>Ashes of the Self</reverse-related>
+ <reverse-related>Binder of Greed and Merit</reverse-related>
  <reverse-related>Drowntide Exhumer</reverse-related>
  <reverse-related>Eclipse of the Divine</reverse-related>
  <reverse-related>Fang of the Pale Thorn</reverse-related>
@@ -7156,25 +7157,6 @@ As you cast an instant or sorcery spell, you may add the chants of any number of
 			<set num="325" muid="0" picURL="https://lackeybot.com/revolution/front/325/IWH" rarity="special">IWH</set>
 		</card>
 		<card>
-			<name>Cordelia's Ripper_PRO_IWH</name>
-			<text>This spell costs {1} less to cast for each instant, sorcery, and/or Vampire card in your graveyard.
-Flying, haste
-Whenever this creature attacks, it deals 2 damage to any target.</text>
-			<prop>
-				<side>front</side>
-				<manacost>7RR</manacost>
-				<cmc>9</cmc>
-				<layout>normal</layout>
-				<maintype>Creature</maintype>
-				<coloridentity>R</coloridentity>
-				<colors>R</colors>
-				<type>Creature — Vampire Berserker</type>
-				<pt>3/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<set num="326" muid="0" picURL="https://lackeybot.com/revolution/front/326/IWH" rarity="special">IWH</set>
-		</card>
-		<card>
 			<name>Nephalia Heartsewer_PRO_IWH</name>
 			<text>{T}: Draw a card, then discard a card.
 {X}, {T}: Stitch X. The token enters tapped. (To stitch X, you may exile a creature card and an instant or sorcery card from your graveyard to create an X/X blue Zombie creature token.)</text>
@@ -7277,7 +7259,7 @@ As long as an opponent has one or fewer cards in hand, Emrakul has hexproof.</te
 				<pt>14/14</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="284" muid="20260830" picURL="https://lackeybot.com/revolution/front/284/SGP" rarity="special">SGP</set>
+			<set num="284" muid="20260931" picURL="https://lackeybot.com/revolution/front/284/SGP" rarity="special">SGP</set>
 		</card>
 		<card>
 			<name>Essence Ripper_PRO_SGP</name>

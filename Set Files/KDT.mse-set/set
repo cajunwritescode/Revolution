@@ -1015,7 +1015,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	uid: 68752190367765207871602481882104
 	linked_card_1: 
 	linked_card_2: 
@@ -1082,7 +1082,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2023-03-20 22:01:15
-	time_modified: 2025-01-30 16:10:57
+	time_modified: 2026-10-31 17:56:01
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
@@ -1098,7 +1098,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Whenever <atom-legname><nospellcheck>Hyomon</nospellcheck></atom-legname> deals combat damage to a player, you may create a token that’s a copy of target token you control that entered this turn.
-	flavor_text: <i-flavor>“Move like rain, strike like lighting, roar like thunder.”</i-flavor>
+	flavor_text: <i-flavor>“Move like rain, strike like lightning, roar like thunder.”</i-flavor>
 	power: 2
 	toughness: 1
 	illustrator: Tulio Brito
@@ -13145,7 +13145,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: Can now only affect creature tokens.
+	notes: nerfed: Can now only affect creature tokens.
 	uid: 09050218404494725673711896236901
 	linked_card_1: 
 	linked_card_2: 
@@ -28484,7 +28484,7 @@ card:
 	notes:
 		!promo Kitsuo Mythmaker
 		!design Provocative
-		
+
 	uid: 38447536477092743724783137985288
 	linked_card_1: 
 	linked_card_2: 
@@ -31995,7 +31995,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -32639,7 +32639,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -32799,7 +32799,7 @@ card:
 		III — Creatures you control gain <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -32961,7 +32961,7 @@ card:
 		III — Target creature you control gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -33122,7 +33122,7 @@ card:
 		III — Until end of turn, double up to one target creature’s power and toughness and it gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -34330,7 +34330,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 72056433261054937086807482985872
@@ -34421,7 +34421,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 74162967015757195504179700804669
@@ -34512,7 +34512,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 29972085896379832587442341525907
@@ -34603,7 +34603,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 09805294944844343100259126532835
@@ -34694,7 +34694,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 22145483917083088785915789080008
@@ -34791,7 +34791,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 36993577702399454301057642274412
@@ -34880,7 +34880,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 10838102313620148304573768774277
@@ -34969,7 +34969,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 69060890830682929298736781392518
@@ -35060,7 +35060,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 91623539686920436812878389148419
@@ -35149,7 +35149,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 34145719445650919552246256630726
@@ -35238,7 +35238,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -35332,7 +35332,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20, nyx
@@ -35425,7 +35425,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 17224426504636345223922952878862
@@ -35515,7 +35515,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -35710,7 +35710,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 93325459502683775685253059852709
@@ -35805,7 +35805,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 51734731813575744224111405577521
@@ -35894,7 +35894,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 32085050493142601365215511833001
@@ -35988,7 +35988,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -36257,7 +36257,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: tall, M20
@@ -37010,7 +37010,7 @@ card:
 		[-2]: <margin:130:0:0>Return target creature to its owner’s hand.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20

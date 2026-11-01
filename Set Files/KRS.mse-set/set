@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -14023,7 +14023,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: *FT
+	notes:
+		*FT
+		!update
 	uid: 09430986617203326524791862158344
 	linked_card_1: 
 	linked_card_2: 
@@ -14090,7 +14092,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2019-08-20 22:05:56
-	time_modified: 2021-12-21 07:38:23
+	time_modified: 2026-10-17 02:28:12
 	name: Cross-Pollinate
 	casting_cost: 3G
 	image: image374
@@ -14104,7 +14106,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Search your library for up to two basic land cards with different names and put them onto the battlefield tapped. Then you gain life equal to the number of colors among permanents you control.
+	rule_text:
+		Search your library for up to two basic land cards with different names, put them onto the battlefield tapped, then shuffle.
+		You gain life equal to the number of colors among permanents you control.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text:
@@ -25193,7 +25197,7 @@ card:
 	copyright_3: Unofficial Fan Set, Not For Sale
 card:
 	stylesheet: m15-godzilla
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chop_text: 
@@ -26106,7 +26110,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		!secret  !design zarepath
+		!update !design zarepath
 	uid: 26323992109768902265906037077227
 	linked_card_1: 
 	linked_card_2: 
@@ -26173,7 +26177,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2020-06-18 17:06:22
-	time_modified: 2025-11-28 21:36:18
+	time_modified: 2026-10-31 17:25:04
 	name: Nesting Hellkite
 	casting_cost: 4RG
 	image: image77
@@ -26199,7 +26203,7 @@ card:
 	toughness: 4
 	illustrator: nr_zrzr
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Unlocked by Styles
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Unofficial Fan Set, Not For Sale
@@ -26534,7 +26538,7 @@ card:
 	copyright_3: Unofficial Fan Set, Not For Sale
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -26638,7 +26642,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -26742,7 +26746,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -26846,7 +26850,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear, M20
@@ -26954,7 +26958,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -27057,7 +27061,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -27160,7 +27164,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -27260,7 +27264,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -27361,7 +27365,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -27465,7 +27469,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -27569,7 +27573,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: tall, M20
@@ -27781,7 +27785,7 @@ card:
 	copyright_3: Unofficial Fan Set, Not For Sale
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -27886,7 +27890,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -30500,7 +30504,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -30604,7 +30608,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -36191,7 +36195,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -36296,7 +36300,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -36400,7 +36404,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		

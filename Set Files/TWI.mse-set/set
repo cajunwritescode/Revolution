@@ -20,6 +20,9 @@ styling:
 		overlay: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-adventure:
 		frames: Reversed
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -1655,15 +1658,14 @@ card:
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
-	has_styling: true
-	styling_data:
-		promo: yes
+	has_styling: false
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
 		!tag Cerridwyn
 		!tag Gwyneira
 		TWI !promo Twiltrie Decree
+		!update
 	uid: 15705724758903522478570198264999
 	linked_card_1: 
 	linked_card_2: 
@@ -1730,10 +1732,10 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:03:32
-	time_modified: 2025-09-29 23:00:35
+	time_modified: 2026-10-31 22:51:53
 	name: Cidraeth Charm
 	casting_cost: UB
-	image: image10
+	image: image330.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -1750,7 +1752,7 @@ card:
 		Choose one —<soft-line>
 		</soft-line><li><margin:0:0:3><bullet>• </bullet><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.</margin:0:0:3></li><soft-line>
 		</soft-line><li><margin:0:0:3><bullet>• </bullet>Counter target instant or sorcery spell.</margin:0:0:3></li><soft-line>
-		</soft-line><li><margin:0:0:3><bullet>• </bullet>Tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:0:0:3></li>
+		</soft-line><li><margin:0:0:3><bullet>• </bullet>Tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. It loses all abilities until end of turn. Counter all activated abilities it’s the source of.</margin:0:0:3></li>
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -1773,6 +1775,7 @@ card:
 		Provcycle
 		TWI !promo Twiltrie Decree
 		!design Zangy
+		!update
 	uid: 46426811734676804437865047243820
 	linked_card_1: 
 	linked_card_2: 
@@ -1839,11 +1842,11 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-10-30 14:34:21
+	time_modified: 2026-10-31 22:52:17
 	card_color: blue, black, multicolor, horizontal
 	name: Witchery
 	casting_cost: UU/BB
-	image: image329.png
+	image: image332.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -1858,7 +1861,7 @@ card:
 	rarity: special
 	rule_text:
 		Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
-		At the beginning of each end step, if you’ve spent four or more mana to cast instant and/or sorcery spells this turn, create a 4/4 black Horror creature token.
+		At the beginning of each end step, draw a card if you’ve spent four or more mana to cast noncreature spells this turn. If you’ve spent eight or more, also create a 4/4 black Horror creature token.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -5682,6 +5685,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: Was instant/sorcery only.
 	uid: 29183485576450703224905327948819
 	linked_card_1: 
 	linked_card_2: 
@@ -5748,7 +5752,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-09 23:36:58
-	time_modified: 2025-08-31 15:54:38
+	time_modified: 2026-10-31 17:13:16
 	name: Herald of the Hollow Chant
 	casting_cost: 2B
 	image: image124.png
@@ -5765,7 +5769,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Herald of the Hollow Chant</nospellcheck></atom-cardname> gets +2/+0 as long as you’ve spent four or more mana to cast instant and/or sorcery spells this turn.
+		<atom-cardname><nospellcheck>Herald of the Hollow Chant</nospellcheck></atom-cardname> gets +2/+0 as long as you’ve spent four or more mana to cast noncreature spells this turn.
 	flavor_text: <i-flavor>The witches learn no magic of their own. They merely repeat the whispers first sung by things older than words.</i-flavor>
 	power: 1
 	toughness: 4
@@ -6622,6 +6626,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: Was instant/sorcery only.
 	uid: 21821625437237274122001700604440
 	linked_card_1: 
 	linked_card_2: 
@@ -6688,7 +6693,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-09 23:36:58
-	time_modified: 2025-08-31 15:54:28
+	time_modified: 2026-10-31 17:13:34
 	name: Pagebinder Witch
 	casting_cost: 1U
 	image: image137.png
@@ -6705,7 +6710,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		At the beginning of each end step, if you spent four or more mana to cast instant and/or sorcery spells this turn, you may draw a card. If you do, discard a card.
+		At the beginning of each end step, if you spent four or more mana to cast noncreature spells this turn, you may draw a card. If you do, discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -9363,6 +9368,8 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		
+		!update reworked: Was 4/2 for {2]{U}{B} with etb [you draw a card and you lose 1 life.]
 	uid: 51520004597886790225150809625047
 	linked_card_1: 
 	linked_card_2: 
@@ -9429,9 +9436,9 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-09 23:37:56
-	time_modified: 2025-07-01 16:48:24
+	time_modified: 2026-10-31 17:14:22
 	name: Sealed-Sigil Adept
-	casting_cost: 2UB
+	casting_cost: UB
 	image: image157.png
 	image_2: 
 	mainframe_image: 
@@ -9444,13 +9451,13 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: common
+	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Sealed-Sigil Adept</nospellcheck></atom-cardname> enters, <b>[you draw a card and you lose 1 life.]</b>
+		When <atom-cardname><nospellcheck>Sealed-Sigil Adept</nospellcheck></atom-cardname> enters, discard a card, then <b>[draw a card.]</b>
 		<kw-A><nospellcheck><key>Chant <param-cost><sym-auto>U/B</sym-auto></param-cost></key></nospellcheck> <atom-reminder-custom> <i-auto>(As you cast an instant or sorcery, you may exile this from hand and pay its chant cost to add this card’s bracketed effects to that spell. You may cast this later from exile.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
-	power: 4
-	toughness: 2
+	power: 2
+	toughness: 3
 	illustrator: WuMei!
 	card_code_text: 
 	card_code_text_2: 
@@ -11795,6 +11802,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: Was instant/sorcery only.
 	uid: 13198065042222667981023279115582
 	linked_card_1: 
 	linked_card_2: 
@@ -11861,7 +11869,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:03:32
-	time_modified: 2025-08-31 15:55:08
+	time_modified: 2026-10-31 17:12:57
 	name: Gravetithe Witch
 	casting_cost: 2UB
 	image: image138.png
@@ -11879,7 +11887,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		At the beginning of each end step, return target creature card with mana value 3 or less from your graveyard to the battlefield if you’ve spent four or more mana to cast instant and/or sorcery spells this turn.
+		At the beginning of each end step, return target creature card with mana value 3 or less from your graveyard to the battlefield if you’ve spent four or more mana to cast noncreature spells this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -12803,6 +12811,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update reworked: Was "Whenever you cast a noncreature spell, create a tapped Treasure" and Treasures can’t cast creature spells.
 	uid: 12801995131771538980231658453773
 	linked_card_1: 
 	linked_card_2: 
@@ -12869,7 +12878,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:03:32
-	time_modified: 2025-08-13 16:22:05
+	time_modified: 2026-10-31 17:16:00
 	name: Binder of Greed and Merit
 	casting_cost: 1UB
 	image: image269.png
@@ -12884,10 +12893,10 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: uncommon
+	rarity: common
 	rule_text:
-		Whenever you cast a noncreature spell, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
-		Treasures you control lose all abilities and gain “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color. You can’t spend this mana to cast creature spells.”
+		When <atom-cardname><nospellcheck>Binder of Greed and Merit</nospellcheck></atom-cardname> enters, <b>[<kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a>, then create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.]</b>
+		<kw-A><nospellcheck><key>Chant <param-cost><sym-auto>UB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As you cast an instant or sorcery, you may exile this from hand and pay its chant cost to add this card’s bracketed effects to that spell. You may cast this later from exile.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -13325,6 +13334,7 @@ card:
 		!tag Cidraeth
 		!tag Cerridwyn
 		!tag Gwyneira
+		!update buffed: Last ability now removes and counters abilities.
 	uid: 26176014419302455493127588298429
 	linked_card_1: 
 	linked_card_2: 
@@ -13391,7 +13401,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:03:32
-	time_modified: 2025-06-11 05:44:46
+	time_modified: 2026-10-31 16:39:22
 	name: Cidraeth Charm
 	casting_cost: UB
 	image: image23.png
@@ -13411,7 +13421,7 @@ card:
 		Choose one —<soft-line>
 		</soft-line><li><margin:0:0:3><bullet>• </bullet><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.</margin:0:0:3></li><soft-line>
 		</soft-line><li><margin:0:0:3><bullet>• </bullet>Counter target instant or sorcery spell.</margin:0:0:3></li><soft-line>
-		</soft-line><li><margin:0:0:3><bullet>• </bullet>Tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.</margin:0:0:3></li>
+		</soft-line><li><margin:0:0:3><bullet>• </bullet>Tap target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. It loses all abilities until end of turn. Counter all activated abilities it’s the source of.</margin:0:0:3></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Blackviii
 	card_code_text: 
@@ -15377,7 +15387,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
-		 nerfed: No longer enchants or counts opponent’s creatures.
+		!update
 	uid: 16922751567976970908903425538685
 	linked_card_1: 
 	linked_card_2: 
@@ -15444,7 +15454,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2026-09-30 14:25:28
+	time_modified: 2026-10-17 02:36:40
 	name: Courtly Intrigue
 	casting_cost: U
 	image: image89.png
@@ -15461,7 +15471,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature you contorl</param-name></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
 		Whenever enchanted creature or another creature you control with the same name as enchanted creature deals combat damage to a player or noncreature permanent, draw a card.
 	flavor_text: <i-flavor>To be caught spying? Gaudy. To be worth spying on? A compliment.</i-flavor>
 	illustrator: Cherraluna
@@ -15567,7 +15577,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -15578,9 +15588,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -15725,7 +15735,7 @@ card:
 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -15736,9 +15746,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -16209,6 +16219,7 @@ card:
 		!tag Thistrel
 		TribalCouple Cycle
 		!tag PaleThorn
+		!update adjusted: Only targets your Faeries.
 	uid: 04774806838183111908927151629678
 	linked_card_1: 
 	linked_card_2: 
@@ -16275,7 +16286,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-11 12:05:46
+	time_modified: 2026-10-31 16:54:33
 	name: Petalclaw Ambusher
 	casting_cost: 1R
 	image: image99.png
@@ -16293,7 +16304,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever an Illusion you control dies, put a +1/+1 counter on target Faerie.
+		Whenever an Illusion you control dies, put a +1/+1 counter on target Faerie you control.
 	flavor_text: <i-flavor>The assassins of the Court of the Pale Thorn are not taught to hide, but to wait. They sit in plain sight, silent and adorned, until the moment beauty turns fatal.</i-flavor>
 	power: 2
 	toughness: 2
@@ -16304,7 +16315,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -16315,11 +16326,11 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
-		shrink_name_text: 
+		shrink_name_text: 1
 		shrink_typeline_text: 
 		level_label_font_size: 
 		popout_image_style: 
@@ -16777,6 +16788,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Sunvrath
+		!update reworked: Was 2/1 without reach. Modes were +1/+1 counter, gain menace, or scry 2.
 	uid: 87382046853224520638955589697134
 	linked_card_1: 
 	linked_card_2: 
@@ -16843,7 +16855,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-07-22 22:08:26
+	time_modified: 2026-10-31 17:04:30
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -16863,13 +16875,14 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever a creature you control enters, if you didn’t cast it, choose one that hasn’t been chosen this turn —<soft-line>
-		</soft-line><li><margin:0:0:3><bullet>• </bullet>Put a +1/+1 counter on <atom-cardname><nospellcheck>Undarah of Fervor and Flame</nospellcheck></atom-cardname>.</margin:0:0:3></li><soft-line>
-		</soft-line><li><margin:0:0:3><bullet>• </bullet><atom-cardname><nospellcheck>Undarah of Fervor and Flame</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.</margin:0:0:3></li><soft-line>
-		</soft-line><li><margin:0:0:3><bullet>• </bullet><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.</margin:0:0:3></li>
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		Once each turn, when one or more creatures you control enter without being cast, choose one —<soft-line>
+		</soft-line><li><margin:0:0:3><bullet>• </bullet>Put a +1/+1 counter on <atom-legname><nospellcheck>Undarah</nospellcheck></atom-legname>. He gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.</margin:0:0:3></li><soft-line>
+		</soft-line><li><margin:0:0:3><bullet>• </bullet>Creatures you control gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:0:0:3></li><soft-line>
+		</soft-line><li><margin:0:0:3><bullet>• </bullet>Discard a card, then draw a card.</margin:0:0:3></li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
-	toughness: 1
+	toughness: 2
 	illustrator: Alvin Lee
 	card_code_text: 
 	card_code_text_2: 
@@ -17078,7 +17091,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -17089,9 +17102,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -17644,7 +17657,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -17655,11 +17668,11 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
-		shrink_name_text: 
+		shrink_name_text: 1
 		shrink_typeline_text: 
 		level_label_font_size: 
 		popout_image_style: 
@@ -19461,7 +19474,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -19472,9 +19485,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -19822,8 +19835,8 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		chop_top: 8
-		chop_bottom: 8
+		chop_top: 
+		chop_bottom: 10
 		shrink_name_text: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -19834,7 +19847,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
-		 nerfed: Was 0/5.
+		!update buffed: Was 0/4.
 	uid: 73318486147947895544189828232932
 	linked_card_1: 
 	linked_card_2: 
@@ -19901,7 +19914,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2026-01-31 16:29:15
+	time_modified: 2026-10-31 16:53:38
 	name: Mistwrit Archivist
 	casting_cost: 2U
 	image: image73.png
@@ -19921,7 +19934,7 @@ card:
 		<kw-A><nospellcheck><key>Decoy</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature attacks, create a tapped and attacking 1/1 Illusion token that’s a copy of it. Exile the token at the beginning of the next end step.)</i-auto></atom-reminder-custom></kw-A>
 		When this creature enters, draw a card.
 	flavor_text: <i-flavor>“I can feel what the Vale once was, just beneath the surface. It mourns. I will give its grief a name.”</i-flavor>
-	power: 0
+	power: 1
 	toughness: 4
 	illustrator: Monkae
 	card_code_text: 
@@ -21259,7 +21272,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -21270,11 +21283,11 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
-		shrink_name_text: 
+		shrink_name_text: 1
 		shrink_typeline_text: 
 		level_label_font_size: 
 		popout_image_style: 
@@ -21422,6 +21435,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: Was instant/sorcery only.
 	uid: 10680376204410038276287713351779
 	linked_card_1: 
 	linked_card_2: 
@@ -21488,7 +21502,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:06:12
-	time_modified: 2025-08-31 14:56:07
+	time_modified: 2026-10-31 17:11:26
 	name: Crab of the Hollow Gale
 	casting_cost: 4U
 	image: image149.png
@@ -21506,7 +21520,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		At the beginning of each end step, tap target creature you don’t control. If you’ve spent four or more mana to cast instant and/or sorcery spells this turn, put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on that creature.
+		At the beginning of each end step, tap target creature you don’t control. If you’ve spent four or more mana to cast noncreature spells this turn, put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on that creature.
 	flavor_text:
 		<i-flavor>“There was no hate in its eyes. Only the calm cruelty of understanding.”<soft-line>
 		—<error-spelling:en_US>Lunate</error-spelling:en_US> soldier</soft-line></i-flavor>
@@ -21519,7 +21533,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -21530,11 +21544,11 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
-		shrink_name_text: 
+		shrink_name_text: 2
 		shrink_typeline_text: 
 		level_label_font_size: 
 		popout_image_style: 
@@ -21873,7 +21887,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -21884,11 +21898,11 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
-		shrink_name_text: 
+		shrink_name_text: 1
 		shrink_typeline_text: 
 		level_label_font_size: 
 		popout_image_style: 
@@ -22142,7 +22156,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -22153,9 +22167,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 1
 		shrink_typeline_text: 
@@ -22602,6 +22616,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
+		!update buffed: Was XXBB, and added finality counters instead of exiling itself.
 	uid: 85262307884529976418133655486866
 	linked_card_1: 
 	linked_card_2: 
@@ -22668,9 +22683,9 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:40:45
-	time_modified: 2025-08-31 15:33:34
+	time_modified: 2026-10-31 16:37:06
 	name: Call of the Crown
-	casting_cost: XXBB
+	casting_cost: XBBB
 	image: image246.png
 	image_2: 
 	mainframe_image: 
@@ -22684,7 +22699,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Return each creature card with mana value X or less from your graveyard to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it. For each creature returned this way, put your choice of a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> counter on it.
+	rule_text:
+		Return each creature card with mana value X or less from your graveyard to the battlefield. For each creature returned this way, put your choice of a <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> counter on it.
+		Exile <atom-cardname><nospellcheck>Call of the Crown</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Wilson Nugraha
 	card_code_text: 
@@ -22698,6 +22715,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Sunvrath
+		!update buffed: now gives the target rapture.
 	uid: 49525234514482559948013512573378
 	linked_card_1: 
 	linked_card_2: 
@@ -22764,7 +22782,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:40:45
-	time_modified: 2025-08-31 16:22:23
+	time_modified: 2026-10-31 16:35:12
 	name: Burning Blood Orator
 	casting_cost: 2RR
 	image: image177.png
@@ -22782,7 +22800,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Burning Blood Orator</nospellcheck></atom-cardname> attacks, another target creature you control has base power and toughness 4/2 until end of turn.
+		Whenever <atom-cardname><nospellcheck>Burning Blood Orator</nospellcheck></atom-cardname> attacks, another target creature you control has base power and toughness 4/2 and gains <kw-0><nospellcheck><key>rapture</key></nospellcheck></kw-0> until end of turn.
 		<kw-1><nospellcheck><key>Rapture</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, return it to the battlefield with a haze counter on it. It loses all abilities and can’t block.)</i-auto></atom-reminder-custom></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -23542,7 +23560,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -23553,9 +23571,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -23702,7 +23720,7 @@ card:
 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -23713,9 +23731,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -23863,7 +23881,7 @@ card:
 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -23874,9 +23892,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -24023,7 +24041,7 @@ card:
 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -24034,9 +24052,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -24183,7 +24201,7 @@ card:
 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -24194,9 +24212,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -24230,6 +24248,7 @@ card:
 		!tag Twiltrie
 		!tag Devika
 		5
+		!update reworked: Was 1G, allowed lands at 4 defense and creatures when defeated.
 	uid: 04034025406479478531841118249815
 	linked_card_1: 
 	linked_card_2: 
@@ -24296,10 +24315,10 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:41:17
-	time_modified: 2026-04-30 13:38:12
+	time_modified: 2026-10-31 16:51:48
 	card_color: green
 	name: Gravebound Oath
-	casting_cost: 1G
+	casting_cost: 2G
 	image: image274.png
 	image_2: 
 	mainframe_image: 
@@ -24317,12 +24336,14 @@ card:
 	rule_text_3: 
 	flavor_text_3: <i-flavor></i-flavor>
 	loyalty: 5
-	level_2: <b>4 Defense</b>
+	level_2: <b>2 Defense</b>
 	level_3: <b>Defeated</b>
 	level_4: <b>Defeated</b>
-	level_1_text: You may look at the top card of your library any time.
-	level_2_text: <margin:0:0:30>You may play lands from the top of your library.</margin:0:0:30>
-	level_3_text: <margin:0:0:30>You may cast creature spells from the top of your library.</margin:0:0:30>
+	level_1_text:
+		Play with the top card of your library revealed.
+		You may play lands from the top of your library.
+	level_2_text: <margin:0:0:30>You may cast creature spells from the top of your library.</margin:0:0:30>
+	level_3_text: <margin:0:0:30>You may play an additional land on each of your turns.</margin:0:0:30>
 	level_4_text: 
 	level_9_text: 
 	level_10_text: 
@@ -24335,11 +24356,12 @@ card:
 	card_code_text_3: 
 	special_text:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
-		You may look at the top card of your library any time.
-		  <b>4 Defense</b>
-		<margin:0:0:30>You may play lands from the top of your library.</margin:0:0:30>
-		  <b>Defeated</b>
+		Play with the top card of your library revealed.
+		You may play lands from the top of your library.
+		  <b>2 Defense</b>
 		<margin:0:0:30>You may cast creature spells from the top of your library.</margin:0:0:30>
+		  <b>Defeated</b>
+		<margin:0:0:30>You may play an additional land on each of your turns.</margin:0:0:30>
 
 card:
 	stylesheet: m15-altered
@@ -24553,6 +24575,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
+		!update adjusted: Base mode was -3/-3 for {2}{B}{B}.
 	uid: 76835528147716271945613412341278
 	linked_card_1: 
 	linked_card_2: 
@@ -24619,9 +24642,9 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 15:40:07
+	time_modified: 2026-10-31 16:55:19
 	name: Rain of Blight
-	casting_cost: 2BB
+	casting_cost: 1BB
 	image: image229.png
 	image_2: 
 	mainframe_image: 
@@ -24636,7 +24659,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		All creatures get -3/-3 until end of turn.
+		All creatures get -2/-2 until end of turn.
 		<kw-A><i-auto><nospellcheck><key>Vigor</key></nospellcheck></i-auto></kw-A> — If you’ve gained or lost life this turn, instead all creatures get -5/-5 until end of turn.
 	flavor_text:
 		<i-flavor>“Dragons once bore fire of the sun above. Now, the abominations only mock their former glory.”<soft-line>
@@ -24755,6 +24778,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
+		!update adjusted: Vigor effect allowed you to exile it from grave to return a Zombie card to your hand.
 	uid: 01200637701348036841402541540305
 	linked_card_1: 
 	linked_card_2: 
@@ -24821,7 +24845,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 17:51:17
+	time_modified: 2026-10-31 17:07:35
 	name: Vestige of the King’s Fall
 	casting_cost: 2GG
 	image: image237.png
@@ -24839,7 +24863,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>trample over <param-name>battles</param-name></key></nospellcheck></kw-0> <i-auto>(This creature can deal excess combat damage to the <kw-0><nospellcheck><key>defender</key></nospellcheck></kw-0> of the battle it’s attacking or the player it’s attacking.)</i-auto>
-		<kw-0><i-auto><nospellcheck><key>Vigor</key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, you may exile <atom-cardname><nospellcheck>Vestige of the King’s Fall</nospellcheck></atom-cardname> from your graveyard if you’ve gained or lost life this turn. If you do, return target Zombie card from your graveyard to your hand.
+		<kw-0><i-auto><nospellcheck><key>Vigor</key></nospellcheck></i-auto></kw-0> — At the beginning of your end step, if you’ve gained or lost life this turn, you may pay <sym-auto>2GG</sym-auto>. If you do, return <atom-cardname><nospellcheck>Vestige of the King’s Fall</nospellcheck></atom-cardname> from your graveyard to the battlefield tapped.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5
@@ -25390,7 +25414,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -25401,9 +25425,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -25771,7 +25795,7 @@ card:
 	vorthos_box: She/her
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -25782,9 +25806,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -25821,6 +25845,7 @@ card:
 		!tag Thistrel
 		Winner: Thistrel
 		OperationCycle
+		!update buffed: Draws an extra card.
 	uid: 89716485065076268632417147058581
 	linked_card_1: 
 	linked_card_2: 
@@ -25887,7 +25912,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2026-04-30 13:38:01
+	time_modified: 2026-10-31 16:41:11
 	name: Clash at Scorchroot Bluff
 	casting_cost: 1RR
 	image: image309.png
@@ -25911,7 +25936,7 @@ card:
 	level_3: <b>Defeated</b>
 	level_4: 
 	level_1_text: At the beginning of combat on your turn, create a 1/1 red Faerie creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it at the beginning of the next end step.
-	level_2_text: <margin:0:0:30>When this battle first reaches this stage, you may discard up to two cards. If you do, draw that many cards.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>When this battle first reaches this stage, you may discard up to two cards. If you do, draw that many cards plus one.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Creatures you control get +1/+0.</margin:0:0:30>
 	level_4_text: 
 	level_9_text: 
@@ -25927,7 +25952,7 @@ card:
 		<i-auto>(As this enters, choose an opponent to protect it. You and others can attack it. It gains abilities while at certain stages or below.)</i-auto>
 		At the beginning of combat on your turn, create a 1/1 red Faerie creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it at the beginning of the next end step.
 		  <b>2 Defense</b>
-		<margin:0:0:30>When this battle first reaches this stage, you may discard up to two cards. If you do, draw that many cards.</margin:0:0:30>
+		<margin:0:0:30>When this battle first reaches this stage, you may discard up to two cards. If you do, draw that many cards plus one.</margin:0:0:30>
 		  <b>Defeated</b>
 		<margin:0:0:30>Creatures you control get +1/+0.</margin:0:0:30>
 
@@ -26036,6 +26061,7 @@ card:
 		!tag Twiltrie
 		!tag Sunvrath
 		“Twiltrie prays for salvation. We are the one and only answer.”
+		!update buffed: Now triggers on etb. Was 3/3.
 	uid: 16832776474189110984090118830545
 	linked_card_1: 
 	linked_card_2: 
@@ -26102,7 +26128,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-17 19:57:41
+	time_modified: 2026-10-31 16:42:55
 	name: Diviner of the Sun
 	casting_cost: 2WW
 	image: image172.png
@@ -26119,11 +26145,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever another nontoken creature you control dies, create a 2/2 white Knight creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		When <atom-cardname><nospellcheck>Diviner of the Sun</nospellcheck></atom-cardname> enters and whenever another nontoken creature you control dies, create a 2/2 white Knight creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 		<kw-A><nospellcheck><key>Rapture</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, return it to the battlefield with a haze counter on it. It loses all abilities and can’t block.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 3
+	toughness: 2
 	illustrator: Thanet Thanakij
 	card_code_text: 
 	card_code_text_2: 
@@ -26555,7 +26581,6 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Lunate
-
 	uid: 29572549063107449225283890166264
 	linked_card_1: 
 	linked_card_2: 
@@ -27163,6 +27188,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: Was instant/sorcery only.
 	uid: 70401908885739733971517620860877
 	linked_card_1: 
 	linked_card_2: 
@@ -27229,7 +27255,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 15:54:34
+	time_modified: 2026-10-31 17:15:26
 	name: Witch of the First Echoes
 	casting_cost: UU
 	image: image118.png
@@ -27248,7 +27274,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
-		At the beginning of each end step, if you’ve spent four or more mana to cast instant and/or sorcery spells this turn, create a 1/1 blue Warlock creature token with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. If you spent eight or more, instead create a 4/4 black Horror creature token. 
+		At the beginning of each end step, if you’ve spent four or more mana to cast noncreature spells this turn, create a 1/1 blue Warlock creature token with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. If you spent eight or more, instead create a 4/4 black Horror creature token. 
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -27563,7 +27589,7 @@ card:
 	vorthos_box: She/her
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -27574,9 +27600,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -27835,7 +27861,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -27846,9 +27872,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -28100,7 +28126,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -28111,9 +28137,9 @@ card:
 		custom_chapter_location: 
 		custom_chapter_name: 
 		auto_frames: nyx, vehicle, snow, universes beyond
-		other_options: class
+		other_options: class, use defense
 		custom_border_source: 
-		class_levels: notched
+		class_levels: operation
 		custom_class_bar: 
 		shrink_name_text: 
 		shrink_typeline_text: 
@@ -30086,6 +30112,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: Was instant/sorcery only.
 	uid: 28980249230829335548245640817114
 	linked_card_1: 
 	linked_card_2: 
@@ -30152,7 +30179,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-08-31 17:54:18
+	time_modified: 2026-10-31 17:13:07
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -30173,7 +30200,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		At the beginning of each end step, look at the top three cards of your library if you’ve spent four or more mana to cast instant and/or sorcery spells this turn. You may put a card from among them into your hand. Put the rest on the bottom of your library in a random order.
+		At the beginning of each end step, look at the top three cards of your library if you’ve spent four or more mana to cast noncreature spells this turn. You may put a card from among them into your hand. Put the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -30597,6 +30624,7 @@ card:
 		!tag Twiltrie
 		!tag Cidraeth
 		Provcycle
+		!update adjusted: Previously created the Horror if you spent 4 or more mana to cast instant/sorcery spells.
 	uid: 47240074612681476220250983989168
 	linked_card_1: 
 	linked_card_2: 
@@ -30663,7 +30691,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-08-31 15:55:24
+	time_modified: 2026-10-31 17:09:06
 	card_color: blue, black, multicolor, horizontal
 	name: Witchery
 	casting_cost: UU/BB
@@ -30682,7 +30710,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
-		At the beginning of each end step, if you’ve spent four or more mana to cast instant and/or sorcery spells this turn, create a 4/4 black Horror creature token.
+		At the beginning of each end step, draw a card if you’ve spent four or more mana to cast noncreature spells this turn. If you’ve spent eight or more, also create a 4/4 black Horror creature token.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: khaihoan
 	card_code_text: 
@@ -31892,7 +31920,7 @@ card:
 		!tag Twiltrie
 		!tag Thistrel
 		!tag Palethorn
-		
+		!update reworked: Was ’Whenever a creature you control becomes blocked, it deals 1 damage to the player or permanent it’s attacking. Scry 1."
 		“A hidden blade is a promise of treachery. Mine is a promise of peace.”
 	uid: 27638176801508289762246110933302
 	linked_card_1: 
@@ -31960,7 +31988,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:52:45
-	time_modified: 2025-08-30 21:59:01
+	time_modified: 2026-10-31 16:25:59
 	name: Ambassador of Unseen Edges
 	casting_cost: 1UR
 	image: image95.png
@@ -31978,7 +32006,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Decoy</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature attacks, create a tapped and attacking 1/1 Illusion token that’s a copy of it. Exile the token at the beginning of the next end step.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever a creature you control becomes blocked, it deals 1 damage to the player or permanent it’s attacking. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		Whenever a creature you control dies or is exiled, it deals 1 damage to each opponent. <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 4
@@ -32321,6 +32349,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: AA cost was {U}
 	uid: 68303999381829700791200946794803
 	linked_card_1: 
 	linked_card_2: 
@@ -32387,7 +32416,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-10 12:43:33
+	time_modified: 2026-10-31 16:58:39
 	name: Skytide Piercer
 	casting_cost: 1U
 	image: image111.png
@@ -32405,7 +32434,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<sym-auto>U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Skytide Piercer</nospellcheck></atom-cardname>: <b>[Counter target noncreature spell unless its controller pays <sym-auto>2</sym-auto>.]</b>
+		<sym-auto>1</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Skytide Piercer</nospellcheck></atom-cardname>: <b>[Counter target noncreature spell unless its controller pays <sym-auto>2</sym-auto>.]</b>
 		<kw-A><nospellcheck><key>Chant <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As you cast an instant or sorcery, you may exile this from hand and pay its chant cost to add this card’s bracketed effects to that spell. You may cast this later from exile.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -32422,6 +32451,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
+		!update buffed: Was instant/sorcery only.
 	uid: 16513264107137461940511954159481
 	linked_card_1: 
 	linked_card_2: 
@@ -32488,7 +32518,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-08-31 15:58:03
+	time_modified: 2026-10-31 17:13:49
 	name: Reverie of the Endless Maw
 	casting_cost: 1B
 	image: image159.png
@@ -32506,7 +32536,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever you cast a noncreature spell, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
-		At the beginning of each end step, if you’ve spent four or more mana to cast instant and/or sorcery spells this turn, return target creature or planeswalker card from your graveyard to your hand.
+		At the beginning of each end step, if you’ve spent four or more mana to cast noncreature spells this turn, return target creature or planeswalker card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Envar Studio
 	card_code_text: 
@@ -32520,6 +32550,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
+		!update buffed: Now lets you play any card.
 	uid: 31098283348839090033990374329966
 	linked_card_1: 
 	linked_card_2: 
@@ -32586,7 +32617,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 00:47:24
-	time_modified: 2025-07-01 02:38:33
+	time_modified: 2026-10-31 16:44:00
 	name: Fang of the Pale Thorn
 	casting_cost: R
 	image: image82.png
@@ -32605,7 +32636,7 @@ card:
 	rule_text:
 		<atom-cardname><nospellcheck>Fang of the Pale Thorn</nospellcheck></atom-cardname> can’t block.
 		Whenever <atom-cardname><nospellcheck>Fang of the Pale Thorn</nospellcheck></atom-cardname> attacks, exile the top card of your library.
-		When <atom-cardname><nospellcheck>Fang of the Pale Thorn</nospellcheck></atom-cardname> dies, you may play the last card exiled by it until the end of your next turn.
+		When <atom-cardname><nospellcheck>Fang of the Pale Thorn</nospellcheck></atom-cardname> dies, you may play a exiled with it until the end of your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -33153,7 +33184,7 @@ card:
 		font_size: 
 		other_options: un-indent nonloyalty abilities
 		custom_border_source: 
-		textbox_opacity_percentage: 
+		textbox_opacity_percentage: 60
 		textbox_color: rgb(255,255,255)
 		stripes_opacity_percentage: 
 		stripes_color: rgb(255,255,255)
@@ -33195,6 +33226,8 @@ card:
 		!tag Sunvrath
 		!tag Ameret
 		!tag Alkabah
+		
+		!update buffed: Now has native lifelink. 0 is now +1 but loses haste. -2 is now -3, deals 5 damage (from 3) but can’t hit players.
 	uid: 49333220887553958325296207341618
 	linked_card_1: 
 	linked_card_2: 
@@ -33261,7 +33294,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-06-10 03:13:23
-	time_modified: 2025-08-31 18:21:39
+	time_modified: 2026-10-31 16:29:50
 	name: Ameret, Seeker of the Sun
 	casting_cost: 3RW
 	image: image2.png
@@ -33277,14 +33310,16 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	loyalty_cost_1: +2
-	loyalty_cost_2: 0
-	loyalty_cost_3: -2
+	loyalty_cost_1: 
+	loyalty_cost_2: +2
+	loyalty_cost_3: +1
+	loyalty_cost_4: -3
 	loyalty: 5
-	level_1_text: <margin:130:0:0>Exile up to two target creatures you own. At the beginning of your next declare attackers step, return those creatures to the battlefield tapped and attacking.</margin:130:0:0>
-	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> becomes a 4/4 Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. <i-auto>(They don’t lose loyalty while not a planeswalker.)</i-auto></margin:130:0:0>
-	level_3_text: <margin:130:0:0><atom-cardname><nospellcheck>Ameret, Seeker of the Sun</nospellcheck></atom-cardname> deals 3 damage to any target and you gain 3 life.</margin:130:0:0>
-	level_4_text: 
+	level_1_text: <kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+	level_2_text: <margin:130:0:0>Exile up to two target creatures you own. At the beginning of your next declare attackers step, return those creatures to the battlefield tapped and attacking.</margin:130:0:0>
+	level_3_text: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> becomes a 4/4 Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. <i-auto>(They don’t lose loyalty while not a planeswalker.)</i-auto></margin:130:0:0>
+	level_4_text: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> deals 5 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.</margin:130:0:0>
+	level_5_text: 
 	illustrator: Emanuel Dias
 	card_code_text: 
 	card_code_text_2: 
@@ -33292,9 +33327,10 @@ card:
 	secondary_copyright: They/them
 	vorthos_box: 
 	special_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
 		[+2]: <margin:130:0:0>Exile up to two target creatures you own. At the beginning of your next declare attackers step, return those creatures to the battlefield tapped and attacking.</margin:130:0:0>
-		[0]: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> becomes a 4/4 Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. <i-auto>(They don’t lose loyalty while not a planeswalker.)</i-auto></margin:130:0:0>
-		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Ameret, Seeker of the Sun</nospellcheck></atom-cardname> deals 3 damage to any target and you gain 3 life.</margin:130:0:0>
+		[+1]: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> becomes a 4/4 Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. <i-auto>(They don’t lose loyalty while not a planeswalker.)</i-auto></margin:130:0:0>
+		[-3]: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> deals 5 damage to any <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2026-09-15
@@ -34979,7 +35015,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35073,7 +35109,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35169,7 +35205,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35265,7 +35301,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35361,7 +35397,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35455,7 +35491,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35549,7 +35585,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35643,7 +35679,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -35739,7 +35775,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !tag Twiltrie
 	uid: 54594471402558421107212005816951
@@ -35831,7 +35867,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !tag Twiltrie
 	uid: 48546291560635612623384195180570
@@ -35922,7 +35958,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -36021,7 +36057,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -36120,7 +36156,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -36219,7 +36255,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Twiltrie
@@ -37096,7 +37132,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Clash at Scorchroot Bluff
 	uid: 49698604371544467742062780471215
@@ -37298,7 +37334,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -37457,7 +37493,7 @@ card:
 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -38102,7 +38138,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		 !secret !design Zangy
+		 !update !design Zangy
 		!hidetag (KUT)
 	uid: 04774791865861824296914384954899
 	linked_card_1: 
@@ -38170,7 +38206,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-11-28 21:39:56
-	time_modified: 2025-11-29 02:03:27
+	time_modified: 2026-10-31 17:22:49
 	name: Reaper of Blossoms
 	casting_cost: 1G
 	image: image30
@@ -38192,7 +38228,7 @@ card:
 	toughness: 3
 	illustrator: exellero
 	partition_select: after main set Q
-	card_code_text: 
+	card_code_text: Excursion Unlocked by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 	vorthos_box: 

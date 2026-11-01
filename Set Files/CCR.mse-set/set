@@ -18136,8 +18136,7 @@ card:
 		Spheal 
 		!hasshiny
 		!token Seal Orb1>;
-		!rev
-		!change no longer intervening if
+		!update
 	uid: 84965961413617321461579311611741
 	linked_card_1: 
 	linked_card_2: 
@@ -18204,7 +18203,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-09-05 06:29:46
-	time_modified: 2024-12-19 16:12:34
+	time_modified: 2026-10-17 02:25:09
 	name: Seal Shoals
 	casting_cost: WU
 	image: image10
@@ -18215,7 +18214,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		At the beginning of each end step, create a 2/2 white and blue Seal Orb creature token if you activated two or more <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> abilities this turn.
+		At the beginning of each end step, create a 2/2 white and blue Seal Orb creature token if you’ve activated two or more <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> abilities this turn.
 		<sym-auto>WU</sym-auto>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. You gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
@@ -19446,6 +19445,7 @@ card:
 	notes:
 		!rev 
 		?shiny
+		!update
 	uid: 00065051505966978968089210832669
 	linked_card_1: 
 	linked_card_2: 
@@ -19512,7 +19512,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2019-11-10 15:36:52
-	time_modified: 2024-12-19 12:18:45
+	time_modified: 2026-10-17 02:31:32
 	name: Mystery Egg
 	casting_cost: G
 	image: image82
@@ -19523,7 +19523,7 @@ card:
 	sub_type: <word-list-race-en>Egg</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Mystery Egg</nospellcheck></atom-cardname> enters, search your library for a card and exile it face down, then shuffle your library. You may look at that card as long as it remains exiled.
+		When <atom-cardname><nospellcheck>Mystery Egg</nospellcheck></atom-cardname> enters, search your library for a card and exile it face down, then shuffle. You may look at that card as long as it remains exiled.
 		<sym-auto>G</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Mystery Egg</nospellcheck></atom-cardname>: Turn the exiled card face up. You may cast that card this turn if it’s a creature spell, and you may cast that spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
@@ -26796,6 +26796,7 @@ card:
 		Spheal 
 		!token Seal Orb1>;
 		!unlocked
+		!update
 		!design Cajun
 		 !hidetag ★
 	uid: 28168045959401141434012842599140
@@ -26864,7 +26865,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-09-05 06:29:46
-	time_modified: 2025-12-01 16:23:34
+	time_modified: 2026-10-17 02:25:15
 	name: Seal Shoals
 	casting_cost: WU
 	image: image339
@@ -26875,7 +26876,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		At the beginning of each end step, create a 2/2 white and blue Seal Orb creature token if you activated two or more <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> abilities this turn.
+		At the beginning of each end step, create a 2/2 white and blue Seal Orb creature token if you’ve activated two or more <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> abilities this turn.
 		<sym-auto>WU</sym-auto>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. You gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
@@ -33334,7 +33335,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-showcase-innistrad-mid
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-12
 	has_styling: false
 	notes:
 		 !promo Innistrad Haunt
@@ -36455,7 +36456,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 51689367034961054273842209988488
@@ -36546,7 +36547,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -36640,7 +36641,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 91945340578452430844354424007433
@@ -36734,7 +36735,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 56867313475299387370782096732274
@@ -36828,7 +36829,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 08290221138397388958030668582127
@@ -36922,7 +36923,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 71987297508929315343297228940795
@@ -37016,7 +37017,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tokentag Altaria
@@ -37114,7 +37115,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !tokentag Swellow
 	uid: 15339721867834406843692577665320
@@ -37208,7 +37209,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !tokentag Blaziken
 	uid: 79740505449197366885519666450281
@@ -37302,7 +37303,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tokentag Goodra
@@ -37400,7 +37401,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 96884451925295644609838963492468
@@ -37494,7 +37495,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tokentag Noivern
@@ -40984,7 +40985,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tokentag Salamence
@@ -41082,7 +41083,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		Zinnia
@@ -41180,7 +41181,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 65764580414691338071316757196901
@@ -41273,7 +41274,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 24295722173119563325156530207189
@@ -41367,7 +41368,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 38407844010244953423558391556876
@@ -41463,7 +41464,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		remove_from_autocount: no
@@ -41562,7 +41563,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		remove_from_autocount: no
@@ -43144,7 +43145,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tokentag ShinySwellow
@@ -43241,7 +43242,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tokentag ShinyBlaziken

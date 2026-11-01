@@ -3266,7 +3266,7 @@ card:
 	notes:
 		4 Aug 2025: Switched to trigger instead of activated ability
 		10 Aug 2025: Removed trigger
-		
+		!update
 		MAY 2026:
 		Rework to WB Flicker instead of WB Extort
 		19 Dec 2025: Removed extort, gave enters and dies trigger, and reduced to 1 mana 1/2<soft-line>
@@ -3341,7 +3341,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-07-03 21:07:38
-	time_modified: 2026-04-20 18:43:42
+	time_modified: 2026-10-31 17:57:02
 	name: Luxuries Merchant
 	casting_cost: B
 	image: image54.png
@@ -3357,7 +3357,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text: When this creature dies, <kw-1><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-1>
-	flavor_text: <i-flavor>“Might I interested you in these ones here? Found during the <error-spelling:en_US>Frossenhold</error-spelling:en_US> expedition. Pristine. Only the best for our <error-spelling:en_US>favourite</error-spelling:en_US> customer.”</i-flavor>
+	flavor_text: <i-flavor>“Might I interest you in these ones here? Found during the <error-spelling:en_US>Frossenhold</error-spelling:en_US> expedition. Pristine. Only the best for our <error-spelling:en_US>favourite</error-spelling:en_US> customer.”</i-flavor>
 	power: 1
 	toughness: 2
 	illustrator: Pete Amachree
@@ -18961,7 +18961,7 @@ card:
 		overlay: 
 	notes:
 		Should this be constructed viable? Yes
-		
+		!update
 		Does this currently seem constructed viable? Yes
 		
 		4 Sep 2025: Made token mode 1WW (from WW), and made wrath mode 2WW (from 1WWW)
@@ -19041,7 +19041,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-07-29 19:20:25
-	time_modified: 2026-07-09 00:43:34
+	time_modified: 2026-10-17 02:33:27
 	name: Otherworldly Gyre
 	casting_cost: 1WW
 	image: image154.png
@@ -19058,7 +19058,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When this enchantment enters, exile all creatures with mana value 2 or less until this enchantment leaves the battlefield.
+		When this enchantment enters, exile each creature with mana value 2 or less until this enchantment leaves the battlefield.
 		<sym-auto>XCC</sym-auto>: Search your library for a colorless creature card with mana value X or less, exile it, then shuffle. This enchantment becomes a copy of that card. Activate only as a sorcery. <i-auto>(This lasts indefinitely.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alexandre Poyet
@@ -20241,7 +20241,7 @@ card:
 	has_styling: false
 	notes:
 		8 lines
-		
+		!update
 		Should this be constructed viable? No, a bit too flashy
 		
 		FT: Transform as a sorcery only
@@ -20318,7 +20318,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-07-29 20:31:22
-	time_modified: 2026-08-19 14:11:04
+	time_modified: 2026-10-31 17:50:54
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -20339,7 +20339,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever <kw-A><nospellcheck><key>the void</key></nospellcheck> calls you, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn.<atom-reminder-custom> <i-auto>(The void calls you each time a card is put into your graveyard from your hand or library during your turn.)</i-auto></atom-reminder-custom></kw-A>
-		<sym-auto>3BB</sym-auto>: If there are seven or more cards in your graveyard, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Esme</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery. <i-auto>(This effects lasts indefinitely.)</i-auto>
+		<sym-auto>3BB</sym-auto>: If there are seven or more cards in your graveyard, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Esme</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery. <i-auto>(This effect lasts indefinitely.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -26060,7 +26060,6 @@ card:
 	notes:
 		!!exportname Plains Eldritch_SGP
 		!hidetag Eldritch
-
 	uid: 47904496727133001398262064391929
 	linked_card_1: 
 	linked_card_2: 
@@ -27549,7 +27548,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear
@@ -27896,7 +27895,7 @@ card:
 	vorthos_box: They/them
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Brazen Sootbellow;Stylla, Opulence Paragon;Speakeasy Brokers;Forgotten Fablewaver // Reprise
 	uid: 97017890966571338238436487881271
@@ -27984,7 +27983,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Fade;Port Inspector;Spill the Beans;Task Force Operatives;Vile Reef Inquisitor;Cataclysm Constable;Confidential Science;Curious Botanist;Deep Cover Prowler;Donnybrook;First Responders;Formless Scape;Gloamveil Trackers;Wreckage Inquisitors;Yestergrove Relic;Concerning Discoveries;Lantha, Task Force Sergeant;Stelver, the Eyes and Ears;Adaptive Lieutenant
 	uid: 55032158863143175782596681222744
@@ -28072,7 +28071,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Industry Kingpins
 	uid: 14750245057968607772682909665180
@@ -28163,7 +28162,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Oathbound Stalwart;High Sergeant Liano;Warpwire Chassis;Botanical Conference; The West District Union
 	uid: 97019853541585601735566484744443
@@ -28252,7 +28251,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear
@@ -28348,7 +28347,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Steelsoul Ignition;Aspiring Artisan
 	uid: 55104311392782163179755623623742
@@ -28437,7 +28436,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear
@@ -28533,7 +28532,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Lightwire Swarm
 	uid: 39315862717792333677532726948525
@@ -28623,7 +28622,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Gene Recombinators
 	uid: 05637465991267097892924708834961
@@ -28712,7 +28711,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Esteemed Falconress
 	uid: 39388678404920931821818389752946
@@ -28803,7 +28802,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Deepwater Whispers
 	uid: 89247980554218484935407972412271
@@ -28894,7 +28893,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear
@@ -28991,7 +28990,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Willbreaker Lance
 	uid: 17712631449753647984274066585200
@@ -29079,7 +29078,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related Kraz, Head Engineer
@@ -29171,7 +29170,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Screeching Portent;Corpse Inspector;Exander, Half-Forgotten
 	uid: 67102492161706357048064547350987
@@ -29432,7 +29431,7 @@ card:
 		[-7]: <margin:130:0:0>Draw three cards. You get an emblem with “Creatures you control are 4/4 Eldrazi Angels and have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear
@@ -29528,7 +29527,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Friede, Weave Dancer
 	uid: 81208512737720794327925141557722
@@ -29617,7 +29616,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: clear
@@ -31346,7 +31345,7 @@ card:
 		30 Aug 2025: Now only blinks (no banish)
 		
 		Should this be constructed viable? Yes, in flicker decks
-		
+		!update nerfed: Was 3/3.
 		25 Sep 2025: Target —> up to one other target (thx Chip)
 		 
 		MAY 2026:
@@ -31429,7 +31428,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-07-29 19:20:13
-	time_modified: 2026-08-19 00:20:18
+	time_modified: 2026-10-31 16:20:16
 	name: Zaila’s Arbiter
 	name_2: Eerie Stillness
 	casting_cost: 2C
@@ -31454,7 +31453,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 3
-	toughness: 3
+	toughness: 2
 	illustrator: Peter Mohrbacher
 	card_code_text: 
 	card_code_text_2: 
@@ -34018,7 +34017,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: state

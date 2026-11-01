@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -16457,7 +16457,7 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	uid: 48056008598316996824587225454656
 	linked_card_1: 
 	linked_card_2: 
@@ -16524,7 +16524,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2019-11-10 16:07:20
-	time_modified: 2020-09-14 23:14:48
+	time_modified: 2026-10-31 17:44:31
 	name: Silent Hypnotist
 	casting_cost: WU
 	image: image56
@@ -16537,7 +16537,7 @@ card:
 	rule_text:
 		As <atom-cardname><nospellcheck>Silent Hypnotist</nospellcheck></atom-cardname> enters, choose a noncreature card name.
 		Spells with the chosen name can’t be cast.
-		Activated abilities of sources with the chosen name can’t be activated unless they’re mana <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>abilites</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -22582,7 +22582,7 @@ card:
 	notes:
 		!promo Eternal Excursion;Weft Terminal
 		!replacetoken TerminalWurm;1
-		 !secret
+		!update
 		!inpend > /replace/
 	uid: 06527530889267908370742457304479
 	linked_card_1: 
@@ -22650,7 +22650,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2020-08-24 00:18:12
-	time_modified: 2025-11-28 17:44:04
+	time_modified: 2026-10-31 17:18:02
 	name: Brutality
 	casting_cost: GGG
 	image: image1.png
@@ -22669,7 +22669,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Restrostyle Games
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Unlocked by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 
@@ -22690,7 +22690,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		 !secret
+		 !update
 	uid: 20263509831010024761163039679082
 	linked_card_1: 
 	linked_card_2: 
@@ -22757,7 +22757,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-11-07 20:29:24
-	time_modified: 2025-11-28 17:44:41
+	time_modified: 2026-10-31 17:18:43
 	name: Ever-Gnawing Rat
 	casting_cost: G
 	image: image126
@@ -22780,7 +22780,7 @@ card:
 	toughness: 1
 	illustrator: Jonas Schmutzler
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Unlocked by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 card:
@@ -27978,7 +27978,7 @@ card:
 	vorthos_box: It
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28069,7 +28069,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28160,7 +28160,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28251,7 +28251,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28344,7 +28344,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		popout_image_style: 0,0,375,523,
@@ -28442,7 +28442,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28535,7 +28535,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28626,7 +28626,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28719,7 +28719,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28812,7 +28812,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28905,7 +28905,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -28998,7 +28998,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related
@@ -31368,7 +31368,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!related

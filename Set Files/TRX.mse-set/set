@@ -4084,7 +4084,7 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	uid: 17644899232106097131499118269421
 	linked_card_1: 
 	linked_card_2: 
@@ -4151,7 +4151,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2023-01-16 18:50:24
-	time_modified: 2023-09-01 15:44:15
+	time_modified: 2026-10-31 17:42:54
 	name: Thrice-Blessed Boon
 	casting_cost: R
 	image: image225
@@ -4163,7 +4163,7 @@ card:
 	rarity: common
 	rule_text:
 		You may tap an untapped legendary creature you control instead of paying this spell’s mana cost.
-		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name>.</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +1/+0 and has <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>“I thank <error-spelling:en_US>Purphoros</error-spelling:en_US> for the steel. I thank <error-spelling:en_US>Keranos</error-spelling:en_US> for the lightning. I thank <error-spelling:en_US>Karda</error-spelling:en_US> for the will to strike.”</i-flavor>
 	illustrator: Felipe Gomes Grants
@@ -4365,7 +4365,9 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Devotion to Three cycle
+	notes:
+		Devotion to Three cycle
+		!update
 	uid: 22915768082090820024122361575222
 	linked_card_1: 
 	linked_card_2: 
@@ -4432,7 +4434,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2023-01-16 18:50:24
-	time_modified: 2023-01-17 03:24:39
+	time_modified: 2026-10-17 02:29:51
 	card_color: green
 	name: Dryad of the Keen-Eyed
 	casting_cost: 1G
@@ -4443,7 +4445,7 @@ card:
 	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Nymph</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dryad</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Dryad of the Keen-Eyed</nospellcheck></atom-cardname> enters, search your library for a basic Forest card, reveal it, and put it into your hand. If your <kw-A><nospellcheck><key>devotion to <param-one_word>green</param-one_word></key></nospellcheck> is three or greater, put it onto the battlefield tapped instead.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>G</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>green</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Dryad of the Keen-Eyed</nospellcheck></atom-cardname> enters, search your library for a basic Forest card, reveal it, put it into your hand, then shuffle. If your <kw-A><nospellcheck><key>devotion to <param-one_word>green</param-one_word></key></nospellcheck> is three or greater, put it onto the battlefield tapped instead.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>G</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>green</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -13214,9 +13216,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		western border of akros, massive chasm that descends to the underworld and belches creatures.
-		
+	notes: western border of akros, massive chasm that descends to the underworld and belches creatures.
 	uid: 98767171100424782071650675805841
 	linked_card_1: 
 	linked_card_2: 
@@ -23368,7 +23368,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		 !secret !design Zangy
+		 !update !design Zangy
 	uid: 33694458942151803012993877545498
 	linked_card_1: 
 	linked_card_2: 
@@ -23435,7 +23435,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-11-19 20:44:49
-	time_modified: 2025-12-01 15:41:57
+	time_modified: 2026-10-31 17:23:35
 	name: Skola Nyxweaver
 	casting_cost: GGG
 	image: image330
@@ -23462,7 +23462,7 @@ card:
 	toughness: 3
 	illustrator: Amanda Neves.
 	partition_select: after main set R
-	card_code_text: 
+	card_code_text: Excursion Unlocked by DrChipmunk
 	card_code_text_2: 
 	card_code_text_3: 
 card:
@@ -24245,7 +24245,7 @@ card:
 		promo: no
 		inverted_common_symbol: no
 		overlay: 
-	notes: 
+	notes: !update
 	uid: 85964772852545254178653501579170
 	linked_card_1: 42600540273253069665431006207553
 	linked_card_2: 
@@ -24312,7 +24312,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2026-09-30 13:59:35
-	time_modified: 2026-09-30 13:59:35
+	time_modified: 2026-10-17 02:26:05
 	extra_data:
 		magic-m15-altered:
 			promo_label: 
@@ -24331,7 +24331,7 @@ card:
 	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Secluded Gorgon</nospellcheck></atom-cardname> dies, you may <kw-A><nospellcheck><key>bless</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Create a token copy of this creature’s blessing attached to that permanent.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Secluded Gorgon</nospellcheck></atom-cardname> dies, you may <kw-A><nospellcheck><key>bless</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Create a token copy of this creature’s blessing attached to that permanent.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -27068,7 +27068,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -27232,7 +27232,7 @@ card:
 		III — Each player gains control of all permanents they own. If you gained control of no permanents this way, draw a card.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -27496,7 +27496,7 @@ card:
 	vorthos_box: He/him
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -27908,7 +27908,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -28073,7 +28073,7 @@ card:
 		III — You may sacrifice a creature. If you do, <atom-cardname><nospellcheck>A God Divided</nospellcheck></atom-cardname> deals damage to any target equal to the sacrificed creature’s power.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -33372,7 +33372,7 @@ card:
 	vorthos_box: He/him
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Patron of Ephara’s Glory;
 	uid: 24056180707928944410399752930761
@@ -33460,7 +33460,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Arena Champion;Anvilwrought Crane
 	uid: 23601730927339494178639380473863
@@ -33550,7 +33550,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Behemoth of the Five Rivers2>;Keeper of the Scale;Apprentice of the Forge-GodX>;Eidolon of Empty Thoughts;Raider’s Blessing;Skophos Raid-Veteran;Pidae Raider;Mogis’s Judgment2>;Raksolcs Ravage-Soul;Implacable Shrine-Guard;
 	uid: 90871830684838642192902597813488
@@ -33638,7 +33638,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Agnomakhos Justice;Archon of the Legion;The Army of Trax3>;The Army of TraxX>;Claes, Shield of Karda;Claes, Melded Spark;Command from the Front;Omen of Victory;Traxian General;Shrine to Iroas;
 	uid: 22119043638580594652224237356613
@@ -33727,7 +33727,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related The Fall of Trax2>;Shrine to HeliodX>;The Founding of the Twelve;Harmony with Nature;Skola Nyxweaver;Iroas’s Judgment4>;Shrine to Karametra;Shrine to Karametra2>;Implacable Shrine-Guard
 	uid: 28683426125511455607130637201161
@@ -33816,7 +33816,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Pharika, Snake-Twined;Pharika’s Judgment
 	uid: 58353671949123963795329329695632
@@ -33907,7 +33907,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Terror of OlantinX>;
 	uid: 28492350511457888521590534310737
@@ -33996,7 +33996,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		
@@ -34087,7 +34087,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Petros, Purphoros’s Double;
 	uid: 39412889499529395678018399629985
@@ -34175,7 +34175,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related New Recruit;Kakomanties Circle2>;Rite of Venom;
 	uid: 81248754674405333306428721373842
@@ -34264,7 +34264,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Meeting of the Minds2>;
 	uid: 16848701085253646150048651474161
@@ -34355,7 +34355,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Tide’s Ire;
 	uid: 37572158279251775580701230323562
@@ -34444,7 +34444,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Tide’s Ire;
 	uid: 40434893916630786602669926798913
@@ -34535,7 +34535,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Traxian Calvary2>;
 	uid: 59829977394912255276409519203088
@@ -34626,7 +34626,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: true
 	styling_data:
 		frames: M20, nyx
@@ -35092,7 +35092,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Blessings of the Flock;Charging Brightmare;
 	uid: 03177242203286072805021746054418
@@ -35398,7 +35398,7 @@ card:
 	vorthos_box: She/her
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 21717858685798012088527154513921
@@ -35484,7 +35484,7 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Lost to MemoryX>;
 	uid: 21697765794151975096843691466032
@@ -35772,7 +35772,7 @@ card:
 	vorthos_box: She/her
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Fable of Tooth and Fur3>;
 	uid: 39715200134777930663045046600456
@@ -35863,7 +35863,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !related Pharika, Snake-Twined;
 	uid: 15319558160369650535236242097367
