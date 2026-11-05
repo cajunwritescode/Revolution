@@ -362791,7 +362791,7 @@
      "manaCost": "{4}{U}",
      "identifiers": {
       "scryfallId": 7587,
-      "multiverseId": 20260731
+      "multiverseId": 20261104
      },
      "name": "Frossenhold Walker",
      "number": "83",
@@ -363113,7 +363113,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that's a copy of it, except it isn't legendary and has haste and “Sacrifice this creature at the beginning of the end step.”",
+     "text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that's a copy of it, except it has haste and “Sacrifice this creature at the beginning of the end step.”",
      "type": "Sorcery",
      "types": [
       "Sorcery"

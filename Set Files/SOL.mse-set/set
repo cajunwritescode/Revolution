@@ -29441,7 +29441,7 @@ card:
 		opacity: 220
 		override_levels: automatic
 		clear: no
-	notes: !update
+	notes: 
 	uid: 80584366647132816551770744270483
 	linked_card_1: 
 	linked_card_2: 

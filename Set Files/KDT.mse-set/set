@@ -1015,7 +1015,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 68752190367765207871602481882104
 	linked_card_1: 
 	linked_card_2: 

@@ -7608,7 +7608,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 99879612667117301111749108043030
 	linked_card_1: 
 	linked_card_2: 
@@ -9093,7 +9093,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 58926148512556747992958738492192
 	linked_card_1: 
 	linked_card_2: 
@@ -28580,7 +28580,7 @@ card:
 	has_styling: false
 	notes:
 		!design Matt & Chumbeque
-		!update!promo Eternal Excursion;Twiltrie Decree
+		!promo Eternal Excursion;Twiltrie Decree
 	uid: 04324055771511184079766693922835
 	linked_card_1: 
 	linked_card_2: 
@@ -31607,7 +31607,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 37439768540309347907105211386240
 	linked_card_1: 
 	linked_card_2: 
@@ -31713,7 +31713,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 33748733161281675572510425069491
 	linked_card_1: 
 	linked_card_2: 

@@ -14025,7 +14025,7 @@ card:
 		overlay: 
 	notes:
 		*FT
-		!update
+		
 	uid: 09430986617203326524791862158344
 	linked_card_1: 
 	linked_card_2: 
@@ -26110,7 +26110,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Chikyu Foil
-		!update !design zarepath
+		 !design zarepath
 	uid: 26323992109768902265906037077227
 	linked_card_1: 
 	linked_card_2: 

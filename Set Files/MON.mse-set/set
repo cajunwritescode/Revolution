@@ -16457,7 +16457,7 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !update
+	notes: 
 	uid: 48056008598316996824587225454656
 	linked_card_1: 
 	linked_card_2: 
@@ -22582,7 +22582,7 @@ card:
 	notes:
 		!promo Eternal Excursion;Weft Terminal
 		!replacetoken TerminalWurm;1
-		!update
+		
 		!inpend > /replace/
 	uid: 06527530889267908370742457304479
 	linked_card_1: 
@@ -22690,7 +22690,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		 !update
+		 
 	uid: 20263509831010024761163039679082
 	linked_card_1: 
 	linked_card_2: 

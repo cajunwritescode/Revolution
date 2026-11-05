@@ -5536,7 +5536,7 @@ card:
 	has_styling: false
 	notes:
 		!tokens Memory ERR
-		!update
+		
 		
 		art5
 	uid: 79585709210261449140907873908445
@@ -10919,7 +10919,7 @@ card:
 		!tokens Memory ERR
 		 reworked: Was {G}{U} 2/2. AA cost {G} more and could play a land.
 		A value deck that ramps, draws cards, uses Cache synergy, and eventually wins with enormous finishers.
-		art4 !update
+		art4 
 	uid: 91705052011266589193713043542131
 	linked_card_1: 
 	linked_card_2: 
@@ -12072,7 +12072,7 @@ card:
 		overlay: 
 	notes:
 		
-		!update
+		
 		type C
 		art3
 	uid: 97267493428895768828719457721795
@@ -13009,7 +13009,7 @@ card:
 	has_styling: false
 	notes:
 		!tokens Memory ERR
-		!update
+		
 		type C
 		art3
 		

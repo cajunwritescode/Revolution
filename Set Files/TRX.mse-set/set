@@ -4084,7 +4084,7 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !update
+	notes: 
 	uid: 17644899232106097131499118269421
 	linked_card_1: 
 	linked_card_2: 
@@ -4367,7 +4367,7 @@ card:
 		overlay: 
 	notes:
 		Devotion to Three cycle
-		!update
+		
 	uid: 22915768082090820024122361575222
 	linked_card_1: 
 	linked_card_2: 
@@ -23368,7 +23368,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion;Kitsuo Mythmaker
-		 !update !design Zangy
+		  !design Zangy
 	uid: 33694458942151803012993877545498
 	linked_card_1: 
 	linked_card_2: 
@@ -24245,7 +24245,7 @@ card:
 		promo: no
 		inverted_common_symbol: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 85964772852545254178653501579170
 	linked_card_1: 42600540273253069665431006207553
 	linked_card_2: 

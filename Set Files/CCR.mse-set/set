@@ -18136,7 +18136,7 @@ card:
 		Spheal 
 		!hasshiny
 		!token Seal Orb1>;
-		!update
+		
 	uid: 84965961413617321461579311611741
 	linked_card_1: 
 	linked_card_2: 
@@ -19445,7 +19445,7 @@ card:
 	notes:
 		!rev 
 		?shiny
-		!update
+		
 	uid: 00065051505966978968089210832669
 	linked_card_1: 
 	linked_card_2: 
@@ -26796,7 +26796,7 @@ card:
 		Spheal 
 		!token Seal Orb1>;
 		!unlocked
-		!update
+		
 		!design Cajun
 		 !hidetag ★
 	uid: 28168045959401141434012842599140

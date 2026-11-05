@@ -3266,7 +3266,7 @@ card:
 	notes:
 		4 Aug 2025: Switched to trigger instead of activated ability
 		10 Aug 2025: Removed trigger
-		!update
+		
 		MAY 2026:
 		Rework to WB Flicker instead of WB Extort
 		19 Dec 2025: Removed extort, gave enters and dies trigger, and reduced to 1 mana 1/2<soft-line>
@@ -18961,7 +18961,7 @@ card:
 		overlay: 
 	notes:
 		Should this be constructed viable? Yes
-		!update
+		
 		Does this currently seem constructed viable? Yes
 		
 		4 Sep 2025: Made token mode 1WW (from WW), and made wrath mode 2WW (from 1WWW)
@@ -19198,7 +19198,7 @@ card:
 		overlay: 
 	notes:
 		18 Aug 2025: Moved from U to 1U, and buffed from 1/2 to 2/2
-		!update
+		
 		Should this be constructed viable? Yes
 		
 		Does this currently seem constructed viable? Probably, but surveil specifically may be tough to enable
@@ -20241,7 +20241,7 @@ card:
 	has_styling: false
 	notes:
 		8 lines
-		!update
+		
 		Should this be constructed viable? No, a bit too flashy
 		
 		FT: Transform as a sorcery only
@@ -21157,7 +21157,7 @@ card:
 	notes:
 		MAY 2026:
 		- Slightly worrying
-		
+		!update nerfed: No longer removes legendary.
 		PRE-FT9:
 		27 Jan 2026: Now costs XRGG, but only makes one token
 	uid: 59363825071500629637380893464959
@@ -21226,7 +21226,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-07-29 21:27:43
-	time_modified: 2026-08-19 15:03:24
+	time_modified: 2026-11-04 19:19:36
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -21245,7 +21245,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: mythic rare
-	rule_text: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that’s a copy of it, except it isn’t legendary and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “Sacrifice this creature at the beginning of the end step.”
+	rule_text: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that’s a copy of it, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “Sacrifice this creature at the beginning of the end step.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
@@ -31345,7 +31345,7 @@ card:
 		30 Aug 2025: Now only blinks (no banish)
 		
 		Should this be constructed viable? Yes, in flicker decks
-		!update nerfed: Was 3/3.
+		 nerfed: Was 3/3.
 		25 Sep 2025: Target —> up to one other target (thx Chip)
 		 
 		MAY 2026:
@@ -33551,7 +33551,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-12-04 15:27:24
-	time_modified: 2026-08-31 20:33:43
+	time_modified: 2026-11-04 19:19:55
 	name: Grand Awakening
 	casting_cost: XRGG
 	image: image41
@@ -33567,7 +33567,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that’s a copy of it, except it isn’t legendary and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “Sacrifice this creature at the beginning of the end step.”
+	rule_text: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that’s a copy of it, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and “Sacrifice this creature at the beginning of the end step.”
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

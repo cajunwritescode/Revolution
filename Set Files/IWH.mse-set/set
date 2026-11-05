@@ -1348,7 +1348,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 42097064159598156011923944401450
 	linked_card_1: 
 	linked_card_2: 
@@ -31451,7 +31451,7 @@ card:
 		promo: no
 		inverted_common_symbol: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 93324113725275143883963817573139
 	linked_card_1: 56703137200143008535591744339088
 	linked_card_2: 
@@ -31581,7 +31581,7 @@ card:
 		promo: no
 		inverted_common_symbol: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 56703137200143008535591744339088
 	linked_card_1: 93324113725275143883963817573139
 	linked_card_2: 
@@ -32465,7 +32465,7 @@ card:
 		promo: no
 		inverted_common_symbol: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 25626303927343473696910645159981
 	linked_card_1: 44868207673640377396699647171518
 	linked_card_2: 
@@ -32592,7 +32592,7 @@ card:
 		promo: no
 		inverted_common_symbol: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 44868207673640377396699647171518
 	linked_card_1: 25626303927343473696910645159981
 	linked_card_2: 
@@ -42479,7 +42479,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: IWH !update !promo Goldport Mystery
+	notes: IWH  !promo Goldport Mystery
 	uid: 45713626972911163499782881979286
 	linked_card_1: 
 	linked_card_2: 

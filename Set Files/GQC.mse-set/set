@@ -4982,7 +4982,7 @@ card:
 	stylesheet: m15-devoid
 	stylesheet_version: 2024-06-06
 	has_styling: false
-	notes: !update
+	notes: 
 	uid: 81655523095506400672265659937874
 	linked_card_1: 
 	linked_card_2: 
@@ -25712,7 +25712,7 @@ card:
 		overlay: 
 	notes:
 		!design CanterburyEgg
-		!update !promo Eternal Excursion;Kitsuo Mythmaker
+		 !promo Eternal Excursion;Kitsuo Mythmaker
 	uid: 06291309790241830523600699666006
 	linked_card_1: 
 	linked_card_2: 
@@ -25927,7 +25927,7 @@ card:
 		overlay: 
 	notes:
 		!design CanterburyEgg
-		!update!promo Eternal Excursion;Chikyu Foil
+		!promo Eternal Excursion;Chikyu Foil
 	uid: 07123466882479035039250897581589
 	linked_card_1: 
 	linked_card_2: 

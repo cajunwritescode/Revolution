@@ -1665,7 +1665,7 @@ card:
 		!tag Cerridwyn
 		!tag Gwyneira
 		TWI !promo Twiltrie Decree
-		!update
+		
 	uid: 15705724758903522478570198264999
 	linked_card_1: 
 	linked_card_2: 
@@ -1775,7 +1775,7 @@ card:
 		Provcycle
 		TWI !promo Twiltrie Decree
 		!design Zangy
-		!update
+		
 	uid: 46426811734676804437865047243820
 	linked_card_1: 
 	linked_card_2: 
@@ -5685,7 +5685,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: Was instant/sorcery only.
+		 buffed: Was instant/sorcery only.
 	uid: 29183485576450703224905327948819
 	linked_card_1: 
 	linked_card_2: 
@@ -6626,7 +6626,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: Was instant/sorcery only.
+		 buffed: Was instant/sorcery only.
 	uid: 21821625437237274122001700604440
 	linked_card_1: 
 	linked_card_2: 
@@ -9369,7 +9369,7 @@ card:
 		!tag Twiltrie
 		!tag Cidraeth
 		
-		!update reworked: Was 4/2 for {2]{U}{B} with etb [you draw a card and you lose 1 life.]
+		 reworked: Was 4/2 for {2]{U}{B} with etb [you draw a card and you lose 1 life.]
 	uid: 51520004597886790225150809625047
 	linked_card_1: 
 	linked_card_2: 
@@ -11802,7 +11802,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: Was instant/sorcery only.
+		 buffed: Was instant/sorcery only.
 	uid: 13198065042222667981023279115582
 	linked_card_1: 
 	linked_card_2: 
@@ -12811,7 +12811,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update reworked: Was "Whenever you cast a noncreature spell, create a tapped Treasure" and Treasures can’t cast creature spells.
+		 reworked: Was "Whenever you cast a noncreature spell, create a tapped Treasure" and Treasures can’t cast creature spells.
 	uid: 12801995131771538980231658453773
 	linked_card_1: 
 	linked_card_2: 
@@ -13334,7 +13334,7 @@ card:
 		!tag Cidraeth
 		!tag Cerridwyn
 		!tag Gwyneira
-		!update buffed: Last ability now removes and counters abilities.
+		 buffed: Last ability now removes and counters abilities.
 	uid: 26176014419302455493127588298429
 	linked_card_1: 
 	linked_card_2: 
@@ -15387,7 +15387,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
-		!update
+		
 	uid: 16922751567976970908903425538685
 	linked_card_1: 
 	linked_card_2: 
@@ -16219,7 +16219,7 @@ card:
 		!tag Thistrel
 		TribalCouple Cycle
 		!tag PaleThorn
-		!update adjusted: Only targets your Faeries.
+		 adjusted: Only targets your Faeries.
 	uid: 04774806838183111908927151629678
 	linked_card_1: 
 	linked_card_2: 
@@ -16788,7 +16788,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Sunvrath
-		!update reworked: Was 2/1 without reach. Modes were +1/+1 counter, gain menace, or scry 2.
+		 reworked: Was 2/1 without reach. Modes were +1/+1 counter, gain menace, or scry 2.
 	uid: 87382046853224520638955589697134
 	linked_card_1: 
 	linked_card_2: 
@@ -19847,7 +19847,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
-		!update buffed: Was 0/4.
+		 buffed: Was 0/4.
 	uid: 73318486147947895544189828232932
 	linked_card_1: 
 	linked_card_2: 
@@ -21435,7 +21435,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: Was instant/sorcery only.
+		 buffed: Was instant/sorcery only.
 	uid: 10680376204410038276287713351779
 	linked_card_1: 
 	linked_card_2: 
@@ -22616,7 +22616,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
-		!update buffed: Was XXBB, and added finality counters instead of exiling itself.
+		 buffed: Was XXBB, and added finality counters instead of exiling itself.
 	uid: 85262307884529976418133655486866
 	linked_card_1: 
 	linked_card_2: 
@@ -22715,7 +22715,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Sunvrath
-		!update buffed: now gives the target rapture.
+		 buffed: now gives the target rapture.
 	uid: 49525234514482559948013512573378
 	linked_card_1: 
 	linked_card_2: 
@@ -24248,7 +24248,7 @@ card:
 		!tag Twiltrie
 		!tag Devika
 		5
-		!update reworked: Was 1G, allowed lands at 4 defense and creatures when defeated.
+		 reworked: Was 1G, allowed lands at 4 defense and creatures when defeated.
 	uid: 04034025406479478531841118249815
 	linked_card_1: 
 	linked_card_2: 
@@ -24575,7 +24575,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
-		!update adjusted: Base mode was -3/-3 for {2}{B}{B}.
+		 adjusted: Base mode was -3/-3 for {2}{B}{B}.
 	uid: 76835528147716271945613412341278
 	linked_card_1: 
 	linked_card_2: 
@@ -24778,7 +24778,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Dolcairn
-		!update adjusted: Vigor effect allowed you to exile it from grave to return a Zombie card to your hand.
+		 adjusted: Vigor effect allowed you to exile it from grave to return a Zombie card to your hand.
 	uid: 01200637701348036841402541540305
 	linked_card_1: 
 	linked_card_2: 
@@ -25845,7 +25845,7 @@ card:
 		!tag Thistrel
 		Winner: Thistrel
 		OperationCycle
-		!update buffed: Draws an extra card.
+		 buffed: Draws an extra card.
 	uid: 89716485065076268632417147058581
 	linked_card_1: 
 	linked_card_2: 
@@ -26061,7 +26061,7 @@ card:
 		!tag Twiltrie
 		!tag Sunvrath
 		“Twiltrie prays for salvation. We are the one and only answer.”
-		!update buffed: Now triggers on etb. Was 3/3.
+		 buffed: Now triggers on etb. Was 3/3.
 	uid: 16832776474189110984090118830545
 	linked_card_1: 
 	linked_card_2: 
@@ -27188,7 +27188,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: Was instant/sorcery only.
+		 buffed: Was instant/sorcery only.
 	uid: 70401908885739733971517620860877
 	linked_card_1: 
 	linked_card_2: 
@@ -30112,7 +30112,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: Was instant/sorcery only.
+		 buffed: Was instant/sorcery only.
 	uid: 28980249230829335548245640817114
 	linked_card_1: 
 	linked_card_2: 
@@ -30624,7 +30624,7 @@ card:
 		!tag Twiltrie
 		!tag Cidraeth
 		Provcycle
-		!update adjusted: Previously created the Horror if you spent 4 or more mana to cast instant/sorcery spells.
+		 adjusted: Previously created the Horror if you spent 4 or more mana to cast instant/sorcery spells.
 	uid: 47240074612681476220250983989168
 	linked_card_1: 
 	linked_card_2: 
@@ -31920,7 +31920,7 @@ card:
 		!tag Twiltrie
 		!tag Thistrel
 		!tag Palethorn
-		!update reworked: Was ’Whenever a creature you control becomes blocked, it deals 1 damage to the player or permanent it’s attacking. Scry 1."
+		 reworked: Was ’Whenever a creature you control becomes blocked, it deals 1 damage to the player or permanent it’s attacking. Scry 1."
 		“A hidden blade is a promise of treachery. Mine is a promise of peace.”
 	uid: 27638176801508289762246110933302
 	linked_card_1: 
@@ -32349,7 +32349,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: AA cost was {U}
+		 buffed: AA cost was {U}
 	uid: 68303999381829700791200946794803
 	linked_card_1: 
 	linked_card_2: 
@@ -32451,7 +32451,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Cidraeth
-		!update buffed: Was instant/sorcery only.
+		 buffed: Was instant/sorcery only.
 	uid: 16513264107137461940511954159481
 	linked_card_1: 
 	linked_card_2: 
@@ -32550,7 +32550,7 @@ card:
 	notes:
 		!tag Twiltrie
 		!tag Thistrel
-		!update buffed: Now lets you play any card.
+		 buffed: Now lets you play any card.
 	uid: 31098283348839090033990374329966
 	linked_card_1: 
 	linked_card_2: 
@@ -33227,7 +33227,7 @@ card:
 		!tag Ameret
 		!tag Alkabah
 		
-		!update buffed: Now has native lifelink. 0 is now +1 but loses haste. -2 is now -3, deals 5 damage (from 3) but can’t hit players.
+		 buffed: Now has native lifelink. 0 is now +1 but loses haste. -2 is now -3, deals 5 damage (from 3) but can’t hit players.
 	uid: 49333220887553958325296207341618
 	linked_card_1: 
 	linked_card_2: 
@@ -38138,7 +38138,7 @@ card:
 		overlay: 
 	notes:
 		!promo Eternal Excursion
-		 !update !design Zangy
+		  !design Zangy
 		!hidetag (KUT)
 	uid: 04774791865861824296914384954899
 	linked_card_1: 

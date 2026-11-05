@@ -3382,7 +3382,7 @@ card:
 		overlay: 
 	notes:
 		oasis art
-		!update
+		
 	uid: 04215840818227574300601267979985
 	linked_card_1: 
 	linked_card_2: 
@@ -13964,7 +13964,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		promo: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 91047669458520938644163950495214
 	linked_card_1: 
 	linked_card_2: 
@@ -14486,7 +14486,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		promo: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 56941409965803941666753251375089
 	linked_card_1: 
 	linked_card_2: 

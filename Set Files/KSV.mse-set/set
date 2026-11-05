@@ -5342,7 +5342,7 @@ card:
 	copyright_3: Design: Bergland
 card:
 	has_styling: false
-	notes: !update
+	notes: 
 	uid: 52505162135622540288094206706950
 	linked_card_1: 
 	linked_card_2: 
@@ -14976,7 +14976,7 @@ card:
 	has_styling: false
 	notes:
 		!design Bergland
-		!update
+		
 		!renameof Coalition Encampent
 	uid: 79044184502881770106782933670669
 	linked_card_1: 
@@ -22017,7 +22017,7 @@ card:
 	has_styling: false
 	notes:
 		!promo Eternal Excursion;Weft Terminal
-		 !update !design Bergland
+		  !design Bergland
 		!inpend > /replace/
 	uid: 40601918406104728078732082335043
 	linked_card_1: 
@@ -25724,7 +25724,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-09-13
 	has_styling: false
-	notes: !update
+	notes: 
 	uid: 70020331347263287617487323674366
 	linked_card_1: 
 	linked_card_2: 

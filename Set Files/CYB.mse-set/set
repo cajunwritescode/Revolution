@@ -7619,7 +7619,7 @@ card:
 	has_styling: false
 	notes:
 		!canoncard Expedition Map
-		!update
+		
 	uid: 46347845928466799206487811813678
 	linked_card_1: 
 	linked_card_2: 

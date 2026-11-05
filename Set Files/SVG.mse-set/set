@@ -13428,7 +13428,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 39348308189653077307836966174831
 	linked_card_1: 
 	linked_card_2: 
@@ -17795,7 +17795,7 @@ card:
 	has_styling: false
 	notes:
 		!design Occo
-		!update !promo Eternal Excursion;Weft Terminal
+		 !promo Eternal Excursion;Weft Terminal
 		!inpend > /replace/
 	uid: 39812637800340669145323205343059
 	linked_card_1: 

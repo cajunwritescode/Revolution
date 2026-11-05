@@ -2518,7 +2518,7 @@ card:
 	has_styling: false
 	notes:
 		mafia 
-		maybe redesign !update
+		maybe redesign 
 	uid: 46611562589118586578469920157759
 	linked_card_1: 
 	linked_card_2: 
@@ -6737,7 +6737,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 64592944900653045476464188114307
 	linked_card_1: 
 	linked_card_2: 
